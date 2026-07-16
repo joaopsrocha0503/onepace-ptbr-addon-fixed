@@ -3,8 +3,7 @@ import path from "node:path";
 import { describe, it, expect, beforeAll } from "vitest";
 
 const SUBS_DIR = path.join(import.meta.dirname, "..", "subs");
-const SUBS_BASE_URL =
-  "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/subs";
+const SUBS_BASE_URL = "https://example.baby-beamup.club/subs";
 const MAPPING_PATH = path.join(SUBS_DIR, "mapping.json");
 
 let mapping;
@@ -12,6 +11,11 @@ let mapping;
 beforeAll(() => {
   mapping = JSON.parse(fs.readFileSync(MAPPING_PATH, "utf-8"));
 });
+
+// Espelha a extração do index.js: entradas podem ser string ou {srt, ass}
+function srtOf(entry) {
+  return typeof entry === "string" ? entry : entry.srt;
+}
 
 describe("mapping.json", () => {
   it("loads with at least one entry", () => {
@@ -26,12 +30,13 @@ describe("mapping.json", () => {
 
   it("has .srt filenames as values", () => {
     for (const value of Object.values(mapping)) {
-      expect(value).toMatch(/\.srt$/);
+      expect(srtOf(value)).toMatch(/\.srt$/);
     }
   });
 
   it("references existing SRT files", () => {
-    for (const srtFile of Object.values(mapping)) {
+    for (const value of Object.values(mapping)) {
+      const srtFile = srtOf(value);
       const fullPath = path.join(SUBS_DIR, srtFile);
       expect(fs.existsSync(fullPath), `Missing: ${srtFile}`).toBe(true);
     }
@@ -41,11 +46,12 @@ describe("mapping.json", () => {
 describe("subtitle handler logic", () => {
   function getSubtitles(videoID) {
     if (Object.hasOwn(mapping, videoID)) {
-      const srtFile = mapping[videoID];
+      const srtFile = srtOf(mapping[videoID]);
+      if (!srtFile) return [];
       return [
         {
           id: `onepace-ptbr-${videoID}`,
-          url: `${SUBS_BASE_URL}/${srtFile}`,
+          url: `${SUBS_BASE_URL}/${encodeURIComponent(srtFile)}`,
           lang: "por",
         },
       ];

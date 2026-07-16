@@ -1,1350 +1,1391 @@
 1
-00:11:22,200 --> 00:11:26,120
-Companhia Galley 
-Sede
+00:00:03,990 --> 00:00:08,050
+Está tudo bem! É hora de seguir em frente!
 
 2
-00:11:22,200 --> 00:11:26,120
-Companhia Galley 
-Sede
+00:00:08,310 --> 00:00:11,590
+Com o sol sempre brilhando em nossos corações!
 
 3
+00:00:11,730 --> 00:00:15,010
+De mãos dadas, transmitimos nosso poder...
+
+4
+00:00:15,100 --> 00:00:18,680
+e realizamos nossos desejos!
+
+5
+00:00:26,240 --> 00:00:32,490
+Combinando nossas forças, alcançaremos o topo desses mares agitados
+
+6
+00:00:26,260 --> 00:00:31,800
+Video Editing
+\h\h\hGalaxy 9000
+
+7
+00:00:32,510 --> 00:00:36,980
+Graphics
+\h\h\h\hDatenshi
+
+8
+00:00:33,750 --> 00:00:40,290
+Corra em direção à emoção do perigo. Que a aventura comece!
+
+9
+00:00:37,100 --> 00:00:40,980
+Quality Control
+\h\h\hJT-421
+\h\h\hPepperjack
+
+10
+00:00:40,960 --> 00:00:47,130
+Agora é hora de navegar. Basta içar a âncora...
+
+11
+00:00:42,480 --> 00:00:47,110
+Karaoke
+\h\h\h\hKaitouYahiko
+
+12
+00:00:47,930 --> 00:00:55,010
+e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
+
+13
+00:00:55,060 --> 00:00:58,550
+Será uma jornada carregada de sofrimento,
+
+14
+00:00:55,080 --> 00:01:02,420
+Soundtracking                 Halee
+
+15
+00:00:58,560 --> 00:01:02,270
+mas aquilo que você mais preza estará bem ao nosso lado!
+
+16
+00:01:02,400 --> 00:01:06,350
+E se você estiver em apuros,
+
+17
+00:01:02,420 --> 00:01:06,420
+Timing
+\h\h\hPhosCity
+
+18
+00:01:06,450 --> 00:01:08,360
+eu sempre estarei lá para te proteger!
+
+19
+00:01:09,450 --> 00:01:13,360
+Está tudo bem! É hora de seguir em frente!
+
+20
+00:01:13,660 --> 00:01:16,820
+Com o sol sempre brilhando em nossos corações!
+
+21
+00:01:17,170 --> 00:01:20,330
+Juntos enfrentamos todas as tempestades que se aproximam
+
+22
+00:01:20,370 --> 00:01:24,200
+e olhamos para o futuro em busca da luz para ter esperança!
+
+23
+00:01:24,670 --> 00:01:27,920
+Se juntarmos os pedaços dos nossos sonhos
+
+24
+00:01:28,390 --> 00:01:31,550
+formaremos um mapa que nos levará ao amanhã!
+
+25
+00:01:31,680 --> 00:01:34,720
+Então vamos abraçar nossos desejos!
+
+26
+00:01:35,100 --> 00:01:40,450
+Todos sob uma só bandeira, juntos somos um só!
+
+27
+00:01:35,120 --> 00:01:38,790
+Subtitle Editing
+\h\h\hFeeso
+\h\h\hKobalt
+\h\h\hZenef
+
+28
+00:01:38,910 --> 00:01:43,080
+Tradução para Português
+\h\h\hRAFAEL
+
+29
+00:01:51,340 --> 00:01:56,220
+Impasse
+
+30
+00:02:01,180 --> 00:02:04,450
+Ei! Vá buscar mais comida!
+
+31
+00:02:04,450 --> 00:02:06,300
+Temos dinheiro agora!
+
+32
+00:02:06,300 --> 00:02:08,140
+A bebida está melhor do que nunca!
+
+33
 00:02:12,610 --> 00:02:16,210
 Eu desenhei nas paredes das pessoas por anos.
 
-4
+34
 00:02:25,790 --> 00:02:28,460
 Nosso dinheiro... 
 eles levaram tudo.
 
-5
+35
 00:02:28,460 --> 00:02:29,170
 Nami...
 
-6
+36
 00:02:30,500 --> 00:02:35,630
 A tripulação... Não vou conseguir encará-los.
 
-7
-00:22:44,140 --> 00:22:46,630
-Do que você está falando? Entre logo.
-
-8
-00:22:47,020 --> 00:22:49,340
-Você é um de nós agora, não é?
-
-9
-00:00:03,990 --> 00:00:08,050
-Está tudo bem! É hora de seguir em frente!
-
-10
-00:00:08,310 --> 00:00:11,590
-Com o sol sempre brilhando em nossos corações!
-
-11
-00:00:11,730 --> 00:00:15,010
-De mãos dadas, transmitimos nosso poder...
-
-12
-00:00:15,100 --> 00:00:18,680
-e realizamos nossos desejos!
-
-13
-00:00:26,240 --> 00:00:32,490
-Combinando nossas forças, alcançaremos o topo desses mares agitados
-
-14
-00:00:33,750 --> 00:00:40,290
-Corra em direção à emoção do perigo. Que a aventura comece!
-
-15
-00:00:40,960 --> 00:00:47,130
-Agora é hora de navegar. Basta içar a âncora...
-
-16
-00:00:47,930 --> 00:00:55,010
-e vamos cortar os ventos arco-íris rumo a um mar de aventuras!
-
-17
-00:00:55,060 --> 00:00:58,550
-Será uma jornada carregada de sofrimento,
-
-18
-00:00:58,560 --> 00:01:02,270
-mas aquilo que você mais preza estará bem ao nosso lado!
-
-19
-00:01:02,400 --> 00:01:06,350
-E se você estiver em apuros,
-
-20
-00:01:06,450 --> 00:01:08,360
-eu sempre estarei lá para te proteger!
-
-21
-00:01:09,450 --> 00:01:13,360
-Está tudo bem! É hora de seguir em frente!
-
-22
-00:01:13,660 --> 00:01:16,820
-Com o sol sempre brilhando em nossos corações!
-
-23
-00:01:17,170 --> 00:01:20,330
-Juntos enfrentamos todas as tempestades que se aproximam
-
-24
-00:01:20,370 --> 00:01:24,200
-e olhamos para o futuro em busca da luz para ter esperança!
-
-25
-00:01:24,670 --> 00:01:27,920
-Se juntarmos os pedaços dos nossos sonhos
-
-26
-00:01:28,390 --> 00:01:31,550
-formaremos um mapa que nos levará ao amanhã!
-
-27
-00:01:31,680 --> 00:01:34,720
-Então vamos abraçar nossos desejos!
-
-28
-00:01:35,100 --> 00:01:40,450
-Todos sob uma só bandeira, juntos somos um só!
-
-29
-00:02:01,180 --> 00:02:04,450
-Ei! Vá buscar mais comida!
-
-30
-00:02:04,450 --> 00:02:06,300
-Temos dinheiro agora!
-
-31
-00:02:06,300 --> 00:02:08,140
-A bebida está melhor do que nunca!
-
-32
+37
 00:02:37,120 --> 00:02:40,590
 Mostrem o inferno a eles, cada um deles!
 
-33
+38
 00:02:47,110 --> 00:02:48,350
 Então é isso que vocês querem fazer?
 
-34
+39
 00:02:48,350 --> 00:02:50,400
 Viu? Vocês perderam.
 
-35
+40
 00:02:50,400 --> 00:02:52,400
 Agora, vá comprar comida!
 
-36
+41
 00:02:52,400 --> 00:02:56,190
 Compre tudo na loja, ok?! Nós temos o dinheiro!
 
-37
+42
 00:03:02,600 --> 00:03:06,950
 Bem, droga! Não vá a lugar nenhum, porque eu vou ganhar da próxima vez!
 
-38
+43
 00:03:12,880 --> 00:03:14,290
 Ahn?
 
-39
+44
 00:03:27,220 --> 00:03:29,450
 O quê?! O que foi isso?!
 
-40
+45
 00:03:34,000 --> 00:03:35,410
 Quem está aí?!
 
-41
+46
 00:03:35,410 --> 00:03:37,400
 Quem diabos são vocês, idiotas?!
 
-42
+47
 00:03:44,780 --> 00:03:46,720
 Ele é...
 
-43
+48
 00:03:55,540 --> 00:03:58,340
 Ele é...
 
-44
+49
 00:03:58,340 --> 00:04:00,780
 Luffy Chapéu de Palha!
 
-45
+50
 00:04:12,710 --> 00:04:16,150
 Então você pensou que viria pegar seu dinheiro de volta, hein? Que estúpido!
 
-46
+51
 00:04:16,150 --> 00:04:21,860
 Estão vendo todos nós? O que vocês quatro poderiam fazer?
 
-47
+52
 00:04:24,110 --> 00:04:28,050
 Mas, aqui está você. Dizem que tem uma recompensa pela sua cabeça.
 
-48
+53
 00:04:28,050 --> 00:04:30,330
 Então por que não deixa sua cabeça conosco?
 
-49
+54
 00:04:31,700 --> 00:04:34,960
 Este é o capitão daquele fracote de nariz comprido!
 
-50
+55
 00:04:36,100 --> 00:04:39,900
 Então ele não pode ser tão durão!
 
-51
+56
 00:04:43,670 --> 00:04:45,970
 Vamos lá, baixinho!
 
-52
+57
 00:04:47,640 --> 00:04:50,550
 Gomu Gomu no...
 
-53
+58
 00:04:51,350 --> 00:04:52,850
 Hmm?
 
-54
+59
 00:04:55,100 --> 00:04:56,770
 O que você está fazendo?
 
-55
+60
 00:04:57,960 --> 00:05:03,500
 Ele está usando os punhos nus? Um navio de guerra não faria um arranhão naquela armadura grossa de aço!
 
-56
+61
 00:05:03,500 --> 00:05:04,700
 Que piada!
 
-57
+62
 00:05:06,700 --> 00:05:10,620
 Se você está só brincando, eu vou em frente e te esmagar.
 
-58
+63
 00:05:27,800 --> 00:05:29,300
 Cannon!
 
-59
+64
 00:05:42,600 --> 00:05:46,000
 E-Ele fez um buraco naquela armadura enorme!
 
-60
+65
 00:05:46,950 --> 00:05:48,160
 Ei!
 
-61
+66
 00:05:49,100 --> 00:05:53,660
 E-Esperem um segundo, pessoal! Vamos conversar primeiro!
 
-62
+67
 00:05:53,660 --> 00:05:55,230
 Vamos conversar...
 
-63
+68
 00:05:55,230 --> 00:05:57,120
 Vamos... Vamos...
 
-64
+69
 00:05:57,120 --> 00:05:58,820
 Vamos disparar os canhões!
 
-65
+70
 00:05:58,820 --> 00:06:00,500
 Yahoo!
 
-66
+71
 00:06:03,000 --> 00:06:04,700
 Santōryū:
 
-67
+72
 00:06:05,350 --> 00:06:06,470
 Karasuma...
 
-68
-00:06:12,800 --> 00:06:13,890
-Gari!
-
-69
+73
 00:06:05,350 --> 00:06:13,890
 Nota: Caça ao Demônio do Corvo!
 
-70
+74
+00:06:12,800 --> 00:06:13,890
+Gari!
+
+75
 00:06:27,190 --> 00:06:30,570
 E-Essas balas de canhão são feitas de ferro, sabia?!
 
-71
+76
 00:06:38,010 --> 00:06:39,670
 Até o canhão também!
 
-72
+77
 00:06:39,670 --> 00:06:43,270
 Más notícias! Esses caras são realmente más notícias!
 
-73
+78
 00:06:44,130 --> 00:06:48,130
 V-Vamos sumir! Saiam pela porta dos fundos!
 
-74
+79
 00:06:55,410 --> 00:07:00,350
 Vocês começaram essa briga. Não pensem em desistir.
 
-75
+80
 00:07:00,900 --> 00:07:02,480
 Pātī Tēburu...
 
-76
+81
 00:07:03,230 --> 00:07:05,190
 Kikku Kōsu!
 
-77
+82
 00:07:17,790 --> 00:07:20,090
 N-Não podemos usar a porta dos fundos!
 
-78
+83
 00:07:20,090 --> 00:07:22,500
 As janelas! Experimente as janelas!
 
-79
+84
 00:07:23,250 --> 00:07:24,380
 Rumble!
 
-80
+85
 00:07:25,300 --> 00:07:26,820
 Horn Point!
 
-81
+86
 00:07:36,970 --> 00:07:39,890
 Rozeo Koronēdo!
 
-82
+87
 00:07:45,870 --> 00:07:48,610
 E-E-Esperem um segundo, pessoal!
 
-83
+88
 00:07:48,610 --> 00:07:51,710
 É o dinheiro, certo?! É isso que vocês querem!
 
-84
+89
 00:07:51,710 --> 00:07:55,030
 Os 200 milhões de bellys que aquele perdedor tinha, certo?
 
-85
+90
 00:07:55,030 --> 00:07:59,000
 Infelizmente, esse dinheiro não está mais aqui!
 
-86
+91
 00:07:59,000 --> 00:08:03,590
 Nosso chefe, o irmaozão Franky, pegou o dinheiro e foi às compras.
 
-87
+92
 00:08:03,590 --> 00:08:07,000
 Ele está trabalhando em um acordo no mercado negro, então ele pode estar em qualquer lugar agora!
 
-88
+93
 00:08:07,910 --> 00:08:10,200
 Basicamente, mesmo se você ficar furioso aqui,
 
-89
+94
 00:08:10,200 --> 00:08:12,510
 os 200 milhões de bellys não vão voltar.
 
-90
+95
 00:08:12,510 --> 00:08:14,140
 Ugh!
 
-91
+96
 00:08:14,140 --> 00:08:16,020
 Ah! Zambai!
 
-92
+97
 00:08:18,010 --> 00:08:23,010
 Pare de falar besteira. Isso nunca foi sobre dinheiro.
 
-93
+98
 00:08:23,600 --> 00:08:26,810
 É. É tarde demais.
 
-94
+99
 00:08:31,450 --> 00:08:34,010
 Vamos bater em vocês tanto que nem seus ossos vão sobrar.
 
-95
+100
 00:08:34,740 --> 00:08:36,350
 Nem mesmo nossos ossos?!
 
-96
+101
 00:08:36,350 --> 00:08:38,500
 Seu idiota! Não fique com medo!
 
-97
+102
 00:08:38,500 --> 00:08:40,130
 "Nem mesmo seus ossos permanecerão"
 
-98
+103
 00:08:40,130 --> 00:08:44,670
 Somos a Família Franky, desmanteladores profissionais e caçadores de recompensas!
 
-99
+104
 00:08:44,670 --> 00:08:48,210
 Mostre a eles a especialidade da Franky House!
 
-100
+105
 00:08:55,000 --> 00:08:57,640
 Qualquer coisa disparada vira bala de canhão!
 
-101
+106
 00:09:05,700 --> 00:09:07,990
 Aí vêm eles! Acabe com eles!
 
-102
+107
 00:09:07,990 --> 00:09:11,790
 F-Fiquem de pé! Continuem atirando até ficarmos sem projéteis!
 
-103
+108
 00:09:11,790 --> 00:09:13,820
 Eles são apenas quatro!
 
-104
+109
 00:09:31,400 --> 00:09:32,510
 Hmm?
 
-105
+110
 00:09:33,140 --> 00:09:35,450
 O que são esses barulhos? Fogos de artifício?
 
-106
+111
 00:09:35,450 --> 00:09:38,510
 É do nordeste! Na direção da Franky House!
 
-107
+112
 00:09:38,510 --> 00:09:42,340
 Eles de novo? Qual é o problema dessa vez?
 
-108
+113
 00:09:42,340 --> 00:09:45,810
 Sim, ele– Shh! Ele vai nos ouvir!
 
-109
+114
 00:09:48,690 --> 00:09:51,500
 Oh, ótimo. Eles vão destruir o lugar.
 
-110
+115
 00:09:51,500 --> 00:09:56,490
 Com certeza não é uma festa.
 
-111
+116
 00:09:56,490 --> 00:10:01,450
 Está tudo bem de vez em quando, certo? Hoje é um dia especial!
 
-112
+117
 00:10:18,290 --> 00:10:20,300
 Devemos ir atrás de Franky?
 
-113
+118
 00:10:20,300 --> 00:10:21,850
 Onde ele estaria?
 
-114
+119
 00:10:23,010 --> 00:10:27,810
 Que chatice. Parece que eles realmente não sabem onde está o dinheiro.
 
-115
+120
 00:10:28,330 --> 00:10:33,610
 Mesmo se enforcarmos esse Franky, ele já pode ter gasto o dinheiro.
 
-116
+121
 00:10:33,610 --> 00:10:37,820
 E agora? Podemos esperar, mas ele pode não voltar por um tempo.
 
-117
+122
 00:10:38,370 --> 00:10:40,940
 Ei! Terminei de dar os primeiros socorros nele!
 
-118
+123
 00:10:40,940 --> 00:10:44,080
 Gostaria de colocá-lo em uma maca, então me ajude aqui!
 
-119
+124
 00:10:44,740 --> 00:10:46,960
 Ficar aqui conversando não vai nos levar a lugar nenhum.
 
-120
+125
 00:10:46,960 --> 00:10:51,200
 Vamos voltar para o navio por enquanto. Deixamos Nami-san sozinha lá também, então....
 
-121
+126
 00:10:51,200 --> 00:10:53,290
 Também tem Robin-chan...
 
-122
+127
 00:10:53,290 --> 00:10:55,890
 e os problemas com o navio também.
 
-123
+128
 00:10:55,890 --> 00:10:56,710
 Sim.
 
-124
+129
 00:10:57,210 --> 00:10:58,560
 Ei, Luffy!
 
-125
+130
 00:11:02,300 --> 00:11:04,010
 Sobre o navio.
 
-126
+131
 00:11:04,010 --> 00:11:05,310
 Hmm?
 
-127
+132
 00:11:05,310 --> 00:11:06,760
 Eu decidi.
 
-128
+133
 00:11:16,420 --> 00:11:20,970
 É aqui que dizemos adeus ao Going Merry.
 
-129
+134
+00:11:22,200 --> 00:11:26,120
+Companhia Galley 
+Sede
+
+135
 00:11:26,520 --> 00:11:29,580
 Bem, então, vou embora.
 
-130
+136
 00:11:31,700 --> 00:11:34,710
 Não acredito no quão teimoso esse cara é.
 
-131
+137
 00:11:35,230 --> 00:11:38,990
 Nós nem sabemos se ele tem ou não,
 
-132
+138
 00:11:38,990 --> 00:11:41,060
 mas eles continuam me mandando para cá de qualquer maneira.
 
-133
+139
 00:11:41,060 --> 00:11:43,550
 Eu queria que eles se colocassem no meu lugar.
 
-134
+140
 00:11:49,200 --> 00:11:50,400
 É Kalifa.
 
-135
+141
 00:11:50,400 --> 00:11:52,520
 Hum, entre.
 
-136
+142
 00:11:53,910 --> 00:11:56,500
 Você deve estar exausto, Iceburg-san.
 
-137
+143
 00:11:56,500 --> 00:11:58,190
 Algo para beber?
 
-138
+144
 00:11:58,190 --> 00:12:00,530
 Sim.
 
-139
+145
 00:12:01,390 --> 00:12:03,390
 Hoje, o chá seria...
 
-140
+146
 00:12:03,390 --> 00:12:04,870
 Já está pronto.
 
-141
+147
 00:12:06,120 --> 00:12:08,800
 Bem, hum, é bem você, Kalifa.
 
-142
+148
 00:12:08,800 --> 00:12:10,250
 Muito obrigada.
 
-143
+149
 00:12:13,850 --> 00:12:16,990
 O Sr. Corgi tende a sair de mau humor, não é?
 
-144
+150
 00:12:16,990 --> 00:12:19,500
 Sobre o que ele veio perguntar?
 
-145
+151
 00:12:19,500 --> 00:12:20,840
 Então, isso.
 
-146
+152
 00:12:20,840 --> 00:12:25,180
 Ele quer algo que eu tenho, então ele sugere todos os tipos de acordos.
 
-147
+153
 00:12:27,400 --> 00:12:29,850
 Deve ser algo muito precioso, hein?
 
-148
+154
 00:12:29,850 --> 00:12:35,060
 Hum, bem, eu apenas digo a ele que não sei do que ele está falando e digo tchau.
 
-149
+155
 00:12:35,550 --> 00:12:38,080
 Ele é um pé no saco.
 
-150
+156
 00:12:42,950 --> 00:12:45,820
 Ei! Usopp acordou!
 
-151
+157
 00:12:45,820 --> 00:12:48,920
 Sério?! Isso é ótimo!
 
-152
+158
 00:12:49,900 --> 00:12:51,700
 Agora podemos relaxar um pouco.
 
-153
+159
 00:12:55,360 --> 00:12:56,630
 Ei, Usopp!
 
-154
+160
 00:13:02,600 --> 00:13:05,590
 Robin-chan ainda não voltou.
 
-155
+161
 00:13:05,590 --> 00:13:09,560
 Sério, você não deveria nos preocupar desse jeito!
 
-156
+162
 00:13:10,800 --> 00:13:15,490
 Ela está certa. Enfrentá-los sozinho foi imprudente.
 
-157
+163
 00:13:15,490 --> 00:13:18,400
 Você teve sorte de não ter morrido.
 
-158
+164
 00:13:18,400 --> 00:13:20,890
 Pense antes de agir da próxima vez.
 
-159
+165
 00:13:20,890 --> 00:13:23,350
 Olha quem está falando!
 
-160
+166
 00:13:25,900 --> 00:13:29,740
 Me desculpe por ser um fracasso!
 
-161
+167
 00:13:29,740 --> 00:13:32,660
 Sério mesmo. Eu sou um fracasso!
 
-162
+168
 00:13:32,660 --> 00:13:34,820
 Pessoal!
 
-163
+169
 00:13:37,870 --> 00:13:40,770
 Aquele dinheiro significava tanto, e eu deixei... Eu deixei...
 
-164
+170
 00:13:40,770 --> 00:13:42,900
 Uau, espera! Calma!
 
-165
+171
 00:13:42,900 --> 00:13:44,380
 E-Eu já entendi, me larga!
 
-166
+172
 00:13:44,380 --> 00:13:48,930
 Não, sério, passamos por tanta coisa para conseguir esse dinheiro e eu...
 
-167
+173
 00:13:48,930 --> 00:13:51,900
 Usopp, você ainda deveria estar na cama.
 
-168
+174
 00:13:51,900 --> 00:13:56,020
 Ei, você precisa ouvir o Chopper.
 
-169
+175
 00:13:57,300 --> 00:13:59,000
 Então é isso.
 
-170
+176
 00:13:59,660 --> 00:14:02,020
 O dinheiro se foi para sempre.
 
-171
+177
 00:14:02,500 --> 00:14:07,070
 Bem, não saberemos com certeza até que esse tal de Franky volte.
 
-172
+178
 00:14:07,550 --> 00:14:10,240
 Entendo. Sinto muito.
 
-173
+179
 00:14:10,240 --> 00:14:14,200
 Mas mesmo se não o recuperarmos, ainda temos 100 milhões de bells.
 
-174
+180
 00:14:14,200 --> 00:14:15,620
 Então está tudo bem. Sem preocupações.
 
-175
+181
 00:14:19,000 --> 00:14:21,540
 Não está  tudo bem! Era o nosso dinheiro!
 
-176
+182
 00:14:21,540 --> 00:14:24,800
 – Nami. – Ah! Desculpe.
 
-177
+183
 00:14:24,800 --> 00:14:27,300
 Não, ela está certa.
 
-178
+184
 00:14:27,300 --> 00:14:31,300
 De qualquer forma, Luffy, e o navio? E o Merry?
 
-179
+185
 00:14:31,300 --> 00:14:34,560
 Os 100 milhões restantes serão suficientes para os reparos?
 
-180
+186
 00:14:35,150 --> 00:14:38,520
 Temos sorte de estar em um estaleiro de primeira classe que pode consertá-la.
 
-181
+187
 00:14:38,520 --> 00:14:43,610
 Teremos que reequipá-la para que ela possa enfrentar os mares à frente.
 
-182
+188
 00:14:43,610 --> 00:14:45,530
 Usopp, sobre isso.
 
-183
+189
 00:14:45,530 --> 00:14:47,800
 Estamos comprando um novo navio.
 
-184
+190
 00:14:47,800 --> 00:14:51,450
 Desculpe por não ter falado com você sobre isso primeiro,
 
-185
+191
 00:14:51,450 --> 00:14:53,600
 mas eu já tomei minha decisão.
 
-186
+192
 00:14:53,600 --> 00:14:59,250
 O Going Merry cuidou bem de nós, mas nossa jornada com ele termina aqui.
 
-187
+193
 00:15:07,650 --> 00:15:08,760
 De qualquer forma...
 
-188
+194
 00:15:09,280 --> 00:15:12,220
 Dei uma olhada no catálogo que o Tio Ice nos deu.
 
-189
+195
 00:15:12,220 --> 00:15:16,990
 Há muitas navios diferentes aqui.
 
-190
+196
 00:15:16,990 --> 00:15:20,000
 Se pegarmos um usado, 100 milhões deve dar...
 
-191
+197
 00:15:20,000 --> 00:15:21,270
 um navio bem maior que o Merry.
 
-192
-00:15:22,650 --> 00:15:28,010
-Espera, espera. Você está levando essa piada um pouco longe demais.
-
-193
-00:15:28,010 --> 00:15:29,110
-Certo?
-
-194
-00:15:29,800 --> 00:15:33,890
-Quero dizer, olha! O Chopper está levando a sério.
-
-195
-00:15:33,890 --> 00:15:37,590
-Sério, alguém diga ao nosso capitão para parar com isso logo.
-
-196
-00:15:37,590 --> 00:15:40,090
-Diga algo a ele, Nami.
-
-197
-00:15:43,700 --> 00:15:48,420
-Então nós realmente não temos dinheiro suficiente para consertá-lo?
-
 198
-00:15:48,420 --> 00:15:53,000
-É porque eu deixei eles roubarem os 200 milhões, não é?!
-
-199
-00:15:53,000 --> 00:15:55,230
-Ei, é isso que está acontecendo, certo, Luffy?
-
-200
-00:15:55,230 --> 00:15:58,500
-Afinal, um estaleiro de classe mundial cobraria preços premium, então...
-
-201
-00:15:58,500 --> 00:16:00,180
-Não! Não é isso!
-
-202
-00:16:00,180 --> 00:16:04,730
-Então o que é?! Desembucha! Você está escondendo algo para o meu bem?!
-
-203
-00:16:04,730 --> 00:16:08,820
-Não estou! Isso não tem nada a ver com o dinheiro ter sido roubado!
-
-204
-00:16:08,820 --> 00:16:11,820
-Então por que você está dizendo coisas estúpidas como essa de que vamos ter um novo navio?!
-
-205
-00:16:11,820 --> 00:16:13,240
-Ei, parem com isso, vocês dois!
-
-206
-00:16:13,240 --> 00:16:16,980
-De que adianta discutir? Acalmem-se e então conversem!
-
-207
-00:16:18,410 --> 00:16:21,790
-Como posso me acalmar depois de ouvir essa besteira?!
-
-208
-00:16:21,790 --> 00:16:25,230
-Ei! Eu entendo que isso é importante, mas você não deveria ficar tão nervoso.
-
-209
-00:16:25,230 --> 00:16:29,200
-Ela está certa, Usopp. Você vai piorar se não pegar leve.
-
-210
-00:16:29,200 --> 00:16:30,990
-Então eu fico pior!
-
-211
-00:16:30,990 --> 00:16:34,260
-Como posso relaxar quando nosso Capitão do nada diz que quer um novo navio?!
-
-212
-00:16:34,610 --> 00:16:38,200
-Não foi "do nada"! Eu tomei a decisão depois de pensar bastante.
-
-213
-00:16:38,200 --> 00:16:40,890
-E isso  foi o que você pensou?!
-
-214
-00:16:41,280 --> 00:16:44,440
-Como você ousa falar enquanto balança essa coisa ?!
-
-215
-00:16:45,150 --> 00:16:46,360
-Por que você fez isso?!
-
-216
-00:16:46,850 --> 00:16:48,500
-Isso me irritou.
-
-217
-00:16:48,500 --> 00:16:52,500
-Me diga, Luffy, se não é sobre o dinheiro roubado, então é sobre o quê?!
-
-218
-00:16:52,500 --> 00:16:56,490
-Luffy, diga logo! Ei! Por que você não me conta?!
-
-219
-00:16:56,490 --> 00:16:58,720
-Não se contenha, não importa o quanto isso doa!
-
-220
-00:16:58,720 --> 00:17:02,790
-Diga! Por que eu deveria concordar com isso, hein?!
-
-221
-00:17:02,790 --> 00:17:04,750
-O Merry não pode...
-
-222
-00:17:16,800 --> 00:17:20,220
-O que foi... O que você acabou de dizer?
-
-223
-00:17:20,860 --> 00:17:23,020
-Não me faça repetir.
-
-224
-00:17:23,450 --> 00:17:26,800
-O Merry... não pode ser consertado.
-
-225
-00:17:26,800 --> 00:17:29,360
-Simplesmente... não há como consertá-lo.
-
-226
-00:17:31,780 --> 00:17:35,150
-Se houvesse, não estaríamos falando sobre isso.
-
-227
-00:17:35,150 --> 00:17:39,990
-Este navio?! Você está falando sobre este navio em que estamos a bordo agora?!
-
-228
-00:17:39,990 --> 00:17:43,500
-Isso mesmo. Este navio não vai durar muito mais tempo.
-
-229
-00:17:46,460 --> 00:17:48,800
-Do que você está falando... Luffy?
-
-230
-00:17:48,800 --> 00:17:52,760
-É a verdade. Eles nos disseram no estaleiro.
-
-231
-00:17:53,890 --> 00:17:57,000
-Eles disseram que ele nem chegará à próxima ilha.
-
-232
-00:17:57,000 --> 00:18:00,280
-É mesmo? Ele não chegará, hein?
-
-233
-00:18:00,280 --> 00:18:04,410
-Você acabou de conhecer esses caras hoje, e eles já te convenceram a ir embora?
-
-234
-00:18:04,410 --> 00:18:06,000
-O que você disse?
-
-235
-00:18:06,000 --> 00:18:09,900
-Eu entendo que esses carpinteiros navais de primeira linha deram a você a avaliação deles, mas...
-
-236
-00:18:10,900 --> 00:18:13,890
-você desistiu assim?!
-
-237
-00:18:13,890 --> 00:18:16,540
-Nós viajamos juntos todo esse tempo!
-
-238
-00:18:16,540 --> 00:18:18,640
-Passamos por cada onda! Por cada batalha!
-
-239
-00:18:18,640 --> 00:18:21,680
-Nos carregou através do inferno e da maré alta!
-
-240
-00:18:21,680 --> 00:18:25,510
-E você vai abandonar nosso querido companheiro de tripulação em um lugar como este?!
-
-241
-00:18:28,900 --> 00:18:34,760
-Então é isso... É assim que este navio significa pouco para você, Luffy?!
-
-242
-00:18:36,590 --> 00:18:39,760
-Você não deveria gritar assim, Usopp.
-
-243
-00:18:39,760 --> 00:18:41,760
-– Por favor, saia da frente. – O quê?
-
-244
-00:18:43,600 --> 00:18:46,020
-Ainda não terminei de falar com ele.
-
-245
-00:18:46,020 --> 00:18:47,020
-Usopp.
-
-246
-00:18:49,950 --> 00:18:52,730
-Certo, então você sabe mais do que eles?!
-
-247
-00:18:53,620 --> 00:18:58,500
-Não temos nosso próprio construtor naval. É por isso que pedimos para esses caras verificarem!
-
-248
-00:18:58,500 --> 00:19:02,700
-Eu entendo, mas pedir para caras como eles consertarem é inútil!
-
-249
-00:19:02,700 --> 00:19:05,880
-Eu vou consertá-la, como sempre fiz!
-
-250
-00:19:05,880 --> 00:19:08,790
-Afinal, foi assim que chegamos até aqui.
-
-251
-00:19:08,790 --> 00:19:12,500
-Ok, vamos começar agora. Ei, me ajudem, pessoal!
-
-252
-00:19:12,500 --> 00:19:14,100
-Ei, espere, Usopp.
-
-253
-00:19:14,100 --> 00:19:19,130
-Ah, sim, não temos madeira suficiente. Vou comprar um pouco no estaleiro.
-
-254
-00:19:19,130 --> 00:19:21,180
-Agora, temos muito o que fazer.
-
-255
-00:19:21,180 --> 00:19:23,600
-Você não é um construtor naval, Usopp!
-
-256
-00:19:23,600 --> 00:19:24,720
-Espera aí, Luffy!
-
-257
-00:19:25,800 --> 00:19:28,100
-É, você está certo. E daí?!
-
-258
-00:19:28,100 --> 00:19:31,390
-Eu não confio em construtores navais obscuros que abusam de sua posição...
-
-259
-00:19:31,390 --> 00:19:37,250
-e descartam as coisas porque é "apenas mais um navio" para eles!
-
-260
-00:19:37,250 --> 00:19:38,660
-Usopp.
-
-261
-00:19:38,660 --> 00:19:43,290
-Este deve ser uma lição de que devemos proteger nossa próprio navio por nós mesmos.
-
-262
-00:19:43,290 --> 00:19:48,190
-Eu nunca vou desistir deste navio!
-
-263
-00:19:48,840 --> 00:19:50,600
-Vocês perderam a cabeça?!
-
-264
-00:19:50,600 --> 00:19:54,800
-Vocês todos foram enganados pela conversa fiada dos construtores navais, não foi?!
-
-265
-00:19:54,800 --> 00:19:58,920
-O Luffy que eu conheço não teria caído em nenhuma conversa fiada.
-
-266
-00:19:58,920 --> 00:20:02,720
-Ele teria sido o primeiro a acreditar na força do Merry!
-
-267
-00:20:02,720 --> 00:20:06,810
-Mas você não hesitou. Como se você fosse um velhote esperto com todas as respostas.
-
-268
-00:20:06,810 --> 00:20:09,790
-Que tipo de capitão toma decisões precipitadas dessas?!
-
-269
-00:20:09,790 --> 00:20:12,020
-Eu estava errado sobre você, Luffy!
-
-270
-00:20:12,360 --> 00:20:14,800
-Espere um segundo, Usopp! Luffy no inicio pensou o mesmo...
-
-271
-00:20:14,800 --> 00:20:17,900
-Fique fora disso, Nami! Isso é algo que eu decidi!
-
-272
-00:20:18,350 --> 00:20:22,440
-Não vou mudar minha opinião. Não importa o que você diga. Nós vamos conseguir um novo navio!
-
-273
-00:20:22,440 --> 00:20:24,320
-Vamos nos despedir do Merry aqui!
-
-274
-00:20:24,320 --> 00:20:26,780
-Não seja ridículo! Eu não vou permitir isso!
-
-275
-00:20:26,780 --> 00:20:31,750
-Escute, Luffy! Nem todos pdem viver olhando para frente despreocupadamente como você!
-
-276
-00:20:32,250 --> 00:20:35,920
-Eu não posso simplesmente deixar nosso companheiro ferido aqui e seguir em frente para o mar!
-
-277
-00:20:35,920 --> 00:20:39,600
-Não seja ridículo! Mesmo que ele seja nosso companheiro, humanos e navios são diferentes!
-
-278
-00:20:39,600 --> 00:20:42,990
-Eles são iguais! O Merry ainda tem força para viver!
-
-279
-00:20:42,990 --> 00:20:44,270
-Mas conhecendo você,
-
-280
-00:20:44,270 --> 00:20:47,170
-você provavelmente está animado apenas em ganhar uma novo navio.
-
-281
-00:20:47,170 --> 00:20:49,430
-Não finja que se importa com o Merry!
-
-282
-00:20:49,430 --> 00:20:50,930
-Já chega!
-
-283
-00:20:50,930 --> 00:20:52,060
-Luffy!
-
-284
-00:20:52,060 --> 00:20:54,290
-Você não é o único sofrendo por isso!
-
-285
-00:20:54,290 --> 00:20:55,940
-Todos aqui sentem o mesmo!
-
-286
-00:20:55,940 --> 00:20:58,480
-Se isso for verdade, não tem como você decidir ter um novo navio!
-
-287
-00:20:58,480 --> 00:21:03,280
-Ótimo! Se você odeia como eu comando as coisas, você deveria simplesmente deixar a tri...
-
-288
-00:21:07,130 --> 00:21:08,730
-Sanji!
-
-289
-00:21:14,610 --> 00:21:19,210
-Seu idiota. O que você ia dizer?!
-
-290
-00:21:19,210 --> 00:21:23,970
-Calma! Você pode acabar dizendo algo que vai se arrepender! Entendeu, Luffy?!
-
-291
-00:21:30,890 --> 00:21:33,990
-Desculpe. Você está certo...
-
-292
-00:21:33,990 --> 00:21:38,060
-Está tudo bem, Luffy. Provavelmente é assim que você realmente se sente.
-
-293
-00:21:38,500 --> 00:21:39,980
-O que você disse?!
-
-294
-00:21:42,380 --> 00:21:47,820
-Apenas se livre dos tripulantes inúteis que te seguram.
-
-295
-00:21:48,360 --> 00:21:50,280
-Se você vai abandonar o Merry,
-
-296
-00:21:51,400 --> 00:21:53,290
-por que não faz o mesmo comigo?!
-
-297
-00:21:53,290 --> 00:21:56,710
-Ei, Usopp. Pare de falar assim.
-
-298
-00:21:56,710 --> 00:21:58,900
-Não, estou falando sério.
-
-299
-00:21:58,900 --> 00:22:01,170
-Está na minha mente há um tempo.
-
-300
-00:22:02,740 --> 00:22:04,100
-Para ser honesto,
-
-301
-00:22:04,100 --> 00:22:08,500
-Estou pensando que não consigo acompanhar o quão monstruosos vocês são.
-
-302
-00:22:09,130 --> 00:22:12,470
-Como hoje, eu não consegui nem guardar o dinheiro.
-
-303
-00:22:14,470 --> 00:22:19,350
-Eu vou continuar sendo um fardo para vocês.
-
-304
-00:22:23,390 --> 00:22:26,400
-Você não precisa de tripulantes fracos, certo?
-
-305
-00:22:26,400 --> 00:22:31,140
-Luffy, você é o homem que será o rei dos piratas.
-
-306
-00:22:31,890 --> 00:22:35,950
-Mas eu não tenho ambições tão altas.
-
-307
-00:22:36,710 --> 00:22:43,670
-Pensando bem, eu estava prestes a zarpar sozinho quando vocês me convidaram para me juntar a vocês.
-
-308
-00:22:53,190 --> 00:22:54,890
-É tudo o que nos une.
-
-309
-00:22:57,300 --> 00:23:01,100
-Se não podemos concordar, então por que deveríamos viajar juntos?!
-
-310
-00:23:03,080 --> 00:23:06,110
-Ei, aonde você está indo, Usopp?!
-
-311
-00:23:06,780 --> 00:23:08,820
-Para onde eu vou é problema meu.
-
-312
-00:23:09,200 --> 00:23:12,530
-Não tem mais nada a ver com vocês.
-
-313
-00:23:13,640 --> 00:23:14,580
-Estou...
-
-314
-00:23:18,080 --> 00:23:21,120
-deixando a tripulação.
-
-315
-00:23:41,500 --> 00:23:44,060
-Por que... Por que você não está dizendo nada?
-
-316
-00:23:47,150 --> 00:23:48,980
-Usopp!
-
-317
-00:23:49,860 --> 00:23:52,780
-Espere! Isso está tudo errado!
-
-318
-00:23:52,780 --> 00:23:54,570
-Ei! Volte!
-
-319
-00:23:54,570 --> 00:23:56,200
-Ei, volte!
-
-320
-00:23:56,200 --> 00:23:59,410
-Não vá, Usopp!
-
-321
-00:24:02,840 --> 00:24:06,090
-Volte!
-
-322
-00:24:06,090 --> 00:24:07,380
-Luffy.
-
-323
-00:24:16,400 --> 00:24:20,390
-Luffy! Não posso mais seguir você.
-
-324
-00:24:21,600 --> 00:24:24,400
-Desculpe por ter te arrastado para baixo até o fim.
-
-325
-00:24:26,690 --> 00:24:30,530
-É verdade que o navio pertence a você, o capitão.
-
-326
-00:24:32,500 --> 00:24:34,240
-Então lute comigo por ele.
-
-327
-00:24:34,900 --> 00:24:36,870
-Monkey D. Luffy!
-
-328
-00:24:44,600 --> 00:24:47,010
-Eu desafio você para um duelo!
-
-329
-00:24:53,880 --> 00:24:57,040
-O quê? O quê? Hum, ei, o que você está dizendo?!
-
-330
-00:24:59,500 --> 00:25:04,770
-Às 10 horas da noite, eu volto aqui.
-
-331
-00:25:04,770 --> 00:25:07,900
-Então teremos um duelo pelo Merry!
-
-332
-00:25:07,900 --> 00:25:10,800
-Eu derrotarei você e ficarei com ele!
-
-333
-00:25:10,800 --> 00:25:11,690
-E então,
-
-334
-00:25:12,380 --> 00:25:15,410
-não sobrará nada para nos prender.
-
-335
 00:15:20,690 --> 00:15:21,280
 Espere.
 
-336
+199
+00:15:22,650 --> 00:15:28,010
+Espera, espera. Você está levando essa piada um pouco longe demais.
+
+200
+00:15:28,010 --> 00:15:29,110
+Certo?
+
+201
+00:15:29,800 --> 00:15:33,890
+Quero dizer, olha! O Chopper está levando a sério.
+
+202
+00:15:33,890 --> 00:15:37,590
+Sério, alguém diga ao nosso capitão para parar com isso logo.
+
+203
+00:15:37,590 --> 00:15:40,090
+Diga algo a ele, Nami.
+
+204
+00:15:43,700 --> 00:15:48,420
+Então nós realmente não temos dinheiro suficiente para consertá-lo?
+
+205
+00:15:48,420 --> 00:15:53,000
+É porque eu deixei eles roubarem os 200 milhões, não é?!
+
+206
+00:15:53,000 --> 00:15:55,230
+Ei, é isso que está acontecendo, certo, Luffy?
+
+207
+00:15:55,230 --> 00:15:58,500
+Afinal, um estaleiro de classe mundial cobraria preços premium, então...
+
+208
+00:15:58,500 --> 00:16:00,180
+Não! Não é isso!
+
+209
+00:16:00,180 --> 00:16:04,730
+Então o que é?! Desembucha! Você está escondendo algo para o meu bem?!
+
+210
+00:16:04,730 --> 00:16:08,820
+Não estou! Isso não tem nada a ver com o dinheiro ter sido roubado!
+
+211
+00:16:08,820 --> 00:16:11,820
+Então por que você está dizendo coisas estúpidas como essa de que vamos ter um novo navio?!
+
+212
+00:16:11,820 --> 00:16:13,240
+Ei, parem com isso, vocês dois!
+
+213
+00:16:13,240 --> 00:16:16,980
+De que adianta discutir? Acalmem-se e então conversem!
+
+214
+00:16:18,410 --> 00:16:21,790
+Como posso me acalmar depois de ouvir essa besteira?!
+
+215
+00:16:21,790 --> 00:16:25,230
+Ei! Eu entendo que isso é importante, mas você não deveria ficar tão nervoso.
+
+216
+00:16:25,230 --> 00:16:29,200
+Ela está certa, Usopp. Você vai piorar se não pegar leve.
+
+217
+00:16:29,200 --> 00:16:30,990
+Então eu fico pior!
+
+218
+00:16:30,990 --> 00:16:34,260
+Como posso relaxar quando nosso Capitão do nada diz que quer um novo navio?!
+
+219
+00:16:34,610 --> 00:16:38,200
+Não foi "do nada"! Eu tomei a decisão depois de pensar bastante.
+
+220
+00:16:38,200 --> 00:16:40,890
+E isso  foi o que você pensou?!
+
+221
+00:16:41,280 --> 00:16:44,440
+Como você ousa falar enquanto balança essa coisa ?!
+
+222
+00:16:45,150 --> 00:16:46,360
+Por que você fez isso?!
+
+223
+00:16:46,850 --> 00:16:48,500
+Isso me irritou.
+
+224
+00:16:48,500 --> 00:16:52,500
+Me diga, Luffy, se não é sobre o dinheiro roubado, então é sobre o quê?!
+
+225
+00:16:52,500 --> 00:16:56,490
+Luffy, diga logo! Ei! Por que você não me conta?!
+
+226
+00:16:56,490 --> 00:16:58,720
+Não se contenha, não importa o quanto isso doa!
+
+227
+00:16:58,720 --> 00:17:02,790
+Diga! Por que eu deveria concordar com isso, hein?!
+
+228
+00:17:02,790 --> 00:17:04,750
+O Merry não pode...
+
+229
+00:17:16,800 --> 00:17:20,220
+O que foi... O que você acabou de dizer?
+
+230
+00:17:20,860 --> 00:17:23,020
+Não me faça repetir.
+
+231
+00:17:23,450 --> 00:17:26,800
+O Merry... não pode ser consertado.
+
+232
+00:17:26,800 --> 00:17:29,360
+Simplesmente... não há como consertá-lo.
+
+233
+00:17:31,780 --> 00:17:35,150
+Se houvesse, não estaríamos falando sobre isso.
+
+234
+00:17:35,150 --> 00:17:39,990
+Este navio?! Você está falando sobre este navio em que estamos a bordo agora?!
+
+235
+00:17:39,990 --> 00:17:43,500
+Isso mesmo. Este navio não vai durar muito mais tempo.
+
+236
+00:17:46,460 --> 00:17:48,800
+Do que você está falando... Luffy?
+
+237
+00:17:48,800 --> 00:17:52,760
+É a verdade. Eles nos disseram no estaleiro.
+
+238
+00:17:53,890 --> 00:17:57,000
+Eles disseram que ele nem chegará à próxima ilha.
+
+239
+00:17:57,000 --> 00:18:00,280
+É mesmo? Ele não chegará, hein?
+
+240
+00:18:00,280 --> 00:18:04,410
+Você acabou de conhecer esses caras hoje, e eles já te convenceram a ir embora?
+
+241
+00:18:04,410 --> 00:18:06,000
+O que você disse?
+
+242
+00:18:06,000 --> 00:18:09,900
+Eu entendo que esses carpinteiros navais de primeira linha deram a você a avaliação deles, mas...
+
+243
+00:18:10,900 --> 00:18:13,890
+você desistiu assim?!
+
+244
+00:18:13,890 --> 00:18:16,540
+Nós viajamos juntos todo esse tempo!
+
+245
+00:18:16,540 --> 00:18:18,640
+Passamos por cada onda! Por cada batalha!
+
+246
+00:18:18,640 --> 00:18:21,680
+Nos carregou através do inferno e da maré alta!
+
+247
+00:18:21,680 --> 00:18:25,510
+E você vai abandonar nosso querido companheiro de tripulação em um lugar como este?!
+
+248
+00:18:28,900 --> 00:18:34,760
+Então é isso... É assim que este navio significa pouco para você, Luffy?!
+
+249
+00:18:36,590 --> 00:18:39,760
+Você não deveria gritar assim, Usopp.
+
+250
+00:18:39,760 --> 00:18:41,760
+– Por favor, saia da frente. – O quê?
+
+251
+00:18:43,600 --> 00:18:46,020
+Ainda não terminei de falar com ele.
+
+252
+00:18:46,020 --> 00:18:47,020
+Usopp.
+
+253
+00:18:49,950 --> 00:18:52,730
+Certo, então você sabe mais do que eles?!
+
+254
+00:18:53,620 --> 00:18:58,500
+Não temos nosso próprio construtor naval. É por isso que pedimos para esses caras verificarem!
+
+255
+00:18:58,500 --> 00:19:02,700
+Eu entendo, mas pedir para caras como eles consertarem é inútil!
+
+256
+00:19:02,700 --> 00:19:05,880
+Eu vou consertá-la, como sempre fiz!
+
+257
+00:19:05,880 --> 00:19:08,790
+Afinal, foi assim que chegamos até aqui.
+
+258
+00:19:08,790 --> 00:19:12,500
+Ok, vamos começar agora. Ei, me ajudem, pessoal!
+
+259
+00:19:12,500 --> 00:19:14,100
+Ei, espere, Usopp.
+
+260
+00:19:14,100 --> 00:19:19,130
+Ah, sim, não temos madeira suficiente. Vou comprar um pouco no estaleiro.
+
+261
+00:19:19,130 --> 00:19:21,180
+Agora, temos muito o que fazer.
+
+262
+00:19:21,180 --> 00:19:23,600
+Você não é um construtor naval, Usopp!
+
+263
+00:19:23,600 --> 00:19:24,720
+Espera aí, Luffy!
+
+264
+00:19:25,800 --> 00:19:28,100
+É, você está certo. E daí?!
+
+265
+00:19:28,100 --> 00:19:31,390
+Eu não confio em construtores navais obscuros que abusam de sua posição...
+
+266
+00:19:31,390 --> 00:19:37,250
+e descartam as coisas porque é "apenas mais um navio" para eles!
+
+267
+00:19:37,250 --> 00:19:38,660
+Usopp.
+
+268
+00:19:38,660 --> 00:19:43,290
+Este deve ser uma lição de que devemos proteger nossa próprio navio por nós mesmos.
+
+269
+00:19:43,290 --> 00:19:48,190
+Eu nunca vou desistir deste navio!
+
+270
+00:19:48,840 --> 00:19:50,600
+Vocês perderam a cabeça?!
+
+271
+00:19:50,600 --> 00:19:54,800
+Vocês todos foram enganados pela conversa fiada dos construtores navais, não foi?!
+
+272
+00:19:54,800 --> 00:19:58,920
+O Luffy que eu conheço não teria caído em nenhuma conversa fiada.
+
+273
+00:19:58,920 --> 00:20:02,720
+Ele teria sido o primeiro a acreditar na força do Merry!
+
+274
+00:20:02,720 --> 00:20:06,810
+Mas você não hesitou. Como se você fosse um velhote esperto com todas as respostas.
+
+275
+00:20:06,810 --> 00:20:09,790
+Que tipo de capitão toma decisões precipitadas dessas?!
+
+276
+00:20:09,790 --> 00:20:12,020
+Eu estava errado sobre você, Luffy!
+
+277
+00:20:12,360 --> 00:20:14,800
+Espere um segundo, Usopp! Luffy no inicio pensou o mesmo...
+
+278
+00:20:14,800 --> 00:20:17,900
+Fique fora disso, Nami! Isso é algo que eu decidi!
+
+279
+00:20:18,350 --> 00:20:22,440
+Não vou mudar minha opinião. Não importa o que você diga. Nós vamos conseguir um novo navio!
+
+280
+00:20:22,440 --> 00:20:24,320
+Vamos nos despedir do Merry aqui!
+
+281
+00:20:24,320 --> 00:20:26,780
+Não seja ridículo! Eu não vou permitir isso!
+
+282
+00:20:26,780 --> 00:20:31,750
+Escute, Luffy! Nem todos pdem viver olhando para frente despreocupadamente como você!
+
+283
+00:20:32,250 --> 00:20:35,920
+Eu não posso simplesmente deixar nosso companheiro ferido aqui e seguir em frente para o mar!
+
+284
+00:20:35,920 --> 00:20:39,600
+Não seja ridículo! Mesmo que ele seja nosso companheiro, humanos e navios são diferentes!
+
+285
+00:20:39,600 --> 00:20:42,990
+Eles são iguais! O Merry ainda tem força para viver!
+
+286
+00:20:42,990 --> 00:20:44,270
+Mas conhecendo você,
+
+287
+00:20:44,270 --> 00:20:47,170
+você provavelmente está animado apenas em ganhar uma novo navio.
+
+288
 00:20:45,640 --> 00:20:47,050
 Você não vai conseguir ter uma conversa...
 
-337
+289
 00:20:47,050 --> 00:20:49,430
 se está nervoso assim!
+
+290
+00:20:47,170 --> 00:20:49,430
+Não finja que se importa com o Merry!
+
+291
+00:20:49,430 --> 00:20:50,930
+Já chega!
+
+292
+00:20:50,930 --> 00:20:52,060
+Luffy!
+
+293
+00:20:52,060 --> 00:20:54,290
+Você não é o único sofrendo por isso!
+
+294
+00:20:54,290 --> 00:20:55,940
+Todos aqui sentem o mesmo!
+
+295
+00:20:55,940 --> 00:20:58,480
+Se isso for verdade, não tem como você decidir ter um novo navio!
+
+296
+00:20:58,480 --> 00:21:03,280
+Ótimo! Se você odeia como eu comando as coisas, você deveria simplesmente deixar a tri...
+
+297
+00:21:07,130 --> 00:21:08,730
+Sanji!
+
+298
+00:21:14,610 --> 00:21:19,210
+Seu idiota. O que você ia dizer?!
+
+299
+00:21:19,210 --> 00:21:23,970
+Calma! Você pode acabar dizendo algo que vai se arrepender! Entendeu, Luffy?!
+
+300
+00:21:30,890 --> 00:21:33,990
+Desculpe. Você está certo...
+
+301
+00:21:33,990 --> 00:21:38,060
+Está tudo bem, Luffy. Provavelmente é assim que você realmente se sente.
+
+302
+00:21:38,500 --> 00:21:39,980
+O que você disse?!
+
+303
+00:21:42,380 --> 00:21:47,820
+Apenas se livre dos tripulantes inúteis que te seguram.
+
+304
+00:21:48,360 --> 00:21:50,280
+Se você vai abandonar o Merry,
+
+305
+00:21:51,400 --> 00:21:53,290
+por que não faz o mesmo comigo?!
+
+306
+00:21:53,290 --> 00:21:56,710
+Ei, Usopp. Pare de falar assim.
+
+307
+00:21:56,710 --> 00:21:58,900
+Não, estou falando sério.
+
+308
+00:21:58,900 --> 00:22:01,170
+Está na minha mente há um tempo.
+
+309
+00:22:02,740 --> 00:22:04,100
+Para ser honesto,
+
+310
+00:22:04,100 --> 00:22:08,500
+Estou pensando que não consigo acompanhar o quão monstruosos vocês são.
+
+311
+00:22:09,130 --> 00:22:12,470
+Como hoje, eu não consegui nem guardar o dinheiro.
+
+312
+00:22:14,470 --> 00:22:19,350
+Eu vou continuar sendo um fardo para vocês.
+
+313
+00:22:23,390 --> 00:22:26,400
+Você não precisa de tripulantes fracos, certo?
+
+314
+00:22:26,400 --> 00:22:31,140
+Luffy, você é o homem que será o rei dos piratas.
+
+315
+00:22:31,890 --> 00:22:35,950
+Mas eu não tenho ambições tão altas.
+
+316
+00:22:36,710 --> 00:22:43,670
+Pensando bem, eu estava prestes a zarpar sozinho quando vocês me convidaram para me juntar a vocês.
+
+317
+00:22:44,140 --> 00:22:46,630
+Do que você está falando? Entre logo.
+
+318
+00:22:47,020 --> 00:22:49,340
+Você é um de nós agora, não é?
+
+319
+00:22:53,190 --> 00:22:54,890
+É tudo o que nos une.
+
+320
+00:22:57,300 --> 00:23:01,100
+Se não podemos concordar, então por que deveríamos viajar juntos?!
+
+321
+00:23:03,080 --> 00:23:06,110
+Ei, aonde você está indo, Usopp?!
+
+322
+00:23:06,780 --> 00:23:08,820
+Para onde eu vou é problema meu.
+
+323
+00:23:09,200 --> 00:23:12,530
+Não tem mais nada a ver com vocês.
+
+324
+00:23:13,640 --> 00:23:14,580
+Estou...
+
+325
+00:23:18,080 --> 00:23:21,120
+deixando a tripulação.
+
+326
+00:23:41,500 --> 00:23:44,060
+Por que... Por que você não está dizendo nada?
+
+327
+00:23:47,150 --> 00:23:48,980
+Usopp!
+
+328
+00:23:49,860 --> 00:23:52,780
+Espere! Isso está tudo errado!
+
+329
+00:23:52,780 --> 00:23:54,570
+Ei! Volte!
+
+330
+00:23:54,570 --> 00:23:56,200
+Ei, volte!
+
+331
+00:23:56,200 --> 00:23:59,410
+Não vá, Usopp!
+
+332
+00:24:02,840 --> 00:24:06,090
+Volte!
+
+333
+00:24:06,090 --> 00:24:07,380
+Luffy.
+
+334
+00:24:16,400 --> 00:24:20,390
+Luffy! Não posso mais seguir você.
+
+335
+00:24:21,600 --> 00:24:24,400
+Desculpe por ter te arrastado para baixo até o fim.
+
+336
+00:24:26,690 --> 00:24:30,530
+É verdade que o navio pertence a você, o capitão.
+
+337
+00:24:32,500 --> 00:24:34,240
+Então lute comigo por ele.
+
+338
+00:24:34,900 --> 00:24:36,870
+Monkey D. Luffy!
+
+339
+00:24:44,600 --> 00:24:47,010
+Eu desafio você para um duelo!
+
+340
+00:24:53,880 --> 00:24:57,040
+O quê? O quê? Hum, ei, o que você está dizendo?!
+
+341
+00:24:59,500 --> 00:25:04,770
+Às 10 horas da noite, eu volto aqui.
+
+342
+00:25:04,770 --> 00:25:07,900
+Então teremos um duelo pelo Merry!
+
+343
+00:25:07,900 --> 00:25:10,800
+Eu derrotarei você e ficarei com ele!
+
+344
+00:25:10,800 --> 00:25:11,690
+E então,
+
+345
+00:25:12,380 --> 00:25:15,410
+não sobrará nada para nos prender.

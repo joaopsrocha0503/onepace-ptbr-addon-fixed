@@ -1,675 +1,1711 @@
 1
+00:00:01,980 --> 00:00:05,650
+Meus sentimentos por você batem intensamente.
+
+2
+00:00:05,650 --> 00:00:09,280
+Se o que você busca...
+
+3
+00:00:09,280 --> 00:00:12,490
+...é ter um poder sem limites,
+
+4
+00:00:12,490 --> 00:00:14,860
+então mostre nossos laços inalteráveis.
+
+5
+00:00:14,860 --> 00:00:16,070
+Somos a esperança.
+
+6
+00:00:22,580 --> 00:00:28,800
+A alegria de nossos corações colidindo...
+
+7
+00:00:29,460 --> 00:00:35,760
+...e a tristeza ao secar as lágrimas de alegria...
+
+8
+00:00:36,840 --> 00:00:43,350
+...conecte-as e acene-as...
+
+9
+00:00:43,730 --> 00:00:50,230
+...bem no topo deste vento.
+
+10
+00:00:50,230 --> 00:00:53,190
+Por que você parou de buscar?
+
+11
+00:00:53,610 --> 00:00:56,570
+Por que continua lutando sozinho?
+
+12
+00:00:56,990 --> 00:00:59,870
+Ei, para qual futuro você se preparou?
+
+13
+00:00:59,870 --> 00:01:03,370
+Você já realizou seu sonho.
+
+14
+00:01:03,710 --> 00:01:07,380
+Meus sentimentos por você batem intensamente.
+
+15
+00:01:07,380 --> 00:01:11,000
+Se o que você busca...
+
+16
+00:01:11,000 --> 00:01:14,220
+...é ter um poder sem limites,
+
+17
+00:01:14,220 --> 00:01:16,550
+então mostre nossos laços imutáveis.
+
+18
+00:01:16,550 --> 00:01:17,800
+Somos a esperança.
+
+19
+00:01:18,050 --> 00:01:20,850
+Nos confins deste enorme mundo azul,
+
+20
+00:01:21,470 --> 00:01:23,890
+há um lugar onde quero ir com você.
+
+21
+00:01:23,890 --> 00:01:26,640
+Se há uma rota para chegar lá,
+
+22
+00:01:26,640 --> 00:01:33,280
+já decidimos isso há muito tempo.
+
+23
+00:01:34,250 --> 00:01:37,340
+Sob Cerco
+
+24
+00:01:37,340 --> 00:01:39,050
+Aliados!
+
+25
+00:01:39,050 --> 00:01:41,250
+Por agora, refugiem-se no castelo!
+
+26
+00:01:41,250 --> 00:01:42,920
+Certo, rápido!
+
+27
+00:01:42,920 --> 00:01:44,650
+Dentro, dentro!
+
+28
+00:01:44,650 --> 00:01:46,960
+Piratas Firetank!
+
+29
+00:01:46,960 --> 00:01:48,050
+Cubram-nos!
+
+30
+00:01:48,050 --> 00:01:49,250
+Sim!
+
+31
 00:01:48,050 --> 00:01:49,250
 Rero!
 
-2
+32
+00:01:51,360 --> 00:01:52,690
+Raios!
+
+33
 00:02:02,420 --> 00:02:03,520
 Bege!
 
-3
+34
 00:02:03,520 --> 00:02:05,330
 Eu vi com meus próprios olhos!
 
-4
+35
 00:02:05,330 --> 00:02:08,210
 Não posso acreditar que você
  planejou matar a mama!
 
-5
+36
 00:02:08,210 --> 00:02:11,760
 Esse era o seu objetivo
  desde o início?!
 
-6
+37
 00:02:13,010 --> 00:02:15,510
 Entrem no castelo-rero!
 
-7
+38
+00:02:15,510 --> 00:02:16,850
+Rook!
+
+39
 00:02:15,510 --> 00:02:18,200
 Mola
 
-8
+40
 00:02:15,510 --> 00:02:18,200
 Shi
 
-9
+41
 00:02:15,510 --> 00:02:18,200
 Chibukai
 
-10
+42
 00:02:15,510 --> 00:02:18,200
 Fansub!
 
-11
+43
 00:02:15,510 --> 00:02:18,200
 Torre.
 
-12
+44
+00:02:16,850 --> 00:02:19,130
+Cannon Preparation!
+
+45
 00:02:18,200 --> 00:02:23,690
 Mola
 
-13
+46
 00:02:18,200 --> 00:02:23,690
 Shi
 
-14
+47
 00:02:18,200 --> 00:02:23,690
 Chibukai
 
-15
+48
 00:02:18,200 --> 00:02:23,690
 Fansub!
 
-16
+49
 00:02:18,200 --> 00:02:23,690
 Preparação e disparo do canhão.
 
-17
+50
+00:02:21,060 --> 00:02:23,690
+Cannon Firing!
+
+51
 00:02:25,560 --> 00:02:28,260
 Que legal!
 
-18
+52
 00:02:28,260 --> 00:02:29,330
 Um robô!
 
-19
+53
 00:02:29,330 --> 00:02:31,290
 Um castelo robô!
 
-20
+54
 00:02:31,290 --> 00:02:33,130
 Não é hora de se emocionar!
 
-21
+55
 00:02:33,130 --> 00:02:37,990
 Quanto tempo vamos aguentar?
 
-22
+56
 00:02:41,840 --> 00:02:44,140
 Meus tímpanos não vão aguentar-nen!
 
-23
+57
 00:02:48,930 --> 00:02:50,050
 Mochi?
 
-24
+58
 00:03:03,280 --> 00:03:04,130
 Isso é...?
 
-25
+59
 00:03:04,130 --> 00:03:06,700
 A Caixa Tamate!
 
-26
+60
 00:03:09,970 --> 00:03:11,420
 Muito bem!
 
-27
+61
 00:03:11,420 --> 00:03:13,840
 O que é isso?!
 
-28
+62
 00:03:18,360 --> 00:03:22,180
 Quem está incomodando
  o Gastino-sama?!
 
-29
+63
 00:03:30,120 --> 00:03:31,690
 Irmão mais velho!
 
-30
+64
 00:03:31,690 --> 00:03:33,790
 Ele vai me matar!
 
-31
+65
 00:03:38,330 --> 00:03:40,360
 Irmão mais velho!
 
-32
+66
 00:03:40,360 --> 00:03:42,410
 Obrigado!
 
-33
+67
 00:03:44,910 --> 00:03:46,140
 Vamos!
 
-34
+68
 00:03:49,170 --> 00:03:51,140
 Não vou deixar vocês irem!
 
-35
+69
 00:03:53,880 --> 00:03:55,840
 Cubram-nos-rero!
 
-36
+70
 00:03:55,840 --> 00:03:56,820
 Rápido-rero!
 
-37
+71
 00:04:05,250 --> 00:04:06,990
 Nami!
 
-38
+72
 00:04:06,990 --> 00:04:09,860
 Vou espremer você até a morte!
 
-39
+73
 00:04:09,860 --> 00:04:11,070
 Nami-san!
 
-40
+74
 00:04:11,070 --> 00:04:12,360
 Nami!
 
-41
+75
 00:04:13,830 --> 00:04:16,780
 Nós seremos seus oponentes!
 
-42
+76
 00:04:22,980 --> 00:04:24,510
 Queima!
 
-43
+77
 00:04:25,180 --> 00:04:26,260
 Q-Queima!
 
-44
+78
 00:04:26,260 --> 00:04:28,450
 Queima!
 
-45
+79
 00:04:27,000 --> 00:04:28,460
 Não vão escapar!
 
-46
+80
 00:04:28,460 --> 00:04:30,080
 Chormano!
 
-47
+81
 00:04:33,090 --> 00:04:35,120
 Gênio!
 
-48
+82
+00:05:19,730 --> 00:05:23,070
+Vamos, Germa 66!
+
+83
+00:06:37,840 --> 00:06:40,860
+Desgraçados!
+
+84
+00:06:43,180 --> 00:06:45,680
+Morram queimados!
+
+85
+00:06:54,190 --> 00:06:56,260
+E-Esse é...?!
+
+86
 00:07:14,380 --> 00:07:16,620
 A tecnologia da Germa.
 
-49
+87
 00:07:16,620 --> 00:07:19,940
 Essas são as armaduras 
 que lembram sua forma!
 
-50
+88
 00:07:19,940 --> 00:07:21,720
 Resistem ao fogo!
 
-51
+89
 00:07:21,720 --> 00:07:25,850
 Vou endurecê-las com
  meu doce de novo!
 
-52
+90
+00:07:26,860 --> 00:07:29,030
+Candy Wave!
+
+91
 00:07:26,860 --> 00:07:29,030
 Mola
 
-53
+92
 00:07:26,860 --> 00:07:29,030
 Shi
 
-54
+93
 00:07:26,860 --> 00:07:29,030
 Chibukai
 
-55
+94
 00:07:26,860 --> 00:07:29,030
 Fansub!
 
-56
+95
 00:07:26,860 --> 00:07:29,030
 Onda de caramelo.
 
-57
+96
 00:07:47,200 --> 00:07:51,710
 Mola
 
-58
+97
 00:07:47,200 --> 00:07:51,710
 Shi
 
-59
+98
 00:07:47,200 --> 00:07:51,710
 Chibukai
 
-60
+99
 00:07:47,200 --> 00:07:51,710
 Fansub!
 
-61
+100
 00:07:47,200 --> 00:07:51,710
 Faísca vermelha.
 
-62
+101
+00:08:00,250 --> 00:08:02,790
+Insetos irritantes!
+
+102
 00:08:10,010 --> 00:08:13,440
 Mola
 
-63
+103
 00:08:10,010 --> 00:08:13,440
 Shi
 
-64
+104
 00:08:10,010 --> 00:08:13,440
 Chibukai
 
-65
+105
 00:08:10,010 --> 00:08:13,440
 Fansub!
 
-66
+106
 00:08:10,010 --> 00:08:13,440
 Relâmpago azul.
 
-67
+107
+00:08:17,860 --> 00:08:22,010
+Você não é grande coisa,
+ mesmo com um corpo tão enorme.
+
+108
 00:08:42,240 --> 00:08:45,810
 Mola
 
-68
+109
 00:08:42,240 --> 00:08:45,810
 Shi
 
-69
+110
 00:08:42,240 --> 00:08:45,810
 Chibukai
 
-70
+111
 00:08:42,240 --> 00:08:45,810
 Fansub!
 
-71
+112
 00:08:42,240 --> 00:08:45,810
 Cabrestante verde.
 
-72
+113
 00:08:57,320 --> 00:09:00,760
 Mola
 
-73
+114
 00:08:57,320 --> 00:09:00,760
 Shi
 
-74
+115
 00:08:57,320 --> 00:09:00,760
 Chibukai
 
-75
+116
 00:08:57,320 --> 00:09:00,760
 Fansub!
 
-76
+117
 00:08:57,320 --> 00:09:00,760
 Veneno rosa.
 
-77
+118
 00:09:05,500 --> 00:09:06,730
 Nami-san!
 
-78
+119
 00:09:07,970 --> 00:09:10,200
 Estão bem?!
 
-79
+120
 00:09:10,200 --> 00:09:11,360
 Sim!
 
-80
+121
 00:09:12,210 --> 00:09:13,390
 Sanji-kun!
 
-81
+122
 00:09:13,390 --> 00:09:15,770
 Fico feliz que você esteja bem, Nami-san!
 
-82
+123
+00:09:18,240 --> 00:09:20,580
+Gomu Gomu no...
+
+124
+00:09:21,250 --> 00:09:23,280
+...Jet Whip!
+
+125
 00:09:23,280 --> 00:09:24,600
 Luffy!
 
-83
-00:09:23,280 --> 00:09:24,600
-Luffy!
-
-84
+126
 00:09:24,600 --> 00:09:26,040
 Rápido!
 
-85
+127
 00:09:26,040 --> 00:09:27,450
 Por aqui!
 
-86
+128
 00:09:28,680 --> 00:09:31,720
 Nós também estamos recuando-rero!
 
-87
+129
 00:09:49,810 --> 00:09:53,810
 Ora, ora, a Caixa Tamate, 
 o tesouro lendário!
 
-88
+130
 00:09:53,810 --> 00:09:56,720
 Aqui ninguém vai me encontrar!
 
-89
+131
 00:09:56,720 --> 00:09:58,780
 Que caótico-nen!
 
-90
+132
 00:09:58,780 --> 00:10:03,550
 Vou aproveitar para trocar
  o que tem dentro...
 
-91
+133
 00:10:43,960 --> 00:10:46,120
 É nossa última chance!
 
-92
+134
 00:10:48,540 --> 00:10:51,210
 Disparo do Canhão!
 
-93
+135
 00:10:56,830 --> 00:10:58,140
 Maldição!
 
-94
+136
 00:10:58,140 --> 00:11:00,580
 Parede de Doce!
 
-95
+137
 00:11:01,290 --> 00:11:02,840
 Perospero!
 
-96
+138
 00:11:02,840 --> 00:11:05,660
 Ah, isso doeu.
 
-97
+139
 00:11:05,660 --> 00:11:08,310
 A Germa se juntou a eles?
 
-98
+140
 00:11:09,540 --> 00:11:12,380
 Preparem-se, desgraçados!
 
-99
+141
 00:11:12,380 --> 00:11:15,850
 Você não vai rir para sempre!
 
-100
+142
 00:11:24,010 --> 00:11:25,260
 Rook!
 
-101
+143
 00:11:25,260 --> 00:11:26,860
 Movement!
 
-102
+144
 00:11:25,260 --> 00:11:28,290
 Mola
 
-103
+145
 00:11:25,260 --> 00:11:28,290
 Shi
 
-104
+146
 00:11:25,260 --> 00:11:28,290
 Chibukai
 
-105
+147
 00:11:25,260 --> 00:11:28,290
 Fansub!
 
-106
+148
 00:11:25,260 --> 00:11:28,290
 Em marcha.
 
-107
+149
 00:11:44,060 --> 00:11:48,050
 Vou atirar nas costas dela
  até que as balas acabem!
 
-108
+150
 00:11:49,220 --> 00:11:51,700
 Morra, Big Mom!
 
-109
+151
 00:11:52,700 --> 00:11:53,430
 Canhão...
 
-110
+152
 00:11:54,590 --> 00:11:56,100
 ...Disparo!
 
-111
+153
 00:11:58,680 --> 00:12:00,410
 O que aconteceu?!
 
-112
+154
 00:12:01,150 --> 00:12:05,510
 Pai, eles destruíram os 
 canhões da esquerda!
 
-113
+155
 00:12:05,510 --> 00:12:09,070
 Todos os canhões estão cheios de mochi,
 
-114
+156
 00:12:09,070 --> 00:12:12,250
 por isso não podemos atirar!
 
-115
+157
 00:12:15,450 --> 00:12:18,020
 K-Katakuri!
 
-116
+158
 00:12:18,250 --> 00:12:22,490
 DENTRO DO BIG FATHER
 
-117
+159
 00:12:22,490 --> 00:12:26,020
 Um informe a todos no castelo!
 
-118
+160
 00:12:40,130 --> 00:12:44,820
 Os pés do Big Father foram 
 endurecidos com doce.
 
-119
+161
 00:12:45,690 --> 00:12:48,780
 Não podemos nos mover!
 
-120
+162
 00:12:50,860 --> 00:12:55,650
 Seremos cercados pelos
  Piratas da Big Mom, a Yonkou,
 
-121
+163
 00:12:55,650 --> 00:13:00,990
 e teremos que lutar uma batalha sob cerco, da qual não temos esperança alguma!
 
-122
+164
+00:13:02,080 --> 00:13:04,740
+Não pode ser...!
+
+165
 00:13:20,910 --> 00:13:23,780
 Eliminaremos quem quer que saia.
 
-123
+166
 00:13:26,430 --> 00:13:28,660
 Saiam já!
 
-124
+167
 00:13:30,110 --> 00:13:33,190
 Te usaram uma e outra vez...
 
-125
+168
 00:13:33,190 --> 00:13:35,860
 S-Sou a vítima, irmão mais velho!
 
-126
+169
 00:13:35,860 --> 00:13:39,100
 Chute a bunda de todos eles!
 
-127
+170
 00:13:41,770 --> 00:13:43,100
 Veneno?
 
-128
+171
 00:13:43,100 --> 00:13:45,100
 Que mulher irritante...
 
-129
+172
+00:14:02,390 --> 00:14:04,200
+Apareceu, apareceu!
+
+173
+00:14:04,200 --> 00:14:05,600
+Você é incrível, Bege!
+
+174
+00:14:05,600 --> 00:14:07,810
+Você se transformou neste
+ castelo gigante!
+
+175
+00:14:07,810 --> 00:14:09,790
+A Shiro Shiro no Mi é incrível!
+
+176
+00:14:09,790 --> 00:14:11,890
+Não há tempo para
+ se alegrar com isso!
+
+177
+00:14:11,890 --> 00:14:13,670
+Considerem a situação 
+em que estamos!
+
+178
+00:14:13,670 --> 00:14:14,830
+Maldita seja...
+
+179
+00:14:14,830 --> 00:14:20,540
+O plano de assassinato no qual trabalhamos por mais de um ano acabou em fracasso!
+
+180
+00:14:20,540 --> 00:14:24,920
+É a primeira vez que
+ não consigo eliminar alguém.
+
+181
+00:14:26,270 --> 00:14:30,160
+No final das contas, os Yonkou
+ estão em outro nível, hein?
+
+182
+00:14:30,160 --> 00:14:31,880
+Então, o que fazemos?
+
+183
+00:14:31,880 --> 00:14:35,020
+Não temos nem um 
+único minuto a perder.
+
+184
+00:14:35,020 --> 00:14:36,620
+Vou lhes dizer por quê.
+
+185
+00:14:36,620 --> 00:14:39,960
+Escutem com atenção!
+
+186
+00:14:39,960 --> 00:14:41,730
+Este castelo sou eu.
+
+187
+00:14:41,730 --> 00:14:43,850
+Ele é forte, mas não invencível.
+
+188
+00:14:43,850 --> 00:14:46,440
+Se destruírem o castelo, eu morro.
+
+189
+00:14:46,440 --> 00:14:48,880
+O castelo desaparecerá...
+
+190
+00:14:48,880 --> 00:14:52,860
+E uma vez que estiverem fora, 
+serão comida daqueles monstros!
+
+191
 00:14:52,860 --> 00:14:54,340
 Comida?!
 
-130
+192
+00:15:08,350 --> 00:15:11,260
+Não vou perdoar vocês!
+
+193
+00:15:13,920 --> 00:15:14,830
+Mama!
+
+194
+00:15:16,690 --> 00:15:19,830
+Posso sentir a raiva da
+ mama por todo o meu corpo!
+
+195
+00:15:31,010 --> 00:15:35,350
+Vocês vão viver um inferno, tanto se saírem
+ quanto se ficarem aqui.
+
+196
+00:15:35,350 --> 00:15:37,680
+Compreendam que estamos em apuros!
+
+197
+00:15:37,680 --> 00:15:39,730
+Não me culpe, Bege!
+
+198
+00:15:39,730 --> 00:15:42,050
+Aquele míssil era o mais 
+avançado do mundo...
+
+199
+00:15:49,060 --> 00:15:50,360
+O quê?!
+
+200
+00:15:50,360 --> 00:15:51,340
+Pai!
+
+201
+00:15:51,340 --> 00:15:52,220
+Ei, Bege!
+
+202
+00:15:52,220 --> 00:15:53,080
+O que está acontecendo?!
+
+203
+00:15:53,080 --> 00:15:54,630
+Querido, você está bem?!
+
+204
+00:15:58,140 --> 00:15:59,540
+Será que...?!
+
+205
+00:16:00,570 --> 00:16:01,940
+É lá fora!
+
+206
+00:16:01,940 --> 00:16:03,310
+Hã?
+
+207
+00:16:03,310 --> 00:16:05,020
+Lá fora?
+
+208
+00:16:10,820 --> 00:16:12,780
+Malditos!
+
+209
+00:16:12,780 --> 00:16:15,720
+Saiam daí!
+
+210
+00:16:17,420 --> 00:16:19,460
+Bege!
+
+211
+00:16:19,460 --> 00:16:21,060
+Chapéu de Palha!
+
+212
+00:16:22,770 --> 00:16:24,810
+Que medo!
+
+213
+00:16:24,810 --> 00:16:26,620
+Ela está nos olhando!
+
+214
+00:16:28,270 --> 00:16:31,980
+Big Mom recuperou a consciência!
+
+215
+00:16:41,080 --> 00:16:44,250
+Saiam todos do castelo!
+
+216
+00:16:44,250 --> 00:16:46,580
+Mostrem a cara, idiotas!
+
+217
+00:16:49,320 --> 00:16:51,160
+Querido!
+
+218
+00:16:51,160 --> 00:16:52,560
+Pai!
+
+219
+00:16:52,560 --> 00:16:55,830
+Você me traiu?
+
+220
+00:16:55,830 --> 00:16:58,330
+Bege!
+
+221
+00:16:59,750 --> 00:17:01,290
+Querido!
+
+222
+00:17:01,290 --> 00:17:03,290
+Resista!
+
+223
 00:17:05,140 --> 00:17:08,840
 Que medo, que medo!
 
-131
+224
+00:17:08,840 --> 00:17:11,010
+Saia, Bege!
+
+225
+00:17:11,010 --> 00:17:12,940
+Chapéu de Palha!
+
+226
+00:17:16,350 --> 00:17:17,330
+Bege!
+
+227
+00:17:18,300 --> 00:17:19,890
+Cuide do Pez!
+
+228
+00:17:26,020 --> 00:17:27,960
+Saiam!
+
+229
+00:17:27,960 --> 00:17:30,190
+Espere!
+
+230
+00:17:30,190 --> 00:17:31,800
+Mama, sou eu!
+
+231
+00:17:31,800 --> 00:17:34,200
+Bege é meu marido
+ e temos um filho!
+
+232
+00:17:34,200 --> 00:17:35,540
+Perdoe-o, por favor!
+
+233
+00:17:35,540 --> 00:17:37,170
+Faça vista grossa!
+
+234
+00:17:37,170 --> 00:17:38,790
+Chiffon!
+
+235
+00:17:39,620 --> 00:17:43,210
+Você sempre parece idêntica à Lola...
+
+236
+00:17:44,140 --> 00:17:45,170
+Lá vem ela!
+
+237
+00:17:45,170 --> 00:17:46,280
+Cuidado!
+
+238
+00:17:46,280 --> 00:17:47,510
+Recue, Chiffon!
+
+239
 00:17:47,510 --> 00:17:48,650
 Senhora!
 
-132
+240
+00:17:48,650 --> 00:17:50,110
+Mama, por favor!
+
+241
+00:17:51,050 --> 00:17:55,550
+Já disse para não me
+ mostrar esse rosto!
+
+242
+00:18:02,850 --> 00:18:04,670
+Foi por pouco...
+
+243
+00:18:04,670 --> 00:18:05,810
+Você está bem?
+
+244
 00:18:05,810 --> 00:18:07,170
 Senhora!
 
-133
+245
+00:18:07,170 --> 00:18:11,170
+Você também é cúmplice, Chiffon?!
+
+246
+00:18:11,170 --> 00:18:14,910
+Não pense que poderá
+ comer doces amanhã!
+
+247
+00:18:14,910 --> 00:18:15,810
+Mama!
+
+248
+00:18:19,010 --> 00:18:24,380
+Quando o castelo for destruído e
+ Bege estiver morto, todos sairão!
+
+249
+00:18:24,380 --> 00:18:26,750
+Não deixem ninguém escapar!
+
+250
+00:18:26,750 --> 00:18:28,670
+Piratas Firetank.
+
+251
+00:18:28,670 --> 00:18:30,190
+Os Chapéu de Palha...
+
+252
+00:18:30,190 --> 00:18:31,880
+E também Jinbe!
+
+253
+00:18:31,880 --> 00:18:33,790
+Germa 66!
+
+254
+00:18:33,790 --> 00:18:37,660
+Arruinaram o casamento e a festa do chá!
+
+255
+00:18:37,660 --> 00:18:40,550
+Nos subestimaram demais.
+
+256
+00:18:40,550 --> 00:18:43,740
+Vamos enforcá-los como exemplo!
+
+257
+00:18:43,740 --> 00:18:46,100
+Saiam!
+
+258
+00:18:48,540 --> 00:18:49,650
+Bege!
+
+259
+00:18:50,490 --> 00:18:51,780
+Querido!
+
+260
+00:18:55,600 --> 00:18:57,040
+Você está bem?
+
+261
+00:18:57,040 --> 00:18:59,720
+Maldita velha!
+
+262
+00:19:02,440 --> 00:19:06,840
+O Big Father nem se abala com 
+os disparos de canhão,
+
+263
+00:19:06,840 --> 00:19:09,060
+mas contra ela não é páreo!
+
+264
+00:19:09,060 --> 00:19:12,300
+Vou sair para chutar o traseiro dela!
+
+265
+00:19:12,300 --> 00:19:13,770
+Não, Luffy!
+
+266
+00:19:13,770 --> 00:19:15,060
+Chopper, pare ele!
+
+267
+00:19:15,060 --> 00:19:16,030
+Está bem!
+
+268
+00:19:20,110 --> 00:19:21,290
+O quê?!
+
+269
+00:19:21,290 --> 00:19:23,210
+Ei, me solte!
+
+270
+00:19:23,210 --> 00:19:24,270
+Ei, Chopper!
+
+271
+00:19:24,270 --> 00:19:25,170
+Me solte!
+
+272
+00:19:25,170 --> 00:19:26,240
+Luffy!
+
+273
+00:19:26,240 --> 00:19:28,450
+Não responda aos ataques dela!
+
+274
+00:19:28,450 --> 00:19:32,820
+Viemos para resgatar 
+o Sanji-kun, não foi?!
+
+275
+00:19:32,820 --> 00:19:35,600
+Conseguimos uma cópia do Poneglyph...
+
+276
+00:19:35,600 --> 00:19:39,550
+...e até realizamos o desejo
+ do Sanji-kun de salvar sua família!
+
+277
+00:19:39,550 --> 00:19:42,560
+Já alcançamos nossos objetivos!
+
+278
+00:19:42,560 --> 00:19:47,100
+Se você tem tempo para contra-atacar, 
+melhor usar para pensar em como escapar daqui!
+
+279
+00:19:47,100 --> 00:19:52,000
+Se quiséssemos lutar, teríamos trazido o Zoro e os outros, não é?!
+
+280
+00:19:52,000 --> 00:19:54,970
+Luffy-san, a Nami-san está certa.
+
+281
+00:19:54,970 --> 00:19:59,610
+Conseguimos nos infiltrar 
+porque somos poucos.
+
+282
+00:19:59,610 --> 00:20:03,850
+Vamos todos para o País de Wano, onde 
+o Zoro-san e os outros estão nos esperando!
+
+283
+00:20:07,900 --> 00:20:09,320
+Bege!
+
+284
+00:20:09,320 --> 00:20:10,780
+Pai!
+
+285
+00:20:10,780 --> 00:20:12,360
+Bege!
+
+286
+00:20:14,590 --> 00:20:15,290
+Olhem!
+
+287
+00:20:15,290 --> 00:20:16,640
+Bege...!
+
+288
+00:20:17,680 --> 00:20:19,430
+Então, o que fazemos?!
+
+289
+00:20:19,430 --> 00:20:22,740
+O Bege está levando
+ os golpes por nós!
+
+290
+00:20:29,320 --> 00:20:31,080
+Maldita seja...
+
+291
+00:20:31,080 --> 00:20:34,580
+Nossos resultados foram péssimos...
+
+292
+00:20:35,610 --> 00:20:39,370
+Não acho justo que
+ só vocês tenham sucesso!
+
+293
+00:20:39,370 --> 00:20:42,410
+Espere um pouco, Bege-san!
+
+294
+00:20:42,410 --> 00:20:44,540
+Não tente nos arrastar com você!
+
+295
+00:20:44,540 --> 00:20:46,690
+Eu fiz minha parte!
+
+296
+00:20:46,690 --> 00:20:49,550
+Devolva meu coração!
+
+297
+00:20:50,560 --> 00:20:52,630
+Arrastar?!
+
+298
+00:20:52,630 --> 00:20:55,100
+Não é uma má ideia.
+
+299
+00:20:55,970 --> 00:20:59,310
+Desde o início, vocês 
+nunca me importaram.
+
+300
+00:21:09,970 --> 00:21:11,190
+Mas...
+
+301
+00:21:11,190 --> 00:21:16,160
+...meus adoráveis subordinados...
+
+302
+00:21:16,160 --> 00:21:18,220
+...e minha amada esposa e filho estão aqui.
+
+303
+00:21:21,560 --> 00:21:25,030
+Não posso deixar que morram!
+
+304
+00:21:25,030 --> 00:21:26,460
+Querido!
+
+305
 00:21:26,460 --> 00:21:28,930
 Pai!
 
-134
+306
+00:21:33,200 --> 00:21:34,060
+Bege!
+
+307
+00:21:38,800 --> 00:21:41,710
+Só há uma maneira...
+
+308
+00:21:44,370 --> 00:21:46,120
+...de todos sobreviverem!
+
+309
+00:21:46,900 --> 00:21:47,950
+Só uma?!
+
+310
+00:21:47,950 --> 00:21:49,390
+Qual?!
+
+311
+00:21:53,610 --> 00:21:55,890
+Saiam!
+
+312
+00:21:55,890 --> 00:21:58,690
+Vou destruí-lo!
+
+313
+00:22:00,670 --> 00:22:03,070
+Ele não vai aguentar muito...
+
+314
+00:22:03,070 --> 00:22:06,110
+Preparem-se para atacar 
+a qualquer momento.
+
+315
+00:22:07,550 --> 00:22:09,010
+Vou esmagá-los com isso!
+
+316
+00:22:10,350 --> 00:22:11,740
+Vamos eliminar...
+
+317
+00:22:11,740 --> 00:22:13,910
+...até o último deles!
+
+318
+00:22:16,610 --> 00:22:18,480
+Saiam já!
+
+319
+00:22:18,480 --> 00:22:21,420
+Vou prender vocês em um espelho!
+
+320
+00:22:24,860 --> 00:22:27,300
+A única forma de sobreviver...
+
+321
+00:22:27,300 --> 00:22:28,530
+...é...
+
+322
+00:22:28,530 --> 00:22:32,080
+...que este quarto
+ dentro do Big Father,
+
+323
+00:22:32,080 --> 00:22:35,250
+ou seja, o que está dentro de mim...
+
+324
+00:22:36,810 --> 00:22:37,730
+Ei!
+
+325
+00:22:37,730 --> 00:22:39,760
+Não se assustem!
+
+326
+00:22:41,640 --> 00:22:44,640
+Não importa o quão forte nos ataquem...
+
+327
+00:22:45,650 --> 00:22:49,470
+Ou se o Big Father se inclinar ou rolar...
+
+328
+00:22:50,500 --> 00:22:53,820
+Só eu vou me machucar.
+
+329
+00:22:53,820 --> 00:22:58,620
+Enquanto estiverem aqui, 
+não serão afetados!
+
+330
+00:22:58,620 --> 00:22:59,940
+É verdade.
+
+331
+00:22:59,940 --> 00:23:02,960
+Certamente, Bege-san 
+é o único que sofre.
+
+332
+00:23:04,600 --> 00:23:07,530
+Ouvimos a voz da Big Mom,
+
+333
+00:23:09,500 --> 00:23:12,270
+mas aqui está tudo tranquilo.
+
+334
+00:23:15,490 --> 00:23:17,490
+É isso.
+
+335
+00:23:17,490 --> 00:23:22,710
+E será o mesmo se eu voltar 
+à minha forma humana.
+
+336
+00:23:22,710 --> 00:23:24,240
+Escutem...
+
+337
+00:23:24,240 --> 00:23:27,830
+Vou voltar à minha forma humana 
+enquanto vocês estão dentro.
+
+338
+00:23:27,830 --> 00:23:32,180
+Então, o Caesar vai me carregar 
+e fugiremos voando.
+
+339
+00:23:32,180 --> 00:23:35,520
+Se der certo, sairemos 
+dessa enrascada.
+
+340
+00:23:37,760 --> 00:23:38,670
+Ei!
+
+341
+00:23:38,670 --> 00:23:41,870
+Por que você decide quando colocar
+ minha vida em perigo, idiota?!
+
+342
+00:23:41,870 --> 00:23:44,040
+Isso é suicídio!
+
+343
+00:23:44,040 --> 00:23:47,440
+Nesse momento, 
+vão nos surrar!
+
+344
+00:23:47,440 --> 00:23:49,600
+Não há nenhuma 
+chance de sucesso!
+
+345
+00:23:49,600 --> 00:23:51,740
+Também há muitos usuários
+ de Busoshoku Haki!
+
+346
+00:23:51,740 --> 00:23:54,610
+Não adianta se eu virar gás!
+
+347
+00:23:54,610 --> 00:23:56,670
+Responda o seguinte.
+
+348
+00:23:58,450 --> 00:23:59,690
+Sanji...
+
+349
+00:24:02,650 --> 00:24:04,810
+Por que você nos salvou?
+
+350
+00:24:06,590 --> 00:24:11,430
+As pessoas que você mais odeia
+caíram completamente na armadilha dela!
+
+351
+00:24:15,450 --> 00:24:18,810
+Porque entristeceria meu pai...
+
+352
+00:24:19,970 --> 00:24:24,040
+...que eu continuasse preso 
+aos meus ressentimentos infantis...
+
+353
 00:24:27,000 --> 00:24:28,550
 Me libertem, por favor!
 
-135
+354
 00:24:28,550 --> 00:24:29,890
 Pai!
 
-136
+355
 00:24:29,890 --> 00:24:31,390
 Sinto muito!
 
-137
+356
 00:24:32,570 --> 00:24:36,490
 Sinto ter nascido fraco!
 
-138
+357
 00:24:36,490 --> 00:24:39,120
 Me ajude, pai!
 
-139
+358
 00:24:39,120 --> 00:24:43,540
 Me ajude, pai!
 
-140
+359
+00:24:45,770 --> 00:24:49,080
+Ele ficaria decepcionado se visse que eu
+ me tornei um homem pequeno...
+
+360
+00:24:49,080 --> 00:24:53,570
+...capaz de rir da morte
+ de sua própria família biológica.
+
+361
 00:24:53,570 --> 00:24:58,140
 Cuide-se dos resfriados.
 
-141
+362
+00:24:58,140 --> 00:25:02,160
+Não quero viver de uma forma
+ que não possa...
+
+363
+00:25:02,160 --> 00:25:03,820
+...olhá-lo nos olhos!
+
+364
 00:25:08,380 --> 00:25:12,390
 Nunca ouse dizer a ninguém...
 
-142
+365
 00:25:12,390 --> 00:25:17,020
 ...que eu sou seu pai!
 
-143
+366
 00:25:20,900 --> 00:25:25,110
 É uma desgraça que
  não quero que ninguém saiba!
 
-144
+367
 00:25:26,090 --> 00:25:27,770
 Você entende, certo?
 
-145
-00:00:01,980 --> 00:00:05,650
-Meus sentimentos por você batem intensamente.
+368
+00:25:31,210 --> 00:25:33,110
+Há treze anos...
 
-146
-00:00:05,650 --> 00:00:09,280
-Se o que você busca...
+369
+00:25:33,110 --> 00:25:38,550
+...Vinsmoke Sanji escapou
+ da Germa e morreu no mar.
 
-147
-00:00:09,280 --> 00:00:12,490
-...é ter um poder sem limites,
+370
+00:25:38,550 --> 00:25:41,290
+Isso é o que você queria.
 
-148
-00:00:12,490 --> 00:00:14,860
-então mostre nossos laços inalteráveis.
+371
+00:25:53,320 --> 00:25:55,230
+Então admita...
 
-149
-00:00:14,860 --> 00:00:16,070
-Somos a esperança.
+372
+00:25:56,400 --> 00:26:01,370
+...que você não é meu pai, 
+Vinsmoke Judge!
 
-150
-00:00:22,580 --> 00:00:28,800
-A alegria de nossos corações colidindo...
+373
+00:26:01,370 --> 00:26:04,400
+Não apareça mais diante de nós!
 
-151
-00:00:29,460 --> 00:00:35,760
-...e a tristeza ao secar as lágrimas de alegria...
+374
+00:26:29,050 --> 00:26:30,670
+Entendido.
 
-152
-00:00:36,840 --> 00:00:43,350
-...conecte-as e acene-as...
+375
+00:26:30,670 --> 00:26:33,360
+Prometo...
 
-153
-00:00:43,730 --> 00:00:50,230
-...bem no topo deste vento.
+376
+00:26:33,360 --> 00:26:35,270
+...que não me aproximarei de você...
 
-154
-00:00:50,230 --> 00:00:53,190
-Por que você parou de buscar?
+377
+00:26:35,270 --> 00:26:38,990
+...nem do East Blue!
 
-155
-00:00:53,610 --> 00:00:56,570
-Por que continua lutando sozinho?
+378
+00:26:45,350 --> 00:26:48,170
+Já cumpri minha missão!
 
-156
-00:00:56,990 --> 00:00:59,870
-Ei, para qual futuro você se preparou?
+379
+00:26:48,170 --> 00:26:50,500
+Isso não faz parte do acordo!
 
-157
-00:00:59,870 --> 00:01:03,370
-Você já realizou seu sonho.
+380
+00:26:50,500 --> 00:26:55,020
+Se não fizermos algo, 
+você também morrerá, Caesar!
 
-158
-00:01:03,710 --> 00:01:07,380
-Meus sentimentos por você batem intensamente.
+381
+00:26:56,830 --> 00:26:58,900
+Abra a porta!
 
-159
-00:01:07,380 --> 00:01:11,000
-Se o que você busca...
+382
+00:27:00,750 --> 00:27:02,490
+Gang Bege!
 
-160
-00:01:11,000 --> 00:01:14,220
-...é ter um poder sem limites,
+383
+00:27:02,490 --> 00:27:05,450
+Até que você e o Caesar
+ Clown escapem voando,
 
-161
-00:01:14,220 --> 00:01:16,550
-então mostre nossos laços imutáveis.
+384
+00:27:05,450 --> 00:27:08,020
+nós, da Germa,
+ vamos escoltá-los!
 
-162
-00:01:16,550 --> 00:01:17,800
-Somos a esperança.
+385
+00:27:08,020 --> 00:27:09,370
+E-Espere um momento!
 
-163
-00:01:18,050 --> 00:01:20,850
-Nos confins deste enorme mundo azul,
+386
+00:27:09,370 --> 00:27:12,300
+Por que você decide
+ o que eu vou fazer?!
 
-164
-00:01:21,470 --> 00:01:23,890
-há um lugar onde quero ir com você.
+387
+00:27:12,300 --> 00:27:15,880
+Você continua tão arrogante 
+como sempre, Judge!
 
-165
-00:01:23,890 --> 00:01:26,640
-Se há uma rota para chegar lá,
+388
+00:27:18,350 --> 00:27:19,690
+Entendi.
 
-166
-00:01:26,640 --> 00:01:33,280
-já decidimos isso há muito tempo.
+389
+00:27:19,690 --> 00:27:22,040
+A Germa também pode voar, hein?
+
+390
+00:27:22,040 --> 00:27:24,240
+Então vamos deixá-los para trás.
+
+391
+00:27:24,240 --> 00:27:25,420
+Não importa.
+
+392
+00:27:27,860 --> 00:27:30,860
+Bem, se precisamos ganhar 
+tempo, eu também...
+
+393
+00:27:31,920 --> 00:27:33,420
+Não, Luffy.
+
+394
+00:27:33,420 --> 00:27:34,410
+Mas...
+
+395
+00:27:56,590 --> 00:28:00,460
+Não quero dever
+ nada a um fracasso!
+
+396
+00:28:03,150 --> 00:28:05,920
+É assim que eles acertam as contas.
+
+397
+00:28:07,260 --> 00:28:09,320
+Esperem, esperem, ouçam, ouçam!
+
+398
+00:28:09,320 --> 00:28:12,700
+Não disse que faria isso, idiotas!
+
+399
+00:28:12,700 --> 00:28:14,340
+Caesar!
+
+400
+00:28:14,340 --> 00:28:16,310
+Cale a boca e faça!
+
+401
+00:28:16,310 --> 00:28:18,880
+Isso dói!
+
+402
+00:28:18,880 --> 00:28:21,050
+Vocês vão me pagar!
+
+403
+00:28:24,420 --> 00:28:27,650
+Saiam já!
+
+404
+00:28:27,650 --> 00:28:29,190
+Bege!
+
+405
+00:28:38,270 --> 00:28:39,500
+Germa!
+
+406
+00:28:39,500 --> 00:28:41,430
+Ao ataque!
+
+407
+00:28:39,500 --> 00:28:41,430
+Edição de vídeo:
+ Feeso,
+Galaxy 9000
+
+Tempos:
+Halee,
+Umim
+
+Controle de qualidade:
+Bastia,
+Feeso,
+Galaxy 9000,
+Grug,
+Pepperjack
+
+Edição de áudio:
+ Halee
+
+Legendas:
+JuanTlgd
+
+Revisão:
+RAFAEL

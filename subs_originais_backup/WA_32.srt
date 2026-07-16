@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:09,990
+Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
+As legendas podem não funcionar corretamente por esse motivo.
+Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+https://mpv.io
+
+2
+00:00:28,550 --> 00:00:31,180
+A justiça tem um preço.
+
+3
+00:00:49,700 --> 00:00:52,160
+Rápido, mexa-se!
+
+4
+00:00:52,160 --> 00:00:53,070
+Rápido!
+
+5
+00:01:50,130 --> 00:01:52,090
+Isso é realidade...
+
+6
+00:03:41,370 --> 00:03:43,240
+O quê?!
+
+7
+00:00:00,020 --> 00:00:05,860
+QUARTEL-GENERAL 
+DA MARINHA, 
+NOVO MUNDO
+
+8
+00:00:00,020 --> 00:00:05,860
+QUARTEL-GENERAL 
+DA MARINHA, 
+NOVO MUNDO
+
+9
+00:04:53,520 --> 00:05:02,410
+HÁ TRINTA 
+E OITO ANOS
+
+10
+00:04:53,520 --> 00:05:02,410
+HÁ TRINTA 
+E OITO ANOS

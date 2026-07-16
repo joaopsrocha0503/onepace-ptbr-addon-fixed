@@ -1,9 +1,11 @@
 import sdk from "stremio-addon-sdk";
+import express from "express";
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { AsyncLocalStorage } from "node:async_hooks";
 
-const { addonBuilder, serveHTTP } = sdk;
+const { addonBuilder, getRouter } = sdk;
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
@@ -23,13 +25,10 @@ try {
   console.error("❌ Erro ao carregar mapping.json:", e.message);
 }
 
-const SUBS_BASE_URL =
-  process.env.SUBS_BASE_URL ||
-  "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/subs";
-
-if (SUBS_BASE_URL.includes("SEU_USUARIO")) {
-  console.warn("⚠️  SUBS_BASE_URL ainda contém 'SEU_USUARIO'. Configure a variável de ambiente SUBS_BASE_URL.");
-}
+// Base pública por request (ex.: https://xyz.baby-beamup.club), capturada por
+// middleware — os URLs das legendas têm de ser absolutos e o host só se sabe
+// na altura do pedido.
+const requestBase = new AsyncLocalStorage();
 
 const manifest = {
   id: "community.onepace.ptbr.subs",
@@ -57,23 +56,21 @@ builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
   if (Object.hasOwn(subtitleMap, videoID)) {
     const entry = subtitleMap[videoID];
     const srtFile = typeof entry === "string" ? entry : entry.srt;
-    const assFile = typeof entry === "object" ? entry.ass : null;
     const subtitles = [];
 
+    // SUBS_BASE_URL (env) tem prioridade; sem ela, os .srt são servidos pelo
+    // próprio addon em /subs.
+    const baseUrl = process.env.SUBS_BASE_URL || `${requestBase.getStore()}/subs`;
+
+    // Only the .srt variant is offered. Stremio's external-subtitle pipeline
+    // accepts only .srt/.vtt, so .ass/.ssa external subs from an addon always
+    // fail to load ("Failed to load external subtitles", stremio-bugs#2312) --
+    // offering the .ass variant just shows an option that never works.
     if (srtFile) {
       subtitles.push({
         id: `onepace-ptbr-${videoID}`,
-        url: `${SUBS_BASE_URL}/${srtFile}`,
+        url: `${baseUrl}/${encodeURIComponent(srtFile)}`,
         lang: "por",
-      });
-    }
-
-    if (assFile) {
-      subtitles.push({
-        id: `onepace-ptbr-styled-${videoID}`,
-        url: `${SUBS_BASE_URL}/${assFile}`,
-        lang: "por",
-        title: "PT-BR (Estilizado)",
       });
     }
 
@@ -86,29 +83,34 @@ builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
 });
 
 const PORT = process.env.PORT || 7000;
-let server;
 
-serveHTTP(builder.getInterface(), { port: PORT })
-  .then((srv) => {
-    server = srv;
+const app = express();
+app.set("trust proxy", true);
+
+app.use((req, res, next) => {
+  requestBase.run(`${req.protocol}://${req.get("host")}`, next);
+});
+
+app.use("/subs", express.static(SUBS_DIR));
+app.get("/", (req, res) => res.redirect("/manifest.json"));
+app.use(getRouter(builder.getInterface()));
+
+const server = app
+  .listen(PORT, () => {
     console.log(`\n🏴‍☠️ One Pace PT-BR Subs Addon`);
     console.log(`   Manifest: http://127.0.0.1:${PORT}/manifest.json`);
-    console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda PT-BR:`);
-    Object.keys(subtitleMap).sort().forEach((id) => console.log(`   • ${id}`));
-    console.log(`\n💡 Instale no Stremio: http://127.0.0.1:${PORT}/manifest.json\n`);
+    console.log(`   Legendas: http://127.0.0.1:${PORT}/subs/<ficheiro>.srt`);
+    console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda PT-BR`);
   })
-  .catch((err) => {
+  .on("error", (err) => {
     console.error(`❌ Falha ao iniciar servidor na porta ${PORT}:`, err.message);
     process.exit(1);
   });
 
 const shutdown = () => {
   console.log("\n🛑 Encerrando servidor...");
-  if (server?.server) {
-    server.server.close(() => process.exit(0));
-  } else {
-    process.exit(0);
-  }
+  server.close(() => process.exit(0));
+  setTimeout(() => process.exit(0), 3000).unref();
 };
 
 process.on("SIGTERM", shutdown);

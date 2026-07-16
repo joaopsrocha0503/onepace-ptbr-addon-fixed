@@ -1,0 +1,1245 @@
+1
+00:00:00,000 --> 00:00:09,990
+Seu reprodutor de vídeo não suporta o formato da legenda usado para este episódio. 
+As legendas podem não funcionar corretamente por isso.
+Por favor, use um dos reprodutores recomendados, de preferência mpv:
+https://mpv.io
+
+2
+00:02:25,660 --> 00:02:35,710
+Seu reprodutor de vídeo não suporta o formato da legenda usado para este episódio. 
+As legendas podem não funcionar corretamente por isso.
+Por favor, use um dos reprodutores recomendados, de preferência mpv:
+https://mpv.io
+
+3
+00:00:00,270 --> 00:00:05,120
+Levantem mais as mãos, agora mesmo! Cantem sobre seus sonhos.
+
+4
+00:00:05,220 --> 00:00:08,770
+Sempre de pé! Com nossa bandeira inquebrável.
+
+5
+00:00:08,880 --> 00:00:12,380
+Já superamos muitos obstáculos!
+
+6
+00:00:12,410 --> 00:00:17,750
+Não paremos, sigamos em frente! Levantem as mãos!
+
+7
+00:00:23,390 --> 00:00:30,730
+"Já estou quase lá, mais um pouco e consigo a resposta".
+
+8
+00:00:30,830 --> 00:00:38,420
+Isso é o que acreditamos ao adentrar neste novo mundo.
+
+9
+00:00:38,480 --> 00:00:45,960
+Resulta que os fragmentos de nossos sonhos se fundiram em um.
+
+10
+00:00:45,960 --> 00:00:54,000
+Avancemos para um futuro deslumbrante com nossos laços inquebráveis!
+
+11
+00:00:54,090 --> 00:00:58,630
+Levantem mais as mãos, agora mesmo! Cantem sobre seus sonhos.
+
+12
+00:00:58,700 --> 00:01:02,470
+Sempre de pé! Com nossa bandeira inquebrável.
+
+13
+00:01:02,510 --> 00:01:05,860
+Já superamos muitos obstáculos!
+
+14
+00:01:05,930 --> 00:01:09,870
+Não paremos, sigamos em frente!
+
+15
+00:01:09,970 --> 00:01:11,360
+Olhem mais para cima!
+
+16
+00:01:11,430 --> 00:01:13,580
+Com a cabeça erguida!
+
+17
+00:01:13,620 --> 00:01:15,010
+Sempre avançando!
+
+18
+00:01:15,050 --> 00:01:16,930
+Voe sobre as ondas!
+
+19
+00:01:16,970 --> 00:01:20,500
+Unamos todos os nossos desejos em um só.
+
+20
+00:01:20,540 --> 00:01:24,710
+Vamos em direção ao futuro!
+
+21
+00:01:25,000 --> 00:01:31,150
+Avançamos sem rumo, cortando as ondas.
+
+22
+00:01:31,170 --> 00:01:35,380
+Encontros, despedidas, uma e outra vez.
+
+23
+00:01:35,420 --> 00:01:39,610
+Sempre diante desta bandeira...
+
+24
+00:01:41,340 --> 00:01:44,730
+A dor que não quero esquecer guardo em meu coração...
+
+25
+00:01:44,800 --> 00:01:48,300
+...desde aquele dia em que a gravei em meu interior.
+
+26
+00:01:48,340 --> 00:01:51,900
+Nunca perderei para ninguém, protegerei minha liberdade com minhas próprias mãos...
+
+27
+00:01:51,940 --> 00:01:54,840
+...e nunca a deixarei escapar!
+
+28
+00:01:54,880 --> 00:01:59,740
+Levantem mais as mãos, agora mesmo! Cantem sobre seus sonhos.
+
+29
+00:01:59,790 --> 00:02:03,420
+Sempre de pé! Com nossa bandeira inquebrável.
+
+30
+00:02:03,480 --> 00:02:06,760
+Já superamos muitos obstáculos!
+
+31
+00:02:06,800 --> 00:02:10,890
+Não paremos, sigamos em frente!
+
+32
+00:02:10,950 --> 00:02:12,270
+Olhem mais para cima!
+
+33
+00:02:12,330 --> 00:02:14,580
+Com a cabeça erguida!
+
+34
+00:02:14,580 --> 00:02:15,970
+Sempre avançando!
+
+35
+00:02:16,020 --> 00:02:17,810
+Voe sobre as ondas!
+
+36
+00:02:17,870 --> 00:02:21,520
+Unamos todos os nossos desejos em um só.
+
+37
+00:02:21,600 --> 00:02:25,000
+Vamos em direção ao futuro!
+
+38
+00:02:25,080 --> 00:02:29,960
+Levantem as mãos!
+
+39
+00:02:36,250 --> 00:02:39,300
+Guardas de Punk Hazard, escutem-me!
+
+40
+00:02:40,040 --> 00:02:42,000
+Vocês devem estar vendo isso de algum lugar, não é?
+
+41
+00:02:42,000 --> 00:02:44,570
+Nós fomos enganados!
+
+42
+00:02:44,570 --> 00:02:47,260
+Tudo o que Caesar lhes disse é mentira!
+
+43
+00:02:47,260 --> 00:02:50,120
+Vocês morrerão se ficarem aqui!
+
+44
+00:02:50,120 --> 00:02:52,240
+Do que ele está falando?
+
+45
+00:02:52,240 --> 00:02:55,430
+Será que ele enlouqueceu desde que
+ foi capturado pelos Chapéus de Palha?
+
+46
+00:02:55,430 --> 00:02:57,340
+Barba Marrom está logo abaixo de nós,
+
+47
+00:02:57,340 --> 00:02:59,240
+no primeiro andar da Torre R.
+
+48
+00:02:59,240 --> 00:03:05,370
+Segundo o plano do Mestre, em breve os Chapéus de Palha e os marinheiros se reunirão lá.
+
+49
+00:03:05,370 --> 00:03:07,610
+Vamos fazer Barba Marrom subir aqui?
+
+50
+00:03:08,560 --> 00:03:11,360
+Eu vou revelar quem é Caesar!
+
+51
+00:03:11,360 --> 00:03:14,580
+Não, eu vou descer.
+
+52
+00:03:14,580 --> 00:03:16,140
+Então, vamos com você.
+
+53
+00:03:18,870 --> 00:03:20,210
+Caesar!
+
+54
+00:03:20,210 --> 00:03:24,770
+Oh, meu leal subordinado, Barba Marrom!
+
+55
+00:03:25,670 --> 00:03:28,000
+Estou muito feliz que você conseguiu
+ escapar dos Chapéus de Palha!
+
+56
+00:03:30,040 --> 00:03:31,190
+Você está bem?
+
+57
+00:03:31,550 --> 00:03:33,630
+Devolva os meus homens!
+
+58
+00:03:34,150 --> 00:03:38,500
+Fomos perseguidos no meio da ilha, mas eles não morreram!
+
+59
+00:03:38,500 --> 00:03:40,170
+Eles já devem ter voltado!
+
+60
+00:03:40,180 --> 00:03:43,590
+Ei, ele está provocando o Mestre!
+
+61
+00:03:43,590 --> 00:03:47,550
+Ah, são os homens de Barba Marrom?
+
+62
+00:03:47,550 --> 00:03:52,680
+Mestre, a entrada principal está
+ fechada e há marinheiros na frente!
+
+63
+00:03:54,010 --> 00:03:55,730
+Não podemos entrar!
+
+64
+00:03:55,730 --> 00:03:56,950
+Nos dê instruções!
+
+65
+00:03:56,950 --> 00:03:59,240
+Já vejo, que terrível!
+
+66
+00:03:59,240 --> 00:04:01,720
+Vou ajudá-los imediatamente, fiquem onde estão!
+
+67
+00:04:01,720 --> 00:04:05,580
+Mestre, como você vai fazê-los entrar?
+
+68
+00:04:09,790 --> 00:04:11,190
+Não vou.
+
+69
+00:04:11,190 --> 00:04:14,380
+Porque logo todo o exterior 
+estará coberto por Shinokuni.
+
+70
+00:04:14,380 --> 00:04:17,360
+O que terá acontecido com eles?
+
+71
+00:04:17,360 --> 00:04:19,250
+Eles não informaram sua posição...
+
+72
+00:04:20,940 --> 00:04:24,270
+Se eles não voltaram, significa que...
+
+73
+00:04:24,270 --> 00:04:25,690
+Está preocupado?
+
+74
+00:04:25,690 --> 00:04:27,300
+Bem, é lógico.
+
+75
+00:04:27,300 --> 00:04:30,550
+Se eles ficaram lá fora,
+ meu Shinokuni já os matou.
+
+76
+00:04:31,460 --> 00:04:35,150
+Eu não acredito mais em nada do que você diz!
+
+77
+00:04:35,150 --> 00:04:37,300
+O que está acontecendo?!
+
+78
+00:04:37,300 --> 00:04:39,410
+O que ele disse?!
+
+79
+00:04:39,410 --> 00:04:43,740
+Vocês são meus amigos, convivemos por dois anos nesta ilha.
+
+80
+00:04:43,740 --> 00:04:45,780
+Vocês precisam sair desta ilha o mais rápido possível!
+
+81
+00:04:45,780 --> 00:04:49,700
+Querem que eu lhes diga como
+ esse cara chama vocês pelas costas?!
+
+82
+00:04:49,700 --> 00:04:51,140
+Eu vou lhes contar!
+
+83
+00:04:51,940 --> 00:04:54,100
+Ele chama vocês de...
+
+84
+00:04:54,100 --> 00:04:55,860
+Cobais!
+
+85
+00:04:57,470 --> 00:04:58,960
+Coba...
+
+86
+00:05:01,250 --> 00:05:03,680
+C-Cob...
+
+87
+00:05:06,090 --> 00:05:07,900
+O que você está dizendo, Barba Marrom?!
+
+88
+00:05:08,300 --> 00:05:10,240
+Fale direito!
+
+89
+00:05:10,240 --> 00:05:11,710
+O que você está balbuciando?
+
+90
+00:05:11,710 --> 00:05:13,480
+Você é muito engraçado!
+
+91
+00:05:14,190 --> 00:05:15,710
+Cobaias!
+
+92
+00:05:15,710 --> 00:05:21,340
+Eles continuarão me obedecendo e 
+acreditando que sou seu deus salvador!
+
+93
+00:05:21,340 --> 00:05:25,470
+Porque são muito burros para perceber que são apenas cobaias para mim!
+
+94
+00:05:25,880 --> 00:05:27,560
+Ele chama vocês de cobaias!
+
+95
+00:05:30,520 --> 00:05:33,070
+O que está acontecendo? Não consigo abrir a boca!
+
+96
+00:05:33,680 --> 00:05:35,890
+O que você fez comigo, Caesar?!
+
+97
+00:05:46,860 --> 00:05:48,350
+E agora?
+
+98
+00:05:48,640 --> 00:05:50,240
+O que você está fazendo?
+
+99
+00:05:51,350 --> 00:05:53,830
+É um relaxante muscular.
+
+100
+00:05:53,830 --> 00:05:56,770
+Você está sem forças e
+ com dificuldade para falar, certo?
+
+101
+00:05:59,520 --> 00:06:02,730
+Ah, sim, acabei de me lembrar, Barba Marrom.
+
+102
+00:06:02,730 --> 00:06:06,440
+Lembrei o que fiz com seus homens...
+
+103
+00:06:06,440 --> 00:06:07,820
+Eu os abandonei.
+
+104
+00:06:11,650 --> 00:06:15,120
+Maldito!
+
+105
+00:06:16,880 --> 00:06:20,740
+C-Como você se atreve a matar meus homens?
+
+106
+00:06:25,400 --> 00:06:28,450
+Ah, e já que estamos nisso...
+
+107
+00:06:28,450 --> 00:06:30,840
+Vou confessar outra coisa.
+
+108
+00:06:30,840 --> 00:06:37,370
+A arma defeituosa que quase matou todos há quatro anos...
+
+109
+00:06:37,370 --> 00:06:40,470
+...foi obra minha.
+
+110
+00:06:41,600 --> 00:06:44,600
+Não foi Vegapunk?!
+
+111
+00:06:44,600 --> 00:06:48,640
+Você causou tudo isso e depois
+ se fez passar por salvador?!
+
+112
+00:06:55,870 --> 00:06:58,540
+Ei, pare! Pare!
+
+113
+00:06:58,540 --> 00:07:02,700
+Me ajudem! Barba Marrom enlouqueceu!
+
+114
+00:07:05,400 --> 00:07:06,860
+Fujam, rapazes!
+
+115
+00:07:06,860 --> 00:07:10,760
+Foi culpa de Caesar que esta
+ ilha se tornou um inferno!
+
+116
+00:07:10,760 --> 00:07:12,440
+Corram, rapazes!
+
+117
+00:07:12,440 --> 00:07:15,940
+Ele é o diabo disfarçado de pessoa!
+
+118
+00:07:15,940 --> 00:07:17,500
+Ei, Barba Marrom!
+
+119
+00:07:17,500 --> 00:07:19,550
+O que você está fazendo com nosso salvador?!
+
+120
+00:07:19,550 --> 00:07:20,630
+Oh, não!
+
+121
+00:07:20,630 --> 00:07:22,950
+Barba Marrom é perigoso!
+
+122
+00:07:22,950 --> 00:07:24,590
+É tarde demais!
+
+123
+00:07:24,590 --> 00:07:27,330
+Tudo isso é culpa dos Chapéus de Palha!
+
+124
+00:07:27,940 --> 00:07:29,850
+Atirem!
+
+125
+00:07:40,450 --> 00:07:43,260
+E aqui vem o golpe final.
+
+126
+00:07:44,100 --> 00:07:45,440
+Gastanet...
+
+127
+00:07:52,310 --> 00:07:53,290
+Mestre!
+
+128
+00:07:52,310 --> 00:07:53,290
+Mestre!
+
+129
+00:07:54,220 --> 00:07:56,670
+E-Essa foi por pouco!
+
+130
+00:07:56,670 --> 00:07:57,840
+Essa foi por muito pouco!
+
+131
+00:07:59,020 --> 00:08:00,690
+Droga! Quem foi?!
+
+132
+00:08:06,110 --> 00:08:11,490
+É Luffy do Chapéu de Palha!
+
+133
+00:08:06,110 --> 00:08:11,490
+É Luffy do Chapéu de Palha!
+
+134
+00:08:19,780 --> 00:08:26,530
+Sua grande generosidade levou o Mestre a salvar minha vida, como antes havia feito com eles.
+
+135
+00:08:26,530 --> 00:08:30,330
+O Mestre é nosso deus salvador, 
+possuidor de um coração de ouro.
+
+136
+00:08:31,790 --> 00:08:34,390
+V-Voltem para o segundo andar, meus rapazes!
+
+137
+00:08:34,390 --> 00:08:37,710
+Os Chapéus de Palha e a Marinha 
+chegarão a qualquer momento!
+
+138
+00:08:37,710 --> 00:08:38,950
+Preparem-se para retomar o experimento!
+
+139
+00:08:38,950 --> 00:08:39,710
+Sim!
+
+140
+00:08:38,950 --> 00:08:39,710
+Sim!
+
+141
+00:08:39,710 --> 00:08:42,440
+Certifiquem-se de que todos os agentes observem!
+
+142
+00:08:42,440 --> 00:08:47,540
+Dentro de cinco anos, não restará ninguém vivo.
+
+143
+00:08:50,010 --> 00:08:52,520
+Luffy! É ele!
+
+144
+00:08:52,520 --> 00:08:55,400
+O que tem feito aquilo com as crianças de coração tão bom...
+
+145
+00:08:56,190 --> 00:08:57,670
+O que fez com que elas...
+
+146
+00:08:57,670 --> 00:08:59,260
+Eu sei.
+
+147
+00:09:00,250 --> 00:09:03,120
+Você enganou todo mundo, não foi?
+
+148
+00:09:03,120 --> 00:09:05,820
+O que é essa ilha?!
+
+149
+00:09:07,840 --> 00:09:09,130
+Ah, é claro.
+
+150
+00:09:09,960 --> 00:09:14,620
+Este lugar é como gás ou ar.
+
+151
+00:09:15,340 --> 00:09:17,750
+Uma ilha aparentemente inexistente!
+
+152
+00:09:17,750 --> 00:09:21,280
+Por isso, é ideal para estar
+ vinculada ao submundo.
+
+153
+00:09:22,210 --> 00:09:24,750
+É a base da ciência do submundo.
+
+154
+00:09:24,750 --> 00:09:26,850
+Desde experimentos proibidos...
+
+155
+00:09:26,850 --> 00:09:29,430
+...até as cobaias
+ para meus experimentos.
+
+156
+00:09:29,430 --> 00:09:31,430
+Eu posso fazer o que quiser!
+
+157
+00:09:31,430 --> 00:09:36,670
+Porque tudo está sustentado 
+por bons pilares!
+
+158
+00:09:36,670 --> 00:09:39,310
+É como se não tivesse existido!
+
+159
+00:09:39,310 --> 00:09:41,150
+Não importa o quanto você chore...
+
+160
+00:09:41,150 --> 00:09:42,650
+...ou grite!
+
+161
+00:09:42,650 --> 00:09:45,230
+Aqui ninguém virá te ajudar!
+
+162
+00:09:45,230 --> 00:09:50,200
+Você não tem ideia do que essa ilha representa, Chapéu de Palha!
+
+163
+00:09:50,200 --> 00:09:55,450
+Não conte em sair vivo se descobrir coisas que não deveria sem estar preparado!
+
+164
+00:09:55,450 --> 00:09:57,920
+Assim como seu aliado, Law.
+
+165
+00:09:58,520 --> 00:10:01,610
+Ele tenta estragar a produção do SAD.
+
+166
+00:10:01,610 --> 00:10:03,950
+Eu sou o único que posso fabricá-lo.
+
+167
+00:10:03,950 --> 00:10:07,450
+Por isso ele está usando você para me sequestrar.
+
+168
+00:10:07,450 --> 00:10:11,260
+O homem mais perigoso que existe, membro dos Shichibukai,
+
+169
+00:10:11,260 --> 00:10:14,330
+Donquixote Doflamingo, tem uma fábrica...
+
+170
+00:10:14,330 --> 00:10:17,850
+...onde transforma o SAD em uma fruta chamada Smile.
+
+171
+00:10:20,510 --> 00:10:24,870
+As Smile são frutas do diabo
+ tipo Zoan criadas artificialmente!
+
+172
+00:10:24,870 --> 00:10:28,210
+O tipo de fruta que todos
+ que desejam força procuram!
+
+173
+00:10:28,210 --> 00:10:33,980
+Doflamingo vende as Smile para
+ os figurões do Novo Mundo.
+
+174
+00:10:33,980 --> 00:10:36,790
+Na verdade, graças às Smile, um dos Yonkou,
+
+175
+00:10:36,790 --> 00:10:40,980
+tem um exército de centenas de homens que possuem os poderes dessas frutas!
+
+176
+00:10:40,980 --> 00:10:44,190
+É assustador, não é?
+
+177
+00:10:44,740 --> 00:10:48,010
+Agora você entende a dimensão disso?
+
+178
+00:10:48,010 --> 00:10:51,740
+Se você se meter no negócio de Doflamingo,
+
+179
+00:10:51,740 --> 00:10:55,360
+vai irritar gente muito poderosa!
+
+180
+00:10:55,360 --> 00:11:00,010
+E se isso acontecer, o mundo
+ inteiro vai tremer!
+
+181
+00:11:00,010 --> 00:11:04,220
+É exatamente isso que o idiota do Law quer!
+
+182
+00:11:04,220 --> 00:11:07,660
+Infelizmente, vocês morrerão
+ em menos de um piscar de olhos.
+
+183
+00:11:09,660 --> 00:11:12,660
+Tente me fazer algo, estou protegido!
+
+184
+00:11:12,660 --> 00:11:15,660
+Por Doflamingo! Pelo Yonkou!
+
+185
+00:11:15,660 --> 00:11:19,270
+Vocês têm coragem para
+ lutar contra todos eles?!
+
+186
+00:11:27,000 --> 00:11:28,150
+Para isso...
+
+187
+00:11:28,150 --> 00:11:31,900
+Estou pronto a qualquer hora!
+
+188
+00:11:31,900 --> 00:11:35,370
+M-Mestre!
+
+189
+00:11:31,900 --> 00:11:35,370
+M-Mestre!
+
+190
+00:11:42,590 --> 00:11:44,990
+Droga, o que diabos você acha que está fazendo?
+
+191
+00:11:48,010 --> 00:11:49,530
+Maldito seja!
+
+192
+00:11:49,530 --> 00:11:51,610
+Você não me ouviu?
+
+193
+00:11:51,610 --> 00:11:54,680
+Você não vai se safar!
+
+194
+00:11:55,370 --> 00:11:59,700
+Eu tenho ao meu lado um distinto pirata lunático!
+
+195
+00:11:59,700 --> 00:12:05,250
+O membro dos Shichibukai, 
+Donquixote Doflamingo!
+
+196
+00:12:05,250 --> 00:12:10,400
+Ele controla os fios do Novo
+ Mundo das sombras.
+
+197
+00:12:10,400 --> 00:12:12,710
+Ele tem armas de todos os tipos, drogas!
+
+198
+00:12:12,710 --> 00:12:14,170
+Tudo o que é proibido e perigoso!
+
+199
+00:12:14,170 --> 00:12:16,750
+Seu negócio é vasto e variado!
+
+200
+00:12:18,880 --> 00:12:21,590
+Ele é a semente do mal.
+
+201
+00:12:21,590 --> 00:12:24,870
+Ele está relacionado com todos os
+ figurões do submundo.
+
+202
+00:12:28,730 --> 00:12:32,180
+M-Mas se você se desculpar agora,
+
+203
+00:12:32,180 --> 00:12:33,980
+eu posso perdoar sua ignorância.
+
+204
+00:12:35,320 --> 00:12:42,280
+P-Pense em todos os monstros aterradores 
+que você irritaria se me machucasse!
+
+205
+00:12:45,030 --> 00:12:47,070
+Gastille!
+
+206
+00:12:51,710 --> 00:12:53,350
+Tome isso!
+
+207
+00:12:53,350 --> 00:12:54,700
+Aí está!
+
+208
+00:12:53,350 --> 00:12:54,700
+Aí está!
+
+209
+00:12:54,700 --> 00:12:56,720
+Seu raio queimador derrete até o aço!
+
+210
+00:12:56,720 --> 00:12:58,970
+Ele derreteu?
+
+211
+00:12:58,970 --> 00:13:01,580
+Ou morreu com o disparo?
+
+212
+00:13:05,250 --> 00:13:07,700
+E-Eu entendi!
+
+213
+00:13:07,700 --> 00:13:13,150
+Você é um novato que acabou de entrar no
+ Novo Mundo, pode ser que ainda não entenda,
+
+214
+00:13:13,150 --> 00:13:16,060
+mas no laboratório há outro monstro!
+
+215
+00:13:16,060 --> 00:13:21,130
+É Vergo, cujo Haki de Armadura
+ não tem rival!
+
+216
+00:13:21,130 --> 00:13:23,960
+Smoker e Law morrerão.
+
+217
+00:13:23,960 --> 00:13:26,510
+Toda a sua tripulação...
+
+218
+00:13:29,200 --> 00:13:32,030
+Eu não me importo!
+
+219
+00:13:36,190 --> 00:13:41,610
+O gás assassino, Shinokuni, que
+ petrifica e mata as pessoas,
+
+220
+00:13:41,610 --> 00:13:45,680
+entrou no laboratório.
+
+221
+00:13:45,680 --> 00:13:48,100
+O que você está fazendo?
+
+222
+00:13:48,100 --> 00:13:51,720
+Se você corresse em linha reta,
+ já teríamos alcançado as crianças!
+
+223
+00:13:51,720 --> 00:13:53,100
+Silêncio!
+
+224
+00:13:55,650 --> 00:13:57,890
+Corram o mais rápido que puderem, depressa!
+
+225
+00:13:57,890 --> 00:14:01,690
+Me sinto tonto, como se tivesse acabado de acordar.
+
+226
+00:14:01,690 --> 00:14:03,370
+É um efeito colateral do tranquilizante.
+
+227
+00:14:03,370 --> 00:14:05,520
+Isso é normal, fique tranquilo.
+
+228
+00:14:06,700 --> 00:14:11,110
+A maioria dos sobreviventes está
+ indo para a única saída da ilha,
+
+229
+00:14:11,110 --> 00:14:16,150
+que fica no primeiro andar da Torre R, 
+onde Luffy e Caesar estão lutando agora.
+
+230
+00:14:16,150 --> 00:14:19,870
+No entanto, Kin'emon ainda está
+ procurando por seu filho, Momonosuke.
+
+231
+00:14:20,600 --> 00:14:24,260
+Eu cometi um erro terrível, Momonosuke!
+
+232
+00:14:24,260 --> 00:14:25,630
+O quê?
+
+233
+00:14:25,630 --> 00:14:29,030
+Momonosuke se transformou
+ em um pequeno dragão?
+
+234
+00:14:30,120 --> 00:14:35,700
+Oh, não! É provável que eu
+ tenha matado meu próprio filho!
+
+235
+00:14:35,700 --> 00:14:37,570
+Momonosuke!
+
+236
+00:14:37,570 --> 00:14:40,360
+Eu fiz algo imperdoável!
+
+237
+00:14:40,360 --> 00:14:43,330
+Kin'emon-san, não corra nessa direção!
+
+238
+00:14:43,330 --> 00:14:45,430
+Esse lugar está cheio de gás venenoso!
+
+239
+00:14:54,270 --> 00:14:55,860
+É um ataque surpresa!
+
+240
+00:14:56,810 --> 00:14:59,350
+Por que isso sempre acontece comigo?
+
+241
+00:15:11,820 --> 00:15:13,500
+O que você pretende?
+
+242
+00:15:15,870 --> 00:15:18,190
+Diante de um oponente com um Haki superior como eu...
+
+243
+00:15:18,190 --> 00:15:21,220
+Ao se transformar em fumaça e se dispersar,
+
+244
+00:15:25,130 --> 00:15:26,840
+você me dá mais facilidade para acertar!
+
+245
+00:15:31,950 --> 00:15:34,710
+Por que você insiste em usar sua habilidade?
+
+246
+00:15:34,710 --> 00:15:36,580
+Você enlouqueceu?
+
+247
+00:15:37,510 --> 00:15:41,640
+Não é seu estilo de
+ combate habitual, Smoker-kun.
+
+248
+00:15:50,240 --> 00:15:51,370
+Oni Take!
+
+249
+00:16:04,650 --> 00:16:07,860
+Entendo que você queira me punir
+ por usar a Marinha como fachada,
+
+250
+00:16:07,860 --> 00:16:11,450
+mas você não tem o que é preciso, Smoker.
+
+251
+00:16:11,450 --> 00:16:15,150
+Você não protegerá seus subordinados
+ com pura coragem e honra.
+
+252
+00:16:22,520 --> 00:16:28,770
+Smoker, obrigado por devolver meu coração.
+
+253
+00:16:32,220 --> 00:16:33,910
+Então esse era o seu plano, maldito.
+
+254
+00:16:37,410 --> 00:16:40,250
+Já paguei minha dívida com você.
+
+255
+00:16:40,250 --> 00:16:42,120
+Apresse-se e derrote-o.
+
+256
+00:16:43,300 --> 00:16:46,630
+Vejo que você odeia dever
+ favores a um pirata, hein?
+
+257
+00:16:47,880 --> 00:16:50,180
+É o pior para um marinheiro.
+
+258
+00:16:50,180 --> 00:16:52,340
+Eu não seria capaz de olhar nos olhos dos meus homens.
+
+259
+00:16:52,340 --> 00:16:58,170
+Bem, admito que você
+ salvou minha vida.
+
+260
+00:16:58,170 --> 00:17:00,570
+Este é o seu fim,
+
+261
+00:17:00,570 --> 00:17:03,460
+Vergo-san.
+
+262
+00:17:03,460 --> 00:17:05,570
+Moleque,
+
+263
+00:17:05,570 --> 00:17:08,740
+finalmente você se lembrou de como
+ falar com seus superiores.
+
+264
+00:17:08,740 --> 00:17:11,910
+Só estou fazendo você acreditar nisso.
+
+265
+00:17:11,910 --> 00:17:16,990
+Não sonhe que poderá
+ ficar nessa posição para sempre.
+
+266
+00:17:17,710 --> 00:17:20,450
+Sei que você está me ouvindo, Joker!
+
+267
+00:17:29,290 --> 00:17:31,450
+Vergo está acabado.
+
+268
+00:17:31,450 --> 00:17:34,480
+Você vai perder seu melhor homem...
+
+269
+00:17:34,480 --> 00:17:37,500
+...e Luffy do Chapéu de Palha cuidará de Caesar.
+
+270
+00:17:37,500 --> 00:17:41,370
+Ou seja, você perderá todo o seu SAD.
+
+271
+00:17:41,370 --> 00:17:46,710
+Sua excessiva confiança impediu
+ que você visse o pior dos futuros.
+
+272
+00:17:46,710 --> 00:17:51,860
+É melhor você começar a pensar
+ no seu próximo movimento enquanto ri.
+
+273
+00:17:51,860 --> 00:17:56,850
+Quanto mais durar sua risada,
+
+274
+00:17:58,150 --> 00:18:00,360
+menos você poderá prever nossos movimentos.
+
+275
+00:18:04,380 --> 00:18:08,930
+Você é mesmo convencido, moleque.
+
+276
+00:18:08,930 --> 00:18:12,970
+Mas você tem certeza de que pode provar isso?
+
+277
+00:18:12,970 --> 00:18:15,850
+Eu suspeito...
+
+278
+00:18:15,850 --> 00:18:18,890
+que você deixou Vergo chateado.
+
+279
+00:18:19,880 --> 00:18:24,130
+Lembra do que aconteceu da última vez?
+
+280
+00:18:24,130 --> 00:18:29,850
+Já não se lembra do que aconteceu
+ naquela vez que você irritou Vergo?
+
+281
+00:18:32,030 --> 00:18:33,540
+Você deve ter ficado traumatizado.
+
+282
+00:18:33,540 --> 00:18:35,460
+É impossível que você esqueça...
+
+283
+00:18:35,460 --> 00:18:38,310
+...o terror que Vergo causou em você.
+
+284
+00:18:40,040 --> 00:18:42,770
+Talvez sua habilidade seja poderosa,
+
+285
+00:18:42,770 --> 00:18:46,770
+mas não é páreo para o Haki dele.
+
+286
+00:18:46,770 --> 00:18:54,600
+Você não está à altura dele,
+ nem em posição nem em força!
+
+287
+00:19:19,270 --> 00:19:22,520
+Já se passaram dois anos desde a Grande Guerra.
+
+288
+00:19:25,640 --> 00:19:29,290
+Quem é que evoluiu?
+
+289
+00:19:30,290 --> 00:19:33,060
+Vocês ficaram parados.
+
+290
+00:19:34,240 --> 00:19:38,040
+Barba Branca marcou o fim de uma era.
+
+291
+00:19:39,390 --> 00:19:43,050
+O Quartel-General da Marinha
+ conseguiu novas forças de combate,
+
+292
+00:19:44,120 --> 00:19:46,740
+mas, embora pareça que não fizeram nada,
+
+293
+00:19:47,910 --> 00:19:52,010
+eles estão se preparando para algo importante.
+
+294
+00:19:52,010 --> 00:19:55,180
+Porque sabem que aquela guerra
+ não foi mais que um prólogo.
+
+295
+00:19:57,130 --> 00:20:00,300
+Você sempre disse...
+
+296
+00:20:00,300 --> 00:20:09,680
+...que pessoas com poder desmedido
+ virão e a Nova Era começará.
+
+297
+00:20:09,680 --> 00:20:13,310
+Eu acabei de quebrar a engrenagem.
+
+298
+00:20:16,620 --> 00:20:22,570
+Não há mais quem pare isso!
