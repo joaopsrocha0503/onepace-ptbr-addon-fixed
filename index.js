@@ -88,7 +88,10 @@ const app = express();
 app.set("trust proxy", true);
 
 app.use((req, res, next) => {
-  requestBase.run(`${req.protocol}://${req.get("host")}`, next);
+  // O proxy interno da Beamup reescreve Host para o nome do serviço (sem
+  // domínio); X-Forwarded-Host preserva o host original quando presente.
+  const host = req.get("x-forwarded-host") || req.get("host");
+  requestBase.run(`${req.protocol}://${host}`, next);
 });
 
 app.use("/subs", express.static(SUBS_DIR));
