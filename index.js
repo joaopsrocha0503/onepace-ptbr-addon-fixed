@@ -30,20 +30,20 @@ try {
 // na altura do pedido.
 const requestBase = new AsyncLocalStorage();
 
+const PUBLIC_URL =
+  process.env.PUBLIC_URL ||
+  "https://e4872e87374f-onepace-ptbr-addon.baby-beamup.club";
+
 const manifest = {
-  id: "community.onepace.ptbr.subs",
+  id: "community.onepace.ptbr.subs.fixed",
   version: pkg.version,
-  name: "One Pace PT-BR Subs",
+  name: "One Pace PT-BR Subs (Fixed)",
   description:
-    "Legendas em Português do Brasil para o One Pace. Baseado no repo oficial one-pace-public-subtitles.",
-  logo: "https://raw.githubusercontent.com/rafaelmotac/onepace-ptbr-addon/main/logo.png",
+    "Legendas em Português do Brasil para o One Pace, corrigidas e sincronizadas. Fork do addon de rafaelmotac com legendas revistas.",
+  logo: `${PUBLIC_URL}/logo.png`,
   resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
   catalogs: [],
-  stremioAddonsConfig: {
-    issuer: "https://stremio-addons.net",
-    signature: "eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..Ga-TpY9kPyn3ycnmbXPddg.dXg8oEqCPgtoWcQlKN5PaPbhp1LdRk_L-0bPQ7kWUBRunYXvkqqnn_QfrHu7o9t4xB6feLuHSu-o9ABfK8iE41YEMVuHs7pM7N3LL624Eu0DbsHbdVtSSpICG0fXVlAC.Wg0yI3iOYn7v4BT8FiJXaw",
-  },
 };
 
 const builder = new addonBuilder(manifest);
@@ -95,6 +95,7 @@ app.use((req, res, next) => {
 });
 
 app.use("/subs", express.static(SUBS_DIR));
+app.get("/logo.png", (req, res) => res.sendFile(path.join(__dirname, "logo.png")));
 app.get("/", (req, res) => res.redirect("/manifest.json"));
 app.use(getRouter(builder.getInterface()));
 
