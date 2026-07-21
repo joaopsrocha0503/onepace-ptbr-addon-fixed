@@ -155,3 +155,21 @@ se conhecem; o narrador dirige-se ao espectador também por construções neutra
 - Quebras de linha dentro de cada legenda (manter a mesma divisão visual).
 - Marcas de formatação, itálicos ou tags, se existirem.
 - Codificação UTF-8 e quebras de linha LF dos ficheiros.
+
+## 8. Canções (genéricos, temas de encerramento, Binks' Sake)
+
+Nas letras cantadas, a **métrica ganha à regra**. O gerúndio PT-BR normalmente
+passa a `a` + infinitivo, mas numa letra isso acrescenta uma sílaba a cada verso
+e estraga o canto — nesses casos **manter o gerúndio**.
+
+Decisão do utilizador (2026-07-21): *"não precisas de traduzir a letra e estragar
+a métrica... quando for alguma situação assim do género podes manter"*. Vale como
+princípio geral — onde a regra de estilo prejudicar o resultado (métrica, rima,
+trocadilho, nome de ataque), prevalece o julgamento.
+
+Exemplo mantido tal como está, no WC_23 (*Binks' Sake*):
+`Fazendo uma entrega, / cruzando o mar` — e não `A fazer uma entrega`.
+
+O que **continua** a ser adaptado nas canções: vocabulário (`lugar`→`sítio`),
+`você`→`tu`, ênclise e acentuação PT-PT — tudo o que não mexe na contagem de
+sílabas.

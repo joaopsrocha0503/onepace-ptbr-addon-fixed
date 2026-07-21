@@ -362,10 +362,16 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 |----------|--------|
 | WC_1 | ✅ Traduzido + verificado (piloto aprovado) |
 | WC_2–WC_7 | ⏭️ Deixados em PT-BR (por opção) |
-| WC_8–22 | ✅ Traduzidos + timestamps verificados |
-| **WC_23 → WC_39** | ⬜ Por traduzir (próximo: WC_23) |
+| WC_8–24 | ✅ Traduzidos + timestamps verificados |
+| **WC_25 → WC_39** | ⬜ Por traduzir (próximo: WC_25) |
 
-**15 de 32 ficheiros do arco feitos.**
+**17 de 32 ficheiros do arco feitos.**
+
+> O WC_23 já estava traduzido quando a sessão de 2026-07-21 o foi retomar — este ficheiro
+> é que tinha ficado por atualizar. Método fiável para descobrir o próximo por traduzir,
+> em vez de confiar só na tabela: contar marcadores PT-BR por ficheiro
+> (`você`, `a gente`, gerúndios `-ndo`, `legal`, `bunda`, `chance`, …). Os traduzidos dão
+> ≤5 ocorrências (quase só `vocês`, legítimo em PT-PT); os por traduzir dão 10–25.
 
 > ⚠️ **Os `.srt` já foram achatados pela frente 1.** Ao retomar a tradução, traduzir por
 > cima do resultado achatado que está em `subs/` — **nunca** a partir do `subs_pre_merge/`.

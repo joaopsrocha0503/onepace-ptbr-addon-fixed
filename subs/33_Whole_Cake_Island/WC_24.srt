@@ -1,10 +1,10 @@
 1
 00:00:01,980 --> 00:00:05,650
-Meus sentimentos por você batem intensamente.
+Os meus sentimentos por ti pulsam intensamente.
 
 2
 00:00:05,650 --> 00:00:09,280
-Se o que você busca...
+Se o que procuras...
 
 3
 00:00:09,280 --> 00:00:12,490
@@ -12,7 +12,7 @@ Se o que você busca...
 
 4
 00:00:12,490 --> 00:00:14,860
-então mostre nossos laços inalteráveis.
+então mostra os nossos vínculos inalteráveis.
 
 5
 00:00:14,860 --> 00:00:16,070
@@ -20,7 +20,7 @@ Somos a esperança.
 
 6
 00:00:22,580 --> 00:00:28,800
-A alegria de nossos corações colidindo...
+A alegria dos nossos corações a colidir...
 
 7
 00:00:29,460 --> 00:00:35,760
@@ -28,35 +28,35 @@ A alegria de nossos corações colidindo...
 
 8
 00:00:36,840 --> 00:00:43,350
-...conecte-as e acene-as...
+...liga-as e ondula-as...
 
 9
 00:00:43,730 --> 00:00:50,230
-...bem no topo deste vento.
+...no topo deste vento.
 
 10
 00:00:50,230 --> 00:00:53,190
-Por que você parou de buscar?
+Porque paraste de procurar?
 
 11
 00:00:53,610 --> 00:00:56,570
-Por que continua lutando sozinho?
+Porque continuas a lutar sozinho?
 
 12
 00:00:56,990 --> 00:00:59,870
-Ei, para qual futuro você se preparou?
+Ei, para que futuro te preparaste?
 
 13
 00:00:59,870 --> 00:01:03,370
-Você já realizou seu sonho.
+Já realizaste o teu sonho.
 
 14
 00:01:03,710 --> 00:01:07,380
-Meus sentimentos por você batem intensamente.
+Os meus sentimentos por ti pulsam intensamente.
 
 15
 00:01:07,380 --> 00:01:11,000
-Se o que você busca...
+Se o que procuras...
 
 16
 00:01:11,000 --> 00:01:14,220
@@ -64,7 +64,7 @@ Se o que você busca...
 
 17
 00:01:14,220 --> 00:01:16,550
-então mostre nossos laços imutáveis.
+então mostra os nossos vínculos imutáveis.
 
 18
 00:01:16,550 --> 00:01:17,800
@@ -76,7 +76,7 @@ Nos confins deste enorme mundo azul,
 
 20
 00:01:21,470 --> 00:01:23,890
-há um lugar onde quero ir com você.
+há um sítio onde quero ir contigo.
 
 21
 00:01:23,890 --> 00:01:26,640
@@ -100,11 +100,11 @@ Por agora, refugiem-se no castelo!
 
 26
 00:01:41,250 --> 00:01:42,920
-Certo, rápido!
+Certo, depressa!
 
 27
 00:01:42,920 --> 00:01:44,650
-Dentro, dentro!
+Para dentro, para dentro!
 
 28
 00:01:44,650 --> 00:01:46,960
@@ -112,7 +112,7 @@ Piratas Firetank!
 
 29
 00:01:46,960 --> 00:01:48,050
-Cubram-nos!
+Deem-nos cobertura!
 
 30
 00:01:48,050 --> 00:01:49,250
@@ -129,16 +129,16 @@ Bege!
 
 33
 00:02:03,520 --> 00:02:05,330
-Eu vi com meus próprios olhos!
+Eu vi com os meus próprios olhos!
 
 34
 00:02:05,330 --> 00:02:08,210
-Não posso acreditar que você
- planejou matar a mama!
+Não acredito que planeaste
+ matar a mama!
 
 35
 00:02:08,210 --> 00:02:11,760
-Esse era o seu objetivo
+Esse era o teu objetivo
  desde o início?!
 
 36
@@ -171,7 +171,7 @@ Cannon Firing!
 
 42
 00:02:25,560 --> 00:02:28,260
-Que legal!
+Que fixe!
 
 43
 00:02:28,260 --> 00:02:29,330
@@ -183,7 +183,7 @@ Um castelo robô!
 
 45
 00:02:31,290 --> 00:02:33,130
-Não é hora de se emocionar!
+Não é altura para entusiasmos!
 
 46
 00:02:33,130 --> 00:02:37,990
@@ -191,7 +191,7 @@ Quanto tempo vamos aguentar?
 
 47
 00:02:41,840 --> 00:02:44,140
-Meus tímpanos não vão aguentar-nen!
+Os meus tímpanos não vão aguentar-nen!
 
 48
 00:02:48,930 --> 00:02:50,050
@@ -215,7 +215,7 @@ O que é isso?!
 
 53
 00:03:18,360 --> 00:03:22,180
-Quem está incomodando
+Quem está a incomodar
  o Gastino-sama?!
 
 54
@@ -224,7 +224,7 @@ Irmão mais velho!
 
 55
 00:03:31,690 --> 00:03:33,790
-Ele vai me matar!
+Ele vai matar-me!
 
 56
 00:03:38,330 --> 00:03:40,360
@@ -240,15 +240,15 @@ Vamos!
 
 59
 00:03:49,170 --> 00:03:51,140
-Não vou deixar vocês irem!
+Não vos deixo ir!
 
 60
 00:03:53,880 --> 00:03:55,840
-Cubram-nos-rero!
+Deem-nos cobertura-rero!
 
 61
 00:03:55,840 --> 00:03:56,820
-Rápido-rero!
+Depressa-rero!
 
 62
 00:04:05,250 --> 00:04:06,990
@@ -256,7 +256,7 @@ Nami!
 
 63
 00:04:06,990 --> 00:04:09,860
-Vou espremer você até a morte!
+Vou esmagar-te até à morte!
 
 64
 00:04:09,860 --> 00:04:11,070
@@ -268,7 +268,7 @@ Nami!
 
 66
 00:04:13,830 --> 00:04:16,780
-Nós seremos seus oponentes!
+Nós seremos os teus adversários!
 
 67
 00:04:22,980 --> 00:04:24,510
@@ -293,7 +293,7 @@ Chormano!
 
 72
 00:04:33,090 --> 00:04:35,120
-Gênio!
+Génio!
 
 73
 00:05:19,730 --> 00:05:23,070
@@ -317,8 +317,8 @@ A tecnologia da Germa.
 
 78
 00:07:16,620 --> 00:07:19,940
-Essas são as armaduras 
-que lembram sua forma!
+São armaduras que se
+lembram da sua forma!
 
 79
 00:07:19,940 --> 00:07:21,720
@@ -326,8 +326,8 @@ Resistem ao fogo!
 
 80
 00:07:21,720 --> 00:07:25,850
-Vou endurecê-las com
- meu doce de novo!
+Vou voltar a endurecê-las
+ com o meu doce!
 
 81
 00:07:26,860 --> 00:07:29,030
@@ -348,7 +348,7 @@ Relâmpago azul.
 
 85
 00:08:17,860 --> 00:08:22,010
-Você não é grande coisa,
+Não és grande coisa,
  mesmo com um corpo tão enorme.
 
 86
@@ -377,7 +377,7 @@ Sanji-kun!
 
 92
 00:09:13,390 --> 00:09:15,770
-Fico feliz que você esteja bem, Nami-san!
+Ainda bem que estás bem, Nami-san!
 
 93
 00:09:18,240 --> 00:09:20,580
@@ -393,7 +393,7 @@ Luffy!
 
 96
 00:09:24,600 --> 00:09:26,040
-Rápido!
+Depressa!
 
 97
 00:09:26,040 --> 00:09:27,450
@@ -401,16 +401,16 @@ Por aqui!
 
 98
 00:09:28,680 --> 00:09:31,720
-Nós também estamos recuando-rero!
+Nós também estamos a recuar-rero!
 
 99
 00:09:49,810 --> 00:09:53,810
-Ora, ora, a Caixa Tamate, 
+Ora, ora, a Caixa Tamate,
 o tesouro lendário!
 
 100
 00:09:53,810 --> 00:09:56,720
-Aqui ninguém vai me encontrar!
+Aqui ninguém me vai encontrar!
 
 101
 00:09:56,720 --> 00:09:58,780
@@ -419,11 +419,11 @@ Que caótico-nen!
 102
 00:09:58,780 --> 00:10:03,550
 Vou aproveitar para trocar
- o que tem dentro...
+ o que está lá dentro...
 
 103
 00:10:43,960 --> 00:10:46,120
-É nossa última chance!
+É a nossa última hipótese!
 
 104
 00:10:48,540 --> 00:10:51,210
@@ -443,11 +443,11 @@ Perospero!
 
 108
 00:11:02,840 --> 00:11:05,660
-Ah, isso doeu.
+Ai, isso doeu.
 
 109
 00:11:05,660 --> 00:11:08,310
-A Germa se juntou a eles?
+A Germa juntou-se a eles?
 
 110
 00:11:09,540 --> 00:11:12,380
@@ -455,7 +455,7 @@ Preparem-se, desgraçados!
 
 111
 00:11:12,380 --> 00:11:15,850
-Você não vai rir para sempre!
+Não vais rir para sempre!
 
 112
 00:11:24,010 --> 00:11:25,260
@@ -472,12 +472,12 @@ Em marcha.
 
 115
 00:11:44,060 --> 00:11:48,050
-Vou atirar nas costas dela
- até que as balas acabem!
+Vou disparar-lhe nas costas
+ até as balas acabarem!
 
 116
 00:11:49,220 --> 00:11:51,700
-Morra, Big Mom!
+Morre, Big Mom!
 
 117
 00:11:52,700 --> 00:11:53,430
@@ -493,7 +493,7 @@ O que aconteceu?!
 
 120
 00:12:01,150 --> 00:12:05,510
-Pai, eles destruíram os 
+Pai, destruíram os
 canhões da esquerda!
 
 121
@@ -502,7 +502,7 @@ Todos os canhões estão cheios de mochi,
 
 122
 00:12:09,070 --> 00:12:12,250
-por isso não podemos atirar!
+por isso não podemos disparar!
 
 123
 00:12:15,450 --> 00:12:18,020
@@ -514,25 +514,25 @@ DENTRO DO BIG FATHER
 
 125
 00:12:22,490 --> 00:12:26,020
-Um informe a todos no castelo!
+Um aviso a todos no castelo!
 
 126
 00:12:40,130 --> 00:12:44,820
-Os pés do Big Father foram 
+Os pés do Big Father foram
 endurecidos com doce.
 
 127
 00:12:45,690 --> 00:12:48,780
-Não podemos nos mover!
+Não nos conseguimos mexer!
 
 128
 00:12:50,860 --> 00:12:55,650
-Seremos cercados pelos
+Vamos ser cercados pelos
  Piratas da Big Mom, a Yonkou,
 
 129
 00:12:55,650 --> 00:13:00,990
-e teremos que lutar uma batalha sob cerco, da qual não temos esperança alguma!
+e teremos de travar uma batalha sob cerco, da qual não temos esperança alguma!
 
 130
 00:13:02,080 --> 00:13:04,740
@@ -540,7 +540,7 @@ Não pode ser...!
 
 131
 00:13:20,910 --> 00:13:23,780
-Eliminaremos quem quer que saia.
+Eliminamos quem quer que saia.
 
 132
 00:13:26,430 --> 00:13:28,660
@@ -548,7 +548,7 @@ Saiam já!
 
 133
 00:13:30,110 --> 00:13:33,190
-Te usaram uma e outra vez...
+Usaram-te uma e outra vez...
 
 134
 00:13:33,190 --> 00:13:35,860
@@ -556,7 +556,7 @@ S-Sou a vítima, irmão mais velho!
 
 135
 00:13:35,860 --> 00:13:39,100
-Chute a bunda de todos eles!
+Dá-lhes um pontapé no rabo a todos!
 
 136
 00:13:41,770 --> 00:13:43,100
@@ -572,11 +572,11 @@ Apareceu, apareceu!
 
 139
 00:14:04,200 --> 00:14:05,600
-Você é incrível, Bege!
+És incrível, Bege!
 
 140
 00:14:05,600 --> 00:14:07,810
-Você se transformou neste
+Transformaste-te neste
  castelo gigante!
 
 141
@@ -586,11 +586,11 @@ A Shiro Shiro no Mi é incrível!
 142
 00:14:09,790 --> 00:14:11,890
 Não há tempo para
- se alegrar com isso!
+ festejos!
 
 143
 00:14:11,890 --> 00:14:13,670
-Considerem a situação 
+Pensem na situação
 em que estamos!
 
 144
@@ -599,7 +599,7 @@ Maldita seja...
 
 145
 00:14:14,830 --> 00:14:20,540
-O plano de assassinato no qual trabalhamos por mais de um ano acabou em fracasso!
+O plano de assassínio em que trabalhámos durante mais de um ano acabou em fracasso!
 
 146
 00:14:20,540 --> 00:14:24,920
@@ -608,8 +608,8 @@ O plano de assassinato no qual trabalhamos por mais de um ano acabou em fracasso
 
 147
 00:14:26,270 --> 00:14:30,160
-No final das contas, os Yonkou
- estão em outro nível, hein?
+No fim de contas, os Yonkou
+ estão noutro nível, não é?
 
 148
 00:14:30,160 --> 00:14:31,880
@@ -617,12 +617,12 @@ Então, o que fazemos?
 
 149
 00:14:31,880 --> 00:14:35,020
-Não temos nem um 
+Não temos nem um
 único minuto a perder.
 
 150
 00:14:35,020 --> 00:14:36,620
-Vou lhes dizer por quê.
+Vou dizer-vos porquê.
 
 151
 00:14:36,620 --> 00:14:39,960
@@ -634,7 +634,7 @@ Este castelo sou eu.
 
 153
 00:14:41,730 --> 00:14:43,850
-Ele é forte, mas não invencível.
+É forte, mas não é invencível.
 
 154
 00:14:43,850 --> 00:14:46,440
@@ -646,7 +646,7 @@ O castelo desaparecerá...
 
 156
 00:14:48,880 --> 00:14:52,860
-E uma vez que estiverem fora, 
+E assim que estiverem lá fora,
 serão comida daqueles monstros!
 
 157
@@ -655,7 +655,7 @@ Comida?!
 
 158
 00:15:08,350 --> 00:15:11,260
-Não vou perdoar vocês!
+Não vos perdoo!
 
 159
 00:15:13,920 --> 00:15:14,830
@@ -663,25 +663,25 @@ Mama!
 
 160
 00:15:16,690 --> 00:15:19,830
-Posso sentir a raiva da
- mama por todo o meu corpo!
+Sinto a raiva da mama
+ por todo o meu corpo!
 
 161
 00:15:31,010 --> 00:15:35,350
-Vocês vão viver um inferno, tanto se saírem
- quanto se ficarem aqui.
+Vocês vão viver um inferno, quer saiam
+ quer fiquem aqui.
 
 162
 00:15:35,350 --> 00:15:37,680
-Compreendam que estamos em apuros!
+Percebam que estamos em apuros!
 
 163
 00:15:37,680 --> 00:15:39,730
-Não me culpe, Bege!
+Não me culpes, Bege!
 
 164
 00:15:39,730 --> 00:15:42,050
-Aquele míssil era o mais 
+Aquele míssil era o mais
 avançado do mundo...
 
 165
@@ -698,11 +698,11 @@ Ei, Bege!
 
 168
 00:15:52,220 --> 00:15:53,080
-O que está acontecendo?!
+O que se está a passar?!
 
 169
 00:15:53,080 --> 00:15:54,630
-Querido, você está bem?!
+Querido, estás bem?!
 
 170
 00:15:58,140 --> 00:15:59,540
@@ -742,11 +742,11 @@ Que medo!
 
 179
 00:16:24,810 --> 00:16:26,620
-Ela está nos olhando!
+Está a olhar para nós!
 
 180
 00:16:28,270 --> 00:16:31,980
-Big Mom recuperou a consciência!
+A Big Mom recuperou a consciência!
 
 181
 00:16:41,080 --> 00:16:44,250
@@ -754,7 +754,7 @@ Saiam todos do castelo!
 
 182
 00:16:44,250 --> 00:16:46,580
-Mostrem a cara, idiotas!
+Deem a cara, idiotas!
 
 183
 00:16:49,320 --> 00:16:51,160
@@ -766,7 +766,7 @@ Pai!
 
 185
 00:16:52,560 --> 00:16:55,830
-Você me traiu?
+Traíste-me?
 
 186
 00:16:55,830 --> 00:16:58,330
@@ -778,7 +778,7 @@ Querido!
 
 188
 00:17:01,290 --> 00:17:03,290
-Resista!
+Aguenta!
 
 189
 00:17:05,140 --> 00:17:08,840
@@ -786,7 +786,7 @@ Que medo, que medo!
 
 190
 00:17:08,840 --> 00:17:11,010
-Saia, Bege!
+Sai, Bege!
 
 191
 00:17:11,010 --> 00:17:12,940
@@ -798,7 +798,7 @@ Bege!
 
 193
 00:17:18,300 --> 00:17:19,890
-Cuide do Pez!
+Cuida do Pez!
 
 194
 00:17:26,020 --> 00:17:27,960
@@ -806,7 +806,7 @@ Saiam!
 
 195
 00:17:27,960 --> 00:17:30,190
-Espere!
+Espera!
 
 196
 00:17:30,190 --> 00:17:31,800
@@ -814,16 +814,16 @@ Mama, sou eu!
 
 197
 00:17:31,800 --> 00:17:34,200
-Bege é meu marido
+O Bege é o meu marido
  e temos um filho!
 
 198
 00:17:34,200 --> 00:17:35,540
-Perdoe-o, por favor!
+Perdoa-lhe, por favor!
 
 199
 00:17:35,540 --> 00:17:37,170
-Faça vista grossa!
+Faz vista grossa!
 
 200
 00:17:37,170 --> 00:17:38,790
@@ -831,7 +831,7 @@ Chiffon!
 
 201
 00:17:39,620 --> 00:17:43,210
-Você sempre parece idêntica à Lola...
+Continuas na mesma, igualzinha à Lola...
 
 202
 00:17:44,140 --> 00:17:45,170
@@ -843,7 +843,7 @@ Cuidado!
 
 204
 00:17:46,280 --> 00:17:47,510
-Recue, Chiffon!
+Recua, Chiffon!
 
 205
 00:17:47,510 --> 00:17:48,650
@@ -855,8 +855,8 @@ Mama, por favor!
 
 207
 00:17:51,050 --> 00:17:55,550
-Já disse para não me
- mostrar esse rosto!
+Já te disse para não me
+ mostrares essa cara!
 
 208
 00:18:02,850 --> 00:18:04,670
@@ -864,7 +864,7 @@ Foi por pouco...
 
 209
 00:18:04,670 --> 00:18:05,810
-Você está bem?
+Estás bem?
 
 210
 00:18:05,810 --> 00:18:07,170
@@ -872,12 +872,12 @@ Senhora!
 
 211
 00:18:07,170 --> 00:18:11,170
-Você também é cúmplice, Chiffon?!
+Também és cúmplice, Chiffon?!
 
 212
 00:18:11,170 --> 00:18:14,910
-Não pense que poderá
- comer doces amanhã!
+Nem penses que amanhã
+ vais comer doces!
 
 213
 00:18:14,910 --> 00:18:15,810
@@ -886,7 +886,7 @@ Mama!
 214
 00:18:19,010 --> 00:18:24,380
 Quando o castelo for destruído e
- Bege estiver morto, todos sairão!
+ o Bege estiver morto, saem todos!
 
 215
 00:18:24,380 --> 00:18:26,750
@@ -902,7 +902,7 @@ Os Chapéu de Palha...
 
 218
 00:18:30,190 --> 00:18:31,880
-E também Jinbe!
+E também o Jinbe!
 
 219
 00:18:31,880 --> 00:18:33,790
@@ -914,7 +914,7 @@ Arruinaram o casamento e a festa do chá!
 
 221
 00:18:37,660 --> 00:18:40,550
-Nos subestimaram demais.
+Subestimaram-nos demasiado.
 
 222
 00:18:40,550 --> 00:18:43,740
@@ -934,7 +934,7 @@ Querido!
 
 226
 00:18:55,600 --> 00:18:57,040
-Você está bem?
+Estás bem?
 
 227
 00:18:57,040 --> 00:18:59,720
@@ -942,16 +942,16 @@ Maldita velha!
 
 228
 00:19:02,440 --> 00:19:06,840
-O Big Father nem se abala com 
+O Big Father nem se abala com
 os disparos de canhão,
 
 229
 00:19:06,840 --> 00:19:09,060
-mas contra ela não é páreo!
+mas contra ela não tem hipótese!
 
 230
 00:19:09,060 --> 00:19:12,300
-Vou sair para chutar o traseiro dela!
+Vou lá fora dar-lhe um pontapé no rabo!
 
 231
 00:19:12,300 --> 00:19:13,770
@@ -959,7 +959,7 @@ Não, Luffy!
 
 232
 00:19:13,770 --> 00:19:15,060
-Chopper, pare ele!
+Chopper, trava-o!
 
 233
 00:19:15,060 --> 00:19:16,030
@@ -971,7 +971,7 @@ O quê?!
 
 235
 00:19:21,290 --> 00:19:23,210
-Ei, me solte!
+Ei, larga-me!
 
 236
 00:19:23,210 --> 00:19:24,270
@@ -979,7 +979,7 @@ Ei, Chopper!
 
 237
 00:19:24,270 --> 00:19:25,170
-Me solte!
+Larga-me!
 
 238
 00:19:25,170 --> 00:19:26,240
@@ -987,11 +987,11 @@ Luffy!
 
 239
 00:19:26,240 --> 00:19:28,450
-Não responda aos ataques dela!
+Não respondas aos ataques dela!
 
 240
 00:19:28,450 --> 00:19:32,820
-Viemos para resgatar 
+Viemos para resgatar
 o Sanji-kun, não foi?!
 
 241
@@ -1000,17 +1000,17 @@ Conseguimos uma cópia do Poneglyph...
 
 242
 00:19:35,600 --> 00:19:39,550
-...e até realizamos o desejo
- do Sanji-kun de salvar sua família!
+...e até realizámos o desejo
+ do Sanji-kun de salvar a família dele!
 
 243
 00:19:39,550 --> 00:19:42,560
-Já alcançamos nossos objetivos!
+Já alcançámos os nossos objetivos!
 
 244
 00:19:42,560 --> 00:19:47,100
-Se você tem tempo para contra-atacar, 
-melhor usar para pensar em como escapar daqui!
+Se tens tempo para contra-atacar,
+mais vale usá-lo para pensar em como fugir daqui!
 
 245
 00:19:47,100 --> 00:19:52,000
@@ -1018,17 +1018,17 @@ Se quiséssemos lutar, teríamos trazido o Zoro e os outros, não é?!
 
 246
 00:19:52,000 --> 00:19:54,970
-Luffy-san, a Nami-san está certa.
+Luffy-san, a Nami-san tem razão.
 
 247
 00:19:54,970 --> 00:19:59,610
-Conseguimos nos infiltrar 
+Conseguimos infiltrar-nos
 porque somos poucos.
 
 248
 00:19:59,610 --> 00:20:03,850
-Vamos todos para o País de Wano, onde 
-o Zoro-san e os outros estão nos esperando!
+Vamos todos para o País de Wano, onde
+o Zoro-san e os outros estão à nossa espera!
 
 249
 00:20:07,900 --> 00:20:09,320
@@ -1056,8 +1056,8 @@ Então, o que fazemos?!
 
 255
 00:20:19,430 --> 00:20:22,740
-O Bege está levando
- os golpes por nós!
+O Bege está a levar
+ com os golpes por nós!
 
 256
 00:20:29,320 --> 00:20:31,080
@@ -1065,28 +1065,28 @@ Maldita seja...
 
 257
 00:20:31,080 --> 00:20:34,580
-Nossos resultados foram péssimos...
+Os nossos resultados foram péssimos...
 
 258
 00:20:35,610 --> 00:20:39,370
 Não acho justo que
- só vocês tenham sucesso!
+ só vocês se safem!
 
 259
 00:20:39,370 --> 00:20:42,410
-Espere um pouco, Bege-san!
+Espera lá, Bege-san!
 
 260
 00:20:42,410 --> 00:20:44,540
-Não tente nos arrastar com você!
+Não nos tentes arrastar contigo!
 
 261
 00:20:44,540 --> 00:20:46,690
-Eu fiz minha parte!
+Eu fiz a minha parte!
 
 262
 00:20:46,690 --> 00:20:49,550
-Devolva meu coração!
+Devolve-me o coração!
 
 263
 00:20:50,560 --> 00:20:52,630
@@ -1094,12 +1094,12 @@ Arrastar?!
 
 264
 00:20:52,630 --> 00:20:55,100
-Não é uma má ideia.
+Não é má ideia.
 
 265
 00:20:55,970 --> 00:20:59,310
-Desde o início, vocês 
-nunca me importaram.
+Desde o início que vocês
+nunca me interessaram.
 
 266
 00:21:09,970 --> 00:21:11,190
@@ -1107,15 +1107,15 @@ Mas...
 
 267
 00:21:11,190 --> 00:21:16,160
-...meus adoráveis subordinados...
+...os meus adoráveis subordinados...
 
 268
 00:21:16,160 --> 00:21:18,220
-...e minha amada esposa e filho estão aqui.
+...e a minha amada mulher e filho estão aqui.
 
 269
 00:21:21,560 --> 00:21:25,030
-Não posso deixar que morram!
+Não posso deixá-los morrer!
 
 270
 00:21:25,030 --> 00:21:26,460
@@ -1135,7 +1135,7 @@ Só há uma maneira...
 
 274
 00:21:44,370 --> 00:21:46,120
-...de todos sobreviverem!
+...de todos sobrevivermos!
 
 275
 00:21:46,900 --> 00:21:47,950
@@ -1159,20 +1159,20 @@ Ele não vai aguentar muito...
 
 280
 00:22:03,070 --> 00:22:06,110
-Preparem-se para atacar 
+Preparem-se para atacar
 a qualquer momento.
 
 281
 00:22:07,550 --> 00:22:09,010
-Vou esmagá-los com isso!
+Vou esmagá-los com isto!
 
 282
 00:22:10,350 --> 00:22:11,740
-Vamos eliminar...
+Vamos eliminá-los...
 
 283
 00:22:11,740 --> 00:22:13,910
-...até o último deles!
+...até ao último!
 
 284
 00:22:16,610 --> 00:22:18,480
@@ -1180,7 +1180,7 @@ Saiam já!
 
 285
 00:22:18,480 --> 00:22:21,420
-Vou prender vocês em um espelho!
+Vou prender-vos num espelho!
 
 286
 00:22:24,860 --> 00:22:27,300
@@ -1192,7 +1192,7 @@ A única forma de sobreviver...
 
 288
 00:22:28,530 --> 00:22:32,080
-...que este quarto
+...que esta sala
  dentro do Big Father,
 
 289
@@ -1209,7 +1209,7 @@ Não se assustem!
 
 292
 00:22:41,640 --> 00:22:44,640
-Não importa o quão forte nos ataquem...
+Por mais forte que nos ataquem...
 
 293
 00:22:45,650 --> 00:22:49,470
@@ -1217,11 +1217,11 @@ Ou se o Big Father se inclinar ou rolar...
 
 294
 00:22:50,500 --> 00:22:53,820
-Só eu vou me machucar.
+Só eu me vou magoar.
 
 295
 00:22:53,820 --> 00:22:58,620
-Enquanto estiverem aqui, 
+Enquanto estiverem aqui,
 não serão afetados!
 
 296
@@ -1230,7 +1230,7 @@ não serão afetados!
 
 297
 00:22:59,940 --> 00:23:02,960
-Certamente, Bege-san 
+De facto, o Bege-san
 é o único que sofre.
 
 298
@@ -1243,11 +1243,11 @@ mas aqui está tudo tranquilo.
 
 300
 00:23:15,490 --> 00:23:17,490
-É isso.
+É isso mesmo.
 
 301
 00:23:17,490 --> 00:23:22,710
-E será o mesmo se eu voltar 
+E será o mesmo se eu voltar
 à minha forma humana.
 
 302
@@ -1256,18 +1256,18 @@ Escutem...
 
 303
 00:23:24,240 --> 00:23:27,830
-Vou voltar à minha forma humana 
-enquanto vocês estão dentro.
+Vou voltar à minha forma humana
+enquanto vocês estão cá dentro.
 
 304
 00:23:27,830 --> 00:23:32,180
-Então, o Caesar vai me carregar 
-e fugiremos voando.
+Depois, o Caesar leva-me
+ e fugimos a voar.
 
 305
 00:23:32,180 --> 00:23:35,520
-Se der certo, sairemos 
-dessa enrascada.
+Se correr bem, saímos
+desta enrascada.
 
 306
 00:23:37,760 --> 00:23:38,670
@@ -1275,8 +1275,8 @@ Ei!
 
 307
 00:23:38,670 --> 00:23:41,870
-Por que você decide quando colocar
- minha vida em perigo, idiota?!
+Quem és tu para decidires pôr
+ a minha vida em perigo, idiota?!
 
 308
 00:23:41,870 --> 00:23:44,040
@@ -1284,26 +1284,26 @@ Isso é suicídio!
 
 309
 00:23:44,040 --> 00:23:47,440
-Nesse momento, 
-vão nos surrar!
+Naquele momento,
+dão-nos uma sova!
 
 310
 00:23:47,440 --> 00:23:49,600
-Não há nenhuma 
-chance de sucesso!
+Não há hipótese
+ nenhuma de resultar!
 
 311
 00:23:49,600 --> 00:23:51,740
-Também há muitos usuários
+Também há muitos utilizadores
  de Busoshoku Haki!
 
 312
 00:23:51,740 --> 00:23:54,610
-Não adianta se eu virar gás!
+Não adianta nada eu virar gás!
 
 313
 00:23:54,610 --> 00:23:56,670
-Responda o seguinte.
+Responde-me a isto.
 
 314
 00:23:58,450 --> 00:23:59,690
@@ -1311,25 +1311,25 @@ Sanji...
 
 315
 00:24:02,650 --> 00:24:04,810
-Por que você nos salvou?
+Porque nos salvaste?
 
 316
 00:24:06,590 --> 00:24:11,430
-As pessoas que você mais odeia
-caíram completamente na armadilha dela!
+As pessoas que mais odeias
+caíram por completo na armadilha dela!
 
 317
 00:24:15,450 --> 00:24:18,810
-Porque entristeceria meu pai...
+Porque entristeceria o meu pai...
 
 318
 00:24:19,970 --> 00:24:24,040
-...que eu continuasse preso 
-aos meus ressentimentos infantis...
+...que eu continuasse preso
+ aos meus ressentimentos infantis...
 
 319
 00:24:27,000 --> 00:24:28,550
-Me libertem, por favor!
+Libertem-me, por favor!
 
 320
 00:24:28,550 --> 00:24:29,890
@@ -1337,34 +1337,34 @@ Pai!
 
 321
 00:24:29,890 --> 00:24:31,390
-Sinto muito!
+Desculpa!
 
 322
 00:24:32,570 --> 00:24:36,490
-Sinto ter nascido fraco!
+Desculpa ter nascido fraco!
 
 323
 00:24:36,490 --> 00:24:43,540
-Me ajude, pai!
+Ajuda-me, pai!
 
 324
 00:24:45,770 --> 00:24:49,080
-Ele ficaria decepcionado se visse que eu
+Ficaria desiludido se visse que eu
  me tornei um homem pequeno...
 
 325
 00:24:49,080 --> 00:24:53,570
 ...capaz de rir da morte
- de sua própria família biológica.
+ da sua própria família biológica.
 
 326
 00:24:53,570 --> 00:24:58,140
-Cuide-se dos resfriados.
+Cuidado com as constipações.
 
 327
 00:24:58,140 --> 00:25:02,160
 Não quero viver de uma forma
- que não possa...
+ que não me deixe...
 
 328
 00:25:02,160 --> 00:25:03,820
@@ -1372,11 +1372,11 @@ Não quero viver de uma forma
 
 329
 00:25:08,380 --> 00:25:12,390
-Nunca ouse dizer a ninguém...
+Nunca te atrevas a dizer a ninguém...
 
 330
 00:25:12,390 --> 00:25:17,020
-...que eu sou seu pai!
+...que eu sou teu pai!
 
 331
 00:25:20,900 --> 00:25:25,110
@@ -1385,7 +1385,7 @@ Nunca ouse dizer a ninguém...
 
 332
 00:25:26,090 --> 00:25:27,770
-Você entende, certo?
+Percebeste, não percebeste?
 
 333
 00:25:31,210 --> 00:25:33,110
@@ -1393,25 +1393,25 @@ Há treze anos...
 
 334
 00:25:33,110 --> 00:25:38,550
-...Vinsmoke Sanji escapou
+...o Vinsmoke Sanji fugiu
  da Germa e morreu no mar.
 
 335
 00:25:38,550 --> 00:25:41,290
-Isso é o que você queria.
+Era isso que tu querias.
 
 336
 00:25:53,320 --> 00:25:55,230
-Então admita...
+Então admite...
 
 337
 00:25:56,400 --> 00:26:01,370
-...que você não é meu pai, 
+...que não és meu pai,
 Vinsmoke Judge!
 
 338
 00:26:01,370 --> 00:26:04,400
-Não apareça mais diante de nós!
+Não voltes a aparecer diante de nós!
 
 339
 00:26:29,050 --> 00:26:30,670
@@ -1423,7 +1423,7 @@ Prometo...
 
 341
 00:26:33,360 --> 00:26:35,270
-...que não me aproximarei de você...
+...que não me aproximarei de ti...
 
 342
 00:26:35,270 --> 00:26:38,990
@@ -1431,7 +1431,7 @@ Prometo...
 
 343
 00:26:45,350 --> 00:26:48,170
-Já cumpri minha missão!
+Já cumpri a minha missão!
 
 344
 00:26:48,170 --> 00:26:50,500
@@ -1439,12 +1439,12 @@ Isso não faz parte do acordo!
 
 345
 00:26:50,500 --> 00:26:55,020
-Se não fizermos algo, 
-você também morrerá, Caesar!
+Se não fizermos alguma coisa,
+também morres, Caesar!
 
 346
 00:26:56,830 --> 00:26:58,900
-Abra a porta!
+Abre a porta!
 
 347
 00:27:00,750 --> 00:27:02,490
@@ -1452,35 +1452,35 @@ Gang Bege!
 
 348
 00:27:02,490 --> 00:27:05,450
-Até que você e o Caesar
- Clown escapem voando,
+Até que tu e o Caesar
+ Clown fujam a voar,
 
 349
 00:27:05,450 --> 00:27:08,020
 nós, da Germa,
- vamos escoltá-los!
+ vamos escoltar-vos!
 
 350
 00:27:08,020 --> 00:27:09,370
-E-Espere um momento!
+E-Espera lá!
 
 351
 00:27:09,370 --> 00:27:12,300
-Por que você decide
+Quem és tu para decidires
  o que eu vou fazer?!
 
 352
 00:27:12,300 --> 00:27:15,880
-Você continua tão arrogante 
+Continuas tão arrogante
 como sempre, Judge!
 
 353
 00:27:18,350 --> 00:27:19,690
-Entendi.
+Percebi.
 
 354
 00:27:19,690 --> 00:27:22,040
-A Germa também pode voar, hein?
+A Germa também sabe voar, não é?
 
 355
 00:27:22,040 --> 00:27:24,240
@@ -1488,11 +1488,11 @@ Então vamos deixá-los para trás.
 
 356
 00:27:24,240 --> 00:27:25,420
-Não importa.
+Não interessa.
 
 357
 00:27:27,860 --> 00:27:30,860
-Bem, se precisamos ganhar 
+Bem, se precisamos de ganhar
 tempo, eu também...
 
 358
@@ -1506,11 +1506,11 @@ Mas...
 360
 00:27:56,590 --> 00:28:00,460
 Não quero dever
- nada a um fracasso!
+ nada a um fracassado!
 
 361
 00:28:03,150 --> 00:28:05,920
-É assim que eles acertam as contas.
+É assim que eles acertam contas.
 
 362
 00:28:07,260 --> 00:28:09,320
@@ -1518,7 +1518,7 @@ Esperem, esperem, ouçam, ouçam!
 
 363
 00:28:09,320 --> 00:28:12,700
-Não disse que faria isso, idiotas!
+Eu não disse que fazia isso, idiotas!
 
 364
 00:28:12,700 --> 00:28:14,340
@@ -1526,7 +1526,7 @@ Caesar!
 
 365
 00:28:14,340 --> 00:28:16,310
-Cale a boca e faça!
+Cala-te e faz!
 
 366
 00:28:16,310 --> 00:28:18,880
@@ -1534,7 +1534,7 @@ Isso dói!
 
 367
 00:28:18,880 --> 00:28:21,050
-Vocês vão me pagar!
+Vocês vão pagar-mas!
 
 368
 00:28:24,420 --> 00:28:27,650
@@ -1558,7 +1558,7 @@ Tempos:
 Halee,
 Umim
 
-Controle de qualidade:
+Controlo de qualidade:
 Bastia,
 Feeso,
 Galaxy 9000,
