@@ -85,6 +85,27 @@ describe("subtitle handler logic", () => {
     expect(result[0].url).toBe(`${SUBS_BASE_URL}/${srtOf(mapping.RO_1)}`);
   });
 
+  // Espelha a rota de compatibilidade do index.js: até 2026-07-21 os .srt viviam
+  // direto em /subs/<ficheiro>.srt e essas respostas ficam 4h em cache.
+  it("maps every legacy flat filename back to its arc path", () => {
+    const legacy = new Map();
+    for (const entry of Object.values(mapping)) {
+      const paths = typeof entry === "string" ? [entry] : [entry?.srt, entry?.ass];
+      for (const relative of paths) {
+        if (relative?.includes("/")) {
+          legacy.set(relative.slice(relative.lastIndexOf("/") + 1), relative);
+        }
+      }
+    }
+
+    for (const value of Object.values(mapping)) {
+      const srtFile = srtOf(value);
+      const base = srtFile.slice(srtFile.lastIndexOf("/") + 1);
+      expect(legacy.get(base), `sem redirect para ${base}`).toBe(srtFile);
+    }
+    expect(legacy.get("WC_15.srt")).toBe("33_Whole_Cake_Island/WC_15.srt");
+  });
+
   it("does not percent-encode the arc subfolder separator", () => {
     const result = getSubtitles("WC_15");
     expect(result[0].url).not.toContain("%2F");

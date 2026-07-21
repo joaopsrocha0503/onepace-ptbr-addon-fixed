@@ -21,10 +21,22 @@ const SUBS_DIR = path.join(__dirname, "subs");
 const encodePath = (p) => p.split("/").map(encodeURIComponent).join("/");
 let subtitleMap = {};
 
+// Nome do ficheiro -> caminho relativo com a subpasta do arco. Preenchido a
+// partir do mapping.json; serve a rota de compatibilidade no fim deste ficheiro.
+const legacySubtitlePaths = new Map();
+
 try {
   subtitleMap = JSON.parse(
     fs.readFileSync(path.join(SUBS_DIR, "mapping.json"), "utf-8")
   );
+  for (const entry of Object.values(subtitleMap)) {
+    const paths = typeof entry === "string" ? [entry] : [entry?.srt, entry?.ass];
+    for (const relative of paths) {
+      if (relative?.includes("/")) {
+        legacySubtitlePaths.set(relative.slice(relative.lastIndexOf("/") + 1), relative);
+      }
+    }
+  }
   console.log(`📂 ${Object.keys(subtitleMap).length} legendas PT-BR carregadas`);
 } catch (e) {
   console.error("❌ Erro ao carregar mapping.json:", e.message);
@@ -100,6 +112,17 @@ app.use((req, res, next) => {
 });
 
 app.use("/subs", express.static(SUBS_DIR));
+
+// Compatibilidade com os caminhos planos anteriores a 2026-07-21, quando subs/
+// passou a estar organizada em subpastas por arco. As respostas do addon ficam
+// 4h em cache no Cloudflare, por isso um cliente pode continuar a pedir
+// /subs/WC_15.srt durante esse tempo -- redirecionar em vez de dar 404.
+// Só apanha um segmento, logo nunca colide com /subs/<arco>/<ficheiro>.
+app.get("/subs/:file", (req, res, next) => {
+  const target = legacySubtitlePaths.get(req.params.file);
+  if (!target) return next();
+  res.redirect(302, `/subs/${encodePath(target)}`);
+});
 app.get("/logo.png", (req, res) => res.sendFile(path.join(__dirname, "logo.png")));
 app.get("/", (req, res) => res.redirect("/manifest.json"));
 app.use(getRouter(builder.getInterface()));
