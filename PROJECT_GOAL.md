@@ -1,0 +1,357 @@
+# PROJECT GOAL — Legendas One Pace (addon Stremio)
+
+> Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
+> **Última atualização: 2026-07-21**
+
+## Objetivo
+
+Resolver as **sobreposições de legendas** nos episódios de **Whole Cake Island em diante**
+(arcos 33–37). Os arcos anteriores não são relevantes, por decisão do utilizador.
+
+| Frente | Estado |
+|---|---|
+| **1. Posicionamento / sobreposição** | ✅ **Aplicado aos 117 episódios do âmbito.** Falta commit + redeploy Beamup |
+| **2. Adaptação PT-BR → PT-PT** | ⏸️ **Em pausa** — retomar só quando o utilizador disser (próximo: WC_23) |
+
+---
+
+# FRENTE 1 — Posicionamento das legendas (APLICADA)
+
+## Problema
+
+Os `.srt` foram convertidos a partir dos `.ass` e a conversão **deitou fora todo o
+posicionamento** (`\pos`, `\move`, `\anN`, alinhamento do estilo). Resultado: cartazes,
+letreiros e notas de tradução — que no original apareciam no topo ou a meio do ecrã —
+caem todos para o rodapé e ficam **sobrepostos ao diálogo**. É mais visível em nomes de
+ataques e nos quadros de apresentação de personagens (nome, recompensa, etc.).
+
+Há ainda dois tipos de lixo gráfico no `.srt`:
+- **Karaoke do genérico expandido letra a letra** — um bloco de SRT por caractere
+  (o WC_23 tem 414). Estilos `IS_ROM`, `Karaoke*`, `Kanji*`.
+- **Logo animado do fansub** partido em 4 peças (Mola / Shi / Chibukai / Fansub!).
+  Estilos `NDTBoard`, `NDTSkull`, `NDTHat`, `NDTHat2`.
+
+## Posicionamento NÃO funciona no Stremio — testado e descartado
+
+Testado no Stremio a 2026-07-21, com o WC_15, as duas vias falharam. **Não voltar a
+tentar nenhuma delas:**
+
+| Tentativa | Resultado |
+|---|---|
+| `{\an8}` / `{\an5}` num `.srt` | O Stremio imprime a tag **como texto no ecrã** (`{\an5}SALA DO TESOURO`) |
+| `line:45% align:center` num `.vtt` | O Stremio **ignora os cue settings** e empilha na mesma no rodapé |
+
+O `.vtt` chegou a parecer bom porque já não mostrava lixo, mas o letreiro ficou a ~85% da
+altura em vez dos 45% pedidos — e, pior, **por baixo** do diálogo, invertendo a relação do
+original (o Stremio empilha por ordem de início).
+
+## Solução adotada: achatamento das sobreposições
+
+Em vez de pedir posicionamento ao leitor, a sobreposição é eliminada **no próprio
+ficheiro**. Onde vários blocos coincidem no tempo, o tempo é partido nas fronteiras e o
+que está ativo em simultâneo passa a ser **um único bloco multi-linha**:
+
+```
+00:07:05,100 --> 00:07:05,940   Ainda consegues ficar de pé?
+00:07:05,940 --> 00:07:09,010   SALA DO TESOURO
+                                Ainda consegues ficar de pé?
+00:07:09,010 --> 00:07:09,700   SALA DO TESOURO
+```
+
+A **ordem dentro do bloco** vem da zona vertical original no `.ass` (topo primeiro, rodapé
+por último), o que repõe a relação que o fansub tinha: cartaz por cima do diálogo. Os
+`.ass` no repo são os originais PT-BR com toda a formatação, logo a zona é **derivada, não
+adivinhada** (`\pos`/`\move` → fração da altura; senão o `\anN` ou o alinhamento do estilo).
+
+Vantagens sobre as tentativas falhadas: funciona em **qualquer leitor**, controla a ordem,
+e mantém-se em `.srt` — zero alterações ao `index.js`, ao `mapping.json` ou ao deploy.
+
+Custo aceite: os **timestamps deixam de ser comparáveis 1:1** com o original, porque os
+blocos são partidos nas fronteiras de sobreposição. Ver secção de verificação.
+
+**Decisão do utilizador (2026-07-21):** remover karaoke letra-a-letra **e** logo do fansub.
+Mas as **notas de tradução ficam** (estilo `NDTText`, ex.: *"Memo vem de 'memória'."*) —
+são conteúdo, e ficam por cima do diálogo.
+
+## Comandos
+
+```bash
+# análise, não escreve nada
+python scripts/fix_subtitle_positions.py WC_15 WC_23
+
+# aplicar (o --backup é a única forma de voltar atrás se a estratégia mudar)
+python scripts/fix_subtitle_positions.py WC_15 --write --backup subs_pre_merge
+
+# aplicar a tudo
+python scripts/fix_subtitle_positions.py --all --write --backup subs_pre_merge
+```
+
+## Verificação por episódio
+
+Os timestamps mudam por definição, por isso **não** se compara `-->`. O que tem de se
+verificar é que **nenhum texto desapareceu** além do lixo gráfico:
+
+```bash
+python -c "
+import sys; sys.path.insert(0,'scripts')
+from fix_subtitle_positions import parse_srt
+o=parse_srt('subs_pre_merge/<arco>/<EP>.srt'); n=parse_srt('subs/<arco>/<EP>.srt')
+blob='\n'.join(e['text'] for e in n)
+print(sorted({e['text'] for e in o if e['text'] not in blob}))
+"
+```
+
+Só devem sair `Mola`, `Shi`, `Chibukai`, `Fansub!` (o logo) e, se houver genérico
+convertido letra a letra, os caracteres soltos. O próprio script já aborta sem escrever
+se detetar perda de conteúdo no achatamento.
+
+## Armadilhas já encontradas (não repetir)
+
+- **O emparelhamento tem de casar por TEXTO antes de casar por ordem.** Vários eventos
+  partilham os mesmos timestamps (diálogo + cartaz + logo). Emparelhar só por ordem faz
+  com que, num `.srt` que já perdeu blocos, a fila desalinhe e se **apague a linha errada**
+  — cheguei a perder a nota de tradução do WC_15 assim. Corrigido em `pair_entries()`.
+- **Não descartar segmentos curtos sem verificar cobertura.** Uma versão anterior descartava
+  em silêncio tudo abaixo de 120 ms, o que podia apagar uma legenda inteira. `drop_slivers()`
+  só descarta quando o conteúdo continua visível noutro segmento.
+- **`scripts/regenerate_srt.py` DESFAZ esta correção** — regenera o `.srt` do `.ass`. Se
+  algum dia for preciso correr, correr o `fix_subtitle_positions.py` logo a seguir.
+- O texto do `.srt` **diverge** do `.ass` nos episódios já traduzidos para PT-PT (o `.ass`
+  está em PT-BR). Por isso o casamento por texto não chega sozinho.
+- Reexecutar o script **é seguro** (verificado byte a byte no WC_15 e no WC_23): depois do
+  achatamento não há sobreposições, logo não há nada para fundir.
+- **Há `.ass` corrompidos na origem.** 9 ficheiros têm linhas `Dialogue:` inválidas e
+  faziam o script rebentar. Dois padrões distintos: falta o campo `End`
+  (`EN_7.ass:311`), ou a linha tem só 4 dos 10 campos, saltando de `End` direto para o
+  texto (os 31 versos do genérico em `PW_1/3/4/5/6`). `parse_ass()` valida e ignora,
+  **contando e reportando** com `[!]` na saída. Verificado que **não se perde conteúdo**:
+  o bloco do `.srt` fica sem par e é tratado como diálogo normal no rodapé.
+
+## Âmbito
+
+**Decisão do utilizador (2026-07-21): só de Whole Cake Island para a frente.** Os arcos
+anteriores (`01_Romance_Dawn` … `32_Zou`) deixaram de ser relevantes — não aplicar lá.
+
+Âmbito = arcos **33 a 37**: `WC` (39) + `COVER_WAPOL` (1) + `REV` (3) + `WA` (54) +
+`EH` (20) = **117 episódios**.
+
+## Deteção de lixo — quatro camadas
+
+Chegou-se a estas quatro por tentativa e erro. Nenhuma sozinha chega, e a ordem importa.
+
+| # | Regra | Apanha |
+|---|---|---|
+| 1 | `DROP_STYLES` — lista explícita de nomes | `IS_ROM`, `Karaoke*`, `Kanji*`, peças do logo `NDT*` |
+| 2 | `junk_styles()` — estilo com ≥10 blocos e **mediana ≤2 caracteres** | Karaoke de arcos novos, sem depender do nome: `TOPPU` (Wano), `Translation ED` (Egghead), `Insert` |
+| 3 | `drop_scattered_glyphs()` — **≥4 cues de ≤2 caracteres em simultâneo** | Texto espalhado pelo ecrã a soletrar. Escapa às outras duas: estilo legítimo no resto do ficheiro e duração longa |
+| 4 | Fragmento de ≤2 caracteres e ≤250 ms | Restos soltos |
+
+E `protected()` **imuniza** estilos de conteúdo (letreiros, cartazes, notas, créditos,
+diálogo) contra a camada 2 — ver armadilhas.
+
+## Estado atual — ✅ APLICADO
+
+| | |
+|---|---|
+| Episódios processados | 117 / 117 |
+| Abortados | 0 |
+| Cues sobrepostas no resultado | **0** |
+| Blocos finais | 51 308 |
+| Blocos removidos | 25 139 |
+| — fragmentos de karaoke (≤4 chars) | 24 439 |
+| — peças do logo do fansub | 520 |
+| — palavras de karaoke (estilo `TOPPU`) | 180 |
+| Remoções inesperadas | **0** |
+| `.srt` com tags `{\an}` literais | **0** |
+| Caracteres corrompidos (`U+FFFD`) | **0** (nos `.srt` e nos `.ass`) |
+| Testes | 9 / 9 |
+| Idempotência | verificada em WC_23, WA_13, EH_15 |
+
+Originais em `subs_pre_merge/` (mesma estrutura de arcos, no `.gitignore`).
+
+**Validação:** só o **WC_15** foi visto a olho no Stremio. Os outros 116 foram validados
+por comparação automática contra o backup. O utilizador optou por não ver Wano/Egghead
+para evitar spoilers — se aparecer algo estranho quando lá chegar, corrige-se então.
+
+**Falta:** **redeploy para a Beamup** (os `.srt` mudaram todos).
+
+## A verificação tem de procurar lixo CRIADO, não só conteúdo perdido
+
+O erro mais caro desta frente. A primeira aplicação aos 117 episódios passou com
+"0 remoções inesperadas" e foi dada como concluída. **Estava errada.** A verificação só
+procurava conteúdo *perdido*, e o problema era o inverso: conteúdo *criado*.
+
+Os fragmentos de karaoke de Wano e Egghead não foram removidos nem perdidos — foram
+**fundidos** pelo achatamento em blocos de até **74 linhas**, em 111 dos 117 ficheiros.
+Nenhuma verificação de perda apanha isso.
+
+Por isso `process()` tem agora **duas** redes simétricas, e ambas abortam sem escrever:
+
+1. nenhum bloco de entrada pode desaparecer;
+2. nenhum bloco de saída pode fundir mais de `MAX_MERGED_ABORT` (4) cues **minúsculas**.
+
+A guarda 2 conta **cues fundidas, não linhas** — um bloco de créditos do fansub é uma só
+cue com 23 linhas e é perfeitamente legítimo. E só aborta quando as cues são minúsculas:
+há momentos com 8–10 elementos simultâneos legítimos (música inserida, cenas cheias de
+letreiros), que ficam empilhados — que é o que o leitor faria de qualquer forma — e
+geram apenas um aviso `[~]`.
+
+## Uma heurística por mediana varre estilos de conteúdo
+
+A camada 2 (`junk_styles`) chegou a apagar `Captions-207+` e `OPLetreros` — **letreiros de
+cenário**, conteúdo a sério — em episódios onde esses estilos calhavam ter entradas
+curtas. Notou-se porque havia remoções aos **39 minutos**, muito longe do genérico.
+
+Daí `protected()`: estilos cujo nome contém `caption`, `letrero`, `sign`, `note`, `title`,
+`credit`, `narrator`, `main`, `normal`, … nunca são deduzidos como lixo. Só saem por
+`DROP_STYLES` explícito. **Ao acrescentar arcos novos, verificar sempre o que foi removido
+com mais de 4 caracteres** — é aí que os falsos positivos aparecem.
+
+## Armadilha de verificação (custou-me duas verificações falsas)
+
+No Windows o `glob`/`rglob` devolve caminhos com `\`, por isso um
+`caminho.replace('subs_pre_merge/', 'subs/')` **nunca corresponde** — o script acaba a
+comparar cada ficheiro consigo próprio e reporta alegremente "0 diferenças". Usar
+`Path.relative_to()` e um `assert` de que o par existe.
+
+Outra: comparar textos com `x not in blob` faz correspondência de **substring**, e um bloco
+de karaoke com um único caractere (`B`, `i`, `n`) encontra-se sempre dentro de qualquer
+texto. É preciso comparar por **sequências contíguas de linhas** exatas.
+
+Comando de verificação correto:
+
+```python
+from pathlib import Path
+import sys; sys.path.insert(0, 'scripts')
+from fix_subtitle_positions import parse_srt
+
+def windows(entries):
+    out = set()
+    for e in entries:
+        ls = e['text'].split('\n')
+        for i in range(len(ls)):
+            for j in range(i + 1, len(ls) + 1):
+                out.add('\n'.join(ls[i:j]))
+    return out
+
+root = Path('subs_pre_merge')
+for bak in sorted(root.rglob('*.srt')):
+    novo = Path('subs') / bak.relative_to(root)
+    assert novo.exists(), novo
+    pres = windows(parse_srt(str(novo)))
+    falta = [e['text'] for e in parse_srt(str(bak)) if e['text'] not in pres]
+    inesperado = {t for t in falta
+                  if t not in {'Mola', 'Shi', 'Chibukai', 'Fansub!'} and len(t.strip()) > 2}
+    if inesperado:
+        print(novo.name, sorted(inesperado)[:4])
+```
+
+Não deve imprimir nada.
+
+---
+
+# FRENTE 2 — Adaptação PT-BR → PT-PT (EM PAUSA)
+
+> Parada por decisão do utilizador em 2026-07-21 para dar prioridade ao posicionamento.
+> **Não retomar sem indicação explícita.** Próximo episódio quando retomar: **WC_23**.
+
+## Arquitetura (Opção A, já implementada)
+
+- `subs/` é **PT-PT** (traduzido no lugar); `subs_ptbr_backup/` guarda os originais PT-BR.
+  **Zero alterações de código.** O histórico git também preserva os originais.
+- Cada ficheiro é UTF-8, LF. Formato SRT: número / timestamps / texto / linha em branco.
+
+## Regras de tradução
+
+Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
+- `você`→`tu` com conjugação de 2.ª pessoa; ênclise (`diz-me`, `preocupas-te`).
+- Gerúndio → `a` + infinitivo (`está a fazer`).
+- Realeza/superiores → 3.ª pessoa de cortesia (Vossa Majestade, Kaido-sama acalme-se).
+- **Preservar sempre:** nomes próprios, nomes de ataques (Gomu Gomu no…, Gear Fourth),
+  honoríficos (-sama, -chan, -kun, -san), sufixos-onomatopeia da Big Mom e restantes
+  personagens, e os blocos de créditos do fansub + notas de tradução.
+- Artigos PT antes de nomes: `a mama`, `a Germa`, `o Sanji`.
+- Vocabulário (amostra): ônibus→autocarro, celular→telemóvel, suco→sumo,
+  banheiro→casa de banho, droga→raios, garota→miúda/rapariga, garoto→rapaz,
+  chutar→dar pontapé, bunda→rabo, café da manhã→pequeno-almoço, berinjela→beringela,
+  sério→a sério, entendi→percebi, sobrenome→apelido, quebrar→partir, conectar→ligar,
+  decepção→deceção, jornada→viagem, lugar→sítio, que saco→que seca, moleza→canja.
+- Pretérito PT-PT com acento: começámos, chegámos, derrotámos; connosco, anónimo,
+  cerimónia, dezasseis, "Controlo de qualidade" (nos créditos).
+- "caprichado" NÃO é PT-PT → usar "bem-feito".
+
+## Âmbito acordado
+
+- **NÃO traduzir WC_2–WC_7** (ficam em PT-BR por opção do utilizador).
+- **Traduzir WC_8 → WC_39** (arco Whole Cake Island inteiro).
+- Processo por episódio: backup em `subs_ptbr_backup/` (já feito p/ todos), traduzir no
+  lugar, **verificar timestamps** no fim.
+- **NÃO** mostrar amostra episódio a episódio.
+- **Parar e avisar** só se algo não se enquadrar no guia. O utilizador concedeu autonomia
+  de decisão ("confio no teu julgamento").
+- **Ao terminar o arco WCI → PARAR** e dar resumo.
+- **HARD STOP:** não avançar para Wapol's Omnivorous Hurrah / Reverie / Wano / Egghead
+  sem confirmação explícita.
+
+## Progresso
+
+| Ficheiro | Estado |
+|----------|--------|
+| WC_1 | ✅ Traduzido + verificado (piloto aprovado) |
+| WC_2–WC_7 | ⏭️ Deixados em PT-BR (por opção) |
+| WC_8–22 | ✅ Traduzidos + timestamps verificados |
+| **WC_23 → WC_39** | ⬜ Por traduzir (próximo: WC_23) |
+
+**15 de 32 ficheiros do arco feitos.**
+
+> ⚠️ **Os `.srt` já foram achatados pela frente 1.** Ao retomar a tradução, traduzir por
+> cima do resultado achatado que está em `subs/` — **nunca** a partir do `subs_pre_merge/`.
+> Alguns blocos contêm agora mais do que uma legenda (cartaz + diálogo): traduzir cada
+> linha no lugar, sem juntar, reordenar nem colapsar linhas.
+>
+> A verificação antiga por `diff` de timestamps **já não se aplica** — os tempos mudaram
+> com o achatamento. Comparar contra `subs_pre_merge/` com o método de janelas de linhas
+> descrito na frente 1.
+
+## Decisões a consolidar no guia de estilo
+
+- WC_11+ introduzem um **tema de encerramento** ("Somos a esperança") com pequenas
+  variações de fraseado por episódio — traduzir de forma consistente.
+- **Germa = feminino** ("a Germa", "toda a Germa será minha").
+- **"a mama" = Big Mom**, mas **"mamã" = Sora** (mãe biológica do Sanji, WC_15), para
+  distinguir as duas personagens.
+- **"apelido" (PT-BR = nickname) → "alcunha"** (em PT-PT "apelido" é *sobrenome*).
+- **"bilhão" → "mil milhões"**.
+- Sufixos-onomatopeia preservados: -bon, -soir, -fa, -ju, -nasu, -souffle, -rero (Bege),
+  -gao (Pekoms), -nen (Du Feld), -Lambida/-pero (Perospero), -quiquiriquí (Tamago).
+- Créditos: **"Controle de qualidade" → "Controlo de qualidade"**; restantes labels
+  mantidos (Edição de vídeo, Tempos/Timing, Edição de áudio, Legendas, Revisão).
+- Vocabulário adicional: pesquisa→investigação, meleca→ranho, pelúcia→peluche,
+  geladeira→frigorífico, zumbi→zombie, gêmeas→gémeas, gênio→génio, úmido→húmido,
+  machucar→magoar, respingar→salpicar, servo→criado, zombar→gozar, "que cara"→"que tipo",
+  "dar certo"→"correr bem", "chance"→"hipótese/oportunidade".
+
+---
+
+# Estrutura do repositório
+
+`subs/` está organizada em **subpastas numeradas por arco, em ordem cronológica**
+(`01_Romance_Dawn` … `37_Egghead`). `subs_ptbr_backup/` e `subs_originais_backup/`
+espelham a mesma estrutura.
+
+- `subs/mapping.json` mapeia videoID → caminho relativo (ex.: `33_Whole_Cake_Island/WC_15.srt`).
+- `index.js` serve `subs/` estaticamente (`app.use("/subs", express.static(...))`).
+  ⚠️ Os URLs usam `encodePath()`, **não** `encodeURIComponent` — este último converteria
+  a `/` em `%2F` e partiria todos os URLs.
+- A regra de arcos vive num só sítio: `ARC_DIR` / `arc_subdir()` em
+  `scripts/subtitle_converter.py`. Os scripts de download/conversão já a usam.
+- `COVER_WAPOL` (*Wapol's Omnivorous Hurrah*) não tem pasta no GDrive, logo não está em
+  `ARC_PREFIX`; entra em `_EXTRA_ARCS`, posicionado a seguir a Whole Cake Island.
+
+**Depois de mexer em `subs/` é preciso redeploy para a Beamup** (os URLs das legendas mudam).
+
+## Problema conhecido, não relacionado
+
+`npx eslint` falha com `'setTimeout' is not defined` em `index.js`. É **pré-existente**
+(confirmado por `git stash`), falta `globals.node` no `eslint.config.js`. Não corrigido
+por estar fora de âmbito.

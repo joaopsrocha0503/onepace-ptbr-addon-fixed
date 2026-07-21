@@ -246,15 +246,24 @@ def _count_srt_entries(path):
     return content.count("-->")
 
 
-def _episode_ids(subs_dir, requested):
+def _index_arcs(subs_dir):
+    """Map episode id -> directory holding it.
+
+    subs/ is organised in one subfolder per arc (e.g. 33_Whole_Cake_Island/),
+    so an episode id no longer resolves to subs_dir directly. Older flat
+    layouts still work: the walk includes subs_dir itself.
+    """
+    index = {}
+    for root, _dirs, files in os.walk(subs_dir):
+        for f in files:
+            if f.endswith(".ass"):
+                index.setdefault(f[:-4], root)
+    return index
+
+
+def _episode_ids(index, requested):
     """Resolve the list of episode ids (base names) to process."""
-    if requested:
-        return requested
-    ids = []
-    for f in sorted(os.listdir(subs_dir)):
-        if f.endswith(".ass"):
-            ids.append(f[:-4])
-    return ids
+    return requested if requested else sorted(index)
 
 
 def main():
@@ -280,12 +289,14 @@ def main():
         print("Erro: especifique --episodes ou --all")
         sys.exit(1)
 
-    ep_ids = _episode_ids(subs_dir, requested)
+    arc_index = _index_arcs(subs_dir)
+    ep_ids = _episode_ids(arc_index, requested)
 
     if args.preview:
         for ep_id in ep_ids:
-            ass_path = os.path.join(subs_dir, f"{ep_id}.ass")
-            srt_path = os.path.join(subs_dir, f"{ep_id}.srt")
+            ep_dir = arc_index.get(ep_id, subs_dir)
+            ass_path = os.path.join(ep_dir, f"{ep_id}.ass")
+            srt_path = os.path.join(ep_dir, f"{ep_id}.srt")
             if not os.path.exists(ass_path):
                 print(f"\n=== {ep_id} ===\n  (!) .ass nao encontrado")
                 continue
@@ -305,8 +316,9 @@ def main():
     ok = 0
     suspicious = []
     for ep_id in ep_ids:
-        ass_path = os.path.join(subs_dir, f"{ep_id}.ass")
-        srt_path = os.path.join(subs_dir, f"{ep_id}.srt")
+        ep_dir = arc_index.get(ep_id, subs_dir)
+        ass_path = os.path.join(ep_dir, f"{ep_id}.ass")
+        srt_path = os.path.join(ep_dir, f"{ep_id}.srt")
         if not os.path.exists(ass_path):
             suspicious.append((ep_id, "sem .ass"))
             continue
@@ -318,7 +330,11 @@ def main():
         old_count = _count_srt_entries(srt_path)
 
         if args.backup and os.path.exists(srt_path):
-            shutil.copy2(srt_path, os.path.join(args.backup, f"{ep_id}.srt"))
+            # espelhar a subpasta do arco dentro do backup
+            arc = os.path.relpath(ep_dir, subs_dir)
+            backup_dir = args.backup if arc == "." else os.path.join(args.backup, arc)
+            os.makedirs(backup_dir, exist_ok=True)
+            shutil.copy2(srt_path, os.path.join(backup_dir, f"{ep_id}.srt"))
 
         result = convert_ass(content)
         srt_text = entries_to_srt(result.entries)

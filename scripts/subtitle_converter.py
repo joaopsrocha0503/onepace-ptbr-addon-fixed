@@ -51,6 +51,42 @@ ARC_PREFIX: dict[str, str] = {
     "Egghead": "EH",
 }
 
+# "Wapol's Omnivorous Hurrah" nao tem pasta no GDrive (logo, nao entra em
+# ARC_PREFIX), mas os ficheiros COVER_WAPOL_* existem e precisam de arco.
+# Ordem cronologica: a seguir a Whole Cake Island (ver PROJECT_GOAL.md).
+_EXTRA_ARCS: dict[str, str] = {"COVER_WAPOL": "Wapol's Omnivorous Hurrah"}
+
+_FILENAME_PREFIX = re.compile(r"^(.*)_\d+\.[A-Za-z]+$")
+
+
+def _build_arc_dirs() -> dict[str, str]:
+    """prefixo do episodio -> subpasta numerada de subs/ (ex.: 14_Alabasta)."""
+    ordered: list[tuple[str, str]] = []
+    for name, prefix in ARC_PREFIX.items():
+        ordered.append((prefix, name))
+        if prefix == "WC":
+            ordered.append(("COVER_WAPOL", _EXTRA_ARCS["COVER_WAPOL"]))
+    return {
+        prefix: f"{i:02d}_" + re.sub(r"[^A-Za-z0-9]+", "_", name).strip("_")
+        for i, (prefix, name) in enumerate(ordered, 1)
+    }
+
+
+# Stremio episode ID prefix -> subpasta de arco dentro de subs/
+ARC_DIR: dict[str, str] = _build_arc_dirs()
+
+
+def arc_subdir(episode_id: str) -> str | None:
+    """Subpasta de arco para um id de episodio ou nome de ficheiro.
+
+    Aceita "WC_15" ou "WC_15.srt" e devolve "33_Whole_Cake_Island".
+    Devolve None se o prefixo nao corresponder a nenhum arco conhecido.
+    """
+    match = _FILENAME_PREFIX.match(episode_id)
+    stem = match.group(1) if match else episode_id.rsplit("_", 1)[0]
+    return ARC_DIR.get(stem)
+
+
 # Filesystem directory name -> Stremio episode ID prefix
 ARC_TO_PREFIX: dict[str, str] = {
     "romancedawn": "RO",

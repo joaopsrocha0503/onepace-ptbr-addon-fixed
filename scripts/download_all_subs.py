@@ -26,9 +26,16 @@ from pathlib import Path
 
 from subtitle_converter import (
     ARC_PREFIX,
+    arc_subdir,
     convert_file_to_srt,
     extract_episode_number,
 )
+
+
+def _srt_rel_path(episode_id: str) -> str:
+    """Caminho relativo do .srt dentro de subs/, ja com a subpasta do arco."""
+    subdir = arc_subdir(episode_id)
+    return f"{subdir}/{episode_id}.srt" if subdir else f"{episode_id}.srt"
 
 SUBTITLE_EXTENSIONS: set[str] = {".ass", ".ssa", ".srt"}
 
@@ -217,10 +224,12 @@ def main() -> None:
             if ep_num is None:
                 ep_num = 1
             episode_id = f"{prefix}_{ep_num}"
-            srt_path = os.path.join(output_dir, f"{episode_id}.srt")
+            rel = _srt_rel_path(episode_id)
+            srt_path = os.path.join(output_dir, rel)
+            os.makedirs(os.path.dirname(srt_path), exist_ok=True)
 
             if convert_file_to_srt(sub_files[0], srt_path):
-                mapping[episode_id] = f"{episode_id}.srt"
+                mapping[episode_id] = rel
                 print(f"     {episode_id} <- {Path(sub_files[0]).name}")
             continue
 
@@ -231,10 +240,12 @@ def main() -> None:
                 continue
 
             episode_id = f"{prefix}_{ep_num}"
-            srt_path = os.path.join(output_dir, f"{episode_id}.srt")
+            rel = _srt_rel_path(episode_id)
+            srt_path = os.path.join(output_dir, rel)
+            os.makedirs(os.path.dirname(srt_path), exist_ok=True)
 
             if convert_file_to_srt(sub_file, srt_path):
-                mapping[episode_id] = f"{episode_id}.srt"
+                mapping[episode_id] = rel
                 print(f"     {episode_id} <- {Path(sub_file).name}")
 
     # Phase 3: Save mapping

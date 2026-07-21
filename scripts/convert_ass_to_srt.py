@@ -19,6 +19,7 @@ import sys
 from subtitle_converter import (
     ARC_TO_PREFIX,
     FINAL_SUBS_ARC_MAP,
+    arc_subdir,
     ass_to_srt,
 )
 
@@ -72,8 +73,11 @@ def find_and_convert(repo_path: str, output_dir: str) -> dict[str, str]:
                 print(f"  ERRO {episode_id}: nao consegui ler {ass_path}")
                 continue
             srt_content = ass_to_srt(ass_content)
-            srt_filename = f"{episode_id}.srt"
+            # subs/ esta organizada por arco; o mapping guarda o caminho relativo
+            subdir = arc_subdir(episode_id)
+            srt_filename = f"{subdir}/{episode_id}.srt" if subdir else f"{episode_id}.srt"
             srt_path = os.path.join(output_dir, srt_filename)
+            os.makedirs(os.path.dirname(srt_path), exist_ok=True)
             with open(srt_path, "w", encoding="utf-8") as fh:
                 fh.write(srt_content)
             mapping[episode_id] = srt_filename

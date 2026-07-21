@@ -8,3 +8,5 @@ __pycache__/
 uv.lock
 Dockerfile.bak
 subs_originais_backup/
+subs_pre_merge/
+subs_ptbr_backup/

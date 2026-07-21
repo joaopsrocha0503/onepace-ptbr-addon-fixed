@@ -14,6 +14,11 @@ const pkg = JSON.parse(
 );
 
 const SUBS_DIR = path.join(__dirname, "subs");
+
+// Os caminhos em mapping.json incluem a subpasta do arco
+// (ex.: "33_Whole_Cake_Island/WC_15.srt"). encodeURIComponent sozinho
+// converteria a "/" em %2F e partia o URL -- codificar segmento a segmento.
+const encodePath = (p) => p.split("/").map(encodeURIComponent).join("/");
 let subtitleMap = {};
 
 try {
@@ -69,7 +74,7 @@ builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
     if (srtFile) {
       subtitles.push({
         id: `onepace-ptbr-${videoID}`,
-        url: `${baseUrl}/${encodeURIComponent(srtFile)}`,
+        url: `${baseUrl}/${encodePath(srtFile)}`,
         lang: "por",
       });
     }
