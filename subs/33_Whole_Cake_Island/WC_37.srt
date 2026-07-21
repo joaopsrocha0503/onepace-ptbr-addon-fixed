@@ -16,23 +16,23 @@ Sim, temos superpoderes!
 
 5
 00:00:25,320 --> 00:00:28,000
-Seu sonho é de um tamanho monstruoso.
+O teu sonho é de um tamanho monstruoso.
 
 6
 00:00:28,000 --> 00:00:30,710
-Quando a prisão do seu peito se romper...
+Quando a prisão do teu peito se romper...
 
 7
 00:00:30,710 --> 00:00:33,220
-...entre no paraíso...
+...entra no paraíso...
 
 8
 00:00:33,220 --> 00:00:35,040
-...que está escrito "vá para o inferno".
+...que tem escrito "vai para o inferno".
 
 9
 00:00:35,040 --> 00:00:36,000
-Em todo momento...
+A todo o momento...
 
 10
 00:00:36,000 --> 00:00:37,750
@@ -56,7 +56,7 @@ Este sonho ferido um dia...
 
 15
 00:00:45,900 --> 00:00:51,310
-...se tornará um dos meus tesouros mais valiosos.
+...tornar-se-á um dos meus tesouros mais valiosos.
 
 16
 00:00:51,310 --> 00:00:55,070
@@ -76,7 +76,7 @@ Vamos confiar no maior dos sonhos e nos laços com os rivais.
 
 20
 00:01:08,820 --> 00:01:11,630
-Falhar também tem seu charme.
+Falhar também tem o seu encanto.
 
 21
 00:01:11,630 --> 00:01:14,570
@@ -104,29 +104,29 @@ ILHA CACAU
 
 27
 00:01:43,020 --> 00:01:44,080
-Faltam 32 minutos para a hora 
-em que os Chapéu de Palha...
+Faltam 32 minutos para a hora
+ em que os Chapéu de Palha...
 ILHA CACAU
 
 28
 00:01:44,080 --> 00:01:46,190
-Faltam 32 minutos para a hora 
-em que os Chapéu de Palha...
+Faltam 32 minutos para a hora
+ em que os Chapéu de Palha...
 
 29
 00:01:46,190 --> 00:01:47,060
-Faltam 32 minutos para a hora 
-em que os Chapéu de Palha...
-12:28 A. M.
+Faltam 32 minutos para a hora
+ em que os Chapéu de Palha...
+00:28
 
 30
 00:01:47,060 --> 00:01:50,810
-...combinaram de se reunir na Ilha Cacau.
-12:28 A. M.
+...combinaram encontrar-se na Ilha Cacau.
+00:28
 
 31
 00:01:50,810 --> 00:01:50,950
-12:28 A. M.
+00:28
 
 32
 00:01:50,950 --> 00:01:51,190
@@ -140,12 +140,12 @@ O último pedido
 34
 00:01:52,680 --> 00:01:55,260
 O último pedido
-Pelo visto, a batalha se prolongou.
+Pelos vistos, a batalha prolongou-se.
 
 35
 00:01:55,260 --> 00:01:58,360
 Qual será a probabilidade de
- nosso irmão Katakuri perder?!
+ o nosso irmão Katakuri perder?!
 
 36
 00:01:58,360 --> 00:01:59,540
@@ -153,7 +153,7 @@ O quê?!
 
 37
 00:01:59,540 --> 00:02:01,810
-A probabilidade de Katakuri perder?!
+A probabilidade de o Katakuri perder?!
 
 38
 00:02:01,810 --> 00:02:04,010
@@ -161,7 +161,7 @@ Newji,
 
 39
 00:02:04,010 --> 00:02:06,610
-você está falando sério?!
+estás a falar a sério?!
 
 40
 00:02:06,610 --> 00:02:09,160
@@ -173,11 +173,11 @@ Ai!
 
 42
 00:02:10,310 --> 00:02:11,760
-O que você está fazendo?!
+O que estás a fazer?!
 
 43
 00:02:11,760 --> 00:02:13,280
-Eu sou Newsan!
+Eu sou o Newsan!
 
 44
 00:02:13,280 --> 00:02:16,220
@@ -185,7 +185,7 @@ Eu não disse nada!
 
 45
 00:02:16,220 --> 00:02:20,000
-Katakuri nunca será derrotado!
+O Katakuri nunca será derrotado!
 
 46
 00:02:20,000 --> 00:02:22,840
@@ -193,7 +193,7 @@ Isso mesmo, idiota!
 
 47
 00:02:22,840 --> 00:02:26,630
-Meu irmão Katakuri é um homem perfeito!
+O meu irmão Katakuri é um homem perfeito!
 
 48
 00:02:26,630 --> 00:02:28,650
@@ -201,11 +201,11 @@ Ai!
 
 49
 00:02:28,650 --> 00:02:30,050
-Eu sou Newshi!
+Eu sou o Newshi!
 
 50
 00:02:30,050 --> 00:02:32,720
-Desculpe, Newsan, Newshi!
+Desculpa, Newsan, Newshi!
 
 51
 00:02:33,810 --> 00:02:35,170
@@ -213,11 +213,11 @@ Ai!
 
 52
 00:02:35,170 --> 00:02:36,540
-Você nos devia!
+Ficaste a dever-nos!
 
 53
 00:02:36,540 --> 00:02:37,950
-O que vocês disseram?
+O que disseram?
 
 54
 00:02:37,950 --> 00:02:39,540
@@ -233,25 +233,25 @@ Mas tanto tempo sem notícias...
 
 57
 00:02:43,730 --> 00:02:46,750
-Se eu fosse Chapéu de Palha, 
-faria o seguinte.
+Se eu fosse o Chapéu de Palha,
+ faria o seguinte.
 
 58
 00:02:46,750 --> 00:02:50,400
-Combinou de encontrar seus companheiros à uma da manhã aqui, na Ilha Cacau.
+Combinou encontrar-se com os companheiros à uma da manhã aqui, na Ilha Cacau.
 
 59
 00:02:50,400 --> 00:02:56,370
-Em outras palavras, seu navio
- não chegará até à uma da manhã.
+Por outras palavras, o navio dele
+ não chega até à uma da manhã.
 
 60
 00:02:56,370 --> 00:03:01,710
-Então, capturaria nossa irmã Brûlée, que é a única que pode permitir sua fuga do Mirro World,
+Então, capturaria a nossa irmã Brûlée, que é a única que pode permitir a fuga dele do Mirro World,
 
 61
 00:03:01,710 --> 00:03:06,550
-e esperaria lá ou em outra ilha
+e esperaria lá ou noutra ilha
  até o relógio dar a hora!
 
 62
@@ -260,7 +260,7 @@ e esperaria lá ou em outra ilha
 
 63
 00:03:07,750 --> 00:03:11,300
-Nossa irmã Brûlée desapareceu!
+A nossa irmã Brûlée desapareceu!
 
 64
 00:03:11,300 --> 00:03:12,430
@@ -268,7 +268,7 @@ Isso mesmo!
 
 65
 00:03:12,430 --> 00:03:18,020
-É muito provável que Chapéu de Palha fuja de sua luta contra Katakuri...
+É muito provável que o Chapéu de Palha fuja da luta contra o Katakuri...
 
 66
 00:03:18,020 --> 00:03:21,870
@@ -277,17 +277,17 @@ Isso mesmo!
 
 67
 00:03:21,870 --> 00:03:23,480
-Entendi, concordo.
+Estou a ver, concordo.
 
 68
 00:03:23,480 --> 00:03:27,400
-Nossa irmã Brûlée é desastrada, 
-então é fácil de capturar.
+A nossa irmã Brûlée é desastrada,
+ por isso é fácil de capturar.
 
 69
 00:03:27,400 --> 00:03:31,880
-Akimeg, talvez nossa irmã tenha
- te ouvido através do espelho.
+Akimeg, talvez a nossa irmã te
+ tenha ouvido através do espelho.
 
 70
 00:03:31,880 --> 00:03:33,450
@@ -295,39 +295,39 @@ Ah, céus!
 
 71
 00:03:33,450 --> 00:03:37,170
-Faltam trinta minutos, 
-precisamos ficar alertas!
+Faltam trinta minutos,
+ temos de estar atentos!
 
 72
 00:03:37,170 --> 00:03:39,460
-Saia logo, Chapéu de Palha!
+Sai já, Chapéu de Palha!
 
 73
 00:03:39,460 --> 00:03:43,500
-Vou te cortar em dois com minha foice!
+Vou cortar-te em dois com a minha foice!
 
 74
 00:04:00,700 --> 00:04:03,600
-Todos são soldados?
+São todos soldados?
 
 75
 00:04:03,600 --> 00:04:07,980
-Parece que esse é o 
-único espelho intacto...
+Parece que este é o
+ único espelho intacto...
 
 76
 00:04:11,230 --> 00:04:14,650
-Assim que Luffy sair, teremos
- que fugir imediatamente.
+Assim que o Luffy sair, temos
+ de fugir imediatamente.
 
 77
 00:04:14,650 --> 00:04:17,320
-Ou nos matarão.
+Ou matam-nos.
 
 78
 00:04:19,620 --> 00:04:24,080
-Nossa despedida será
- quando Luffy sair,
+A nossa despedida será
+ quando o Luffy sair,
 
 79
 00:04:24,080 --> 00:04:25,960
@@ -339,15 +339,15 @@ Que longe!
 
 81
 00:04:27,830 --> 00:04:30,360
-Você me ouve, Pudding-chan?
+Ouves-me, Pudding-chan?
 
 82
 00:04:30,360 --> 00:04:33,610
-N-Não olhe para mim!
+N-Não olhes para mim!
 
 83
 00:04:33,610 --> 00:04:35,970
-E-Estou te ouvindo!
+E-Estou a ouvir-te!
 
 84
 00:04:35,970 --> 00:04:37,200
@@ -359,12 +359,12 @@ Sanji...
 
 86
 00:04:41,970 --> 00:04:45,180
-Agora que me lembro, 
-nosso encontro foi estranho.
+Agora que me lembro,
+ o nosso encontro foi estranho.
 
 87
 00:04:51,270 --> 00:04:54,060
-É com ela que você se casará.
+É com ela que te vais casar.
 
 88
 00:04:54,060 --> 00:04:56,530
@@ -372,15 +372,15 @@ Charlotte Pudding-sama!
 
 89
 00:04:56,530 --> 00:05:00,280
-Vamos nos casar amanhã.
+Vamos casar-nos amanhã.
 
 90
 00:05:04,060 --> 00:05:07,350
-Me diverti muito com você,
+Diverti-me muito contigo,
 
 91
 00:05:07,350 --> 00:05:10,120
-mas logo nos despediremos!
+mas daqui a nada despedimo-nos!
 
 92
 00:05:10,120 --> 00:05:11,730
@@ -388,23 +388,23 @@ Obrigado por tudo!
 
 93
 00:05:19,620 --> 00:05:24,630
-Te enganei e tentei te matar, e ainda assim...!
+Enganei-te e tentei matar-te, e mesmo assim...!
 
 94
 00:05:24,630 --> 00:05:27,370
-Não me agradeça, Sanji-san!
+Não me agradeças, Sanji-san!
 
 95
 00:05:27,370 --> 00:05:30,660
-Quero me desculpar!
+Quero pedir desculpa!
 
 96
 00:05:30,660 --> 00:05:34,040
-Tenho que me desculpar!
+Tenho de pedir desculpa!
 
 97
 00:05:52,250 --> 00:05:54,000
-Cale-se!
+Cala-te!
 
 98
 00:05:57,480 --> 00:05:58,960
@@ -412,7 +412,7 @@ Não, não!
 
 99
 00:05:58,960 --> 00:06:01,680
-Aconteceu de novo!
+Aconteceu outra vez!
 
 100
 00:06:01,680 --> 00:06:03,360
@@ -424,11 +424,11 @@ Somos inimigos!
 
 102
 00:06:05,110 --> 00:06:09,430
-Para você, o casamento era uma armadilha.
+Para ti, o casamento era uma armadilha.
 
 103
 00:06:09,430 --> 00:06:14,620
-Os Piratas de Big Mom planejaram tudo.
+Os Piratas da Big Mom planearam tudo.
 
 104
 00:06:16,880 --> 00:06:18,420
@@ -436,24 +436,24 @@ Bem,
 
 105
 00:06:19,250 --> 00:06:21,710
-talvez tenha te incomodado,
+talvez te tenha incomodado,
 
 106
 00:06:24,400 --> 00:06:28,640
-mas fico feliz que você
- tenha sido minha noiva!
+mas fico feliz por teres
+ sido a minha noiva!
 
 107
 00:06:41,070 --> 00:06:43,430
-Ah, digo...!
+Ah, quero dizer...!
 
 108
 00:06:43,430 --> 00:06:44,930
-Desculpe!
+Desculpa!
 
 109
 00:06:44,930 --> 00:06:46,630
-Não quis te ofender.
+Não te quis ofender.
 
 110
 00:06:46,630 --> 00:06:47,900
@@ -465,7 +465,7 @@ Parem, lágrimas!
 
 112
 00:06:50,660 --> 00:06:52,470
-D-Desculpe!
+D-Desculpa!
 
 113
 00:06:52,470 --> 00:06:55,900
@@ -473,7 +473,7 @@ Não quis dizer isso, Pudding-chan!
 
 114
 00:06:55,900 --> 00:06:58,440
-O-Oi, Sanji...
+O-Ouve, Sanji...
 
 115
 00:06:58,440 --> 00:06:59,880
@@ -481,7 +481,7 @@ O-Oi, Sanji...
 
 116
 00:07:02,000 --> 00:07:03,880
-Você pode me fazer um favor?!
+Podes fazer-me um favor?!
 
 117
 00:07:05,340 --> 00:07:09,220
@@ -489,11 +489,11 @@ Um último...
 
 118
 00:07:11,220 --> 00:07:13,620
-Você pode me fazer um favor?!
+Podes fazer-me um favor?!
 
 119
 00:07:30,630 --> 00:07:33,950
-12:37 A. M.
+00:37
 
 120
 00:08:40,000 --> 00:08:42,690
@@ -507,7 +507,7 @@ WHOLE CAKE ISLAND
 122
 00:08:43,550 --> 00:08:46,110
 Sobreviveram até agora!
-12:40 A. M.
+00:40
 
 123
 00:08:46,110 --> 00:08:48,160
@@ -524,11 +524,11 @@ será uma grande notícia!
 
 126
 00:08:54,700 --> 00:08:56,360
-Cale-se, Morgans!
+Cala-te, Morgans!
 
 127
 00:08:56,360 --> 00:08:58,350
-Você não terá a exclusiva!
+Não vais ter a exclusiva!
 
 128
 00:08:58,350 --> 00:09:01,310
@@ -536,11 +536,11 @@ Para evitar que isso aconteça,
 
 129
 00:09:01,310 --> 00:09:05,400
-engolimos nosso orgulho e enviamos milhares de soldados para a Ilha Cacau!
+engolimos o nosso orgulho e enviámos milhares de soldados para a Ilha Cacau!
 
 130
 00:09:07,110 --> 00:09:10,710
-Mesmo que Gold Roger, o Rei dos
+Mesmo que o Gold Roger, o Rei dos
  Piratas, saísse do espelho,
 
 131
@@ -549,11 +549,11 @@ não conseguiria escapar!
 
 132
 00:09:13,310 --> 00:09:17,370
-Assim que os capturarmos, cortaremos suas cabeças e as colocaremos em fila...
+Assim que os capturarmos, cortamos-lhes as cabeças e pomo-las em fila...
 
 133
 00:09:17,370 --> 00:09:20,350
-...para que saiam na primeira página amanhã!
+...para saírem na primeira página amanhã!
 
 134
 00:09:21,040 --> 00:09:22,490
@@ -569,24 +569,24 @@ Isso é desnecessário.
 
 137
 00:09:28,960 --> 00:09:29,890
-Não diga bobagens!
+Não digas disparates!
 
 138
 00:09:29,890 --> 00:09:31,020
-Na verdade, isso é ser muito brando!
+Na verdade, isso é ser demasiado brando!
 
 139
 00:09:32,410 --> 00:09:34,800
-Logo teremos boas notícias!
+Daqui a nada temos boas notícias!
 
 140
 00:09:34,800 --> 00:09:40,780
 É impossível que um simples navio
- escape dessa enorme frota!
+ escape a essa enorme frota!
 
 141
 00:09:42,220 --> 00:09:45,270
-12:43 A. M.
+00:43
 
 142
 00:09:46,460 --> 00:09:48,550
@@ -594,12 +594,12 @@ Esperem!
 
 143
 00:09:49,230 --> 00:09:50,050
-NO MAR - NAVIO DE BEGE
+NO MAR - NAVIO DO BEGE
 
 144
 00:09:50,050 --> 00:09:52,720
-Me dêem o bolo!
-NO MAR - NAVIO DE BEGE
+Deem-me o bolo!
+NO MAR - NAVIO DO BEGE
 
 145
 00:09:54,340 --> 00:09:56,180
@@ -607,7 +607,7 @@ O mastro está em chamas!
 
 146
 00:09:56,180 --> 00:09:57,250
-Apaguem isso, rápido!
+Apaguem isso, depressa!
 
 147
 00:09:57,250 --> 00:09:58,350
@@ -615,7 +615,7 @@ Vamos afundar!
 
 148
 00:10:00,310 --> 00:10:02,520
-Não aguentaremos, pai!
+Não vamos aguentar, pai!
 
 149
 00:10:02,520 --> 00:10:03,760
@@ -623,11 +623,11 @@ Não aguentaremos, pai!
 
 150
 00:10:03,760 --> 00:10:06,780
-Morreremos antes de chegar à ilha-rero!
+Morremos antes de chegar à ilha-rero!
 
 151
 00:10:06,780 --> 00:10:09,480
-Joguem o bolo fora e fujam, pai!
+Atirem o bolo fora e fujam, pai!
 
 152
 00:10:10,090 --> 00:10:12,120
@@ -639,11 +639,11 @@ Rero?
 
 154
 00:10:14,560 --> 00:10:18,830
-Todos nascemos em lugares diferentes,
+Todos nascemos em sítios diferentes,
 
 155
 00:10:18,830 --> 00:10:21,260
-então pelo menos...
+por isso, pelo menos...
 
 156
 00:10:21,260 --> 00:10:23,580
@@ -671,7 +671,7 @@ Vamos, falta pouco!
 
 162
 00:10:38,060 --> 00:10:40,200
-Mostrem sua coragem, rapazes!
+Mostrem a vossa coragem, rapazes!
 
 163
 00:10:40,200 --> 00:10:44,520
@@ -679,26 +679,26 @@ Sim!
 
 164
 00:10:45,380 --> 00:10:48,900
-12:45 A. M.
+00:45
 
 165
 00:10:50,580 --> 00:10:53,760
-Parece que conseguiremos chegar
+Parece que vamos conseguir chegar
  à uma da manhã!
 
 166
 00:10:55,050 --> 00:10:59,270
-Mas me preocupa Brûlée, sua única
- saída do Mirro World.
+Mas preocupa-me a Brûlée, a única
+ saída dele do Mirro World.
 
 167
 00:10:59,270 --> 00:11:04,150
-Mesmo que Luffy vença,
- não poderá sair sem ela!
+Mesmo que o Luffy vença,
+ não vai poder sair sem ela!
 
 168
 00:11:04,150 --> 00:11:09,050
-Não acho que Luffy seja um homem
+Não me parece que o Luffy seja um homem
  capaz de calcular tudo isso.
 
 169
@@ -732,23 +732,23 @@ Tudo isso me preocupa,
 
 176
 00:11:21,830 --> 00:11:23,990
-mas confio em você, Luffy!
+mas confio em ti, Luffy!
 
 177
 00:11:27,740 --> 00:11:30,010
-12:47 A. M.
+00:47
 
 178
 00:11:54,470 --> 00:11:57,570
-Mesmo ao cair, é para frente.
+Mesmo ao cair, é para a frente.
 
 179
 00:12:12,650 --> 00:12:14,690
-Escute bem, Luffy!
+Escuta bem, Luffy!
 
 180
 00:12:14,690 --> 00:12:17,900
-Chegaremos lá em cerca
+Chegamos lá dentro de cerca
  de dez horas, mais ou menos!
 
 181
@@ -757,17 +757,17 @@ Por volta da uma da manhã!
 
 182
 00:12:19,500 --> 00:12:22,890
-Quando você tiver chutado
- a bunda daquele cara,
+Quando tiveres dado um pontapé
+ no rabo àquele tipo,
 
 183
 00:12:22,890 --> 00:12:25,930
-procure um espelho que
- leve você à Ilha Cacau.
+procura um espelho que
+ te leve à Ilha Cacau.
 
 184
 00:12:25,930 --> 00:12:29,070
-Nos vemos lá.
+Vemo-nos lá.
 
 185
 00:12:31,500 --> 00:12:34,910
@@ -775,11 +775,11 @@ Que horas são?
 
 186
 00:13:02,060 --> 00:13:04,160
-Algum dia você...
+Um dia tu...
 
 187
 00:13:06,600 --> 00:13:09,410
-...voltará aqui para derrotar Big Mom?
+...voltas aqui para derrotar a Big Mom?
 
 188
 00:13:13,810 --> 00:13:15,230
@@ -791,12 +791,12 @@ Porque eu...
 
 190
 00:13:15,920 --> 00:13:19,250
-...sou o homem que se tornará
+...sou o homem que se vai tornar
  o Rei dos Piratas!
 
 191
 00:13:31,830 --> 00:13:34,680
-Você está vendo um futuro bem distante...
+Estás a ver um futuro bem distante...
 
 192
 00:14:34,170 --> 00:14:35,310
@@ -824,11 +824,11 @@ Oh, não!
 
 198
 00:14:43,320 --> 00:14:45,550
-Sem ela, não poderei sair!
+Sem ela, não vou poder sair!
 
 199
 00:14:45,550 --> 00:14:48,540
-O que eu faço?!
+O que faço?!
 
 200
 00:14:49,400 --> 00:14:51,010
@@ -848,16 +848,16 @@ Rama!
 
 204
 00:15:01,000 --> 00:15:03,840
-Sou Brûlée, Chapéu de Palha!
+Sou a Brûlée, Chapéu de Palha!
 
 205
 00:15:03,840 --> 00:15:07,240
-Que maldito truque você usou
- para derrotar meu irmãozinho?!
+Que maldito truque usaste
+ para derrotar o meu irmãozinho?!
 
 206
 00:15:07,240 --> 00:15:09,860
-Parece que você derrotou Katakuri!
+Parece que derrotaste o Katakuri!
 
 207
 00:15:09,860 --> 00:15:11,990
@@ -865,11 +865,11 @@ Não posso acreditar-gao!
 
 208
 00:15:12,000 --> 00:15:13,330
-Você é...!
+Tu és...!
 
 209
 00:15:16,730 --> 00:15:18,810
-Sou Mystoms!
+Sou o Mystoms!
 
 210
 00:15:19,350 --> 00:15:19,430
@@ -891,15 +891,15 @@ UM SALVADOR MISTERIOSO
 
 214
 00:15:20,920 --> 00:15:23,300
-Para ajudá-lo a escapar,
+Para te ajudar a escapar,
 
 215
 00:15:23,300 --> 00:15:25,690
-eu capturei Brûlée e esperei por você!
+capturei a Brûlée e esperei por ti!
 
 216
 00:15:25,690 --> 00:15:28,170
-Então você estava bem,
+Então estavas bem,
 
 217
 00:15:28,180 --> 00:15:29,310
@@ -921,8 +921,8 @@ Sim!
 
 221
 00:15:33,370 --> 00:15:36,830
-Meu irmão Pedro se sacrificou
- para protegê-los!
+O meu irmão Pedro sacrificou-se
+ para vos proteger!
 
 222
 00:15:36,830 --> 00:15:41,440
@@ -934,8 +934,8 @@ Vamos, Chapéu de Palha!
 
 224
 00:15:42,840 --> 00:15:46,110
-Vamos para a Ilha Cacau, 
-onde seus companheiros estão esperando!
+Vamos para a Ilha Cacau,
+ onde os teus companheiros estão à espera!
 
 225
 00:15:46,110 --> 00:15:46,990
@@ -943,11 +943,11 @@ Sim!
 
 226
 00:15:46,990 --> 00:15:48,880
-Me solte!
+Larga-me!
 
 227
 00:15:48,880 --> 00:15:51,030
-12:50 A. M.
+00:50
 
 228
 00:15:51,030 --> 00:15:52,940
@@ -971,11 +971,11 @@ Sanji-kun!
 
 233
 00:16:05,310 --> 00:16:06,730
-Como está indo por aí?
+Como está a correr por aí?
 
 234
 00:16:07,710 --> 00:16:09,520
-Luffy ainda não saiu.
+O Luffy ainda não saiu.
 
 235
 00:16:09,520 --> 00:16:12,330
@@ -983,11 +983,11 @@ Não se aproximem da frota costeira.
 
 236
 00:16:13,770 --> 00:16:16,930
-Eu levarei Luffy para o navio!
+Eu levo o Luffy para o navio!
 
 237
 00:16:19,580 --> 00:16:22,280
-12:55 A. M.
+00:55
 
 238
 00:16:22,280 --> 00:16:25,740
@@ -999,11 +999,11 @@ Sim!
 
 240
 00:16:29,370 --> 00:16:32,570
-Se ele for sair, será em cinco minutos!
+Se ele vai sair, será dentro de cinco minutos!
 
 241
 00:16:35,460 --> 00:16:37,360
-Vamos, saia daí,
+Vamos, sai daí,
 
 242
 00:16:37,360 --> 00:16:40,370
@@ -1015,11 +1015,11 @@ Faltam quatro minutos...
 
 244
 00:16:53,430 --> 00:16:55,500
-Esse é...
+Aquele é...
 
 245
 00:17:00,900 --> 00:17:02,520
-Não há dúvida alguma!
+Não há dúvida nenhuma!
 
 246
 00:17:08,380 --> 00:17:11,240
@@ -1039,7 +1039,7 @@ Afundem o navio dos Chapéu de Palha!
 
 250
 00:17:25,720 --> 00:17:27,140
-Aqui vêm eles!
+Lá vêm eles!
 
 251
 00:17:27,140 --> 00:17:30,410
@@ -1047,11 +1047,11 @@ Não, vamos morrer!
 
 252
 00:17:30,410 --> 00:17:33,250
-Luffy, rápido!
+Luffy, depressa!
 
 253
 00:17:33,250 --> 00:17:35,060
-Vamos nos manter afastados da ilha!
+Vamos manter-nos afastados da ilha!
 
 254
 00:17:35,080 --> 00:17:36,690
@@ -1063,28 +1063,28 @@ O que fazemos, Smoothie?
 
 256
 00:17:44,780 --> 00:17:47,660
-Vamos continuar reforçando a retaguarda!
+Vamos continuar a reforçar a retaguarda!
 
 257
 00:17:47,660 --> 00:17:50,490
-Eles não têm escapatória.
+Não têm escapatória.
 
 258
 00:17:50,490 --> 00:17:55,910
-Na frente, eles têm a Grande Frota
- de Totto Land liderada por Snack,
+À frente, têm a Grande Frota
+ de Totto Land liderada pelo Snack,
 PRAÇA DO ESPELHO
 SUNNY
-EXÉRCITO DE OVEN
-FROTA DE SMOOTHIE
+EXÉRCITO DO OVEN
+FROTA DA SMOOTHIE
 
 259
 00:17:55,910 --> 00:17:59,330
 e nós estamos atrás.
 PRAÇA DO ESPELHO
 SUNNY
-EXÉRCITO DE OVEN
-FROTA DE SMOOTHIE
+EXÉRCITO DO OVEN
+FROTA DA SMOOTHIE
 
 260
 00:17:59,340 --> 00:18:03,170
@@ -1093,7 +1093,7 @@ Mesmo que consigam chegar à Ilha Cacau,
 261
 00:18:03,170 --> 00:18:07,470
 o exército do meu irmão
- Oven está esperando por lá.
+ Oven está à espera lá.
 
 262
 00:18:07,470 --> 00:18:11,310
@@ -1132,11 +1132,11 @@ ILHA CACAU
 
 270
 00:18:28,010 --> 00:18:30,330
-É melhor você se preparar, moleque!
+É melhor preparares-te, fedelho!
 
 271
 00:18:30,330 --> 00:18:34,620
-Saia quando quiser, Chapéu de Palha!
+Sai quando quiseres, Chapéu de Palha!
 
 272
 00:18:42,860 --> 00:18:44,100
@@ -1144,7 +1144,7 @@ Por favor!
 
 273
 00:18:44,100 --> 00:18:46,300
-Rápido, Luffy!
+Depressa, Luffy!
 
 274
 00:18:51,760 --> 00:18:56,980
@@ -1160,11 +1160,11 @@ Isso mesmo-gao!
 
 277
 00:19:00,560 --> 00:19:06,110
-Nós, minks, nos transformamos em nossa forma original ao olhar para a lua cheia!
+Nós, mink, transformamo-nos na nossa forma original ao olhar para a lua cheia!
 
 278
 00:19:06,110 --> 00:19:10,640
-Mas eu nunca fui bom nisso...
+Mas eu nunca fui bom nisto...
 
 279
 00:19:10,640 --> 00:19:15,160
@@ -1177,7 +1177,7 @@ Um monstro?
 
 281
 00:19:16,540 --> 00:19:20,880
-Eu perco o controle e destruo tudo!
+Perco o controlo e destruo tudo!
 
 282
 00:19:20,880 --> 00:19:24,500
@@ -1193,12 +1193,12 @@ Era o meu irmão Pedro!
 
 285
 00:19:47,010 --> 00:19:49,150
-Pare, Pekoms!
+Para, Pekoms!
 
 286
 00:19:49,150 --> 00:19:56,510
-Por alguma razão, só a voz dele conseguia 
-me acalmar naquele estado!
+Por alguma razão, só a voz dele conseguia
+ acalmar-me naquele estado!
 
 287
 00:20:01,580 --> 00:20:02,950
@@ -1207,28 +1207,28 @@ Pedro...
 288
 00:20:04,410 --> 00:20:10,170
 Isso significa que ninguém no mundo
- pode me parar quando eu perco o controle!
+ me consegue parar quando perco o controlo!
 
 289
 00:20:12,500 --> 00:20:14,300
-Ouça, Chapéu de Palha.
+Ouve, Chapéu de Palha.
 
 290
 00:20:14,300 --> 00:20:16,090
-Esta noite tem lua cheia!
+Esta noite há lua cheia!
 
 291
 00:20:20,090 --> 00:20:23,720
-Quando chegarmos à 
-Ilha Cacau usando esse espelho,
+Quando chegarmos à
+ Ilha Cacau usando este espelho,
 
 292
 00:20:23,720 --> 00:20:26,930
-eu vou me transformar em Sulong!
+eu vou transformar-me em Sulong!
 
 293
 00:20:27,560 --> 00:20:33,650
-Enquanto eu destruo tudo, aproveite
+Enquanto eu destruo tudo, aproveita
  para escapar da Ilha Cacau!
 
 294
@@ -1246,20 +1246,20 @@ Maldito traidor!
 297
 00:20:38,450 --> 00:20:42,220
 Na Ilha Cacau há forças capazes
- de travar uma guerra de verdade!
+ de travar uma guerra a sério!
 
 298
 00:20:42,220 --> 00:20:46,780
-Mesmo que você se transforme em Sulong,
- eles vão te cercar e será o seu fim!
+Mesmo que te transformes em Sulong,
+ vão cercar-te e será o teu fim!
 
 299
 00:20:49,200 --> 00:20:50,210
-Estou caindo!
+Estou a cair!
 
 300
 00:20:51,000 --> 00:20:53,670
-Cale-se, Brûlée!
+Cala-te, Brûlée!
 
 301
 00:20:53,670 --> 00:20:55,920
@@ -1267,12 +1267,12 @@ Estamos quase lá, Chapéu de Palha!
 
 302
 00:20:56,630 --> 00:20:59,470
-Meu irmão Pedro se sacrificou!
+O meu irmão Pedro sacrificou-se!
 
 303
 00:20:59,470 --> 00:21:02,930
-Aconteça o que acontecer, não vou deixar 
-que seja em vão-gao!
+Aconteça o que acontecer, não vou deixar
+ que seja em vão-gao!
 
 304
 00:21:06,990 --> 00:21:07,990
@@ -1284,7 +1284,7 @@ Obrigado!
 
 306
 00:21:11,200 --> 00:21:14,260
-Agora, cumpra sua função!
+Agora, cumpre a tua função!
 
 307
 00:21:14,260 --> 00:21:15,110
@@ -1296,7 +1296,7 @@ Vamos!
 
 309
 00:21:25,580 --> 00:21:27,980
-Está vindo do outro lado do espelho!
+Vem do outro lado do espelho!
 
 310
 00:21:27,980 --> 00:21:31,730
@@ -1308,7 +1308,7 @@ Não é a voz da minha irmã Brûlée?!
 
 312
 00:21:34,380 --> 00:21:37,630
-Como pensamos, Chapéu de Palha a capturou.
+Como pensámos, o Chapéu de Palha capturou-a.
 
 313
 00:21:37,630 --> 00:21:39,300
@@ -1328,7 +1328,7 @@ Hein?!
 
 317
 00:22:05,620 --> 00:22:07,360
-Esse é...?!
+Aquele é...?!
 
 318
 00:22:07,360 --> 00:22:09,700
@@ -1340,7 +1340,7 @@ Hein?!
 
 320
 00:22:12,960 --> 00:22:14,120
-Sou Misterioms!
+Sou o Misterioms!
 
 321
 00:22:14,120 --> 00:22:15,190
@@ -1348,7 +1348,7 @@ Pekoms!
 
 322
 00:22:15,190 --> 00:22:16,750
-Por que você saiu?!
+Porque é que saíste?!
 
 323
 00:22:16,750 --> 00:22:17,580
@@ -1360,11 +1360,11 @@ N-Não se mexam, Piratas da Big Mom!
 
 325
 00:22:24,490 --> 00:22:27,030
-S-Se fizerem algo estúpido,
+S-Se fizerem alguma estupidez,
 
 326
 00:22:27,030 --> 00:22:33,760
-a cabeça da sua querida irmã Brûlée-gao vai voar!
+a cabeça da vossa querida irmã Brûlée-gao vai voar!
 
 327
 00:22:33,760 --> 00:22:35,430
@@ -1373,19 +1373,19 @@ Irmã Brûlée!
 
 328
 00:22:35,430 --> 00:22:37,560
-Não faça isso, Pekoms!
+Não faças isso, Pekoms!
 
 329
 00:22:37,560 --> 00:22:39,940
-Pekoms, o que você está tramando?!
+Pekoms, o que estás a tramar?!
 
 330
 00:22:39,940 --> 00:22:41,940
-Primeiro, se acalme!
+Primeiro, acalma-te!
 
 331
 00:22:41,940 --> 00:22:43,900
-Solte a minha irmã Brûlée!
+Larga a minha irmã Brûlée!
 
 332
 00:22:43,900 --> 00:22:49,480
@@ -1393,11 +1393,11 @@ Socorro, pessoal!
 
 333
 00:22:49,490 --> 00:22:53,660
-De qualquer forma, minha identidade será revelada quando eu me transformar em Sulong...
+De qualquer forma, a minha identidade vai ser revelada quando me transformar em Sulong...
 
 334
 00:22:56,730 --> 00:22:58,500
-Já não importa!
+Já não interessa!
 
 335
 00:23:08,040 --> 00:23:11,930
@@ -1405,8 +1405,8 @@ Vou proteger a vida do Chapéu de Palha!
 
 336
 00:23:11,940 --> 00:23:16,340
-Ele é o homem em quem meu 
-irmão Pedro apostou tudo!
+Ele é o homem em quem o meu
+ irmão Pedro apostou tudo!
 
 337
 00:23:28,000 --> 00:23:29,170
@@ -1414,15 +1414,15 @@ Não pode ser!
 
 338
 00:23:31,620 --> 00:23:33,830
-Ele quer se transformar em Sulong!
+Quer transformar-se em Sulong!
 
 339
 00:23:33,830 --> 00:23:35,610
-Não faça isso, Pekoms!
+Não faças isso, Pekoms!
 
 340
 00:23:35,610 --> 00:23:37,710
-Você vai perder o controle!
+Vais perder o controlo!
 
 341
 00:23:39,270 --> 00:23:42,010
@@ -1430,7 +1430,7 @@ Não!
 
 342
 00:23:43,130 --> 00:23:44,590
-Segurem ele!
+Segurem-no!
 
 343
 00:23:44,590 --> 00:23:46,720
@@ -1450,21 +1450,21 @@ Maldito!
 
 347
 00:23:53,760 --> 00:23:57,040
-Ei, ei, o que é tudo isso?
+Ei, ei, o que é tudo isto?
 
 348
 00:23:57,040 --> 00:24:02,270
 Do espelho não saíram nem
- Katakuri nem Chapéu de Palha!
+ o Katakuri nem o Chapéu de Palha!
 
 349
 00:24:02,270 --> 00:24:05,360
-Como você se atreve a apontar 
-para a minha irmã mais nova...
+Como te atreves a apontar
+ para a minha irmã mais nova...
 
 350
 00:24:05,360 --> 00:24:07,700
-...sem motivo algum?!
+...sem motivo nenhum?!
 
 351
 00:24:12,160 --> 00:24:12,550
@@ -1476,12 +1476,12 @@ Irmão!
 
 353
 00:24:16,580 --> 00:24:17,750
-Jogo de palavras entre inumano (hitodenashi) e calor (heat).
+Trocadilho entre desumano (hitodenashi) e calor (heat).
 Heat...
 
 354
 00:24:17,750 --> 00:24:19,510
-Jogo de palavras entre inumano (hitodenashi) e calor (heat).
+Trocadilho entre desumano (hitodenashi) e calor (heat).
 
 355
 00:24:20,250 --> 00:24:22,100
@@ -1497,11 +1497,11 @@ Não!
 
 358
 00:24:25,940 --> 00:24:27,590
-Bem feito!
+É bem feito!
 
 359
 00:24:34,510 --> 00:24:35,850
-Esse é o Chapéu de Palha!
+Aquele é o Chapéu de Palha!
 
 360
 00:24:42,500 --> 00:24:44,280
@@ -1509,7 +1509,7 @@ Luffy!
 
 361
 00:24:52,740 --> 00:24:54,190
-Sanji falando!
+Fala o Sanji!
 
 362
 00:24:54,190 --> 00:24:55,210
@@ -1517,7 +1517,7 @@ Sanji?!
 
 363
 00:24:55,210 --> 00:24:56,230
-Luffy...
+O Luffy...
 
 364
 00:24:57,280 --> 00:24:58,300
@@ -1533,15 +1533,15 @@ Sim!
 
 367
 00:25:08,010 --> 00:25:10,050
-Pekoms estava escondendo ele!
+O Pekoms estava a escondê-lo!
 
 368
 00:25:10,050 --> 00:25:12,050
-Atirem nele!
+Disparem sobre ele!
 
 369
 00:25:12,050 --> 00:25:15,700
-Quem diria que ele escaparia do
+Quem diria que ia escapar ao
  nosso irmão Katakuri?!
 
 370
@@ -1562,11 +1562,11 @@ Olhem para cima!
 
 374
 00:25:27,400 --> 00:25:29,740
-Pular não foi uma boa ideia.
+Saltar não foi boa ideia.
 
 375
 00:25:29,740 --> 00:25:32,520
-Você se torna um alvo fácil!
+Tornas-te um alvo fácil!
 
 376
 00:25:34,830 --> 00:25:37,450
@@ -1586,7 +1586,7 @@ Sanji!
 
 380
 00:25:48,980 --> 00:25:50,170
-Você venceu?!
+Venceste?!
 
 381
 00:25:50,780 --> 00:25:51,910
@@ -1594,27 +1594,27 @@ Sim!
 
 382
 00:25:54,970 --> 00:25:57,180
-Como era de se esperar!
+Como seria de esperar!
 
 383
 00:25:57,180 --> 00:25:58,890
-Ele está pensando em fugir voando!
+Está a pensar em fugir a voar!
 
 384
 00:25:58,890 --> 00:26:01,060
-É Perna Negra!
+É o Perna Negra!
 
 385
 00:26:01,060 --> 00:26:02,710
-Que ingênuo.
+Que ingénuo.
 
 386
 00:26:02,710 --> 00:26:04,100
-Já estávamos esperando.
+Já estávamos à espera.
 
 387
 00:26:04,100 --> 00:26:07,320
-Nós também podemos usar Geppou!
+Nós também sabemos usar Geppou!
 
 388
 00:26:07,320 --> 00:26:08,750
@@ -1638,8 +1638,8 @@ Cinco!
 
 393
 00:26:19,240 --> 00:26:22,560
-Que ele nunca mais possa olhar 
-para a lua cheia novamente!
+Que ele nunca mais possa olhar
+ para a lua cheia!
 
 394
 00:26:50,120 --> 00:26:53,420
@@ -1647,15 +1647,15 @@ Pekoms!
 
 395
 00:26:53,420 --> 00:26:55,000
-Distrair-se...
+Distraíres-te...
 
 396
 00:26:55,980 --> 00:26:59,110
-...é ser rude-yu!
+...é ser mal-educado-yu!
 
 397
 00:27:05,420 --> 00:27:10,390
-Diante de um número tão grande
+Perante um número tão grande
  e superior de inimigos,
 
 398
@@ -1664,7 +1664,7 @@ não adianta nada resistir!
 
 399
 00:27:15,400 --> 00:27:16,910
-Droga!
+Raios!
 
 400
 00:27:20,140 --> 00:27:20,870
@@ -1676,7 +1676,7 @@ Houve uma explosão no porto!
 
 402
 00:27:26,340 --> 00:27:28,800
-O que é isso?
+O que é aquilo?
 
 403
 00:27:28,800 --> 00:27:31,480
@@ -1688,11 +1688,11 @@ Os navios na costa estão em chamas!
 
 405
 00:27:35,170 --> 00:27:36,570
-O que está acontecendo?!
+O que se está a passar?!
 
 406
 00:27:36,570 --> 00:27:38,250
-Atiraram em nós?!
+Dispararam sobre nós?!
 
 407
 00:27:38,250 --> 00:27:40,470
@@ -1700,7 +1700,7 @@ Atiraram em nós?!
 
 408
 00:27:40,470 --> 00:27:42,010
-Quem diabos?
+Quem raio?
 
 409
 00:27:42,010 --> 00:27:43,190
@@ -1708,16 +1708,16 @@ E-Eh...
 
 410
 00:27:43,190 --> 00:27:45,240
-...é a frota de Germa!
+...é a frota da Germa!
 
 411
 00:27:46,410 --> 00:27:48,440
-Por que eles estão aqui?!
+Porque é que eles estão aqui?!
 
 412
 00:27:48,440 --> 00:27:51,540
-Eles deveriam ter sido 
-exterminados horas atrás!
+Deviam ter sido
+ exterminados há horas!
 
 413
 00:27:51,540 --> 00:27:52,990
@@ -1725,7 +1725,7 @@ E agora...!
 
 414
 00:27:52,990 --> 00:27:54,500
-Preparem-se para atirar!
+Preparem-se para disparar!
 
 415
 00:27:54,500 --> 00:27:56,720
@@ -1733,15 +1733,15 @@ Germa 66!
 
 416
 00:27:56,720 --> 00:27:59,660
-Por que eles estão aqui?!
+Porque é que eles estão aqui?!
 
 417
 00:28:06,400 --> 00:28:08,120
-Droga!
+Raios!
 
 418
 00:28:20,360 --> 00:28:22,450
-Infelizes!
+Desgraçados!
 
 419
 00:28:22,450 --> 00:28:26,260
@@ -1757,7 +1757,7 @@ Germa 66!
 
 422
 00:28:31,640 --> 00:28:33,690
-Por que eles estão aqui?!
+Porque é que eles estão aqui?!
 
 423
 00:28:33,690 --> 00:28:36,250
@@ -1781,7 +1781,7 @@ Tempos:
 Galaxy 9000,
 Umim
 
-Controle de qualidade:
+Controlo de qualidade:
 NAGATEI,
 Feeso,
 Galaxy 9000,
@@ -1795,7 +1795,7 @@ Gráficos:
  Datenshi
 Shichibukai Fansub
 
-Karaokê:
+Karaoke:
 KaitouYahiko
 
 Legendas:
