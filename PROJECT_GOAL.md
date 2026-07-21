@@ -3,19 +3,28 @@
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
 > **Última atualização: 2026-07-21**
 
-## Objetivo
+## ▶ PRÓXIMA SESSÃO: retomar a tradução PT-PT no WC_23
 
-Resolver as **sobreposições de legendas** nos episódios de **Whole Cake Island em diante**
-(arcos 33–37). Os arcos anteriores não são relevantes, por decisão do utilizador.
+A frente 1 está **fechada e no ar**. O trabalho ativo passa a ser a **frente 2**
+(adaptação PT-BR → PT-PT), a partir do **WC_23**. Saltar para
+[FRENTE 2](#frente-2--adaptação-pt-br--pt-pt-ativa).
+
+⚠️ **Ler antes de traduzir a primeira linha:** os `.srt` foram achatados pela frente 1.
+Isso muda como se traduz e como se verifica — ver
+[Impacto do achatamento na tradução](#impacto-do-achatamento-na-tradução).
 
 | Frente | Estado |
 |---|---|
-| **1. Posicionamento / sobreposição** | ✅ **Aplicado aos 117 episódios do âmbito.** Falta commit + redeploy Beamup |
-| **2. Adaptação PT-BR → PT-PT** | ⏸️ **Em pausa** — retomar só quando o utilizador disser (próximo: WC_23) |
+| **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, commit `a73777f`, em produção na Beamup desde 2026-07-21 |
+| **2. Adaptação PT-BR → PT-PT** | ▶️ **ATIVA** — próximo: **WC_23**. 15 de 32 do arco WCI feitos |
 
 ---
 
-# FRENTE 1 — Posicionamento das legendas (APLICADA)
+# FRENTE 1 — Posicionamento das legendas (✅ CONCLUÍDA)
+
+> Fechada a 2026-07-21. Commit `a73777f`, em produção na Beamup.
+> Mantida aqui como registo: se aparecer alguma sobreposição estranha em Wano ou
+> Egghead (que não foram vistos a olho), é aqui que está tudo o que é preciso saber.
 
 ## Problema
 
@@ -173,7 +182,19 @@ Originais em `subs_pre_merge/` (mesma estrutura de arcos, no `.gitignore`).
 por comparação automática contra o backup. O utilizador optou por não ver Wano/Egghead
 para evitar spoilers — se aparecer algo estranho quando lá chegar, corrige-se então.
 
-**Falta:** **redeploy para a Beamup** (os `.srt` mudaram todos).
+## Fecho — 2026-07-21
+
+- Commit `a73777f` na `main` (ramo `fix/legendas-sobrepostas`, integrado com fast-forward)
+- `git push origin main` — backup no GitHub
+- `git push beamup main:master` — **deploy feito e verificado em produção**
+
+Verificação em produção (com `?cb=<sha>` para furar a cache de 4 h do Cloudflare):
+o handler devolve o caminho com subpasta de arco, o `.srt` servido é byte a byte igual ao
+local, **0 cues sobrepostas** e **0 tags literais**. O caminho antigo e plano dá 404,
+como esperado.
+
+Os originais pré-achatamento estão em `subs_pre_merge/`, que está no `.gitignore` --
+**só existem nesta máquina**. O histórico do git preserva as versões anteriores.
 
 ## A verificação tem de procurar lixo CRIADO, não só conteúdo perdido
 
@@ -250,10 +271,34 @@ Não deve imprimir nada.
 
 ---
 
-# FRENTE 2 — Adaptação PT-BR → PT-PT (EM PAUSA)
+# FRENTE 2 — Adaptação PT-BR → PT-PT (▶️ ATIVA)
 
-> Parada por decisão do utilizador em 2026-07-21 para dar prioridade ao posicionamento.
-> **Não retomar sem indicação explícita.** Próximo episódio quando retomar: **WC_23**.
+> Retomada a 2026-07-21, depois de a frente 1 fechar. **Próximo: WC_23.**
+
+## Impacto do achatamento na tradução
+
+A frente 1 reescreveu os `.srt`. Três consequências, todas obrigatórias:
+
+1. **Traduzir por cima do que está em `subs/`** — nunca a partir de `subs_pre_merge/`.
+   Usar o backup como fonte desfaz a correção das sobreposições.
+2. **Alguns blocos contêm agora mais do que uma legenda** (cartaz + diálogo, ou
+   nota + nome de ataque), em linhas separadas dentro do mesmo bloco. Traduzir **cada
+   linha no lugar**: não juntar linhas, não reordenar, não colapsar o bloco. A ordem
+   codifica a posição original no ecrã (o que estava em cima fica na primeira linha).
+3. **A verificação por `diff` de timestamps deixou de servir** — o achatamento partiu
+   blocos nas fronteiras de sobreposição, logo os tempos mudaram de propósito. Verificar
+   por *conteúdo*, com o método de janelas de linhas da frente 1: comparar o ficheiro
+   traduzido contra si próprio antes da tradução, e confirmar que só mudou texto.
+
+Uma verificação simples e suficiente por episódio: o **número de blocos e todos os
+timestamps têm de ficar exatamente iguais** antes e depois de traduzir, porque a tradução
+só toca no texto.
+
+```bash
+diff <(grep -E ' --> ' <copia-antes>) <(grep -E ' --> ' subs/33_Whole_Cake_Island/WC_N.srt)
+```
+
+Sem output = integridade OK.
 
 ## Arquitetura (Opção A, já implementada)
 
