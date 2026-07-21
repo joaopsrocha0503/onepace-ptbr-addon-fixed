@@ -15,7 +15,7 @@ Isso muda como se traduz e como se verifica — ver
 
 | Frente | Estado |
 |---|---|
-| **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, commit `a73777f`, em produção na Beamup desde 2026-07-21 |
+| **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
 | **2. Adaptação PT-BR → PT-PT** | ▶️ **ATIVA** — próximo: **WC_23**. 15 de 32 do arco WCI feitos |
 
 ---
@@ -195,6 +195,24 @@ como esperado.
 
 Os originais pré-achatamento estão em `subs_pre_merge/`, que está no `.gitignore` --
 **só existem nesta máquina**. O histórico do git preserva as versões anteriores.
+
+### Versão e compatibilidade — `9d5839f`
+
+Addon subido a **2.1.0** (minor, não major): nada parte do lado de quem consome — o `id`
+do manifest, os recursos e os tipos mantêm-se, e o Stremio apanha os URLs novos sozinho,
+**sem reinstalar**. Mas é mais do que um patch: mudou a organização de `subs/`, o esquema
+de URLs e os 117 ficheiros de legendas.
+
+O `index.js` ganhou uma **rota de compatibilidade** para `/subs/<ficheiro>.srt`, o formato
+plano usado até à reorganização. As respostas ficam 4 h em cache no Cloudflare, por isso um
+cliente pode continuar a pedir o caminho antigo durante esse tempo — sem a rota recebia 404
+e ficava sem legendas. Só apanha um segmento, logo nunca colide com
+`/subs/<arco>/<ficheiro>`, e devolve **302** (não 301) para não envenenar caches se a
+estrutura voltar a mudar. Coberta por teste.
+
+**Nota sobre a cache:** ao contrário do deploy anterior, não foi preciso esperar 4 h — os
+`.srt` ficaram em caminhos novos, que nunca tinham estado em cache, portanto não havia
+cópia velha para expirar.
 
 ## A verificação tem de procurar lixo CRIADO, não só conteúdo perdido
 
