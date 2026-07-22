@@ -8,21 +8,21 @@ Um desejo.
 
 3
 00:00:05,400 --> 00:00:06,770
-Se quiser torná-lo realidade,
+Se o quiseres tornar realidade,
 
 4
 00:00:06,770 --> 00:00:09,940
-chegue ao topo.
+chega ao topo.
 
 5
 00:00:25,750 --> 00:00:26,170
-Vá para um mundo nunca antes visto.
+Segue para um mundo nunca antes visto.
 
 6
 00:00:26,170 --> 00:00:29,300
 Edição
 \h\hMeggo
-Vá para um mundo nunca antes visto.
+Segue para um mundo nunca antes visto.
 
 7
 00:00:29,300 --> 00:00:30,130
@@ -40,7 +40,7 @@ Timing
 Timing
 \h\hFJATP
 \h\hPhosCity
-Supere as ondas e os ventos furiosos.
+Supera as ondas e os ventos furiosos.
 
 10
 00:00:34,000 --> 00:00:34,590
@@ -50,41 +50,41 @@ Timing
 
 11
 00:00:34,640 --> 00:00:34,930
-Você tem que abrir seu caminho...
+Tens de abrir o teu caminho...
 
 12
 00:00:34,930 --> 00:00:37,010
-Controle de qualidade\h\h
+Controlo de qualidade\h\h
 \h\hGalaxy 9000
 \h\hNagatei
 \h\hPepperjack
 \h\hTaylor Lindise
-Você tem que abrir seu caminho...
+Tens de abrir o teu caminho...
 
 13
 00:00:37,010 --> 00:00:38,520
-Controle de qualidade\h\h
+Controlo de qualidade\h\h
 \h\hGalaxy 9000
 \h\hNagatei
 \h\hPepperjack
 \h\hTaylor Lindise
-...se quiser ser o número um.
+...se queres ser o número um.
 
 14
 00:00:38,520 --> 00:00:38,640
-...se quiser ser o número um.
+...se queres ser o número um.
 
 15
 00:00:38,640 --> 00:00:39,300
 Maestro Musical
 Halee
-...se quiser ser o número um.
+...se queres ser o número um.
 
 16
 00:00:39,300 --> 00:00:41,980
 Maestro Musical
 Halee
-Deixe as preocupações para depois.
+Deixa as preocupações para depois.
 
 17
 00:00:41,980 --> 00:00:43,610
@@ -105,7 +105,7 @@ Gráficos
 20
 00:00:50,860 --> 00:00:52,300
 Se o inimigo te intimidar,
-Karaokê e legendas
+Karaoke e legendas
 \h\hShichibukai Fansub
 
 Tradução: Juan Tlgd
@@ -113,28 +113,28 @@ Revisão: Dankratos
 
 21
 00:00:52,300 --> 00:00:54,700
-Karaokê e legendas
+Karaoke e legendas
 \h\hShichibukai Fansub
 
 Tradução: Juan Tlgd
 Revisão: Dankratos
-é porque seu coração encolheu.
+é porque o teu coração encolheu.
 
 22
 00:00:54,700 --> 00:00:57,080
-é porque seu coração encolheu.
+é porque o teu coração encolheu.
 
 23
 00:00:57,610 --> 00:00:59,740
-Você não tem a opção de fugir.
+Não tens a opção de fugir.
 
 24
 00:00:59,740 --> 00:01:02,240
-Aproxime-se mais um passo.
+Dá mais um passo em frente.
 
 25
 00:01:02,240 --> 00:01:04,490
-Será um elogio se te chamarem de insolente?
+Será um elogio se te chamarem insolente?
 
 26
 00:01:04,490 --> 00:01:05,810
@@ -142,11 +142,11 @@ Quanto mais difícil for a situação,
 
 27
 00:01:05,810 --> 00:01:08,790
-mais você deve sorrir!
+mais tens de sorrir!
 
 28
 00:01:10,010 --> 00:01:14,850
-Veja o quanto você avançou em direção a um novo horizonte.
+Vê o quanto avançaste em direção a um novo horizonte.
 
 29
 00:01:14,850 --> 00:01:19,970
@@ -154,11 +154,11 @@ Por isso agora tudo é mais brilhante e difícil.
 
 30
 00:01:19,970 --> 00:01:24,660
-Viva seu sonho e provoque um furacão.
+Vive o teu sonho e provoca um furacão.
 
 31
 00:01:24,660 --> 00:01:29,160
-Vamos, bagunce o ranking!
+Vá lá, baralha o ranking!
 
 32
 00:01:29,160 --> 00:01:31,550
@@ -170,15 +170,15 @@ Um desejo.
 
 34
 00:01:33,450 --> 00:01:38,170
-Seus sonhos não vão escapar, nocauteie todos.
+Os teus sonhos não vão escapar, derruba-os a todos.
 
 35
 00:01:38,170 --> 00:01:40,550
-Chegue ao topo.
+Chega ao topo.
 
 36
 00:01:42,910 --> 00:01:46,790
-Não esqueça que você duvidou dos meus companheiros.
+Não te esqueças de que duvidaste dos meus companheiros.
 
 37
 00:01:50,080 --> 00:01:52,170
@@ -187,58 +187,58 @@ Se não confiarmos uns nos outros,
 38
 00:01:52,170 --> 00:01:56,290
 como poderíamos lutar lado a lado
- em uma batalha de vida ou morte?
+ numa batalha de vida ou morte?
 
 39
 00:01:57,760 --> 00:02:02,600
-Fagulhas da Rebelião
+Faíscas da Rebelião
 
 40
 00:02:02,600 --> 00:02:05,390
-Tral foi embora muito irritado.
+O Tral foi-se embora muito irritado.
 
 41
 00:02:05,390 --> 00:02:07,730
-Ele vai voltar?
+Ele volta?
 
 42
 00:02:08,340 --> 00:02:11,400
-Maldita Shinobu, por que ela tinha que dizer isso?!
+Maldita Shinobu, porque tinha de dizer aquilo?!
 
 43
 00:02:11,400 --> 00:02:14,320
-A frustração de Shinobu-chan é compreensível.
+A frustração da Shinobu-chan é compreensível.
 
 44
 00:02:14,320 --> 00:02:19,780
-Kaidou se apoderou do País de Wano
- e arruinou suas vidas,
+O Kaidou apoderou-se do País de Wano
+ e arruinou-lhes as vidas,
 
 45
 00:02:19,780 --> 00:02:24,660
 mas ela resistiu a tudo isso e esperou
- vinte anos para executar esse plano.
+ vinte anos para executar este plano.
 
 46
 00:02:24,660 --> 00:02:29,750
-Mas, mesmo que Bepo e os outros tivessem
+Mas, mesmo que o Bepo e os outros tivessem
  revelado o plano, eu não os culparia.
 
 47
 00:02:29,750 --> 00:02:32,000
-Porque você também teria feito o mesmo.
+Porque tu também terias feito o mesmo.
 
 48
 00:02:32,000 --> 00:02:34,420
-Com certeza você também.
+De certeza que tu também.
 
 49
 00:02:36,420 --> 00:02:38,200
-Tortura, hein?
+Tortura, hã?
 
 50
 00:02:39,090 --> 00:02:40,660
-Eu aguentaria três segundos.
+Eu aguentava três segundos.
 
 51
 00:02:40,660 --> 00:02:42,010
@@ -255,7 +255,7 @@ Hã?
 54
 00:02:43,890 --> 00:02:46,520
 Não preciso que gente de classe baixa
- como vocês cuidem de mim!
+ como vocês cuide de mim!
 
 55
 00:02:46,520 --> 00:02:47,980
@@ -263,7 +263,7 @@ O quê?
 
 56
 00:02:47,980 --> 00:02:51,190
-Tem gritos em Ebisu, onde só deveria haver risadas?
+Há gritos em Ebisu, onde só devia haver risos?
 
 57
 00:02:53,940 --> 00:02:57,070
@@ -271,7 +271,7 @@ Apareceu a velha youkai!
 
 58
 00:02:57,070 --> 00:02:57,740
-Não fale assim!
+Não fales assim!
 
 59
 00:02:57,740 --> 00:03:00,410
@@ -283,7 +283,7 @@ Foram expulsos da capital e chegaram ontem.
 
 61
 00:03:03,990 --> 00:03:05,720
-O que vocês estão olhando?!
+Para o que estão vocês a olhar?!
 
 62
 00:03:05,720 --> 00:03:07,770
@@ -309,11 +309,11 @@ que possam ganhar dinheiro.
 
 67
 00:03:20,590 --> 00:03:22,390
-Ouvi dizer que esses homens...
+Ouvi dizer que estes homens...
 
 68
 00:03:22,390 --> 00:03:26,310
-...fizeram coisas muito ruins!
+...fizeram coisas muito más!
 
 69
 00:03:26,310 --> 00:03:27,430
@@ -321,12 +321,12 @@ Primeiro...
 
 70
 00:03:27,430 --> 00:03:29,390
-Bungoh, que tinha um cargo baixo,
+O Bungoh, que tinha um cargo baixo,
 
 71
 00:03:31,190 --> 00:03:34,810
 saía à noite pela cidade
- provocando incêndios,
+ a provocar incêndios,
 
 72
 00:03:34,810 --> 00:03:39,240
@@ -335,16 +335,16 @@ mas saía impune porque
 
 73
 00:03:40,240 --> 00:03:42,860
-PIROMANÍACO
+PIRÓMANO
 BUNGOH
 
 74
 00:03:42,860 --> 00:03:44,300
-Um piromaníaco?!
+Um pirómano?!
 
 75
 00:03:44,300 --> 00:03:46,530
-E por que ele causava incêndios tão grandes?
+E porque causava ele incêndios tão grandes?
 
 76
 00:03:46,530 --> 00:03:50,250
@@ -357,12 +357,12 @@ Um madeireiro que vendia madeira
 
 78
 00:03:56,290 --> 00:03:57,920
-Seu nome é Bongoh.
+Chama-se Bongoh.
 
 79
 00:03:57,920 --> 00:03:58,250
 MADEIREIRO
-Seu nome é Bongoh.
+Chama-se Bongoh.
 BONGOH
 
 80
@@ -393,13 +393,13 @@ O monge e coveiro, Bingoh.
 
 86
 00:04:14,230 --> 00:04:16,020
-MONJE Y
+MONGE E
 COVEIRO
 BINGOH
 
 87
 00:04:16,020 --> 00:04:18,190
-Não me diga que os três...
+Não me digas que os três...
 
 88
 00:04:18,190 --> 00:04:19,780
@@ -407,7 +407,7 @@ Sim.
 
 89
 00:04:19,780 --> 00:04:24,070
-Bingoh, Bongoh e Bungoh eram cúmplices.
+O Bingoh, o Bongoh e o Bungoh eram cúmplices.
 
 90
 00:04:25,530 --> 00:04:26,760
@@ -419,7 +419,7 @@ Que horrível!
 
 92
 00:04:27,990 --> 00:04:31,950
-Sim, não importa o crime que cometessem,
+Sim, não interessava o crime que cometessem,
 
 93
 00:04:31,950 --> 00:04:36,580
@@ -440,8 +440,8 @@ Veja bem,
 
 97
 00:04:44,550 --> 00:04:50,930
-curiosamente, os três se apaixonaram
- por Komurasaki, a cortesã,
+curiosamente, os três apaixonaram-se
+ pela Komurasaki, a cortesã,
 
 98
 00:04:50,930 --> 00:04:54,270
@@ -449,8 +449,8 @@ que morreu ontem.
 
 99
 00:04:54,270 --> 00:04:59,770
-Os três deram todo o seu dinheiro
- a ela e faliram.
+Os três deram-lhe todo o seu
+ dinheiro e ficaram falidos.
 
 100
 00:04:59,770 --> 00:05:03,650
@@ -463,7 +463,7 @@ Que história...
 
 102
 00:05:05,570 --> 00:05:08,450
-Mas tem detalhes demais
+Mas tem pormenores a mais
  para ser só um boato.
 
 103
@@ -473,7 +473,7 @@ Deve ser verdade, não é?
 104
 00:05:11,090 --> 00:05:14,980
 Nesse caso, essa cortesã
- fez isso de propósito.
+ fê-lo de propósito.
 
 105
 00:05:14,980 --> 00:05:16,460
@@ -489,7 +489,7 @@ Ah, eles...!
 
 108
 00:05:23,210 --> 00:05:25,970
-Sim, agora eu me lembro!
+Sim, agora lembro-me!
 
 109
 00:05:25,970 --> 00:05:30,010
@@ -498,34 +498,34 @@ Foram eles que causaram a confusão
 
 110
 00:05:30,010 --> 00:05:35,170
-Yasu-san deu um lugar para eles
- morarem e cuidou deles,
+O Yasu-san deu-lhes um sítio
+ para morarem e cuidou deles,
 
 111
 00:05:35,170 --> 00:05:38,230
-mas ainda são muito arrogantes,
- não têm jeito mesmo.
+mas continuam muito arrogantes,
+ não têm mesmo emenda.
 
 112
 00:05:38,230 --> 00:05:41,770
-Tonoyasu ajuda todo mundo, hein?
+O Tonoyasu ajuda toda a gente, hã?
 
 113
 00:05:41,770 --> 00:05:44,440
-Até mesmo esses caras maus.
+Até estes tipos maus.
 
 114
 00:05:44,440 --> 00:05:48,860
 Acho que muita gente
- vai se motivar vendo isso!
+ se vai motivar ao ver isto!
 
 115
 00:05:53,620 --> 00:05:56,750
-Contem isso para Kin'emon-kun e os outros.
+Contem isso ao Kin'emon-kun e aos outros.
 
 116
 00:05:58,000 --> 00:06:03,590
-Nós lutaremos com vocês,
+Nós lutaremos convosco,
  aconteça o que acontecer!
 
 117
@@ -534,11 +534,11 @@ Kin'emon-kun?
 
 118
 00:06:10,430 --> 00:06:13,700
-Fico feliz de tê-los visto...
+Fico feliz por vos ter visto...
 
 119
 00:06:13,700 --> 00:06:16,610
-Bem, estaremos ocupados.
+Bem, vamos estar ocupados.
 
 120
 00:06:16,610 --> 00:06:17,640
@@ -567,7 +567,7 @@ uma mulher linda...
 
 126
 00:06:37,120 --> 00:06:39,540
-...e uma garota da cidade.
+...e uma miúda da cidade.
 
 127
 00:06:42,130 --> 00:06:45,920
@@ -579,8 +579,8 @@ E quem era aquele velho?
 
 129
 00:06:53,300 --> 00:06:58,750
-Não consegui entender qual
- é a relação dele com vocês.
+Não consegui perceber qual
+ é a relação dele convosco.
 
 130
 00:06:58,750 --> 00:07:00,390
@@ -588,11 +588,11 @@ Eu também não.
 
 131
 00:07:00,390 --> 00:07:03,690
-Sim, ele era muito animado.
+Sim, era muito animado.
 
 132
 00:07:03,690 --> 00:07:05,690
-Quem é Tonoyasu-san?
+Quem é o Tonoyasu-san?
 
 133
 00:07:08,610 --> 00:07:10,530
@@ -604,11 +604,11 @@ Na verdade, até nós...
 
 135
 00:07:16,160 --> 00:07:17,490
-Mas o que é isso?!
+Mas o que é isto?!
 
 136
 00:07:17,490 --> 00:07:20,290
-Vocês estavam conversando com ele sem saber quem ele é?!
+Estavam a conversar com ele sem saber quem ele é?!
 
 137
 00:07:20,290 --> 00:07:23,500
@@ -621,7 +621,7 @@ Como podem esquecer alguém assim?
 139
 00:07:25,880 --> 00:07:29,760
 É que, pelos honoríficos
- que ele usava com a gente,
+ que ele usava connosco,
 
 140
 00:07:29,760 --> 00:07:33,930
@@ -629,11 +629,11 @@ seria falta de respeito perguntar quem ele é...
 
 141
 00:07:33,930 --> 00:07:35,470
-...se antes fosse alguém importante.
+...se antes tivesse sido alguém importante.
 
 142
 00:07:36,310 --> 00:07:38,310
-Ele era muito amigável com vocês...
+Ele era muito amigável convosco...
 
 143
 00:07:38,310 --> 00:07:39,930
@@ -641,7 +641,7 @@ Talvez seja um amigo de infância,
 
 144
 00:07:39,930 --> 00:07:43,480
-seu senpai ou um mentor.
+o vosso senpai ou um mentor.
 
 145
 00:07:47,400 --> 00:07:49,650
@@ -661,11 +661,11 @@ Vamos, Madilloman!
 
 149
 00:08:02,080 --> 00:08:04,710
-Não vá sair voando, velho!
+Não me vás a voar, velho!
 
 150
 00:08:15,740 --> 00:08:20,390
-O que você chama de Haki é conhecido
+Aquilo a que chamas Haki é conhecido
  como Ryuuou no País de Wano!
 
 151
@@ -683,12 +683,12 @@ Significa "fluir".
 
 154
 00:08:30,360 --> 00:08:33,700
-Com certeza seu Haki também
- flui pelo seu corpo.
+De certeza que o teu Haki também
+ flui pelo teu corpo.
 
 155
 00:08:33,700 --> 00:08:36,280
-Primeiro sinta isso.
+Primeiro sente isso.
 
 156
 00:08:37,620 --> 00:08:39,540
@@ -700,19 +700,19 @@ O Haki flui...
 
 158
 00:08:53,720 --> 00:08:55,300
-Não force!
+Não forces!
 
 159
 00:09:07,190 --> 00:09:09,570
-Droga, não é assim!
+Raios, não é assim!
 
 160
 00:09:11,440 --> 00:09:13,070
-Não deve forçar!
+Não deves forçar!
 
 161
 00:09:13,070 --> 00:09:17,950
-Deixe o Haki fluir para seu punho a partir das partes do corpo onde não é necessário!
+Deixa o Haki fluir para o teu punho a partir das partes do corpo onde não é necessário!
 
 162
 00:09:19,120 --> 00:09:21,790
@@ -720,7 +720,7 @@ Chapéu de Palha!
 
 163
 00:09:22,740 --> 00:09:25,080
-Desapareça!
+Desaparece!
 
 164
 00:09:33,150 --> 00:09:34,380
@@ -728,7 +728,7 @@ Não é assim!
 
 165
 00:09:38,300 --> 00:09:40,000
-Tampouco é assim!
+Também não é assim!
 
 166
 00:09:40,000 --> 00:09:41,220
@@ -748,7 +748,7 @@ Onde está...
 
 170
 00:09:46,230 --> 00:09:48,650
-...meu Haki?!
+...o meu Haki?!
 
 171
 00:09:50,770 --> 00:09:53,780
@@ -756,7 +756,7 @@ Não flui para o meu punho!
 
 172
 00:10:04,240 --> 00:10:07,960
-Ei, ei, você já derrotou
+Ei, ei, já derrotaste
  muitos, idiota.
 
 173
@@ -778,7 +778,7 @@ Vamos lá!
 177
 00:10:26,350 --> 00:10:30,550
 Velho, como está
- sua dor de estômago?
+ a sua dor de estômago?
 
 178
 00:10:30,550 --> 00:10:32,480
@@ -790,11 +790,11 @@ Não é muito, mas trouxe painço e água.
 
 180
 00:10:36,030 --> 00:10:37,520
-Vai te dar energia.
+Vai dar-lhe energia.
 
 181
 00:10:37,520 --> 00:10:41,570
-Você é muito boa pessoa, Yasu-san.
+É muito boa pessoa, Yasu-san.
 
 182
 00:10:42,200 --> 00:10:44,160
@@ -802,15 +802,15 @@ Que elogio!
 
 183
 00:10:44,160 --> 00:10:46,700
-Fico feliz em ser chamado de boa pessoa!
+Fico feliz por me chamarem boa pessoa!
 
 184
 00:10:46,700 --> 00:10:49,540
-Então, vou te dar mais dois grãos de painço!
+Então, vou dar-lhe mais dois grãos de painço!
 
 185
 00:10:50,160 --> 00:10:52,500
-Até mais, velho!
+Até já, velho!
 
 186
 00:10:53,170 --> 00:10:55,800
@@ -822,15 +822,15 @@ Tem remédio suficiente?
 
 188
 00:10:57,650 --> 00:11:01,470
-Não, mas ver seu rosto me anima.
+Não, mas ver a sua cara anima-me.
 
 189
 00:11:02,170 --> 00:11:03,890
-Você é a perdição dos homens!
+É a perdição dos homens!
 
 190
 00:11:04,890 --> 00:11:07,740
-Senhor aposentado, como está seu joelho?
+Senhor aposentado, como está o seu joelho?
 
 191
 00:11:07,740 --> 00:11:10,060
@@ -838,11 +838,11 @@ Yasu-san, vamos jogar!
 
 192
 00:11:10,310 --> 00:11:13,810
-Hankou, como está sua mãe doente?
+Hankou, como está a tua mãe doente?
 
 193
 00:11:14,060 --> 00:11:16,190
-Osaki-san, como está seu bebê?
+Osaki-san, como está o teu bebé?
 
 194
 00:11:17,690 --> 00:11:19,900
@@ -854,11 +854,11 @@ Yasu-san!
 
 196
 00:11:22,110 --> 00:11:24,160
-Venha conosco!
+Venha connosco!
 
 197
 00:11:24,160 --> 00:11:27,110
-Vamos, pessoal, peguem isso!
+Vamos, pessoal, peguem nisto!
 
 198
 00:11:27,110 --> 00:11:28,620
@@ -866,15 +866,15 @@ Obrigado como sempre!
 
 199
 00:11:29,710 --> 00:11:32,420
-Tonoyasu está se saindo bem.
+O Tonoyasu está a sair-se bem.
 
 200
 00:11:32,420 --> 00:11:34,790
-Está distribuindo comida para todos.
+Está a distribuir comida por todos.
 
 201
 00:11:35,340 --> 00:11:37,050
-Não está indo bem.
+Não está a correr bem.
 
 202
 00:11:37,050 --> 00:11:37,600
@@ -890,12 +890,12 @@ Hã?
 
 205
 00:11:41,690 --> 00:11:46,760
-Fizeram ele vender Toko, sua única filha, que agora trabalha na capital,
+Obrigaram-no a vender a Toko, a sua única filha, que agora trabalha na capital,
 
 206
 00:11:47,310 --> 00:11:51,730
 mas quase todo o dinheiro que
- ela ganha é enviado para Yasu-san.
+ ela ganha é enviado ao Yasu-san.
 
 207
 00:11:52,590 --> 00:11:54,100
@@ -907,39 +907,39 @@ Não sou um homem!
 
 209
 00:11:59,650 --> 00:12:01,030
-Ela, hein?
+Ela, hã?
 
 210
 00:12:01,030 --> 00:12:04,360
-Ele sabe que Toko-chan trabalha duro
+Ele sabe que a Toko-chan trabalha no duro
  para poder enviar esse dinheiro,
 
 211
 00:12:04,360 --> 00:12:06,990
-por isso, diz que não é certo
+por isso diz que não é certo
  ficar com tudo.
 
 212
 00:12:06,990 --> 00:12:11,580
-Todos os dias ele doa coisas
- para quem não pode trabalhar.
+Todos os dias doa coisas
+ a quem não pode trabalhar.
 
 213
 00:12:12,120 --> 00:12:15,000
-E ele quase não come.
+E quase não come.
 
 214
 00:12:18,040 --> 00:12:20,740
-Suas expressões e movimentos
+As expressões e os movimentos dele
  são de um palhaço,
 
 215
 00:12:20,740 --> 00:12:24,720
-mas as pessoas sempre o amaram.
+mas as pessoas sempre o adoraram.
 
 216
 00:12:24,720 --> 00:12:27,510
-Ele é um santo.
+É um santo.
 
 217
 00:12:31,060 --> 00:12:32,850
@@ -975,24 +975,24 @@ Estou com fome...
 
 225
 00:13:05,010 --> 00:13:08,120
-Não vão me dar nada para comer?
+Não me dão nada para comer?
 
 226
 00:13:08,120 --> 00:13:10,180
-Pare de latir como um cachorro...
+Para de ladrar como um cão...
 
 227
 00:13:10,180 --> 00:13:12,140
-Cale a boca e durma.
+Cala a boca e dorme.
 
 228
 00:13:12,680 --> 00:13:16,350
-Amanhã vou virar uma múmia!
+Amanhã fico uma múmia!
 
 229
 00:13:17,150 --> 00:13:19,730
-Posso te perguntar uma coisa,
-garoto do chapéu de palha?
+Posso fazer-te uma pergunta,
+rapaz do chapéu de palha?
 
 230
 00:13:19,730 --> 00:13:20,270
@@ -1004,11 +1004,11 @@ O quê?
 
 232
 00:13:21,440 --> 00:13:23,610
-Por que você quer lutar contra Kaidou?
+Porque queres lutar contra o Kaidou?
 
 233
 00:13:23,610 --> 00:13:26,320
-Ouvi que ele te derrotou em Kuri.
+Ouvi dizer que ele te derrotou em Kuri.
 
 234
 00:13:29,990 --> 00:13:31,580
@@ -1024,7 +1024,7 @@ Velho...
 
 237
 00:13:49,830 --> 00:13:51,560
-Você sabe o que é um Yonkou?
+Sabes o que é um Yonkou?
 
 238
 00:13:51,560 --> 00:13:52,930
@@ -1033,19 +1033,19 @@ Não.
 239
 00:13:52,930 --> 00:13:57,230
 Existem quatro grandes piratas
- chamados de imperadores.
+ a que chamam imperadores.
 
 240
 00:13:57,940 --> 00:13:59,440
-Kaidou é um deles.
+O Kaidou é um deles.
 
 241
 00:14:01,730 --> 00:14:05,070
-Eu serei o Rei dos Piratas,
+Eu vou ser o Rei dos Piratas,
 
 242
 00:14:05,070 --> 00:14:07,780
-por isso, preciso derrotar todos eles.
+por isso tenho de os derrotar a todos.
 
 243
 00:14:07,780 --> 00:14:10,370
@@ -1053,11 +1053,11 @@ O Rei dos Piratas?
 
 244
 00:14:10,370 --> 00:14:12,370
-Você diz que será como Roger?
+Dizes que vais ser como o Roger?
 
 245
 00:14:13,950 --> 00:14:16,520
-Você conhece Gold Roger?
+Conheces o Gold Roger?
 
 246
 00:14:16,520 --> 00:14:21,290
@@ -1065,7 +1065,7 @@ Ele veio a este país há muito tempo.
 
 247
 00:14:21,290 --> 00:14:24,380
-Kin'emon disse a mesma coisa!
+O Kin'emon disse a mesma coisa!
 
 248
 00:14:24,380 --> 00:14:25,840
@@ -1077,15 +1077,15 @@ Kin'emon?!
 
 250
 00:14:27,840 --> 00:14:30,180
-Como você conhece esse nome?!
+Como é que conheces esse nome?!
 
 251
 00:14:38,810 --> 00:14:40,020
-O que é isso?!
+O que é isto?!
 
 252
 00:14:47,280 --> 00:14:50,280
-Você é... R-Raizou!
+Tu és... R-Raizou!
 
 253
 00:14:52,370 --> 00:14:54,080
@@ -1093,11 +1093,11 @@ Chapéu de Palha-san...
 
 254
 00:14:55,540 --> 00:14:56,870
-Você é...
+Tu és...
 
 255
 00:14:58,540 --> 00:15:00,960
-Este é Raizou, certo?
+Este é o Raizou, certo?
 
 256
 00:15:00,960 --> 00:15:02,540
@@ -1105,11 +1105,11 @@ Exatamente.
 
 257
 00:15:06,170 --> 00:15:08,210
-O que está acontecendo?!
+O que se está a passar?!
 
 258
 00:15:08,210 --> 00:15:11,550
-Como você está vivo, Raizou?
+Como estás vivo, Raizou?
 
 259
 00:15:11,550 --> 00:15:15,010
@@ -1121,7 +1121,7 @@ Ali está ele!
 
 261
 00:15:21,480 --> 00:15:23,650
-É Ushimitsu Kozou!
+É o Ushimitsu Kozou!
 
 262
 00:15:24,440 --> 00:15:25,480
@@ -1129,7 +1129,7 @@ Rendam-se!
 
 263
 00:15:28,110 --> 00:15:30,370
-Peguem-no!
+Apanhem-no!
 
 264
 00:15:32,320 --> 00:15:34,280
@@ -1138,7 +1138,7 @@ Isso é verdade, Raizou?
 265
 00:15:34,280 --> 00:15:40,000
 Este servo também não consegue
- acreditar que você seja Hyogoro-dono...
+ acreditar que seja o Hyogoro-dono...
 
 266
 00:15:41,580 --> 00:15:43,980
@@ -1146,7 +1146,7 @@ Este servo também não consegue
 
 267
 00:15:44,790 --> 00:15:48,590
-Você está dizendo que realmente viajaram
+Estás a dizer que viajaram mesmo
  vinte anos no tempo...
 
 268
@@ -1159,7 +1159,7 @@ Exatamente!
 
 270
 00:15:53,140 --> 00:15:55,260
-Graças aos poderes de Toki-sama.
+Graças aos poderes da Toki-sama.
 
 271
 00:15:58,260 --> 00:15:59,680
@@ -1175,7 +1175,7 @@ Não diga isso, Chapéu de Palha-san!
 
 274
 00:16:08,190 --> 00:16:09,990
-O que é isso, Raizou?!
+O que é isto, Raizou?!
 
 275
 00:16:09,990 --> 00:16:10,400
@@ -1208,7 +1208,7 @@ deixe-me embarcar no seu navio quando partirem.
 
 282
 00:16:34,510 --> 00:16:36,680
-Você não pode sair daqui?
+Não podes sair daqui?
 
 283
 00:16:36,680 --> 00:16:40,120
@@ -1216,11 +1216,11 @@ Lamento pelo que fiz no passado!
 
 284
 00:16:40,120 --> 00:16:42,430
-Agora sou uma pessoa diferente!
+Agora sou outra pessoa!
 
 285
 00:16:47,150 --> 00:16:50,110
-Se você mudou, tudo bem!
+Se mudaste, tudo bem!
 
 286
 00:16:54,240 --> 00:16:57,030
@@ -1232,20 +1232,20 @@ Será uma armadilha?
 
 288
 00:17:00,370 --> 00:17:02,580
-Estou com medo de como foi fácil!
+Assusta-me o quão fácil foi!
 
 289
 00:17:02,580 --> 00:17:07,630
-Luffytaro-dono, esse cara usa
+Luffytaro-dono, este tipo usa
  um poder muito interessante!
 
 290
 00:17:07,630 --> 00:17:09,710
-Ele será útil para nossa causa!
+Vai ser útil à nossa causa!
 
 291
 00:17:13,300 --> 00:17:16,400
-Eu me agarrei à vida...
+Eu agarrei-me à vida...
 
 292
 00:17:16,400 --> 00:17:18,600
@@ -1269,11 +1269,11 @@ Foi por pouco...
 
 297
 00:17:35,150 --> 00:17:38,410
-Pensei que morreria aqui como um cachorro...
+Pensei que morreria aqui como um cão...
 
 298
 00:17:39,200 --> 00:17:41,660
-Já tinha aceitado minha morte.
+Já tinha aceitado a minha morte.
 
 299
 00:17:44,200 --> 00:17:48,490
@@ -1281,7 +1281,7 @@ Se tivessem demorado um pouco mais,
 
 300
 00:17:48,490 --> 00:17:50,340
-eu teria morrido sem saber...
+teria morrido sem saber...
 
 301
 00:17:52,210 --> 00:17:55,920
@@ -1289,8 +1289,8 @@ eu teria morrido sem saber...
 
 302
 00:17:56,470 --> 00:18:00,350
-...e Kouzuki Momonosuke, o filho
- de Oden, ainda estão vivos.
+...e o Kouzuki Momonosuke, o filho
+ do Oden, ainda estão vivos.
 
 303
 00:18:00,890 --> 00:18:03,060
@@ -1302,7 +1302,7 @@ O fogo da rebelião...
 
 305
 00:18:17,200 --> 00:18:19,570
-Raizou, garoto do chapéu de palha!
+Raizou, rapaz do chapéu de palha!
 
 306
 00:18:19,570 --> 00:18:20,450
@@ -1315,7 +1315,7 @@ Nesse caso, até um velho
 
 308
 00:18:25,160 --> 00:18:28,960
-Permita-me oferecer meus serviços!
+Permitam-me oferecer os meus serviços!
 
 309
 00:18:28,960 --> 00:18:32,880
@@ -1328,11 +1328,11 @@ Luffy-dono, ele já foi o grande chefe
 
 311
 00:18:38,240 --> 00:18:42,800
-Sabia que você era incrível no passado, velho!
+Eu sabia que tinhas sido incrível no passado, velho!
 
 312
 00:18:42,800 --> 00:18:48,140
-Ouvi que estão recrutando aliados na Capital das Flores, não é?
+Ouvi dizer que estão a recrutar aliados na Capital das Flores, não é?
 
 313
 00:18:48,140 --> 00:18:49,540
@@ -1341,7 +1341,7 @@ Exatamente.
 314
 00:18:49,540 --> 00:18:53,820
 Deve ter sido o destino
- que os trouxe a Udon.
+ que vos trouxe a Udon.
 
 315
 00:18:53,820 --> 00:18:56,490
@@ -1350,7 +1350,7 @@ Nesta mina de prisioneiros,
 316
 00:18:56,490 --> 00:19:00,360
 existem outros quatro locais de escavação
- tão grandes quanto este.
+ tão grandes como este.
 
 317
 00:19:00,360 --> 00:19:05,200
@@ -1368,15 +1368,15 @@ O crime que a maioria
 
 320
 00:19:13,790 --> 00:19:16,090
-...foi se rebelar contra Orochi.
+...foi rebelar-se contra o Orochi.
 
 321
 00:19:16,090 --> 00:19:17,590
-Entendi!
+Percebi!
 
 322
 00:19:17,590 --> 00:19:19,340
-Como eu não percebi?
+Como é que não reparei?
 
 323
 00:19:19,880 --> 00:19:23,340
@@ -1394,7 +1394,7 @@ Vou falar com eles!
 
 326
 00:19:31,020 --> 00:19:34,110
-Com certeza lutarão
+De certeza que lutarão
  com prazer pelos Kouzuki!
 
 327
@@ -1407,23 +1407,23 @@ Estou ciente.
 
 329
 00:19:38,990 --> 00:19:41,990
-Já falei com Kawamatsu.
+Já falei com o Kawamatsu.
 
 330
 00:19:41,990 --> 00:19:45,370
-Ele será o primeiro a ser libertado.
+Será o primeiro a ser libertado.
 
 331
 00:19:46,700 --> 00:19:47,830
-Entendi!
+Percebi!
 
 332
 00:19:47,830 --> 00:19:50,830
-Então, se eu destruir este lugar,
+Então, se eu destruir este sítio,
 
 333
 00:19:51,500 --> 00:19:53,880
-todos serão nossos aliados, certo?!
+serão todos nossos aliados, certo?!
 
 334
 00:19:54,420 --> 00:19:56,630
@@ -1431,7 +1431,7 @@ Luffy-dono, não fale tão alto!
 
 335
 00:19:56,630 --> 00:19:57,800
-Não vai ser tão fácil!
+Não vai ser assim tão fácil!
 
 336
 00:19:57,800 --> 00:19:58,800
@@ -1440,7 +1440,7 @@ Muito bem!
 337
 00:19:58,800 --> 00:20:02,340
 Agora que decidimos isso,
- me tragam comida!
+ tragam-me comida!
 
 338
 00:20:03,800 --> 00:20:05,760
@@ -1452,7 +1452,7 @@ Eu quero...
 
 340
 00:20:09,270 --> 00:20:12,640
-Estou com fome e sono...
+Estou com fome e com sono...
 
 341
 00:20:12,640 --> 00:20:16,230
@@ -1467,11 +1467,11 @@ UDON - ERMO
 343
 00:20:19,150 --> 00:20:21,780
 UDON - ERMO
-mas já chegamos em Udon.
+mas já chegámos a Udon.
 
 344
 00:20:22,740 --> 00:20:24,240
-Espere por mim,
+Espera por mim,
 
 345
 00:20:24,240 --> 00:20:28,030
@@ -1479,8 +1479,8 @@ meu oshiruko...
 
 346
 00:20:29,580 --> 00:20:32,000
-Será mesmo uma boa ideia
- ela vir conosco?
+Será mesmo boa ideia
+ ela vir connosco?
 
 347
 00:20:35,330 --> 00:20:37,500
@@ -1500,7 +1500,7 @@ Extra, extra!
 
 351
 00:20:51,060 --> 00:20:53,180
-Ushimitsu Kozou, o grande ladrão...
+O Ushimitsu Kozou, o grande ladrão...
 
 352
 00:20:53,180 --> 00:20:53,360
@@ -1515,7 +1515,7 @@ CAPITAL DAS FLORES
 
 354
 00:20:55,940 --> 00:20:59,070
-finalmente foi capturado!
+foi finalmente capturado!
 
 355
 00:20:59,610 --> 00:21:01,030
@@ -1523,21 +1523,21 @@ Orochi-sama...
 
 356
 00:21:01,730 --> 00:21:05,490
-Orochi-sama, preciso lhe
+Orochi-sama, preciso de lhe
  comunicar algo importante.
 
 357
 00:21:05,490 --> 00:21:09,740
-É sobre Ushimitsu Kozou,
- que capturamos ontem.
+É sobre o Ushimitsu Kozou,
+ que capturámos ontem.
 
 358
 00:21:11,100 --> 00:21:13,000
-Cale a boca!
+Cala a boca!
 
 359
 00:21:13,000 --> 00:21:16,500
-É impossível que vocês entendam...
+É impossível que vocês percebam...
 
 360
 00:21:16,500 --> 00:21:19,540
@@ -1545,26 +1545,26 @@ Cale a boca!
 
 361
 00:21:20,250 --> 00:21:24,560
-Minhas mais profundas condolências
- pela morte de Komurasaki, a cortesã,
+As minhas mais profundas condolências
+ pela morte da Komurasaki, a cortesã,
 
 362
 00:21:24,560 --> 00:21:26,300
-mas, em minha humilde opinião,
+mas, na minha humilde opinião,
 
 363
 00:21:26,760 --> 00:21:29,900
-a decisão de Kyoshiro foi muito sensata.
+a decisão do Kyoshiro foi muito sensata.
 
 364
 00:21:29,900 --> 00:21:33,310
-Sua autoridade e reputação
+A sua autoridade e reputação
  teriam sido prejudicadas...
 
 365
 00:21:33,310 --> 00:21:36,940
 ...se tivéssemos permitido que vivessem
- aqueles que se rebelaram contra você.
+ aqueles que se rebelaram contra si.
 
 366
 00:21:55,540 --> 00:21:56,660
@@ -1572,12 +1572,12 @@ Orochi-sama...
 
 367
 00:21:56,660 --> 00:22:00,500
-Não me importo com Ushimitsu Kozou.
+Não me interessa o Ushimitsu Kozou.
 
 368
 00:22:01,090 --> 00:22:05,800
 Não há outra mulher tão bela
- quanto Komurasaki...
+ como a Komurasaki...
 
 369
 00:22:05,800 --> 00:22:08,470
@@ -1585,7 +1585,7 @@ Não há outra mulher tão bela
 
 370
 00:22:08,470 --> 00:22:11,470
-Você não entende isso?!
+Não percebem isso?!
 
 371
 00:22:11,470 --> 00:22:15,390
@@ -1593,16 +1593,16 @@ Que alegria vê-lo, Orochi-sama!
 
 372
 00:22:15,390 --> 00:22:18,140
-Por favor, me escute.
+Por favor, escute-me.
 
 373
 00:22:18,140 --> 00:22:23,610
-Ushimitsu Kozou não era
+O Ushimitsu Kozou não era
  um ladrão qualquer.
 
 374
 00:22:24,480 --> 00:22:29,030
-Ushimitsu Kozou, o ladrão furtivo
+O Ushimitsu Kozou, o ladrão furtivo
  que aterrorizou a Capital das Flores,
 
 375
@@ -1611,7 +1611,7 @@ o vilão que fingia ser um herói...
 
 376
 00:22:33,700 --> 00:22:36,450
-...ao compartilhar seu butim com os pobres...
+...ao partilhar o seu saque com os pobres...
 
 377
 00:22:38,580 --> 00:22:44,000
@@ -1620,7 +1620,7 @@ o vilão que fingia ser um herói...
 
 378
 00:22:44,500 --> 00:22:46,710
-mas sua verdadeira identidade...
+mas a sua verdadeira identidade...
 
 379
 00:22:48,420 --> 00:22:49,630
@@ -1628,11 +1628,11 @@ O quê?!
 
 380
 00:22:56,100 --> 00:22:58,060
-E-esse cara...!
+E-este tipo...!
 
 381
 00:23:03,480 --> 00:23:08,690
-Esse cara ainda estava vivo?!
+Este tipo ainda estava vivo?!
 
 382
 00:23:11,240 --> 00:23:12,740
@@ -1648,11 +1648,11 @@ Ele...
 
 385
 00:23:18,080 --> 00:23:19,870
-Você era um Kurozumi?
+Eras um Kurozumi?
 
 386
 00:23:19,870 --> 00:23:22,170
-Por que não me contou?
+Porque não me contaste?
 
 387
 00:23:33,340 --> 00:23:34,760
@@ -1672,8 +1672,8 @@ Meu senhor!
 
 391
 00:23:40,560 --> 00:23:44,190
-Quais são suas ordens
- quanto a Ushimitsu Kozou?
+Quais são as suas ordens
+ quanto ao Ushimitsu Kozou?
 
 392
 00:23:46,800 --> 00:23:48,900
@@ -1681,7 +1681,7 @@ Não é óbvio?
 
 393
 00:23:48,900 --> 00:23:50,780
-Execute-o!
+Executem-no!
 
 394
 00:23:50,780 --> 00:23:54,530
@@ -1689,7 +1689,7 @@ E publicamente, como aviso aos outros!
 
 395
 00:23:54,530 --> 00:23:59,330
-Ligue os Tanishi Visuais em
+Liguem os Tanishi Visuais em
  todo o País de Wano imediatamente!
 
 396
@@ -1702,38 +1702,38 @@ Kyoshiro!
 
 398
 00:24:04,540 --> 00:24:09,900
-Hoje será o funeral de Komurasaki
+Hoje é o funeral da Komurasaki
  na Capital das Flores.
 
 399
 00:24:09,900 --> 00:24:14,980
-Devido ao tumulto que multidões
+Devido ao tumulto que as multidões
  podem causar,
 
 400
 00:24:14,980 --> 00:24:17,640
-os preparamos antecipadamente.
+preparámo-los antecipadamente.
 
 401
 00:24:17,640 --> 00:24:20,140
-Não esperava menos de você, Kyoshiro.
+Não esperava menos de si, Kyoshiro.
 
 402
 00:24:23,390 --> 00:24:25,190
-Quais são suas ordens?
+Quais são as suas ordens?
 
 403
 00:24:27,940 --> 00:24:30,150
-Bem, decidi!
+Bem, já decidi!
 
 404
 00:24:30,150 --> 00:24:34,910
-Que Ushimitsu Kozou acompanhe
- Komurasaki ao túmulo!
+Que o Ushimitsu Kozou acompanhe
+ a Komurasaki ao túmulo!
 
 405
 00:24:34,910 --> 00:24:38,240
-Eles partirão deste mundo juntos!
+Partirão deste mundo juntos!
 
 406
 00:24:42,200 --> 00:24:44,620
@@ -1742,11 +1742,11 @@ Eles partirão deste mundo juntos!
 407
 00:24:44,620 --> 00:24:47,920
 As duas maiores estrelas
- da capital morrendo ao mesmo tempo!
+ da capital a morrer ao mesmo tempo!
 
 408
 00:24:48,660 --> 00:24:52,880
-Só você teria uma ideia tão brilhante.
+Só o senhor teria uma ideia tão brilhante.
 
 409
 00:24:52,880 --> 00:24:54,930
@@ -1754,11 +1754,11 @@ Eu também estarei lá.
 
 410
 00:24:55,800 --> 00:24:57,930
-Assistirei à execução!
+Vou assistir à execução!
 
 411
 00:24:57,930 --> 00:24:59,720
-Preparem meu palanquim!
+Preparem o meu palanquim!
 
 412
 00:25:02,180 --> 00:25:02,610
@@ -1790,8 +1790,8 @@ Não...
 
 418
 00:25:16,240 --> 00:25:20,550
-Se acha que é mentira, ligue
- seu Tanishi Visual e confira.
+Se achas que é mentira, liga
+ o teu Tanishi Visual e confirma.
 
 419
 00:25:22,580 --> 00:25:24,590
@@ -1807,16 +1807,16 @@ Ei...
 
 422
 00:25:33,420 --> 00:25:36,550
-Ele soube que Komurasaki morreu.
+Ele soube que a Komurasaki morreu.
 
 423
 00:25:36,550 --> 00:25:40,100
-Parece que ficará de mau humor
- por um tempo.
+Parece que vai ficar de mau humor
+ durante uns tempos.
 
 424
 00:25:40,100 --> 00:25:41,600
-Isso não é bom...
+Isto não é bom...
 
 425
 00:25:41,600 --> 00:25:43,810
@@ -1828,11 +1828,11 @@ Ei, balão!
 
 427
 00:25:47,060 --> 00:25:50,270
-Saia daí, rápido!
+Sai daí, depressa!
 
 428
 00:25:50,770 --> 00:25:52,150
-Cale a boca!
+Cala a boca!
 
 429
 00:25:52,150 --> 00:25:55,030
@@ -1848,11 +1848,11 @@ Ei, balão!
 
 432
 00:25:58,070 --> 00:26:00,540
-O que houve com a luta de sumô?!
+O que foi feito da luta de sumo?!
 
 433
 00:26:00,540 --> 00:26:02,580
-Não perca tempo!
+Não percas tempo!
 
 434
 00:26:03,750 --> 00:26:07,290
@@ -1864,16 +1864,16 @@ Claro que não!
 
 436
 00:26:09,250 --> 00:26:10,970
-É sua imaginação!
+É impressão sua!
 
 437
 00:26:11,750 --> 00:26:12,840
 Ah...
-E-Eu entendo.
+E-Eu percebo.
 
 438
 00:26:12,840 --> 00:26:13,820
-E-Eu entendo.
+E-Eu percebo.
 Ei...
 
 439
@@ -1883,25 +1883,25 @@ Vamos informá-lo sobre
 
 440
 00:26:17,680 --> 00:26:19,050
-Melhor não.
+É melhor não.
 
 441
 00:26:19,050 --> 00:26:22,000
 Quem sabe como ele reagiria
- após dois golpes tão fortes.
+ depois de dois golpes tão fortes.
 
 442
 00:26:22,000 --> 00:26:23,310
-Verdade.
+É verdade.
 
 443
 00:26:23,310 --> 00:26:28,270
-Mas o que aconteceu com o oshiruko?
+Mas o que aconteceu ao oshiruko?
 
 444
 00:26:28,270 --> 00:26:32,650
-Por isso avisei ao Luffy-dono que
- perceberiam se ele comesse demais!
+Foi por isso que avisei o Luffy-dono de que
+ reparariam se ele comesse demais!
 
 445
 00:26:32,650 --> 00:26:37,400
@@ -1910,12 +1910,12 @@ Acabar com todo o oshiruko
 
 446
 00:26:37,400 --> 00:26:40,870
-Como esse idiota conseguiu
+Como é que este idiota conseguiu
  sobreviver tanto tempo?
 
 447
 00:26:40,870 --> 00:26:43,520
-Vamos continuar com a luta de sumô!
+Vamos continuar com a luta de sumo!
 
 448
 00:26:43,520 --> 00:26:44,870
@@ -1927,11 +1927,11 @@ Muito bem, vamos lutar!
 
 450
 00:26:46,580 --> 00:26:49,620
-Não tenho tempo para bobagens!
+Não tenho tempo para parvoíces!
 
 451
 00:26:49,620 --> 00:26:51,580
-Preciso verificar se é verdade!
+Preciso de confirmar se é verdade!
 
 452
 00:26:51,580 --> 00:26:52,750
@@ -1939,7 +1939,7 @@ Ei!
 
 453
 00:26:52,750 --> 00:26:55,460
-Transmita a Capital das Flores!
+Transmite a Capital das Flores!
 
 454
 00:26:55,460 --> 00:26:57,550
@@ -1951,7 +1951,7 @@ O Tanishi Visual está pronto!
 
 456
 00:27:05,720 --> 00:27:08,100
-Conectem à Capital das Flores!
+Liguem à Capital das Flores!
 
 457
 00:27:09,480 --> 00:27:11,100
@@ -1963,7 +1963,7 @@ O quê?
 
 459
 00:27:16,480 --> 00:27:19,490
-Essa é a Capital das Flores...
+Aquela é a Capital das Flores...
 
 460
 00:27:21,360 --> 00:27:23,620
@@ -1976,27 +1976,27 @@ Maldita Gangue de Ladrões Atamayama!
 462
 00:27:30,370 --> 00:27:33,630
 Como se atrevem a roubar
- minha comida e minhas armas?!
+ a minha comida e as minhas armas?!
 
 463
 00:27:33,630 --> 00:27:34,960
 Como se atrevem a roubar
- minha comida e minhas armas?!
+ a minha comida e as minhas armas?!
 A Gangue de Ladrões
 Atamayama esteve aqui.
 Atenciosamente, Shutenmaru.
 
 464
 00:27:34,960 --> 00:27:38,050
-Vamos resolver isso!
+Vamos resolver isto!
 
 465
 00:27:41,550 --> 00:27:44,720
-Veja se consegue lidar com a espada Karakuri!
+Vê lá se consegues lidar com a espada Karakuri!
 
 466
 00:27:46,080 --> 00:27:50,180
-Meu alvo é o próprio Atamayama!
+O meu alvo é o próprio Atamayama!
 
 467
 00:27:50,180 --> 00:27:53,810
@@ -2009,7 +2009,7 @@ Não!
 
 469
 00:28:01,860 --> 00:28:03,160
-O fogo está se espalhando rápido!
+O fogo está a espalhar-se depressa!
 
 470
 00:28:03,160 --> 00:28:05,830
@@ -2029,11 +2029,11 @@ Para Bakura?
 
 474
 00:28:14,000 --> 00:28:16,750
-O exército de Kaidou nos atacará!
+O exército do Kaidou vai atacar-nos!
 
 475
 00:28:16,750 --> 00:28:18,840
-E daí?!
+E depois?!
 
 476
 00:28:19,460 --> 00:28:22,630
@@ -2041,16 +2041,16 @@ Eu acabo com eles!
 
 477
 00:28:24,560 --> 00:28:28,220
-KURI, VILAREJO 
-ABANDONADO
+KURI, ALDEIA 
+ABANDONADA
 
 478
 00:28:28,220 --> 00:28:29,600
-Entendi.
+Percebo.
 
 479
 00:28:29,600 --> 00:28:33,190
-Sinto muito pelo Ashura Doji.
+Tenho pena do Ashura Doji.
 
 480
 00:28:33,190 --> 00:28:34,230
@@ -2062,7 +2062,7 @@ Mas é por uma boa causa.
 
 482
 00:28:37,210 --> 00:28:38,650
-Não tem jeito.
+Não há outra maneira.
 
 483
 00:28:39,350 --> 00:28:40,940
@@ -2070,12 +2070,12 @@ Vamos para Bakura.
 
 484
 00:28:42,240 --> 00:28:46,320
-Nosso plano teve um revés
- e não sei como resolver,
+O nosso plano teve um revés
+ e não sei como resolvê-lo,
 
 485
 00:28:47,010 --> 00:28:51,830
-mas, por enquanto, é bom que Ashura
+mas, por agora, é bom que o Ashura
  guarde rancor dos Piratas das Feras.
 
 486
@@ -2097,11 +2097,11 @@ Quem são elas?!
 
 490
 00:29:12,980 --> 00:29:14,430
-O que é isso?!
+O que é isto?!
 
 491
 00:29:14,430 --> 00:29:16,850
-O-O que está acontecendo?!
+O-O que se está a passar?!
 
 492
 00:29:17,880 --> 00:29:19,320
@@ -2113,7 +2113,7 @@ O que foi?
 
 494
 00:29:20,690 --> 00:29:22,570
-O que você está fazendo aqui?
+O que fazes aqui?
 
 495
 00:29:22,570 --> 00:29:23,280
@@ -2121,8 +2121,8 @@ Hã?
 
 496
 00:29:24,110 --> 00:29:28,600
-Zoro-san, meus olhos estão saltando
- ao vê-los assim!
+Zoro-san, os meus olhos estão a saltar
+ ao ver-vos assim!
 
 497
 00:29:28,600 --> 00:29:32,310
@@ -2131,15 +2131,15 @@ Embora eu não tenha olhos,
 
 498
 00:29:33,440 --> 00:29:36,670
-Desculpe interromper.
+Desculpem interromper.
 
 499
 00:29:37,510 --> 00:29:39,340
-Ei, não interprete mal!
+Ei, não interpretes mal!
 
 500
 00:29:39,340 --> 00:29:40,490
-Volte aqui!
+Volta aqui!
 
 501
 00:29:40,490 --> 00:29:41,300
@@ -2155,7 +2155,7 @@ Que linda!
 
 504
 00:29:48,590 --> 00:29:53,520
-Com licença, posso ver sua calcinha?
+Com licença, posso ver as suas cuecas?
 
 505
 00:30:00,730 --> 00:30:03,610
@@ -2175,7 +2175,7 @@ Estou com fome.
 
 509
 00:30:10,830 --> 00:30:12,790
-Vou amaldiçoar vocês!
+Vou amaldiçoar-vos!
 
 510
 00:30:14,230 --> 00:30:16,210
@@ -2183,25 +2183,25 @@ Que medo!
 
 511
 00:30:16,910 --> 00:30:21,710
-Kin'emon me ordenou dizer isso
- a todos que passassem por aqui.
+O Kin'emon ordenou-me que dissesse isto
+ a todos os que passassem por aqui.
 
 512
 00:30:21,710 --> 00:30:23,340
-Ah, por isso...
+Ah, é por isso...
 
 513
 00:30:23,340 --> 00:30:26,800
-...tem tantas oferendas.
+...que há tantas oferendas.
 
 514
 00:30:26,800 --> 00:30:31,520
-Não acredito que você é a irmã
- mais nova de Momonosuke-san.
+Não acredito que és a irmã
+ mais nova do Momonosuke-san.
 
 515
 00:30:31,520 --> 00:30:35,980
-Você é tão bela quanto uma cortesã.
+És tão bela como uma cortesã.
 
 516
 00:30:36,670 --> 00:30:37,390
@@ -2209,11 +2209,11 @@ Você é tão bela quanto uma cortesã.
 
 517
 00:30:37,390 --> 00:30:38,600
-Pois ela é uma cortesã!
+Porque ela é uma cortesã!
 
 518
 00:30:38,600 --> 00:30:41,520
-Como eu gostaria que alguém
+Como eu gostava que alguém
  assim me atendesse.
 
 519
@@ -2222,36 +2222,36 @@ Que inveja, Zoro-san.
 
 520
 00:30:43,570 --> 00:30:45,940
-Eu só estava dormindo.
+Eu só estava a dormir.
 
 521
 00:30:45,940 --> 00:30:46,820
-E então ela...
+E depois ela...
 
 522
 00:30:46,820 --> 00:30:48,320
-Desculpe.
+Desculpa.
 
 523
 00:30:48,320 --> 00:30:51,410
-Achei que você estava com muito frio.
+Achei que estavas com muito frio.
 
 524
 00:30:51,410 --> 00:30:56,740
-Mas todos babam por mim
- quando dormem ao meu lado.
+Mas toda a gente se baba por mim
+ quando dorme ao meu lado.
 
 525
 00:30:56,740 --> 00:30:58,500
-Gostou?
+Gostaste?
 
 526
 00:30:58,500 --> 00:31:00,600
-Sim, sei que gostou!
+Sim, sei que gostaste!
 
 527
 00:31:00,600 --> 00:31:02,880
-Você é muito direta.
+És muito direta.
 
 528
 00:31:02,880 --> 00:31:03,590
@@ -2259,7 +2259,7 @@ Sim!
 
 529
 00:31:03,590 --> 00:31:08,050
-Mas para onde foram Nami e os outros?
+Mas para onde foram a Nami e os outros?
 
 530
 00:31:08,050 --> 00:31:10,390
@@ -2267,7 +2267,7 @@ Ontem foram aos banhos,
 
 531
 00:31:10,390 --> 00:31:14,010
-e quando fui vê-los, não os encontrei.
+e quando os fui ver, não os encontrei.
 
 532
 00:31:14,010 --> 00:31:18,350
@@ -2281,7 +2281,7 @@ Hoje é o funeral da cortesã Komurasaki,
 
 534
 00:31:26,650 --> 00:31:32,490
-Além disso, prenderam Ushimitsu Kozou,
+Além disso, prenderam o Ushimitsu Kozou,
  o grande ladrão que dá dinheiro aos pobres,
 
 535
@@ -2290,7 +2290,7 @@ e isso causou mais agitação.
 
 536
 00:31:34,160 --> 00:31:35,830
-Prenderam Ushimitsu Kozou?
+Prenderam o Ushimitsu Kozou?
 
 537
 00:31:35,830 --> 00:31:36,580
@@ -2302,26 +2302,26 @@ Não, não, é verdade.
 
 539
 00:31:38,750 --> 00:31:41,330
-Olhe, está escrito aqui.
+Olha, está escrito aqui.
 
 540
 00:31:41,330 --> 00:31:44,920
 Ushimitsu Kozou é capturado. Será executado?
-Hoje ele será executado na capital.
+Hoje vai ser executado na capital.
 
 541
 00:31:44,920 --> 00:31:46,520
 Ushimitsu Kozou é capturado. Será executado?
-Também descobriram sua identidade.
+Também descobriram a identidade dele.
 
 542
 00:31:47,050 --> 00:31:49,920
 Dizem que era alguém popular
- na Vila Ebisu.
+ na Aldeia Ebisu.
 
 543
 00:31:49,920 --> 00:31:51,590
-Na Vila Ebisu, você disse?
+Na Aldeia Ebisu, dizes tu?
 
 544
 00:31:51,590 --> 00:31:52,470
@@ -2329,7 +2329,7 @@ Sim.
 
 545
 00:31:52,470 --> 00:31:55,160
-Se não me engano, seu nome era...
+Se não me engano, chamava-se...
 
 546
 00:31:55,160 --> 00:31:57,470
@@ -2357,11 +2357,11 @@ Ei, o que foi?!
 
 552
 00:32:17,080 --> 00:32:18,080
-Espere, Toko!
+Espera, Toko!
 
 553
 00:32:21,000 --> 00:32:22,710
-Obrigado por nos salvar ontem!
+Obrigado por nos ter salvado ontem!
 
 554
 00:32:22,710 --> 00:32:24,830
@@ -2373,11 +2373,11 @@ O quê?
 
 556
 00:32:25,500 --> 00:32:26,750
-Espere, idiota!
+Espera, idiota!
 
 557
 00:32:26,750 --> 00:32:29,130
-Você não conseguiu protegê-la!
+Não conseguiste protegê-la!
 
 558
 00:32:30,050 --> 00:32:31,260
@@ -2405,7 +2405,7 @@ Ei, vamos!
 
 564
 00:32:54,300 --> 00:32:56,740
-Vocês vieram me buscar?
+Vieram buscar-me?
 
 565
 00:32:56,740 --> 00:32:59,120
@@ -2421,27 +2421,27 @@ Aquele homem é...
 
 568
 00:33:23,480 --> 00:33:25,770
-Aonde você pensa que vai?
+Onde pensas que vais?
 
 569
 00:33:25,770 --> 00:33:27,810
-Colocaram preço na sua cabeça!
+Puseram um preço na tua cabeça!
 
 570
 00:33:29,200 --> 00:33:31,530
-Me solta!
+Larga-me!
 
 571
 00:33:31,530 --> 00:33:32,610
-Preciso ir!
+Tenho de ir!
 
 572
 00:33:32,610 --> 00:33:35,450
-Ei, se acalme!
+Ei, acalma-te!
 
 573
 00:33:35,450 --> 00:33:37,280
-Me solta!
+Larga-me!
 
 574
 00:33:38,090 --> 00:33:39,530
@@ -2457,7 +2457,7 @@ Ele vai ser executado!
 
 577
 00:33:43,910 --> 00:33:46,120
-Me solta!
+Larga-me!
 
 578
 00:33:46,120 --> 00:33:48,250
@@ -2465,7 +2465,7 @@ Vão matá-lo!
 
 579
 00:33:48,500 --> 00:33:50,880
-É meu pai!
+É o meu pai!
 
 580
 00:33:54,840 --> 00:33:56,180
@@ -2473,9 +2473,9 @@ Toko...
 
 581
 00:33:56,180 --> 00:33:57,840
-O que você disse?
+O que é que disseste?
 
 582
 00:34:04,040 --> 00:34:09,810
-Parece que hoje fará bom tempo
+Parece que hoje vai fazer bom tempo
  na Capital das Flores.
