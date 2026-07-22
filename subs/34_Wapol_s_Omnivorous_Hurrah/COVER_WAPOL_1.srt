@@ -1,12 +1,12 @@
 1
 00:00:16,880 --> 00:00:20,880
 Fui derrotado pelo Chapéu de Palha
-e acordei em um lugar desconhecido.
+e acordei num sítio desconhecido.
 
 2
 00:00:20,880 --> 00:00:25,860
 Comi árvores e pedras.
-Eu não me importava de ficar sozinho.
+Não me importava de ficar sozinho.
 
 3
 00:00:31,850 --> 00:00:34,880
@@ -22,25 +22,25 @@ Claro, era porque eu era um rei.
 
 6
 00:00:45,870 --> 00:00:49,180
-Mas a Marinha me prendeu.
+Mas a Marinha prendeu-me.
 
 7
 00:00:49,610 --> 00:00:52,780
-Eu escapei deles e fugi chorando!
+Escapei-lhes e fugi a chorar!
 
 8
 00:00:52,780 --> 00:00:59,740
-Consegui fugir, mas isso me fez perceber
-que eu não era mais um rei.
+Consegui fugir, mas isso fez-me perceber
+que já não era um rei.
 
 9
 00:00:59,740 --> 00:01:02,940
-Quer comprar uma caixa de fósforos?
+Queres comprar uma caixa de fósforos?
 
 10
 00:01:02,940 --> 00:01:06,450
 Eu vendia fósforos
-e morava debaixo de uma ponte.
+e vivia debaixo de uma ponte.
 
 11
 00:01:06,970 --> 00:01:10,380
@@ -55,7 +55,7 @@ conquistaram as crianças!
 13
 00:01:16,610 --> 00:01:19,220
 Brinquedos Wapol
-Ganhei algum dinheiro vendendo esses brinquedos,
+Ganhei algum dinheiro a vender estes brinquedos,
 
 14
 00:01:20,520 --> 00:01:23,430
@@ -64,7 +64,7 @@ e abri a loja Brinquedos Wapol!
 15
 00:01:23,960 --> 00:01:26,600
 Brinquedos Wapol
-O negócio decolou imediatamente!
+O negócio descolou de imediato!
 
 16
 00:01:26,980 --> 00:01:29,730
@@ -81,12 +81,12 @@ O número de clientes aumentou!
 
 19
 00:01:35,670 --> 00:01:38,940
-A loja se expandiu!
-Brinquedos Wapol estava bombando!
+A loja expandiu-se!
+A Brinquedos Wapol estava ao rubro!
 
 20
 00:01:38,940 --> 00:01:41,600
-Negócios prósperos! Lucros subindo!
+Negócios prósperos! Lucros a subir!
 
 21
 00:01:41,600 --> 00:01:44,690
@@ -96,16 +96,16 @@ A Fábrica de Devorar estava em alta!
 00:01:44,700 --> 00:01:49,540
 Um "Konzern" é um tipo de conglomerado empresarial comum na Europa, especialmente na Alemanha.
 Saí do fundo do poço
-e me tornei CEO do Wapol Konzern!
+e tornei-me CEO do Wapol Konzern!
 
 23
 00:01:50,130 --> 00:01:54,360
-Casei-me com a Miss Universo
-e minha vida se encheu de felicidade!
+Casei com a Miss Universo
+e a minha vida encheu-se de felicidade!
 
 24
 00:01:54,760 --> 00:01:57,300
-O símbolo do Wapol se espalhou
+O símbolo do Wapol espalhou-se
 por todo o mundo
 
 25
@@ -120,10 +120,10 @@ Edição:
 Timecode:
  Galaxy 9000
 
-Controle de Qualidade:
+Controlo de Qualidade:
  Galaxy 9000
 
-Trilha Sonora:
+Banda Sonora:
  Halee
 
 Tradução:
