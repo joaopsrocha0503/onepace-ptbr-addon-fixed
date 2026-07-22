@@ -1,14 +1,13 @@
 # PROJECT GOAL — Legendas One Pace (addon Stremio)
 
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
-> **Última atualização: 2026-07-21**
+> **Última atualização: 2026-07-22**
 
-## ✅ AS DUAS FRENTES ESTÃO FECHADAS
+## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
 
-A frente 1 (posicionamento) fechou a 2026-07-21. A frente 2 (PT-PT) fechou a
-2026-07-22 com o arco Whole Cake Island completo (WC_1, WC_8–WC_39).
-**Não há trabalho em curso.** Antes de começar seja o que for nos arcos
-seguintes, é preciso confirmação explícita do utilizador.
+**Traduzir `subs/36_Wano/WA_11.srt` para PT-PT, e continuar daí para a frente.**
+WA_1 a WA_10 já estão feitos; faltam **44 episódios** (WA_11 … WA_54).
+Não é preciso pedir confirmação — o utilizador já autorizou avançar por Wano fora.
 
 ⚠️ **Ler antes de traduzir a primeira linha:** os `.srt` foram achatados pela frente 1.
 Isso muda como se traduz e como se verifica — ver
@@ -17,7 +16,7 @@ Isso muda como se traduz e como se verifica — ver
 | Frente | Estado |
 |---|---|
 | **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
-| **2. Adaptação PT-BR → PT-PT** | ✅ **ARCO WCI CONCLUÍDO** a 2026-07-22 — 32/32. Hard stop antes dos arcos seguintes |
+| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35 completos; arco 36 (Wano) em 10/54. Em produção como **v2.3.0** |
 
 ---
 
@@ -292,7 +291,7 @@ Não deve imprimir nada.
 
 # FRENTE 2 — Adaptação PT-BR → PT-PT (▶️ ATIVA)
 
-> Retomada a 2026-07-21, depois de a frente 1 fechar. **Próximo: WC_23.**
+> Retomada a 2026-07-21, depois de a frente 1 fechar. **Próximo: WA_11.**
 
 ## Impacto do achatamento na tradução
 
@@ -347,34 +346,56 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 ## Âmbito acordado
 
 - **NÃO traduzir WC_2–WC_7** (ficam em PT-BR por opção do utilizador).
-- **Traduzir WC_8 → WC_39** (arco Whole Cake Island inteiro).
-- Processo por episódio: backup em `subs_ptbr_backup/` (já feito p/ todos), traduzir no
-  lugar, **verificar timestamps** no fim.
+- Processo por episódio: traduzir no lugar em `subs/`, **verificar timestamps** no fim.
 - **NÃO** mostrar amostra episódio a episódio.
 - **Parar e avisar** só se algo não se enquadrar no guia. O utilizador concedeu autonomia
   de decisão ("confio no teu julgamento").
-- **Ao terminar o arco WCI → PARAR** e dar resumo.
-- **HARD STOP:** não avançar para Wapol's Omnivorous Hurrah / Reverie / Wano / Egghead
-  sem confirmação explícita.
+- Autonomia para fazer o **redeploy** sem esperar por aprovação (dado a 2026-07-22).
+- Ao fechar um arco: dar resumo e **atualizar este ficheiro**.
 
 ## Progresso
 
-| Ficheiro | Estado |
-|----------|--------|
-| WC_1 | ✅ Traduzido + verificado (piloto aprovado) |
-| WC_2–WC_7 | ⏭️ Deixados em PT-BR (por opção) |
-| WC_8–39 | ✅ Traduzidos + timestamps verificados |
+| Arco | Ficheiros | Estado |
+|---|---|---|
+| 33 — Whole Cake Island | WC_1, WC_8–WC_39 | ✅ 32/32 (2026-07-22). WC_2–WC_7 ficam em PT-BR por opção |
+| 34 — Wapol's Omnivorous Hurrah | COVER_WAPOL_1 | ✅ 1/1 (2026-07-22) |
+| 35 — Reverie | REV_1–REV_3 | ✅ 3/3 (2026-07-22) |
+| **36 — Wano** | **WA_1–WA_54** | ▶️ **10/54.** Feitos WA_1–WA_10. **Próximo: WA_11** |
+| 37 — Egghead | EH_1–EH_20 | ⬜ 0/20, por começar |
 
-**32 de 32 ficheiros do arco feitos — ARCO WCI CONCLUÍDO a 2026-07-22.**
+> ⚠️ **Não confiar só nesta tabela** — já esteve desatualizada e levou a retraduzir o
+> WC_23, que afinal já estava feito. Método fiável para descobrir o próximo por traduzir:
+> contar marcadores PT-BR por ficheiro
+> (`você`, `a gente`, `acontecendo`, `falando`, `hein?`, `vilarejo`, gerúndios `-ndo`).
+> Os traduzidos dão ≤6 ocorrências, quase só falsos positivos (`vocês`, `toda a gente`);
+> os por traduzir dão 10–80.
+>
+> ```bash
+> cd subs/36_Wano
+> for f in WA_*.srt; do echo "$f $(grep -ciE 'você|a gente|acontecendo|falando|hein\?' $f)"; done
+> ```
 
-⛔ **HARD STOP em vigor:** não avançar para `COVER_WAPOL`, `34_Reverie`, `36_Wano`
-nem `37_Egghead` sem confirmação explícita do utilizador.
+## Método para ficheiros grandes (extrair → traduzir → reinjetar)
 
-> O WC_23 já estava traduzido quando a sessão de 2026-07-21 o foi retomar — este ficheiro
-> é que tinha ficado por atualizar. Método fiável para descobrir o próximo por traduzir,
-> em vez de confiar só na tabela: contar marcadores PT-BR por ficheiro
-> (`você`, `a gente`, gerúndios `-ndo`, `legal`, `bunda`, `chance`, …). Os traduzidos dão
-> ≤5 ocorrências (quase só `vocês`, legítimo em PT-PT); os por traduzir dão 10–25.
+Os episódios de Reverie e Wano têm 400–900 linhas de texto. Reescrever o `.srt` inteiro
+à mão arrisca partir timestamps. O método usado desde 2026-07-22:
+
+1. **Extrair** só as linhas de texto, percorrendo o `.srt` estruturalmente (tudo o que vem
+   a seguir a uma linha com `-->` até à linha em branco seguinte).
+2. **Traduzir** esse ficheiro plano, mantendo a **contagem de linhas exatamente igual** —
+   uma linha de entrada, uma linha de saída, na mesma ordem.
+3. **Reinjetar** nas mesmas posições. Números de bloco, timestamps e linhas em branco
+   nunca são tocados.
+
+O script (`srt.js`, com os modos `extract` e `splice`) é descartável e vive no scratchpad
+da sessão — são ~30 linhas de Node, mais rápido reescrever do que ir procurar. O `splice`
+**aborta** se a contagem de linhas não bater certo, que é a rede de segurança principal.
+
+Antes de reinjetar, confirmar o alinhamento com um `paste` lado a lado em 3–4 pontos do
+ficheiro; se as linhas escorregarem, o erro é silencioso e espalha-se por tudo.
+
+Só o `.srt` é traduzido. **O `.ass` fica intocado** (continua em PT-BR) — é a fonte do
+posicionamento da frente 1, não é servido ao utilizador.
 
 > ⚠️ **Os `.srt` já foram achatados pela frente 1.** Ao retomar a tradução, traduzir por
 > cima do resultado achatado que está em `subs/` — **nunca** a partir do `subs_pre_merge/`.
@@ -402,6 +423,50 @@ nem `37_Egghead` sem confirmação explícita do utilizador.
   geladeira→frigorífico, zumbi→zombie, gêmeas→gémeas, gênio→génio, úmido→húmido,
   machucar→magoar, respingar→salpicar, servo→criado, zombar→gozar, "que cara"→"que tipo",
   "dar certo"→"correr bem", "chance"→"hipótese/oportunidade".
+
+## ⚠️ Termos em inglês — MANTER em inglês
+
+**Decisão do utilizador (2026-07-22):** termos do universo One Piece que estão em inglês
+**não se traduzem**, mesmo que o PT-BR de origem os tenha traduzido.
+
+O caso que deu origem à regra: traduzi *Headliner* para "Astro Principal" nos WA_1–WA_10
+(o original oscilava entre "Astro Principal" e "Atração Principal") — corrigido a
+2026-07-22, ficam todos **Headliner** / **Headliners** / **HEADLINER** nos letreiros.
+
+Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `Room`,
+`Shambles`, nomes de ataques e de técnicas, `Den Den Mushi`, `Kibi Dango`, `yokozuna`,
+`ronin`, `daimyo`, `seppuku`, `sakoku`/`kaikoku`, honoríficos e sufixos japoneses.
+
+> Já vinham traduzidos do PT-BR de origem e **ficam como estão**, por serem a forma
+> estabelecida no material: "Piratas das Feras", "Nove Bainhas Vermelhas",
+> "Governador Geral", "Akuma no Mi"/"Fruta do Diabo". A regra aplica-se a escolhas
+> *novas* minhas, não a reverter o que o fansub já tinha fixado.
+
+## Convenções fixadas no arco Wano
+
+- **`Headliner`** (ver acima) e **`UTILIZADOR DA SMILE DE X`** nos letreiros.
+- `Fazenda Paradisíaca` → **`Quinta Paradisíaca`**.
+- `vilarejo`/`Vila` → **`Aldeia`** (Okobore, Amigasa), mas **`Cidade Bakura`** — o
+  original chama "vilarejo" a ambas, mas Bakura é a cidade dos oficiais.
+- `sumô` → **`sumo`**; `abdômen` → **`abdómen`**; `Fênix` → **`Fénix`**.
+- `Hein?` → **`Hã?`** (sempre, incluindo em `, hein?` → `, não é?` / `, hã?`).
+- `pirralho`/`moleque` → **`fedelho/a`**; `cachorro` → **`cão`**; `garota` → **`miúda`**.
+- `cachoeira` → **`cascata`**; `banheiro` → **`casa de banho`**.
+- **`Rei Neptune`** (não "Netuno") — coerência com o arco Reverie.
+- `Recompensa: ¬1.5 Bilhões` → **`¬1,5 Mil Milhões`**.
+- O **genérico de abertura** repete-se em todos os episódios com pequenas variações de
+  redação no original — usar sempre o mesmo fraseado PT-PT. Nas canções vale a regra §8
+  do guia: a métrica ganha, o gerúndio pode ficar.
+- O **aviso do reprodutor** (`Seu reprodutor de mídia não suporta…`) também varia de
+  episódio para episódio no original — mesmo fraseado PT-PT em todos.
+- Gralhas do original corrigidas em silêncio quando inequívocas: `Kaidouu`, `cortouo`,
+  `á deriva`, `sauce salgado`, `brilo`, `PIRATAS FESTAS`, `muto`, `Kouzki`.
+
+## Convenções fixadas no arco Reverie
+
+- **`o Reverie`** (masculino), **`o Red Line`**, **`o Grand Line`** — como no original.
+- Solfejo dos príncipes Ryugu aportuguesado: `-fa-so-la-si-do` → **`-fá-sol-lá-si-dó`**,
+  `-fa-mi-re-do` → **`-fá-mi-ré-dó`**.
 
 ---
 

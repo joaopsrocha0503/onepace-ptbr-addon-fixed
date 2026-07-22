@@ -141,7 +141,7 @@ Holdem-sama!
 
 36
 00:03:05,330 --> 00:03:09,610
-Não acredito que um Astro Principal como tu foi derrotado com um só golpe!
+Não acredito que um Headliner como tu foi derrotado com um só golpe!
 
 37
 00:03:10,290 --> 00:03:11,960
@@ -367,7 +367,7 @@ Entendido, mestra!
 
 91
 00:06:40,370 --> 00:06:44,820
-Não acredito que a Speed-sama, uma Astro Principal, obedeça tão facilmente!
+Não acredito que a Speed-sama, uma Headliner, obedeça tão facilmente!
 
 92
 00:06:44,820 --> 00:06:47,260
@@ -1200,7 +1200,7 @@ Certo, deixo contigo, Umami!
 
 292
 00:22:13,930 --> 00:22:18,820
-Eu sou a Speed, a Astro Principal
+Eu sou a Speed, a Headliner
  dos Piratas das Feras!
 
 293
@@ -1215,7 +1215,7 @@ protejam os seus mestres!
 
 295
 00:22:25,820 --> 00:22:29,860
-Porque é que esta Astro Principal
+Porque é que esta Headliner
 obedece à miúda?
 
 296
