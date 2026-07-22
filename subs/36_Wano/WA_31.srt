@@ -1,8 +1,8 @@
 1
 00:00:00,000 --> 00:00:09,990
-Tu reproductor de video no soporta el formato del subtítulo utilizado para este episodio. 
-Los subtítulos podrían no funcionar apropiadamente por lo mismo.
-Por favor, use uno de los reproductores recomendados, idealmente mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Big News
 
@@ -19,27 +19,27 @@ CASTELO PANGEA
 
 4
 00:00:16,830 --> 00:00:18,000
-...realizada a cada quatro anos, com a participação de 50 reis e rainhas...
+...realizada de quatro em quatro anos, com a participação de 50 reis e rainhas...
 MARY GEOISE 
 CASTELO PANGEA
 
 5
 00:00:18,000 --> 00:00:21,700
-...realizada a cada quatro anos, com a participação de 50 reis e rainhas...
+...realizada de quatro em quatro anos, com a participação de 50 reis e rainhas...
 
 6
 00:00:21,700 --> 00:00:29,340
-...representando mais de 170 países afiliados ao Governo Mundial.
+...que representam mais de 170 países afiliados ao Governo Mundial.
 
 7
 00:00:34,490 --> 00:00:38,980
 Como sempre, o Reverie terminou
- em meio a um grande tumulto...
+ em grande tumulto...
 
 8
 00:00:38,980 --> 00:00:42,270
 ...e todos os representantes 
-voltaram para seus países.
+voltaram para os seus países.
 
 9
 00:00:43,110 --> 00:00:44,110
@@ -61,13 +61,13 @@ PALÁCIO RYUGU
 
 13
 00:00:50,980 --> 00:00:53,200
-Finalmente chegamos-jamon.
+Finalmente chegámos-jamon.
 ILHA DOS HOMENS-PEIXE, REINO RYUGU 
 PALÁCIO RYUGU
 
 14
 00:00:53,200 --> 00:00:54,820
-Nossa...
+Caramba...
 
 15
 00:00:54,820 --> 00:00:58,160
@@ -80,16 +80,16 @@ por nos escoltar,
 
 17
 00:01:02,170 --> 00:01:04,500
-vovô do Luffy-sama!
+avô do Luffy-sama!
 
 18
 00:01:04,500 --> 00:01:07,420
 Foi uma longa 
-viagem, né, Netuno?
+viagem, não foi, Neptune?
 
 19
 00:01:07,420 --> 00:01:09,670
-Você deve estar cansado, hein?!
+Deves estar cansado, hã?!
 
 20
 00:01:11,840 --> 00:01:13,760
@@ -97,12 +97,12 @@ Estou exausto-jamon.
 
 21
 00:01:13,760 --> 00:01:17,220
-Garp, por que não descansa aqui?!
+Garp, porque não descansas aqui?!
 
 22
 00:01:17,220 --> 00:01:20,940
-Bom, eu adoraria tomar
- uma xícara de chá,
+Bom, eu adorava tomar
+ uma chávena de chá,
 
 23
 00:01:20,940 --> 00:01:24,940
@@ -111,12 +111,12 @@ mas, devido à situação atual,
 
 24
 00:01:26,610 --> 00:01:29,440
-O Reverie sempre causa 
-incidentes desproporcionais.
+O Reverie causa sempre 
+incidentes desproporcionados.
 
 25
 00:01:30,240 --> 00:01:35,410
-Quando cinquenta países se reúnem, não basta simplesmente dizer "se deem bem".
+Quando cinquenta países se reúnem, não basta simplesmente dizer "deem-se bem".
 
 26
 00:01:35,410 --> 00:01:39,160
@@ -125,16 +125,16 @@ Todos têm muitos problemas.
 27
 00:01:39,160 --> 00:01:43,170
 As nações mais poderosas 
-se observam em silêncio...
+observam-se em silêncio...
 
 28
 00:01:43,170 --> 00:01:45,500
-...enquanto colocam países 
-aliados para brigar entre si.
+...enquanto põem países 
+aliados a lutar entre si.
 
 29
 00:01:48,340 --> 00:01:52,430
-Usam seus recursos e tecnologia 
+Usam os seus recursos e tecnologia 
 para ameaçar os outros.
 
 30
@@ -144,20 +144,20 @@ Dizem que todos os países são iguais,
 
 31
 00:01:59,810 --> 00:02:06,110
-Diferenças religiosas e econômicas impedem que as nações se tratem como iguais.
+Diferenças religiosas e económicas impedem que as nações se tratem como iguais.
 
 32
 00:02:11,780 --> 00:02:16,320
-Eles apertam as mãos, mas se pisoteiam com um sorriso no rosto.
+Apertam as mãos, mas pisam-se uns aos outros com um sorriso no rosto.
 
 33
 00:02:16,320 --> 00:02:20,370
 Quantos reis farão discursos 
-dizendo que suas ações...
+a dizer que as suas ações...
 
 34
 00:02:20,370 --> 00:02:23,080
-...são para o benefício de seus 
+...são para benefício dos seus 
 povos ou de outros países?
 
 35
@@ -176,11 +176,11 @@ As nossas também foram assim,
 38
 00:02:31,580 --> 00:02:36,550
 pois os ressentimentos entre as
- nações não desaparecerão facilmente.
+ nações não desaparecem facilmente.
 
 39
 00:02:36,550 --> 00:02:42,520
-Se isso persiste há tanto tempo, naturalmente, o conflito criou raízes profundas.
+Se isto persiste há tanto tempo, naturalmente, o conflito criou raízes profundas.
 
 40
 00:02:43,430 --> 00:02:50,190
@@ -197,11 +197,11 @@ Desculpem o atraso,
 43
 00:02:54,610 --> 00:02:58,570
 mas, para ser sincero, há um assunto 
-do qual ainda não falei.
+de que ainda não falei.
 
 44
 00:02:58,570 --> 00:03:03,750
-Um certo incidente aconteceu pouco depois de zarparmos para cá.
+Aconteceu um certo incidente pouco depois de zarparmos para cá.
 
 45
 00:03:03,750 --> 00:03:06,500
@@ -209,7 +209,7 @@ Recebi um relatório no navio.
 
 46
 00:03:07,460 --> 00:03:11,920
-A Marinha está se esforçando para resolver isso o quanto antes, então peço...
+A Marinha está a esforçar-se para o resolver o quanto antes, por isso peço...
 
 47
 00:03:11,920 --> 00:03:15,820
@@ -218,11 +218,11 @@ superfície nem os humanos!
 
 48
 00:03:15,820 --> 00:03:17,840
-O que diabos aconteceu?
+Que raio aconteceu?
 
 49
 00:03:17,840 --> 00:03:22,640
-Garp, o que dizia aquele relatório?!
+Garp, o que dizia esse relatório?!
 
 50
 00:03:22,640 --> 00:03:25,600
@@ -239,11 +239,11 @@ Vivi-sama!
 
 53
 00:03:32,400 --> 00:03:35,670
-Vamos voltar um pouco no tempo...
+Vamos voltar um pouco atrás no tempo...
 
 54
 00:03:35,670 --> 00:03:40,240
-...e ir para a sede do Jornal Econômico, após o término do Reverie.
+...e ir à sede do Jornal Económico, depois de terminado o Reverie.
 
 55
 00:03:40,240 --> 00:03:41,530
@@ -255,7 +255,7 @@ Incrível!
 
 57
 00:03:43,240 --> 00:03:46,120
-Não acredito em tudo que aconteceu.
+Não acredito em tudo o que aconteceu.
 
 58
 00:03:46,120 --> 00:03:47,030
@@ -268,7 +268,7 @@ de todos os tempos!
 
 60
 00:03:50,460 --> 00:03:53,710
-Chefe, o que colocamos 
+Chefe, o que pomos 
 na primeira página?
 
 61
@@ -280,30 +280,30 @@ MORGANS
 
 62
 00:03:55,500 --> 00:03:56,970
-Alguém morreu!
+Morreu alguém!
 PRESIDENTE DO JORNAL 
 'ECONOMISTA MUNDIAL'
 MORGANS
 
 63
 00:03:56,970 --> 00:03:59,840
-O obituário vai fazer vender muitos jornais!
+O obituário vai vender muitos jornais!
 PRESIDENTE DO JORNAL 
 'ECONOMISTA MUNDIAL'
 MORGANS
 
 64
 00:03:59,840 --> 00:04:00,970
-Então, vamos colocar na capa...
+Então, vamos pôr na capa...
 
 65
 00:04:00,970 --> 00:04:02,470
-Não, pera!
+Não, espera!
 
 66
 00:04:02,470 --> 00:04:04,720
 A resolução aprovada 
-também ficaria bem.
+também ficava bem.
 
 67
 00:04:04,720 --> 00:04:08,230
@@ -338,7 +338,7 @@ O Governo enviou um telegrama.
 
 74
 00:04:18,800 --> 00:04:20,780
-Um cheque, hein?
+Um cheque, hã?
 
 75
 00:04:20,780 --> 00:04:23,030
@@ -346,16 +346,16 @@ Oh, quanto dinheiro!
 
 76
 00:04:23,030 --> 00:04:24,280
-Entendo.
+Estou a ver.
 
 77
 00:04:24,280 --> 00:04:26,290
 Querem que eu distorça 
-a informação, hein?
+a informação, hã?
 
 78
 00:04:26,290 --> 00:04:28,660
-Mas a qual artigo se referem?
+Mas a que artigo se referem?
 
 79
 00:04:32,130 --> 00:04:35,340
@@ -367,11 +367,11 @@ Não posso fazer isso!
 
 81
 00:04:36,840 --> 00:04:39,340
-Devolva o cheque!
+Devolve o cheque!
 
 82
 00:04:40,300 --> 00:04:41,340
-Ei, o que há com você?
+Ei, o que se passa contigo?
 
 83
 00:04:41,340 --> 00:04:43,390
@@ -379,7 +379,7 @@ Não, não, não...
 
 84
 00:04:46,600 --> 00:04:49,520
-Obedeça, Morgans!
+Obedece, Morgans!
 
 85
 00:04:49,520 --> 00:04:52,150
@@ -387,19 +387,19 @@ Um agente secreto da Cipher Pol?!
 
 86
 00:04:52,150 --> 00:04:55,980
-Cumpra as ordens do Governo Mundial!
+Cumpre as ordens do Governo Mundial!
 
 87
 00:04:55,980 --> 00:04:57,960
-Parados!
+Quietos!
 
 88
 00:05:01,450 --> 00:05:05,870
-Não subestime "Big News" Morgans!
+Não subestimes o "Big News" Morgans!
 
 89
 00:05:10,500 --> 00:05:13,250
-Quando ele se infiltrou?!
+Quando é que ele se infiltrou?!
 
 90
 00:05:13,250 --> 00:05:17,130
@@ -416,21 +416,21 @@ Rapazes, estamos em perigo aqui!
 
 93
 00:05:20,470 --> 00:05:22,340
-Vamos nos mudar!
+Vamos mudar-nos!
 
 94
 00:05:25,970 --> 00:05:28,220
-Talvez eu seja pão-duro,
+Talvez eu seja forreta,
 
 95
 00:05:28,220 --> 00:05:31,310
 mas antes disso 
-sou um jornalista!
+sou jornalista!
 
 96
 00:05:31,310 --> 00:05:33,730
-Às vezes, minto para 
-animar meus leitores!
+Às vezes minto para 
+animar os meus leitores!
 
 97
 00:05:33,730 --> 00:05:35,440
@@ -438,7 +438,7 @@ Sou o DJ das palavras!
 
 98
 00:05:35,440 --> 00:05:39,400
-Só eu decido o que vai à público!
+Só eu decido o que vai a público!
 
 99
 00:05:43,410 --> 00:05:45,150
@@ -446,7 +446,7 @@ Morgans-san!
 
 100
 00:05:45,150 --> 00:05:47,700
-Recebemos uma ligação do 
+Recebemos uma chamada do 
 Rei Wapol do Reino de Drum...
 
 101
@@ -455,16 +455,16 @@ Do Rei Wapol?
 
 102
 00:05:51,040 --> 00:05:52,870
-O que ele quer?
+O que quer ele?
 
 103
 00:05:52,870 --> 00:05:56,090
-Ele diz que quer 
-vazar informações.
+Diz que quer 
+divulgar informações.
 
 104
 00:05:56,090 --> 00:05:58,170
-O que você disse?!
+O que é que disseste?!
 
 105
 00:06:08,510 --> 00:06:10,020
@@ -476,11 +476,11 @@ Uma edição especial?
 
 107
 00:06:19,030 --> 00:06:19,940
-Não se preocupe...
+Não te preocupes...
 
 108
 00:06:19,940 --> 00:06:22,790
-Vai ficar tudo bem...
+Vai correr tudo bem...
 
 109
 00:06:29,200 --> 00:06:32,540
@@ -489,56 +489,56 @@ Governo não conseguiu esconder,
 
 110
 00:06:32,540 --> 00:06:37,290
-a decisão tomada pelos reis no Reverie e o outro incidente que ocorreu lá...
+a decisão tomada pelos reis no Reverie e o outro incidente que lá ocorreu...
 
 111
 00:06:37,290 --> 00:06:43,190
-...se espalharam rapidamente pelo mundo, deixando todos atônitos.
+...espalharam-se rapidamente pelo mundo, deixando todos atónitos.
 
 112
 00:06:43,190 --> 00:06:44,930
-Espere!
+Espera!
 
 113
 00:06:44,930 --> 00:06:46,340
-Mas o que é isso?!
+Mas o que é isto?!
 
 114
 00:06:49,640 --> 00:06:51,350
 Não pode ser verdade!
 REINO KAMABAKKA 
-QUARTEL GENERAL DOS 
+QUARTEL-GENERAL DOS 
 REVOLUCIONÁRIOS
 
 115
 00:06:51,350 --> 00:06:53,480
-É uma matéria do 
-Jornal Econômico, não é?
+É uma notícia do 
+Jornal Económico, não é?
 REINO KAMABAKKA 
-QUARTEL GENERAL DOS 
+QUARTEL-GENERAL DOS 
 REVOLUCIONÁRIOS
 
 116
 00:06:53,480 --> 00:06:54,850
-Sabemos como esse jornal é!
+Sabemos como é este jornal!
 REINO KAMABAKKA 
-QUARTEL GENERAL DOS 
+QUARTEL-GENERAL DOS 
 REVOLUCIONÁRIOS
 
 117
 00:06:54,850 --> 00:06:57,060
 Deve ser outra mentira daquele pássaro!
 REINO KAMABAKKA 
-QUARTEL GENERAL DOS 
+QUARTEL-GENERAL DOS 
 REVOLUCIONÁRIOS
 
 118
 00:06:57,060 --> 00:06:59,960
-Tem que ser!
+Tem de ser!
 
 119
 00:07:02,940 --> 00:07:04,820
-Estamos falando do Sabo!
+Estamos a falar do Sabo!
 
 120
 00:07:04,820 --> 00:07:06,450
@@ -554,7 +554,7 @@ Calma!
 
 123
 00:07:09,780 --> 00:07:13,620
-Primeiro, precisamos 
+Primeiro, temos de 
 confirmar se é verdade.
 
 124
@@ -582,7 +582,7 @@ ESCOLTA DA REALEZA
 00:07:26,590 --> 00:07:27,800
 REINO DE GOA - NAVIO 
 ESCOLTA DA REALEZA
-Sua Majestade!
+Vossa Majestade!
 
 130
 00:07:27,800 --> 00:07:29,850
@@ -590,7 +590,7 @@ Ele estava em Mary Geoise?!
 
 131
 00:07:29,850 --> 00:07:32,950
-M-Meu irmão mais velho?!
+O-O meu irmão mais velho?!
 
 132
 00:07:33,220 --> 00:07:35,520
@@ -601,13 +601,13 @@ FOOSHA VILLAGE
 00:07:35,520 --> 00:07:37,430
 REINO DE GOA
 FOOSHA VILLAGE
-O que há com a Makino?
+O que se passa com a Makino?
 
 134
 00:07:37,430 --> 00:07:39,230
 REINO DE GOA
 FOOSHA VILLAGE
-Ela não vai abrir hoje.
+Hoje não vai abrir.
 
 135
 00:07:39,230 --> 00:07:40,400
@@ -617,8 +617,8 @@ O quê?!
 
 136
 00:07:40,400 --> 00:07:43,610
-E houveram muitos 
-eventos mundo à fora...
+E houve muitos 
+acontecimentos mundo fora...
 
 137
 00:07:43,610 --> 00:07:45,610
@@ -632,7 +632,7 @@ Sabo-kun...
 00:07:52,830 --> 00:07:57,080
 REINO DE GOA
 MONTE COLUBO
-E logo agora que eu descobri 
+E logo agora que descobri 
 que ele ainda estava vivo!
 
 140
@@ -647,12 +647,12 @@ Sabo!
 
 142
 00:08:06,760 --> 00:08:09,680
-PRISÃO SUBMARINHA 
+PRISÃO SUBMARINA 
 IMPEL DOWN
 
 143
 00:08:10,550 --> 00:08:14,430
-Esse mundo nunca 
+Este mundo nunca 
 te deixa entediado!
 
 144
@@ -675,12 +675,12 @@ Vamos zarpar!
 
 148
 00:08:29,030 --> 00:08:31,620
-Em vez de ficar só olhando 
-a Marinha tomar tudo pra si...
+Em vez de ficar só a ver 
+a Marinha ficar com tudo...
 
 149
 00:08:31,620 --> 00:08:34,540
-Eu vou é pegar pra mim!
+Eu vou é ficar com isso!
 
 150
 00:08:39,420 --> 00:08:42,330
@@ -689,11 +689,11 @@ Voltando ao presente...
 151
 00:08:47,210 --> 00:08:50,930
 PAÍS DE WANO 
-ARREDORES DA VILA EBISU
+ARREDORES DA ALDEIA EBISU
 
 152
 00:08:57,600 --> 00:08:59,350
-Sou eu, Koby.
+Sou eu, o Koby.
 
 153
 00:09:01,440 --> 00:09:03,730
@@ -704,7 +704,7 @@ GRAND LINE
 00:09:03,730 --> 00:09:04,940
 PRESENTE,
 GRAND LINE
-Espere um momento.
+Espera um momento.
 
 155
 00:09:04,940 --> 00:09:07,110
@@ -737,7 +737,7 @@ Cauteloso...
 162
 00:09:19,000 --> 00:09:22,500
 Não é nada disso, é que 
-são as regras sabe...
+são as regras, sabes...
 
 163
 00:09:22,500 --> 00:09:24,170
@@ -745,7 +745,7 @@ Ah, sim, é terrível!
 
 164
 00:09:24,170 --> 00:09:26,670
-Tenho algo para te informar,
+Tenho uma coisa para lhe informar,
 
 165
 00:09:26,670 --> 00:09:28,260
@@ -755,13 +755,13 @@ capitão!
 00:09:28,540 --> 00:09:28,710
 X DRAKE, CAPITÃO DA SWORD,
 ESQUADRÃO SECRETO ESPECIAL DO 
-QUARTEL GENERAL DA MARINHA
+QUARTEL-GENERAL DA MARINHA
 
 167
 00:09:32,920 --> 00:09:33,130
 X DRAKE, CAPITÃO DA SWORD,
 ESQUADRÃO SECRETO ESPECIAL DO 
-QUARTEL GENERAL DA MARINHA
+QUARTEL-GENERAL DA MARINHA
 
 168
 00:09:37,010 --> 00:09:38,470
@@ -769,7 +769,7 @@ O quê?!
 
 169
 00:09:38,470 --> 00:09:40,850
-Isso é sério?!
+Isso é a sério?!
 
 170
 00:09:40,850 --> 00:09:43,980
@@ -780,17 +780,17 @@ Sim, estamos sobrecarregados...
 ...mesmo mobilizando 
 todos os marinheiros.
 CAPITÃO KOBY
-QUARTEL GENERAL DA MARINHA, 
+QUARTEL-GENERAL DA MARINHA, 
 MEMBRO DA SWORD
 
 172
 00:09:47,270 --> 00:09:49,820
-Por isso, como planejado,
+Por isso, como planeado,
 
 173
 00:09:49,820 --> 00:09:53,030
-a Marinha não poderá se envolver 
-com o que está acontecendo lá.
+a Marinha não se poderá envolver 
+com o que está a acontecer aí.
 
 174
 00:09:53,030 --> 00:09:54,870
@@ -798,7 +798,7 @@ Não há tropas suficientes.
 
 175
 00:09:54,870 --> 00:09:56,370
-Entendo...
+Estou a ver...
 
 176
 00:09:56,370 --> 00:09:59,200
@@ -807,8 +807,8 @@ afiliado ao Governo Mundial.
 
 177
 00:09:59,200 --> 00:10:03,790
-Agora, sobre Big Mom 
-visitando Onigashima...
+Agora, sobre a Big Mom 
+a visitar Onigashima...
 
 178
 00:10:03,790 --> 00:10:04,500
@@ -816,7 +816,7 @@ Sim.
 
 179
 00:10:04,500 --> 00:10:08,710
-Por muito tempo, a relação entre Kaidou e Big Mom foi como a de cães e gatos.
+Durante muito tempo, a relação entre o Kaidou e a Big Mom foi como a de cães e gatos.
 
 180
 00:10:08,710 --> 00:10:12,090
@@ -828,12 +828,12 @@ Imagino.
 
 182
 00:10:13,630 --> 00:10:18,850
-Como esperado, Kaidou e Big Mom 
-entraram em uma luta mortal,
+Como esperado, o Kaidou e a Big Mom 
+entraram numa luta mortal,
 
 183
 00:10:20,220 --> 00:10:22,020
-mas acabaram formando uma aliança!
+mas acabaram por formar uma aliança!
 
 184
 00:10:24,230 --> 00:10:28,270
@@ -842,7 +842,7 @@ O-O-O quê?!
 185
 00:10:32,110 --> 00:10:35,870
 Quanto ao Luffy do Chapéu de Palha, 
-não há notícias de que ele escapou.
+não há notícias de que tenha escapado.
 
 186
 00:10:35,870 --> 00:10:38,740
@@ -850,11 +850,11 @@ A situação está neutra.
 
 187
 00:10:38,740 --> 00:10:41,120
-Além disso, tem algo desagradável:
+Além disso, há algo desagradável:
 
 188
 00:10:41,120 --> 00:10:44,080
-outro dia, na capital, 
+no outro dia, na capital, 
 vi a Cipher Pol 0.
 
 189
@@ -863,17 +863,17 @@ O quê?!
 
 190
 00:10:44,790 --> 00:10:46,210
-O que eles estão fazendo
+O que estão eles a fazer
 no País de Wano?!
 
 191
 00:10:47,380 --> 00:10:49,380
-Não quero nem pensar,
+Nem quero pensar nisso,
 
 192
 00:10:49,380 --> 00:10:52,590
-mas isso significa que o Governo 
-Mundial está negociando...
+mas significa que o Governo 
+Mundial está a negociar...
 
 193
 00:10:52,590 --> 00:10:56,820
@@ -887,11 +887,11 @@ fiquei chocado...
 
 195
 00:11:01,180 --> 00:11:03,430
-...por alguns minutos.
+...durante alguns minutos.
 
 196
 00:11:13,280 --> 00:11:15,910
-A propósito, onde você está agora?
+A propósito, onde estás agora?
 
 197
 00:11:15,910 --> 00:11:16,610
@@ -900,12 +900,12 @@ Sim...
 198
 00:11:16,610 --> 00:11:20,950
 Com o objetivo de capturar 
-Boa Hancock, a Imperatriz Pirata,
+a Boa Hancock, a Imperatriz Pirata,
 
 199
 00:11:25,500 --> 00:11:28,080
-estamos indo para 
-a Ilha das Mulheres!
+vamos a caminho 
+da Ilha das Mulheres!
 
 200
 00:11:28,960 --> 00:11:29,790
@@ -913,8 +913,8 @@ a Ilha das Mulheres!
 
 201
 00:11:29,790 --> 00:11:33,840
-Há navios cruzando o Calm Belt
-e vindo em nossa direção!
+Há navios a atravessar o Calm Belt
+e a vir na nossa direção!
 
 202
 00:11:33,840 --> 00:11:36,590
@@ -926,16 +926,16 @@ Margaret!
 
 204
 00:11:38,680 --> 00:11:41,610
-O que raios vai acontecer?
+Que raio vai acontecer?
 
 205
 00:11:43,810 --> 00:11:47,450
-A notícia se espalhou pelo mundo.
+A notícia espalhou-se pelo mundo.
 
 206
 00:11:47,450 --> 00:11:50,480
-Deveriam ter cancelado 
-isso faz tempo!
+Deviam ter cancelado 
+isso há muito tempo!
 
 207
 00:11:50,480 --> 00:11:53,110
@@ -948,11 +948,11 @@ Eles são maus!
 209
 00:11:55,530 --> 00:11:58,280
 Para aqueles que acreditam 
-que piratas são maus...
+que os piratas são maus...
 
 210
 00:12:00,370 --> 00:12:03,200
-Finalmente esses cachorros do 
+Finalmente estes cães do 
 Governo vão deixar de existir!
 
 211
@@ -962,11 +962,11 @@ Olhos de Falcão, Palhaço!
 
 212
 00:12:07,080 --> 00:12:10,210
-Malditos sanguessugas!
+Malditas sanguessugas!
 
 213
 00:12:10,890 --> 00:12:15,300
-...e também para quem odeia 
+...e também para quem detesta 
 saqueadores, são ótimas notícias.
 
 214
@@ -981,15 +981,15 @@ O Reverie tomou essa decisão?!
 216
 00:12:22,220 --> 00:12:25,140
 Acreditamos que a Marinha 
-se mobilizará imediatamente.
+se vai mobilizar imediatamente.
 
 217
 00:12:25,140 --> 00:12:26,430
-Será que é uma boa ideia?
+Será boa ideia?
 
 218
 00:12:26,430 --> 00:12:30,100
-Eles eram um dos três 
+Eram um dos três 
 grandes poderes do mundo!
 
 219
@@ -1022,7 +1022,7 @@ dos Shichibukais!
 225
 00:12:57,880 --> 00:13:02,760
 Os Shichibukais são piratas que 
-possuem permissão do Governo Mundial...
+têm autorização do Governo Mundial...
 
 226
 00:13:02,760 --> 00:13:04,140
@@ -1039,12 +1039,12 @@ SHICHIBUKAI
 
 229
 00:13:05,180 --> 00:13:10,100
-em troca, o Governo os usa 
+em troca, o Governo usa-os 
 para intimidar outros piratas.
 
 230
 00:13:10,100 --> 00:13:16,210
-Desde sua criação, os membros dos Shichibukai mudaram incontáveis vezes.
+Desde a sua criação, os membros dos Shichibukai mudaram inúmeras vezes.
 
 231
 00:13:22,070 --> 00:13:23,410
@@ -1056,38 +1056,38 @@ No passado, os Chapéus de Palha e ele lutaram para decidir o destino do Reino d
 
 233
 00:13:28,870 --> 00:13:31,750
-Ele conspirou para tomar o reino,
+Conspirou para tomar o reino,
 
 234
 00:13:31,750 --> 00:13:35,840
-mas foi derrotado por Luffy e 
+mas foi derrotado pelo Luffy e 
 expulso dos Shichibukais.
 
 235
 00:13:35,840 --> 00:13:40,170
-O homem que se juntou aos Shichibukai para substituir Crocodile...
+O homem que se juntou aos Shichibukai para substituir o Crocodile...
 
 236
 00:13:40,170 --> 00:13:42,430
-...foi Marshall D. Teach.
+...foi o Marshall D. Teach.
 
 237
 00:13:42,430 --> 00:13:48,890
-Porém, Barba Negra renunciou assim que 
-conseguiu seu objetivo na Guerra dos Maiorais.
+Porém, o Barba Negra renunciou assim que 
+alcançou o seu objetivo na Guerra dos Maiorais.
 
 238
 00:13:50,180 --> 00:13:52,140
-Jinbe, o Cavaleiro do Mar,
+O Jinbe, o Cavaleiro do Mar,
 
 239
 00:13:52,140 --> 00:13:54,940
-se opôs à Guerra dos Maiorais 
-e se tornou inimigo da Marinha.
+opôs-se à Guerra dos Maiorais 
+e tornou-se inimigo da Marinha.
 
 240
 00:13:54,940 --> 00:13:58,610
-Ele também abdicou de seu cargo.
+Também abdicou do seu cargo.
 
 241
 00:14:01,860 --> 00:14:03,700
@@ -1095,7 +1095,7 @@ Gecko Moria.
 
 242
 00:14:03,700 --> 00:14:07,450
-Este homem, que um dia entrou no caminho dos Chapéus de Palha,
+Este homem, que um dia se meteu no caminho dos Chapéus de Palha,
 
 243
 00:14:07,450 --> 00:14:10,000
@@ -1109,7 +1109,7 @@ Porém,
 245
 00:14:13,540 --> 00:14:17,800
 após a batalha, os altos escalões 
-do Governo ordenaram sua eliminação,
+do Governo ordenaram a sua eliminação,
 
 246
 00:14:17,800 --> 00:14:20,550
@@ -1117,7 +1117,7 @@ sendo assim expulso.
 
 247
 00:14:20,550 --> 00:14:24,690
-Donquixote Doflamingo, o Demônio Celestial.
+Donquixote Doflamingo, o Demónio Celestial.
 
 248
 00:14:24,690 --> 00:14:28,180
@@ -1134,7 +1134,7 @@ Contudo,
 251
 00:14:36,480 --> 00:14:39,600
 na batalha pelo destino do reino, 
-perdeu para Luffy e seus aliados...
+perdeu para o Luffy e os seus aliados...
 
 252
 00:14:39,600 --> 00:14:42,440
@@ -1143,17 +1143,17 @@ título de Shichibukai.
 
 253
 00:14:42,440 --> 00:14:45,160
-Por outro lado, Trafalgar Law...
+Por outro lado, o Trafalgar Law...
 
 254
 00:14:45,160 --> 00:14:52,250
-...se aliou aos Chapéus de Palha para derrubar 
-Doflamingo e, por isso, perdeu seu título.
+...aliou-se aos Chapéus de Palha para derrubar 
+o Doflamingo e, por isso, perdeu o título.
 
 255
 00:14:53,250 --> 00:14:56,580
 Os quatro piratas que reinam como 
-imperadores são chamados de:
+imperadores chamam-se:
 
 256
 00:14:56,630 --> 00:14:58,250
@@ -1167,7 +1167,7 @@ YONKOU
 258
 00:14:59,850 --> 00:15:03,720
 O Quartel-General da Marinha 
-os mantém sob controle.
+mantém-nos sob controlo.
 
 259
 00:15:03,720 --> 00:15:06,550
@@ -1175,7 +1175,7 @@ E, finalmente, os Shichibukais.
 
 260
 00:15:06,550 --> 00:15:11,950
-Esses três grandes poderes 
+Estes três grandes poderes 
 mantiveram a paz mundial.
 
 261
@@ -1194,7 +1194,7 @@ do Reino de Alabasta...
 
 264
 00:15:20,020 --> 00:15:23,780
-...e Riku Dold III do 
+...e o Riku Dold III do 
 Reino de Dressrosa.
 
 265
@@ -1208,7 +1208,7 @@ Após intensas discussões no Reverie,
 
 267
 00:15:31,080 --> 00:15:36,710
-eles conseguiram a maioria dos 
+conseguiram a maioria dos 
 votos e a proposta foi aprovada.
 
 268
@@ -1218,7 +1218,7 @@ destituídos de todos os seus direitos...
 
 269
 00:15:42,300 --> 00:15:46,180
-...e, de agora em diante, não têm nenhuma ligação com o Governo Mundial.
+...e, de agora em diante, não têm qualquer ligação com o Governo Mundial.
 
 270
 00:15:46,180 --> 00:15:47,010
@@ -1230,15 +1230,15 @@ Buggy,
 
 272
 00:15:49,260 --> 00:15:54,140
-agora você é só um pirata comum!
+agora és só um pirata comum!
 
 273
 00:15:54,140 --> 00:15:56,390
-Isso não é justo, desgraçados!
+Isto não é justo, desgraçados!
 
 274
 00:15:56,390 --> 00:16:01,440
-Tomam essa decisão sem nos consultar e agora que não precisam mais de nós, vêm nos prender?!
+Tomam esta decisão sem nos consultar e agora que já não precisam de nós, vêm prender-nos?!
 
 275
 00:16:01,440 --> 00:16:03,650
@@ -1246,8 +1246,8 @@ Não têm princípios!
 
 276
 00:16:03,650 --> 00:16:08,240
-Se Crocodile e Doflamingo 
-aprontaram, não é problema meu!
+Se o Crocodile e o Doflamingo 
+fizeram asneira, não é problema meu!
 
 277
 00:16:08,240 --> 00:16:11,240
@@ -1259,11 +1259,11 @@ Cercaram toda a costa!
 
 279
 00:16:13,830 --> 00:16:16,910
-O que faremos?
+O que fazemos?
 
 280
 00:16:16,910 --> 00:16:20,790
-Arruinaram meu plano de vida!
+Arruinaram o meu plano de vida!
 
 281
 00:16:20,790 --> 00:16:22,250
@@ -1272,15 +1272,15 @@ Oh?
 282
 00:16:22,250 --> 00:16:25,920
 Os marinheiros eram nossos 
-aliados, mas agora nos cercaram!
+aliados, mas agora cercaram-nos!
 
 283
 00:16:25,920 --> 00:16:27,720
-O que a gente faz, mamãe?!
+O que fazemos, mamã?!
 
 284
 00:16:27,720 --> 00:16:30,180
-Mamãe!
+Mamã!
 
 285
 00:16:31,800 --> 00:16:35,060
@@ -1297,7 +1297,7 @@ Princesa Serpente, é terrível!
 
 288
 00:16:42,150 --> 00:16:46,440
-Você foi destituída do 
+Foi destituída do 
 título de Shichibukai!
 
 289
@@ -1306,12 +1306,12 @@ Vovó Nyon!
 
 290
 00:16:48,360 --> 00:16:50,320
-Tem navios da Marinha 
-se aproximando!
+Estão a aproximar-se 
+navios da Marinha!
 
 291
 00:16:50,320 --> 00:16:51,530
-O que você disse?!
+O que é que disseste?!
 
 292
 00:16:51,530 --> 00:16:54,160
@@ -1331,11 +1331,11 @@ Parece que eles...
 
 296
 00:17:03,460 --> 00:17:05,170
-...esqueceram um detalhe!
+...se esqueceram de um pormenor!
 
 297
 00:17:05,170 --> 00:17:07,970
-Isso não é bom, Presidente Buggy!
+Isto não é bom, Presidente Buggy!
 
 298
 00:17:07,970 --> 00:17:10,010
@@ -1343,7 +1343,7 @@ Fugimos?!
 
 299
 00:17:10,010 --> 00:17:14,050
-Nós vamos lutar com pompa!
+Vamos lutar com pompa!
 
 300
 00:17:18,680 --> 00:17:21,180
@@ -1355,7 +1355,7 @@ malditos!
 
 302
 00:17:25,190 --> 00:17:27,780
-Como era de se esperar do Presidente Buggy!
+Como seria de esperar do Presidente Buggy!
 
 303
 00:17:29,320 --> 00:17:33,200
@@ -1363,12 +1363,12 @@ Buggy, Buggy, Buggy!
 
 304
 00:17:33,230 --> 00:17:36,700
-Parece que não são 
-mais nossos aliados!
+Parece que já não são 
+nossos aliados!
 
 305
 00:17:36,700 --> 00:17:39,370
-Isso é imperdoável!
+Isto é imperdoável!
 
 306
 00:17:39,370 --> 00:17:40,910
@@ -1376,11 +1376,11 @@ Weevil!
 
 307
 00:17:40,910 --> 00:17:43,000
-Dou permissão para derrotá-los!
+Dou-te autorização para os derrotares!
 
 308
 00:17:43,000 --> 00:17:44,800
-Sério?!
+A sério?!
 
 309
 00:17:44,800 --> 00:17:45,120
@@ -1392,7 +1392,7 @@ eu vou matá-los...
 
 311
 00:17:49,630 --> 00:17:52,590
-...em nome de Barba Branca!
+...em nome do Barba Branca!
 
 312
 00:17:53,350 --> 00:17:54,890
@@ -1400,7 +1400,7 @@ Que emoção...
 
 313
 00:17:55,640 --> 00:17:57,260
-Faz tanto tempo...
+Há tanto tempo...
 
 314
 00:17:59,270 --> 00:18:02,190
@@ -1408,7 +1408,7 @@ Faz tanto tempo...
 
 315
 00:18:03,850 --> 00:18:07,400
-Nos tornamos Shichibukais justamente...
+Tornámo-nos Shichibukais justamente...
 
 316
 00:18:07,720 --> 00:18:07,890
@@ -1417,11 +1417,11 @@ EX-SHICHIBUKAI
 
 317
 00:18:09,900 --> 00:18:12,740
-...Por causa da nossa força!
+...por causa da nossa força!
 
 318
 00:18:12,740 --> 00:18:16,070
-Conto com vocês, rapazes!
+Conto convosco, rapazes!
 
 319
 00:18:19,040 --> 00:18:20,500
