@@ -1,8 +1,8 @@
 1
 00:00:00,000 --> 00:00:09,990
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
@@ -66,33 +66,33 @@ Gab
 
 13
 00:01:31,900 --> 00:01:35,370
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Remanescentes
 
 14
 00:01:35,370 --> 00:01:38,290
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Remanescentes
 Entendido, Perospero?
 
 15
 00:01:38,290 --> 00:01:41,850
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Fazer uma aliança com
+Fazer uma aliança com o
 Kaidou foi decisão minha.
 
 16
 00:01:41,850 --> 00:01:43,250
-Fazer uma aliança com
+Fazer uma aliança com o
 Kaidou foi decisão minha.
 
 17
@@ -101,7 +101,7 @@ Seja como for,
 
 18
 00:01:45,290 --> 00:01:50,380
-sua família sempre sonhou com o dia em que você se torne o Rei dos Piratas, Mama!
+a tua família sempre sonhou com o dia em que te tornes o Rei dos Piratas, mama!
 
 19
 00:01:50,380 --> 00:01:51,840
@@ -113,11 +113,11 @@ Eu sei disso, é claro.
 
 21
 00:01:55,600 --> 00:01:59,390
-Vocês não podem simplesmente confiar em mim?
+Não podem simplesmente confiar em mim?
 
 22
 00:02:00,930 --> 00:02:02,310
-Tá bem...
+Está bem...
 
 23
 00:02:02,310 --> 00:02:04,190
@@ -129,12 +129,12 @@ Entendo.
 
 25
 00:02:07,520 --> 00:02:14,360
-Acho que isso significa que nossa aliança está oficialmente dissolvida, Perospero?
+Acho que isso significa que a nossa aliança está oficialmente dissolvida, Perospero?
 
 26
 00:02:14,910 --> 00:02:17,740
 Mesmo que eu tenha 
-aceitado sua oferta.
+aceitado a tua oferta.
 
 27
 00:02:17,740 --> 00:02:19,200
@@ -142,24 +142,24 @@ Marco!
 
 28
 00:02:19,200 --> 00:02:21,330
-Não acredito que você esteja ajudando esses idiotas.
+Não acredito que estejas a ajudar estes idiotas.
 
 29
 00:02:21,330 --> 00:02:23,960
-Eu esperava mais de você.
+Eu esperava mais de ti.
 
 30
 00:02:23,960 --> 00:02:28,670
-Os remanescentes do Barba Branca devem estar realmente perdidos sem seu capitão.
+Os remanescentes do Barba Branca devem estar mesmo perdidos sem o capitão deles.
 
 31
 00:02:29,550 --> 00:02:34,380
-Acho que você não sabe o que 
-"remanescente" realmente significa, Big Mom!
+Acho que não sabes o que 
+"remanescente" significa mesmo, Big Mom!
 
 32
 00:02:36,840 --> 00:02:38,430
-Você acha mesmo...
+Achas mesmo...
 
 33
 00:02:44,390 --> 00:02:48,400
@@ -176,11 +176,11 @@ somos livres!
 
 36
 00:02:54,900 --> 00:02:58,700
-Verdade... mortos não dão ordens.
+Verdade... os mortos não dão ordens.
 
 37
 00:02:58,700 --> 00:03:00,620
-Vocês estão livres para agir.
+Estão livres para agir.
 
 38
 00:03:01,290 --> 00:03:03,710
@@ -197,7 +197,7 @@ Eu sabia que era ele!
 
 41
 00:03:25,440 --> 00:03:27,190
-Carrot! Onde você está indo?!
+Carrot! Onde vais?!
 
 42
 00:03:27,190 --> 00:03:29,270
@@ -205,11 +205,11 @@ Ele estava lá! O assassino do Pedro!
 
 43
 00:03:31,270 --> 00:03:33,570
-Agora é sua chance, Luffy do Chapéu de Palha! Vá!
+Agora é a tua oportunidade, Luffy do Chapéu de Palha! Vai!
 
 44
 00:03:33,940 --> 00:03:34,940
-Valeu!
+Obrigado!
 
 45
 00:03:36,780 --> 00:03:39,700
@@ -227,19 +227,19 @@ Toda a ilha está em caos.
 
 47
 00:03:43,410 --> 00:03:45,580
-Eles vão vir até aqui em cima?
+Eles vão vir até aqui acima?
 
 48
 00:03:45,580 --> 00:03:48,040
-Não acredito que não tem ninguém aqui no tatame!
+Não acredito que não está aqui ninguém no tatame!
 
 49
 00:03:48,040 --> 00:03:51,130
-Você cantaria uma música para nós, Irmã Maria?
+Cantavas uma música para nós, Irmã Maria?
 
 50
 00:03:51,500 --> 00:03:52,630
-Tá bom.
+Está bem.
 
 51
 00:03:53,250 --> 00:03:56,050
@@ -251,11 +251,11 @@ Que tal algo assim?
 
 53
 00:04:04,310 --> 00:04:06,140
-Espere!
+Espera!
 
 54
 00:04:08,270 --> 00:04:11,190
-♪ ...eles sentiam saudade um do outro... ♪
+♪ ...eles sentiam saudades um do outro... ♪
 
 55
 00:04:12,940 --> 00:04:15,690
@@ -263,7 +263,7 @@ Espere!
 
 56
 00:04:17,860 --> 00:04:20,620
-♪ Qaualquer chance de se ver... ♪
+♪ Qualquer hipótese de se verem... ♪
 
 57
 00:04:21,320 --> 00:04:24,160
@@ -295,11 +295,11 @@ Eu vou vingar o Lorde Oden!
 
 64
 00:05:52,870 --> 00:05:55,040
-Toma isso!
+Toma isto!
 
 65
 00:05:55,040 --> 00:05:57,920
-Vocês querem mesmo morrer assim?
+Querem mesmo morrer assim?
 
 66
 00:05:57,920 --> 00:06:00,420
@@ -315,12 +315,12 @@ Vocês não são o Oden, afinal.
 
 69
 00:06:43,420 --> 00:06:47,550
-Fingindo ser grandes samurais
-sempre na sombra do Oden,
+A fingir que são grandes samurais
+sempre à sombra do Oden,
 
 70
 00:06:47,550 --> 00:06:52,430
-E, até hoje, com ele morto, não passam de moleques brincando de samurai!
+E, até hoje, com ele morto, não passam de putos a brincar aos samurais!
 
 71
 00:06:52,430 --> 00:06:54,060
@@ -328,11 +328,11 @@ O que acham que podem fazer?
 
 72
 00:06:54,060 --> 00:06:59,730
-Por que você não nos enfrenta e descobre se estamos mesmo só brincando de samurai?!
+Porque não nos enfrentas e descobres se estamos mesmo só a brincar aos samurais?!
 
 73
 00:07:00,650 --> 00:07:03,530
-Tá bom... Venham!
+Está bem... Venham!
 
 74
 00:07:03,530 --> 00:07:04,610
@@ -368,16 +368,16 @@ Cortes Circulares!
 
 82
 00:08:09,260 --> 00:08:10,930
-O que é isso?!
+O que é isto?!
 
 83
 00:08:10,930 --> 00:08:14,770
-Seus ataques não chegam nem perto
+Os vossos ataques não chegam nem perto
 do nível da esgrima do Oden.
 
 84
 00:08:14,770 --> 00:08:16,850
-Como eles podem me cortar?!
+Como é que me podem cortar?!
 
 85
 00:08:17,480 --> 00:08:19,810
@@ -397,12 +397,12 @@ Ninpou: Técnica do Pergaminho!
 
 89
 00:08:46,090 --> 00:08:49,720
-Meu pergaminho pode 
+O meu pergaminho pode 
 enrolar qualquer coisa!
 
 90
 00:09:04,320 --> 00:09:06,070
-E agora, eu devolvo para você...
+E agora, devolvo-to...
 
 91
 00:09:06,070 --> 00:09:06,900
@@ -414,19 +414,19 @@ Restauração!
 
 93
 00:09:46,400 --> 00:09:49,740
-Então vocês querem me matar?
+Então vocês querem matar-me?
 
 94
 00:09:50,070 --> 00:09:54,370
-Vocês são só um bando de vassalos covardes...
+Não passam de um bando de vassalos covardes...
 
 95
 00:09:54,370 --> 00:09:57,870
-perseguindo o fantasma do seu Lorde!
+a perseguir o fantasma do vosso Lorde!
 
 96
 00:09:58,580 --> 00:10:00,040
-Ele está certo.
+Ele tem razão.
 
 97
 00:10:00,370 --> 00:10:02,250
@@ -434,7 +434,7 @@ Sempre fomos covardes.
 
 98
 00:10:02,250 --> 00:10:05,540
-Eu vou ensinar vocês a usar
+Eu vou ensinar-vos a usar
 o estilo de duas espadas do Oden!
 
 99
@@ -443,15 +443,15 @@ Não, obrigado.
 
 100
 00:10:07,550 --> 00:10:10,630
-Temos nosso próprio estilo...
+Temos o nosso próprio estilo...
 
 101
 00:10:10,630 --> 00:10:14,180
-Mas por quê?! Isso é o estilo de duas espadas do Oden!
+Mas porquê?! É o estilo de duas espadas do Oden!
 
 102
 00:10:14,180 --> 00:10:16,930
-Vocês não querem herdá-lo?!
+Não o querem herdar?!
 
 103
 00:10:16,930 --> 00:10:18,930
@@ -464,13 +464,13 @@ o primeiro discípulo.
 
 105
 00:10:22,690 --> 00:10:26,440
-Nós brigamos feio para
+Zangámo-nos a sério para
 decidir quem seria.
 
 106
 00:10:26,440 --> 00:10:30,530
-Nós todos o amávamos tanto
-que parecia uma luta até a morte.
+Todos nós o adorávamos tanto
+que parecia uma luta até à morte.
 
 107
 00:11:05,440 --> 00:11:06,810
@@ -484,7 +484,7 @@ que parecia uma luta até a morte.
 
 109
 00:11:12,940 --> 00:11:15,400
-Isso é uma piada pra vocês?
+Isto é uma piada para vocês?
 
 110
 00:11:17,240 --> 00:11:20,080
@@ -492,7 +492,7 @@ Imitações tão patéticas!
 
 111
 00:11:21,540 --> 00:11:23,370
-Ouçam, pessoal!
+Ouçam, malta!
 
 112
 00:11:23,370 --> 00:11:24,960
@@ -500,11 +500,11 @@ O Ryuo é...
 
 113
 00:11:28,500 --> 00:11:29,840
-Me escutem!
+Escutem-me!
 
 114
 00:11:32,130 --> 00:11:37,510
-Aperfeiçoamos nossas habilidades com a espada para salvar Wano no dia de hoje!
+Aperfeiçoámos as nossas capacidades com a espada para salvar Wano no dia de hoje!
 
 115
 00:11:47,520 --> 00:11:49,520
@@ -512,20 +512,20 @@ Corte Flamejante!
 
 116
 00:12:09,750 --> 00:12:14,800
-Não subestime... meus samurais!
+Não subestimes... os meus samurais!
 
 117
 00:12:15,340 --> 00:12:20,680
-As pessoas lembrarão da sua
-morte heroica por gerações.
+As pessoas lembrar-se-ão da sua
+morte heroica durante gerações.
 
 118
 00:12:21,180 --> 00:12:24,220
-Podem me esquecer, eu não ligo!
+Podem esquecer-me, não me importo!
 
 119
 00:12:24,220 --> 00:12:28,690
-Meu espírito viverá!
+O meu espírito viverá!
 
 120
 00:12:29,230 --> 00:12:31,730
@@ -555,13 +555,13 @@ Alegrem-se! Hoje é o Festival do Fogo!
 
 126
 00:13:45,640 --> 00:13:50,270
-A Capital das Flores é o único lugar
+A Capital das Flores é o único sítio
 que prospera em Wano.
 
 127
 00:13:50,980 --> 00:13:55,020
 Porém, como no resto do país,
-sua população esconde terror e tensão
+a sua população esconde terror e tensão
 
 128
 00:13:55,020 --> 00:13:59,230
@@ -587,7 +587,7 @@ Delicioso!
 
 133
 00:14:22,760 --> 00:14:25,590
-Isso realmente cai bem!
+Isto sabe mesmo bem!
 
 134
 00:14:26,140 --> 00:14:29,560
@@ -599,11 +599,11 @@ O Festival do Fogo é tão divertido...
 
 136
 00:14:31,430 --> 00:14:33,770
-Me lembra os velhos tempos.
+Faz-me lembrar os velhos tempos.
 
 137
 00:14:34,560 --> 00:14:38,150
-Queria que hoje nunca terminasse...
+Quem me dera que hoje nunca terminasse...
 
 138
 00:14:39,070 --> 00:14:41,650
@@ -627,19 +627,19 @@ O ar está tão fresco...
 
 143
 00:14:57,960 --> 00:14:59,960
-Vamos realmente aproveitar.
+Vamos mesmo aproveitar.
 
 144
 00:15:01,090 --> 00:15:05,090
-Quando o festival acabar, é volta à sobriedade...
+Quando o festival acabar, é voltar à sobriedade...
 
 145
 00:15:07,220 --> 00:15:09,470
-por um ano inteiro!
+durante um ano inteiro!
 
 146
 00:15:10,100 --> 00:15:11,180
-Droga!
+Raios!
 
 147
 00:15:12,310 --> 00:15:15,390
@@ -656,31 +656,31 @@ Que dia maravilhoso!
 
 150
 00:15:20,980 --> 00:15:24,400
-Mas Orochi voltará amanhã!
+Mas o Orochi voltará amanhã!
 
 151
 00:15:29,870 --> 00:15:35,370
 Aposto que o Clã Kozuki
-está lutando com eles agora!
+está a lutar com eles agora!
 
 152
 00:15:35,370 --> 00:15:38,580
 Ah, isso é interessante,
-mesmo que seja pura bobagem!
+mesmo que seja pura treta!
 
 153
 00:15:38,580 --> 00:15:40,290
-Conte mais!
+Conta mais!
 
 154
 00:15:40,290 --> 00:15:45,420
-Tá bom então! Eles trouxeram
+Está bem, então! Trouxeram
 guerreiros de todo o mundo,
 
 155
 00:15:45,420 --> 00:15:51,560
-e estão em Onigashima agora mesmo,
-cortando Orochi e Kaidou e causando caos!
+e estão em Onigashima neste momento,
+a cortar o Orochi e o Kaidou e a causar caos!
 
 156
 00:15:52,560 --> 00:15:54,100
@@ -688,7 +688,7 @@ Continua! Continua!
 
 157
 00:15:54,100 --> 00:15:56,480
-Hoje é o dia de compartilhar fantasias malucas!
+Hoje é o dia de partilhar fantasias malucas!
 
 158
 00:16:14,410 --> 00:16:16,620
@@ -696,11 +696,11 @@ T-Tão frio...!
 
 159
 00:16:16,620 --> 00:16:18,670
-Me ajudem!
+Ajudem-me!
 
 160
 00:16:22,540 --> 00:16:23,550
-Isso é ruim...
+Isto é mau...
 
 161
 00:16:23,550 --> 00:16:25,300
@@ -716,8 +716,8 @@ Saiam de perto deles!
 
 164
 00:16:36,140 --> 00:16:38,940
-Os samurais estão se 
-separando... Por quê?
+Os samurais estão a 
+separar-se... Porquê?
 
 165
 00:16:40,940 --> 00:16:43,150
@@ -725,7 +725,7 @@ Deve ser aquela praga dele...
 
 166
 00:16:43,150 --> 00:16:45,820
-Você vira um oni só de tocar neles.
+Tornamo-nos um oni só de lhes tocar.
 
 167
 00:16:45,820 --> 00:16:47,530
@@ -733,7 +733,7 @@ Você vira um oni só de tocar neles.
 
 168
 00:16:47,530 --> 00:16:50,490
-Como ele pode espalhar 
+Como pode ele espalhar 
 um vírus desses?
 
 169
@@ -751,7 +751,7 @@ Este andar está condenado!
 
 172
 00:17:09,220 --> 00:17:12,510
-Esta é minha obra-prima!
+Esta é a minha obra-prima!
 
 173
 00:17:13,140 --> 00:17:14,760
@@ -782,15 +782,15 @@ Espera, Luffy!
 
 179
 00:17:34,620 --> 00:17:35,950
-O que você está fazendo?!
+O que estás a fazer?!
 
 180
 00:17:36,330 --> 00:17:39,200
-Você vai lutar com o Kaido, certo?
+Vais lutar com o Kaido, certo?
 
 181
 00:17:39,200 --> 00:17:41,290
-Guarde sua energia por agora!
+Guarda a tua energia por agora!
 
 182
 00:17:41,290 --> 00:17:44,210
@@ -803,11 +803,11 @@ Sai da frente, sobrancelha encaracolada!
 
 184
 00:17:48,760 --> 00:17:49,800
-Vamos nessa!
+Vamos a isto!
 
 185
 00:17:49,800 --> 00:17:54,140
-Eu posso lidar com todos vocês brutos sozinho!
+Eu consigo com todos vocês, brutos, sozinho!
 
 186
 00:17:59,730 --> 00:18:03,230
@@ -819,30 +819,30 @@ Maldito!
 
 188
 00:18:21,250 --> 00:18:23,960
-Como ousa fazer isso 
-com meus homens?!
+Como te atreves a fazer isso 
+aos meus homens?!
 
 189
 00:18:23,960 --> 00:18:26,130
-Você não vai passar por mim!
+Não vais passar por mim!
 
 190
 00:18:27,880 --> 00:18:30,760
-Prepare-se!
+Prepara-te!
 
 191
 00:18:30,760 --> 00:18:34,590
-Atração Principal Briscola
+Headliner Briscola
 SMILE do Gorila
 Piratas das Feras
 
 192
 00:18:35,760 --> 00:18:38,350
-Por que o gorila está crescendo dali?! É esquisito!
+Porque está o gorila a crescer dali?! É esquisito!
 
 193
 00:18:40,600 --> 00:18:42,730
-Você acha?!
+Achas?!
 
 194
 00:18:42,730 --> 00:18:46,400
@@ -855,7 +855,7 @@ crescer em alguém?!
 
 196
 00:18:52,400 --> 00:18:53,950
-Como eu vou saber?!
+Como é que hei de saber?!
 
 197
 00:18:56,530 --> 00:18:59,950
@@ -871,7 +871,7 @@ Ele é mais forte do que parece!
 
 200
 00:19:04,080 --> 00:19:06,630
-Aquele Gorila Punch é tão legal!
+Aquele Gorila Punch é tão fixe!
 
 201
 00:19:12,050 --> 00:19:14,470
@@ -887,7 +887,7 @@ Pensei que te encontraria por aqui.
 
 204
 00:19:39,160 --> 00:19:41,200
-Parece que eu estava certo...
+Parece que eu tinha razão...
 
 205
 00:19:41,740 --> 00:19:42,950
@@ -895,7 +895,7 @@ Briscola!
 
 206
 00:19:43,450 --> 00:19:44,870
-Você está bem?
+Estás bem?
 
 207
 00:19:48,960 --> 00:19:50,590
@@ -903,36 +903,36 @@ Ai, ai, ai...
 
 208
 00:19:51,380 --> 00:19:53,300
-Ei! Você está bem?!
+Ei! Estás bem?!
 
 209
 00:19:53,300 --> 00:19:54,800
-Fique comigo!
+Fica comigo!
 
 210
 00:20:01,470 --> 00:20:03,180
-Ei, você!
+Ei, tu!
 
 211
 00:20:03,180 --> 00:20:06,390
-Como ousa nos atacar!
+Como te atreves a atacar-nos!
 
 212
 00:20:06,770 --> 00:20:09,520
-Tá bom! Agora é a minha vez!
+Está bem! Agora é a minha vez!
 
 213
 00:20:09,520 --> 00:20:14,480
-Qual é! Quantas vezes eu tenho que
-dizer para guardar sua energia?!
+Qual é! Quantas vezes tenho de
+dizer para guardares a tua energia?!
 
 214
 00:20:14,480 --> 00:20:17,490
-Você vai demorar demais batendo nesses caras!
+Vais demorar demasiado a bater nestes tipos!
 
 215
 00:20:17,490 --> 00:20:18,450
-Cale a boca!
+Cala-te!
 
 216
 00:20:18,450 --> 00:20:21,200
@@ -941,7 +941,7 @@ em dez segundos!
 
 217
 00:20:21,200 --> 00:20:22,200
-Alguma reclamação?
+Alguma queixa?
 
 218
 00:20:22,200 --> 00:20:25,200
@@ -950,7 +950,7 @@ segundos se eu ajudasse!
 
 219
 00:20:26,330 --> 00:20:28,830
-Ei, pare de me ignorar!
+Ei, para de me ignorar!
 
 220
 00:20:28,830 --> 00:20:30,580
@@ -962,7 +962,7 @@ Gorila Punch!
 
 222
 00:20:37,010 --> 00:20:41,260
-Karatê dos Homens-Peixe: Punho de Azulejo de Tubarão!
+Karaté dos Homens-Peixe: Punho de Azulejo de Tubarão!
 
 223
 00:20:59,780 --> 00:21:02,370
@@ -970,11 +970,11 @@ Briscola!
 
 224
 00:21:06,750 --> 00:21:08,370
-Ah, mandou bem!
+Ah, foste bom!
 
 225
 00:21:08,370 --> 00:21:10,290
-Você é incrível, Jinbe!
+És incrível, Jinbe!
 
 226
 00:21:10,290 --> 00:21:11,790
@@ -982,17 +982,17 @@ Luffy!
 
 227
 00:21:11,790 --> 00:21:14,170
-Vou te escoltar até o telhado!
+Vou escoltar-te até ao telhado!
 
 228
 00:21:14,170 --> 00:21:17,670
-Você precisa guardar 
-sua energia por agora!
+Tens de guardar 
+a tua energia por agora!
 
 229
 00:21:17,670 --> 00:21:20,300
-Por que você está 
-assumindo o controle?!
+Porque estás tu a 
+assumir o controlo?!
 
 230
 00:21:20,300 --> 00:21:22,840
@@ -1000,11 +1000,11 @@ Eu já trouxe o Luffy até aqui!
 
 231
 00:21:24,010 --> 00:21:26,140
-Entendo. Minhas desculpas!
+Entendo. As minhas desculpas!
 
 232
 00:21:26,140 --> 00:21:30,230
-Luffy! Nossos aliados samurais
+Luffy! Os nossos aliados samurais
 devem estar lá em cima agora!
 
 233
@@ -1013,25 +1013,25 @@ Vamos encontrá-los!
 
 234
 00:21:32,310 --> 00:21:34,110
-Beleza! Entendido!
+Boa! Entendido!
 
 235
 00:21:34,110 --> 00:21:36,440
-Como diabos você 
-está por dentro de tudo?
+Como raio estás tu 
+a par de tudo?
 
 236
 00:21:36,440 --> 00:21:39,280
-Como ousa derrubar o Briscola?!
+Como te atreves a derrubar o Briscola?!
 
 237
 00:21:39,280 --> 00:21:40,860
-Peguem eles!
+Apanhem-nos!
 
 238
 00:21:46,280 --> 00:21:49,290
 Olha... O Luffy vai atacar
-na primeira chance que tiver.
+na primeira oportunidade que tiver.
 
 239
 00:21:49,290 --> 00:21:50,870
@@ -1039,7 +1039,7 @@ Vamos ficar atentos!
 
 240
 00:22:06,430 --> 00:22:07,890
-Espere!
+Esperem!
 
 241
 00:22:10,680 --> 00:22:12,940
@@ -1047,20 +1047,20 @@ Qual é a situação, Bao Huang?
 
 242
 00:22:12,940 --> 00:22:18,860
-Certo, então, Yamato e Momonosuke
-estão indo para fora pela Torre do Cérebro Direito!
+Certo, então, o Yamato e o Momonosuke
+vão a sair pela Torre do Cérebro Direito!
 
 243
 00:22:18,860 --> 00:22:19,990
-Isso é o suficiente.
+Isso é suficiente.
 
 244
 00:22:22,030 --> 00:22:23,660
-Aqui é o King.
+Fala o King.
 
 245
 00:22:23,660 --> 00:22:27,620
-Identificamos os idiotas que
+Identificámos os idiotas que
 invadiram o banquete.
 
 246
@@ -1078,15 +1078,15 @@ Parece que...
 
 249
 00:22:41,630 --> 00:22:44,590
-o Clã Kozuki apostou seu prestígio...
+o Clã Kozuki apostou o seu prestígio...
 
 250
 00:22:44,590 --> 00:22:47,100
-na tentativa de restaurar seu nome.
+na tentativa de restaurar o seu nome.
 
 251
 00:22:49,720 --> 00:22:56,610
-Eles querem tornar o filho de Oden,
+Querem tornar o filho do Oden,
 Kozuki Momonosuke, o shogun de Wano.
 
 252
@@ -1096,16 +1096,16 @@ Tobiroppos disponíveis...
 
 253
 00:23:00,110 --> 00:23:02,190
-minhas ordens são as seguintes:
+as minhas ordens são as seguintes:
 
 254
 00:23:03,900 --> 00:23:09,080
 Matem Kozuki Momonosuke, que está
-fugindo pela Torre do Cérebro Direito,
+a fugir pela Torre do Cérebro Direito,
 
 255
 00:23:09,080 --> 00:23:11,240
-e tragam a cabeça dele para mim!
+e tragam-me a cabeça dele!
 
 256
 00:23:11,240 --> 00:23:14,210
@@ -1117,7 +1117,7 @@ Claro, sei que os piratas são outra questão complexa.
 
 258
 00:23:33,730 --> 00:23:37,020
-Nossas ordens são matá-lo,
+As nossas ordens são matá-lo,
 não capturá-lo vivo...
 
 259
@@ -1126,7 +1126,7 @@ Isso facilita as coisas.
 
 260
 00:23:44,400 --> 00:23:45,360
-Droga.
+Raios.
 
 261
 00:23:59,580 --> 00:24:04,510
@@ -1148,7 +1148,7 @@ Aqui está.
 
 265
 00:24:11,850 --> 00:24:13,970
-Hein? O que é isso?
+Hã? O que é isso?
 
 266
 00:24:13,970 --> 00:24:14,890
@@ -1164,7 +1164,7 @@ Shinobu!
 
 269
 00:24:40,210 --> 00:24:41,210
-Não faça isso!
+Não faças isso!
 
 270
 00:24:41,210 --> 00:24:42,840
@@ -1180,11 +1180,11 @@ Todos os membros do nosso esquadrão têm corpos blindados.
 
 273
 00:24:51,220 --> 00:24:53,390
-Não tem saída!
+Não há saída!
 
 274
 00:24:54,850 --> 00:24:56,390
-Mirem no garoto!
+Apontem ao rapaz!
 
 275
 00:25:03,400 --> 00:25:05,110
@@ -1200,15 +1200,15 @@ Shinobu...
 
 278
 00:25:20,830 --> 00:25:23,130
-Vou matar você...
+Vou matar-te...
 
 279
 00:25:23,130 --> 00:25:24,920
-junto com o pirralho!
+juntamente com o fedelho!
 
 280
 00:25:25,840 --> 00:25:27,630
-Você nem consegue protegê-lo!
+Nem sequer consegues protegê-lo!
 
 281
 00:25:30,800 --> 00:25:31,970
@@ -1236,7 +1236,7 @@ Shinobu! Shinobu!
 
 287
 00:25:57,990 --> 00:25:59,000
-Você é meu!
+És meu!
 
 288
 00:26:04,250 --> 00:26:05,500
@@ -1252,7 +1252,7 @@ Ora, ora...
 
 291
 00:26:43,160 --> 00:26:45,130
-Tem certeza que quer interferir,
+Tem a certeza de que quer interferir,
 
 292
 00:26:45,130 --> 00:26:46,790
@@ -1260,7 +1260,7 @@ Jovem Mestre Yamato?
 
 293
 00:26:48,550 --> 00:26:49,750
-Não estou interferindo.
+Não estou a interferir.
 
 294
 00:26:50,760 --> 00:26:54,010
@@ -1268,19 +1268,19 @@ Estou aqui para lutar pelos Kozuki.
 
 295
 00:27:03,430 --> 00:27:06,560
-Pois eu... sou Oden!
+Pois eu... sou o Oden!
 
 296
 00:27:12,190 --> 00:27:14,150
-Cortem sua garganta!
+Cortem-lhe a garganta!
 
 297
 00:27:14,150 --> 00:27:17,160
-Não venceremos até arrancarmos sua cabeça do pescoço!
+Não venceremos até lhe arrancarmos a cabeça do pescoço!
 
 298
 00:27:17,160 --> 00:27:18,410
-Você está certo!
+Tens razão!
 
 299
 00:27:18,410 --> 00:27:21,540
@@ -1297,11 +1297,11 @@ Não teria sido uma má morte...
 
 302
 00:27:47,810 --> 00:27:50,020
-Toda vez que essa cicatriz dói,
+Sempre que esta cicatriz dói,
 
 303
 00:27:50,020 --> 00:27:54,490
-Eu lembro daquele fatídico dia...
+Lembro-me daquele dia fatídico...
 
 304
 00:27:56,070 --> 00:27:57,160
@@ -1313,7 +1313,7 @@ Pai!
 
 306
 00:28:01,450 --> 00:28:04,250
-Pai, me ajuda!
+Pai, ajuda-me!
 
 307
 00:28:15,380 --> 00:28:16,760
@@ -1334,11 +1334,11 @@ Nunca haverá outro samurai monstruoso como ele!
 
 311
 00:28:48,290 --> 00:28:50,330
-É raso demais!
+É demasiado raso!
 
 312
 00:28:50,330 --> 00:28:56,050
-Vocês nem são fortes o suficiente
+Nem sequer são fortes o suficiente
 para reabrir a cicatriz daquele dia!
 
 313
