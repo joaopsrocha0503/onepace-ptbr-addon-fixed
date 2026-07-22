@@ -1,8 +1,8 @@
 1
 00:00:00,000 --> 00:00:09,990
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
@@ -12,7 +12,7 @@ fedew
 
 3
 00:00:27,300 --> 00:00:29,550
-Karaokê
+Karaoke
 KaitouYahiko
 
 4
@@ -22,7 +22,7 @@ Gab
 
 5
 00:00:34,770 --> 00:00:39,190
-Trilha Sonora
+Banda Sonora
 Halee
 
 6
@@ -48,13 +48,13 @@ Zenef
 
 10
 00:00:47,240 --> 00:00:48,530
-Controle de Qualidade
+Controlo de Qualidade
 Gab
 Galaxy 9000
 
 11
 00:00:48,650 --> 00:00:50,200
-Controle de Qualidade
+Controlo de Qualidade
 Pepperjack
 Westfal
 Zenef
@@ -67,48 +67,48 @@ miscu
 
 13
 00:01:34,780 --> 00:01:39,620
-O Saquê que Preparei 
-para Beber com Você
+O Saqué que Preparei 
+para Beber Contigo
 
 14
 00:01:45,090 --> 00:01:47,420
-A ilha está voando?!
+A ilha está a voar?!
 
 15
 00:01:48,170 --> 00:01:48,370
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 16
 00:01:48,370 --> 00:01:52,720
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Isso pode... ser real?!
+Isto pode... ser real?!
 
 17
 00:01:52,720 --> 00:01:53,220
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 18
 00:01:53,220 --> 00:01:57,170
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Quão poderoso é o Kaidou?!
 
 19
 00:01:57,170 --> 00:01:58,160
-Seu reprodutor de mídia não é compatível com o formato de legenda utilizado neste episódio.
-A legendas provavelmente não funcionarão corretamente.
-Utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 20
@@ -117,7 +117,7 @@ O quê?!
 
 21
 00:01:59,730 --> 00:02:01,100
-Por quê?!
+Porquê?!
 
 22
 00:02:01,100 --> 00:02:03,190
@@ -125,11 +125,11 @@ Como assim?!
 
 23
 00:02:04,690 --> 00:02:06,480
-Marco a Fênix?!
+Marco, a Fénix?!
 
 24
 00:02:06,480 --> 00:02:08,940
-Marco a Fênix
+Marco, a Fénix
 
 Ex-Pirata do Barba Branca
 
@@ -147,7 +147,7 @@ Chopper!
 
 28
 00:02:17,970 --> 00:02:21,040
-Quente! Quente! Estou queimando!
+Quente! Quente! Estou a arder!
 
 29
 00:02:21,040 --> 00:02:23,870
@@ -179,7 +179,7 @@ Chopper! Eu vou apagar isto!
 
 36
 00:02:40,640 --> 00:02:43,810
-Tá queimando o meu braço!
+Está a queimar-me o braço!
 
 37
 00:02:43,810 --> 00:02:45,690
@@ -216,8 +216,8 @@ Ou não?
 
 45
 00:02:55,720 --> 00:02:58,200
-Eu tô pegando fogo mas 
-não estou queimando!
+Estou a arder mas 
+não estou a queimar-me!
 
 46
 00:02:58,490 --> 00:03:02,020
@@ -275,7 +275,7 @@ Ah, não é assim tão quente...
 
 59
 00:03:44,000 --> 00:03:46,860
-O frio está diminuindo!
+O frio está a diminuir!
 
 60
 00:03:47,460 --> 00:03:49,180
@@ -295,7 +295,7 @@ Omasa!
 
 64
 00:03:55,260 --> 00:03:58,170
-Graças a Deus! Você voltou a si!
+Graças a Deus! Voltaste a ti!
 
 65
 00:03:59,720 --> 00:04:01,600
@@ -303,12 +303,12 @@ Omasa...!
 
 66
 00:04:01,600 --> 00:04:05,270
-Bem, é como você estava dizendo.
-O vírus está roubando o calor do seu corpo.
+Bem, é como estavas a dizer.
+O vírus está a roubar o calor do corpo.
 
 67
 00:04:05,680 --> 00:04:09,940
-Assim que a sua energia acabar, vai voltar a ser um oni!
+Assim que a energia acabar, vais voltar a ser um oni!
 
 68
 00:04:09,940 --> 00:04:12,900
@@ -316,7 +316,7 @@ Eu apenas lhes dei um pouco de tempo!
 
 69
 00:04:16,690 --> 00:04:17,900
-Você é uma salvação!
+És uma salvação!
 
 70
 00:04:18,530 --> 00:04:20,700
@@ -328,7 +328,7 @@ Miyagi! Tristan!
 
 72
 00:04:23,280 --> 00:04:25,370
-Vocês dois estão bem?!
+Vocês os dois estão bem?!
 
 73
 00:04:27,040 --> 00:04:28,540
@@ -340,15 +340,15 @@ Estamos bem!
 
 75
 00:04:30,170 --> 00:04:32,670
-Vamos nos apressar e começar a trabalhar!
+Vamos despachar-nos e começar a trabalhar!
 
 76
 00:04:32,670 --> 00:04:35,510
-Nós vamos dar o apoio que você precisa!
+Nós damos-te o apoio de que precisas!
 
 77
 00:04:35,510 --> 00:04:39,840
-Obrigado! Posso me concentrar se estiver naquela torre!
+Obrigado! Consigo concentrar-me se estiver naquela torre!
 
 78
 00:04:42,300 --> 00:04:44,060
@@ -364,7 +364,7 @@ Ei, seus vagabundos! Capturem aquele guaxinim!
 
 81
 00:04:53,900 --> 00:04:57,190
-Por que ele se daria ao trabalho de salvar vocês?
+Porque se daria ele ao trabalho de vos salvar?
 
 82
 00:04:57,190 --> 00:05:00,400
@@ -372,7 +372,7 @@ Mas... aquele guaxinim...
 
 83
 00:05:00,400 --> 00:05:03,120
-Mantenha o foco!
+Concentrem-se!
 
 84
 00:05:03,120 --> 00:05:08,620
@@ -380,7 +380,7 @@ Se não quiserem morrer, livrem-se daquele guaxinim e recuperem o anticorpo!
 
 85
 00:05:09,250 --> 00:05:14,130
-Saquei... Acho que já entendi a situação.
+Percebi... Acho que já entendi a situação.
 
 86
 00:05:14,130 --> 00:05:16,090
@@ -388,21 +388,21 @@ Ei, Roronoa!
 
 87
 00:05:16,090 --> 00:05:19,420
-Não estava indo para
-fatiar e picar Kaidou?
+Não ias fatiar
+e picar o Kaidou?
 
 88
 00:05:21,010 --> 00:05:22,800
-Se quiser chegar ao telhado...
+Se queres chegar ao telhado...
 
 89
 00:05:23,550 --> 00:05:25,260
-Eu te dou uma carona!
+Eu dou-te boleia!
 
 90
 00:05:25,260 --> 00:05:28,810
 Vocês são bons demais para estarem
-lidando com estes vermes!
+a lidar com estes vermes!
 
 91
 00:05:30,520 --> 00:05:34,060
@@ -414,15 +414,15 @@ Não se preocupe... Sr. Esqueleto!
 
 93
 00:05:41,740 --> 00:05:45,320
-Vamos segurar a onda para o Sr. guaxinim!
+Vamos aguentar pelo Sr. guaxinim!
 
 94
 00:05:49,410 --> 00:05:51,710
-Obrigado, pessoal! Conto com vocês!
+Obrigado, malta! Conto convosco!
 
 95
 00:05:57,460 --> 00:06:00,970
-Espere, seu canalha!
+Espera, seu canalha!
 
 96
 00:06:02,840 --> 00:06:04,090
@@ -430,7 +430,7 @@ Apoo!
 
 97
 00:06:07,260 --> 00:06:09,890
-Me devolve o anticorpo...!
+Devolve-me o anticorpo...!
 
 98
 00:06:13,600 --> 00:06:15,270
@@ -442,7 +442,7 @@ a minha vida vai acabar!
 
 100
 00:06:19,730 --> 00:06:21,150
-Dá um tempo!
+Dá-me um desconto!
 
 101
 00:06:21,150 --> 00:06:23,240
@@ -454,7 +454,7 @@ Não me importo de fazer mais um serviço!
 
 103
 00:06:27,830 --> 00:06:30,490
-Sr. guaxinim, entre na torre agora!
+Sr. guaxinim, entre já na torre!
 
 104
 00:06:44,300 --> 00:06:46,890
@@ -477,7 +477,7 @@ Akuma no Mi Saur-Saur, Modelo Alossauro
 
 107
 00:06:50,930 --> 00:06:52,310
-Esse cara...
+Este tipo...
 
 108
 00:06:52,310 --> 00:06:53,980
@@ -485,19 +485,19 @@ Drake?!
 
 109
 00:06:53,980 --> 00:06:56,230
-Então ele realmente mudou de lado!
+Então ele mudou mesmo de lado!
 
 110
 00:07:03,320 --> 00:07:07,450
-Roronoa Zoro. Se você me puder considerar um aliado...
+Roronoa Zoro. Se me puderes considerar um aliado...
 
 111
 00:07:07,910 --> 00:07:10,080
-Me deixe segurá-los aqui enquanto você avança!
+Deixa-me segurá-los aqui enquanto avanças!
 
 112
 00:07:13,000 --> 00:07:16,960
-Pelo visto você tem um dom para apostas certas.
+Pelos vistos tens um dom para apostas certas.
 
 113
 00:07:18,210 --> 00:07:19,000
@@ -518,7 +518,7 @@ Sanji! Sanji!
 
 115
 00:07:22,380 --> 00:07:28,640
-Talvez Sanji tenha escutado um inimigo poderoso e foi detê-lo no terceiro andar!
+Talvez o Sanji tenha ouvido um inimigo poderoso e tenha ido detê-lo no terceiro andar!
 
 116
 00:07:28,640 --> 00:07:29,550
@@ -526,7 +526,7 @@ Talvez...!
 
 117
 00:07:30,010 --> 00:07:32,430
-Acho que meu Haki da Observação ainda não é bom o suficiente.
+Acho que o meu Haki da Observação ainda não é bom o suficiente.
 
 118
 00:07:32,890 --> 00:07:35,850
@@ -534,7 +534,7 @@ Eu não consigo sentir a presença do Sanji em lado nenhum!
 
 119
 00:07:40,820 --> 00:07:43,280
-Você sente algo, Jinbe?!
+Sentes alguma coisa, Jinbe?!
 
 120
 00:07:43,280 --> 00:07:44,530
@@ -542,7 +542,7 @@ Você sente algo, Jinbe?!
 
 121
 00:07:45,070 --> 00:07:47,410
-Tem um monte de inimigos aqui...
+Há um monte de inimigos aqui...
 
 122
 00:07:47,410 --> 00:07:49,410
@@ -550,7 +550,7 @@ E...
 
 123
 00:07:49,410 --> 00:07:52,030
-são bem fortes!
+são bastante fortes!
 
 124
 00:07:58,210 --> 00:08:02,170
@@ -559,11 +559,11 @@ deve ficar neste andar!
 
 125
 00:08:04,170 --> 00:08:07,260
-Eu vou distraí-los. Vá na frente!
+Eu distraio-os. Vai à frente!
 
 126
 00:08:08,800 --> 00:08:10,930
-Vamos nessa!
+Vamos a isto!
 
 127
 00:08:11,050 --> 00:08:12,930
@@ -581,7 +581,7 @@ Dentro do Domo
 
 130
 00:08:26,570 --> 00:08:29,950
-Hora de botar pra quebrar!
+Hora de dar cabo disto!
 
 131
 00:08:29,950 --> 00:08:31,820
@@ -593,19 +593,19 @@ Canhão!
 
 133
 00:08:34,540 --> 00:08:36,830
-Pra trás, rapazes!
+Para trás, rapazes!
 
 134
 00:08:45,210 --> 00:08:48,260
-Que diabo de tiro descontrolado é esse?!
+Que raio de tiro descontrolado é este?!
 
 135
 00:08:51,140 --> 00:08:54,010
-Você está pedindo por isso!
+Estás mesmo a pedi-las!
 
 136
 00:08:55,680 --> 00:08:58,140
-Eu curto o visual, irmão!
+Curto o visual, irmão!
 
 137
 00:09:03,150 --> 00:09:04,730
@@ -619,20 +619,20 @@ Akuma no Mi Saur-Saur, Modelo Triceratops
 
 139
 00:09:09,240 --> 00:09:10,860
-Então você é um dinossauro!
+Então és um dinossauro!
 
 140
 00:09:10,860 --> 00:09:15,160
-Pode desistir! É a criatura mais forte que já viveu!
+Podes desistir! É a criatura mais forte que já viveu!
 
 141
 00:09:16,450 --> 00:09:19,580
-Vou te desmembrar e te transformar
-em sucata quando eu acabar com você!
+Vou desmembrar-te e transformar-te
+em sucata quando acabar contigo!
 
 142
 00:09:19,580 --> 00:09:23,880
-Não dá pra riscar o brilho do Wapometal!
+Não se consegue riscar o brilho do Wapometal!
 
 143
 00:09:38,850 --> 00:09:42,190
@@ -670,7 +670,7 @@ Akuma no Mi Saur-Saur, Modelo Espinossauro
 
 147
 00:09:53,820 --> 00:09:56,450
-Para onde eles foram?!
+Para onde foram?!
 
 148
 00:09:56,780 --> 00:10:00,120
@@ -679,7 +679,7 @@ Estou tão frustrada!
 149
 00:10:00,120 --> 00:10:04,920
 Eu vou esmagar a cabeça
-daquela vadia miserável!
+daquela cabra miserável!
 
 150
 00:10:16,390 --> 00:10:17,180
@@ -696,27 +696,27 @@ Ele correu por ali!
 
 152
 00:10:18,510 --> 00:10:20,060
-Ei, pare!
+Ei, para!
 
 153
 00:10:20,060 --> 00:10:21,770
-Espere por nós!
+Espera por nós!
 
 154
 00:10:26,110 --> 00:10:28,070
-Droga! O que é isso?!
+Raios! O que é isto?!
 
 155
 00:10:28,650 --> 00:10:30,110
-Me solta!
+Solta-me!
 
 156
 00:10:30,110 --> 00:10:32,950
-Pode parar de se debater...
+Podes parar de te debater...
 
 157
 00:10:33,650 --> 00:10:37,240
-Seja um bom garoto... Não tente fugir.
+Sê um bom rapaz... Não tentes fugir.
 
 158
 00:10:38,740 --> 00:10:40,330
@@ -724,7 +724,7 @@ Afinal...
 
 159
 00:10:40,740 --> 00:10:44,540
-você não disse que me amava?
+não disseste que me amavas?
 
 160
 00:10:46,880 --> 00:10:49,670
@@ -734,15 +734,15 @@ Akuma no Mi Aranha-Aranha, Modelo Rosamygale Grauvogeli
 
 161
 00:10:54,930 --> 00:10:59,180
-Fique ao meu lado para sempre. Vou fazer de você meu bichinho de estimação.
+Fica ao meu lado para sempre. Vou fazer de ti o meu animal de estimação.
 
 162
 00:10:59,180 --> 00:11:01,970
-Não seja ridícula! Eu...
+Não sejas ridícula! Eu...
 
 163
 00:11:01,970 --> 00:11:03,680
-Tenho que ir embora!
+Tenho de ir embora!
 
 164
 00:11:04,020 --> 00:11:04,980
@@ -762,7 +762,7 @@ são mulheres, mulheres, mulheres...!
 
 168
 00:11:16,570 --> 00:11:18,070
-Isso é...
+Isto é...
 
 169
 00:11:18,070 --> 00:11:19,490
@@ -774,7 +774,7 @@ Ele claramente pirou.
 
 171
 00:11:24,040 --> 00:11:26,330
-Você é uma gracinha...
+És uma gracinha...
 
 172
 00:11:26,370 --> 00:11:29,460
@@ -784,11 +784,11 @@ Café do Gato Grande
 
 173
 00:11:31,500 --> 00:11:34,300
-Então, Luffy do Chapéu de Palha seguiu em frente...
+Então, o Luffy do Chapéu de Palha seguiu em frente...
 
 174
 00:11:34,300 --> 00:11:37,800
-Isso vai dar uma tremenda dor de cabeça para o lorde Kaidou...
+Isso vai dar uma tremenda dor de cabeça ao lorde Kaidou...
 
 175
 00:11:41,060 --> 00:11:43,060
@@ -796,7 +796,7 @@ Poderia, por favor, parar de...
 
 176
 00:11:43,720 --> 00:11:45,850
-importunar meus homens?
+importunar os meus homens?
 
 177
 00:11:46,310 --> 00:11:48,310
@@ -807,7 +807,7 @@ Akuma no Mi Gato-Gato, Modelo Tigre-Dente-de-Sabre
 178
 00:11:50,690 --> 00:11:56,280
 Ex-Shichibukai, Jinbe, o "Cavaleiro do Mar",
-servindo à disposição de uma criança?
+ao serviço de uma criança?
 
 179
 00:11:57,200 --> 00:12:01,080
@@ -815,7 +815,7 @@ Eu sou o timoneiro dos Chapéus de Palha!
 
 180
 00:12:01,080 --> 00:12:04,080
-Poderia me fazer a honra
+Podia fazer-me a honra
 de usar este título mais honrado?
 
 181
@@ -824,7 +824,7 @@ Ah, erro meu.
 
 182
 00:12:06,910 --> 00:12:11,210
-Eu o vi uma vez, na sua época de Shichibukai...
+Eu vi-o uma vez, na sua época de Shichibukai...
 
 183
 00:12:11,210 --> 00:12:12,420
@@ -836,20 +836,20 @@ Bem, não é nada de mais.
 
 185
 00:12:15,380 --> 00:12:17,930
-Quem é você?
+Quem és tu?
 
 186
 00:12:18,260 --> 00:12:21,010
-Puxa, quem eu poderia ser?
+Bolas, quem poderia eu ser?
 
 187
 00:12:21,010 --> 00:12:25,720
-Talvez remover sua máscara
+Talvez tirar-te a máscara
 me ajude a refrescar a memória.
 
 188
 00:12:27,940 --> 00:12:30,400
-Eu gostaria de ver você tentar.
+Gostava de te ver tentar.
 
 189
 00:12:31,110 --> 00:12:33,650
@@ -859,11 +859,11 @@ Dentro do Domo
 
 190
 00:12:37,240 --> 00:12:40,910
-Podemos nos esconder aqui já que este quarto foi esquecido por muito tempo.
+Podemos esconder-nos aqui, já que este quarto foi esquecido durante muito tempo.
 
 191
 00:12:41,490 --> 00:12:43,990
-O que é isso?
+O que é aquilo?
 
 192
 00:12:43,990 --> 00:12:45,660
@@ -872,11 +872,11 @@ Uma estátua de dragão.
 193
 00:12:45,660 --> 00:12:51,790
 Costumava ficar na entrada da ilha, mas foi 
-colocada aqui depois que meu amigo a quebrou.
+colocada aqui depois de o meu amigo a partir.
 
 194
 00:12:51,790 --> 00:12:53,090
-Seu amigo?
+O teu amigo?
 
 195
 00:12:53,500 --> 00:12:55,090
@@ -884,15 +884,15 @@ Sim...
 
 196
 00:12:55,090 --> 00:12:56,960
-Alguns anos atrás...
+Há alguns anos...
 
 197
 00:12:57,760 --> 00:13:00,300
-ele veio para matar meu pai!
+ele veio matar o meu pai!
 
 198
 00:13:09,560 --> 00:13:12,190
-O quê? Não tem ninguém aqui?
+O quê? Não está aqui ninguém?
 
 199
 00:13:21,860 --> 00:13:23,660
@@ -900,7 +900,7 @@ Intrusos!
 
 200
 00:13:24,330 --> 00:13:26,870
-Se não são o Kaidou, sumam!
+Se não são o Kaidou, desapareçam!
 
 201
 00:13:33,130 --> 00:13:34,250
@@ -908,7 +908,7 @@ Ace!
 
 202
 00:13:34,250 --> 00:13:36,800
-Pessoal, salvem as crianças enquanto podem!
+Malta, salvem as crianças enquanto podem!
 
 203
 00:13:36,800 --> 00:13:38,010
@@ -916,43 +916,43 @@ Entendido!
 
 204
 00:13:38,010 --> 00:13:38,960
-Deixa com a gente!
+Deixa connosco!
 
 205
 00:13:41,760 --> 00:13:43,220
-Esse não vai se render!
+Este não se vai render!
 
 206
 00:13:49,180 --> 00:13:51,560
-Quem é você?! Diga seu nome!
+Quem és tu?! Diz o teu nome!
 
 207
 00:13:52,100 --> 00:13:53,650
-Você primeiro!
+Tu primeiro!
 
 208
 00:13:58,230 --> 00:13:59,990
-Eu sou Ace!
+Eu sou o Ace!
 
 209
 00:13:59,990 --> 00:14:01,990
-Estou aqui para tomar a cabeça do Kaidou!
+Estou aqui para levar a cabeça do Kaidou!
 
 210
 00:14:04,950 --> 00:14:07,330
-Eu os encontrei! Venham aqui!
+Encontrei-os! Venham cá!
 
 211
 00:14:09,830 --> 00:14:13,080
-Não se assustem. Viemos salvar todos vocês.
+Não se assustem. Viemos salvar-vos a todos.
 
 212
 00:14:13,080 --> 00:14:14,790
-É, mas precisamos nos apressar.
+Pois, mas temos de nos despachar.
 
 213
 00:14:23,840 --> 00:14:25,720
-Você é bem forte.
+És bastante forte.
 
 214
 00:14:30,140 --> 00:14:31,100
@@ -964,7 +964,7 @@ Todas as crianças estão bem!
 
 216
 00:14:34,310 --> 00:14:37,520
-Mas não conseguimos encontrar o Kaidou em lugar nenhum!
+Mas não conseguimos encontrar o Kaidou em sítio nenhum!
 
 217
 00:14:37,520 --> 00:14:38,190
@@ -972,19 +972,19 @@ O quê?!
 
 218
 00:14:38,820 --> 00:14:40,860
-Meu pai e os outros saíram em uma expedição!
+O meu pai e os outros saíram numa expedição!
 
 219
 00:14:40,860 --> 00:14:42,490
-Neste exato momento...
+Neste preciso momento...
 
 220
 00:14:42,860 --> 00:14:44,660
-não tem nenhum oficial aqui!
+não há nenhum oficial aqui!
 
 221
 00:14:45,030 --> 00:14:46,120
-Seu pai?!
+O teu pai?!
 
 222
 00:14:46,120 --> 00:14:47,530
@@ -997,20 +997,20 @@ Então ela é a filha do Kaidou?!
 
 224
 00:14:53,120 --> 00:14:54,420
-Eu sou Yamato!
+Eu sou o Yamato!
 
 225
 00:14:54,960 --> 00:14:58,340
-Acho que já deu de tanta destruição!
+Acho que já chega de destruição!
 
 226
 00:14:58,340 --> 00:15:00,460
-Se você tem tempo para se perguntar quem eu sou,
+Se tens tempo para te perguntares quem eu sou,
 
 227
 00:15:00,460 --> 00:15:05,380
-então tem tempo para ir embora
-e devolver essas crianças para suas famílias!
+então tens tempo para ires embora
+e devolveres essas crianças às famílias delas!
 
 228
 00:15:06,640 --> 00:15:08,300
@@ -1018,7 +1018,7 @@ Aceito essa proposta.
 
 229
 00:15:08,890 --> 00:15:11,430
-Mas é seguro para você nos deixar ir?
+Mas é seguro para ti deixares-nos ir?
 
 230
 00:15:11,430 --> 00:15:14,890
@@ -1030,32 +1030,32 @@ Certo, vamos voltar para o País de Wano.
 
 232
 00:15:27,160 --> 00:15:29,200
-As famílias de vocês estão esperando.
+As vossas famílias estão à espera.
 
 233
 00:15:29,580 --> 00:15:33,580
-Sério, não temos como agradecer tanto!
+A sério, não temos como agradecer!
 
 234
 00:15:33,580 --> 00:15:35,290
-Tem certeza, Ace?
+Tens a certeza, Ace?
 
 235
 00:15:35,290 --> 00:15:38,130
 Isso significa voltar para o
-continente sem você.
+continente sem ti.
 
 236
 00:15:38,130 --> 00:15:42,840
-Isso mesmo. Cuidem deles. Eu alcanço vocês depois.
+Isso mesmo. Cuidem deles. Eu alcanço-vos depois.
 
 237
 00:15:47,470 --> 00:15:51,760
-Não estou convencido de que alguém forte como você não seja um dos capitães deles...
+Não estou convencido de que alguém forte como tu não seja um dos capitães deles...
 
 238
 00:15:52,350 --> 00:15:53,680
-Vamos resolver isso!
+Vamos resolver isto!
 
 239
 00:15:53,680 --> 00:15:56,190
@@ -1071,8 +1071,8 @@ Punho de Fogo!
 
 242
 00:16:31,470 --> 00:16:35,430
-Qual é o seu problema? Alguém
-tão forte como você não devia estar no mar?!
+Qual é o teu problema? Alguém
+tão forte como tu não devia estar no mar?!
 
 243
 00:16:36,640 --> 00:16:38,850
@@ -1088,36 +1088,36 @@ De todas as pessoas para ter como pai...
 
 246
 00:16:44,820 --> 00:16:47,820
-É tudo culpa do seu pai?
+É tudo culpa do teu pai?
 
 247
 00:16:48,610 --> 00:16:50,820
-Essa é a sua desculpa?
+É essa a tua desculpa?
 
 248
 00:16:55,950 --> 00:16:57,620
-Você não pode...
+Não podes...
 
 249
 00:16:58,910 --> 00:17:01,540
-escolher seus pais, Yamato!
+escolher os teus pais, Yamato!
 
 250
 00:17:02,170 --> 00:17:06,210
-Cala a boca! Não acha que eu já sei disso?!
+Cala a boca! Não achas que eu já sei disso?!
 
 251
 00:17:07,130 --> 00:17:09,260
-Sabe mesmo?
+Sabes mesmo?
 
 252
 00:17:10,760 --> 00:17:14,970
 Algemas físicas são uma coisa,
-mas se você odeia tanto seu pai...
+mas se odeias tanto o teu pai...
 
 253
 00:17:14,970 --> 00:17:17,680
-por que algemar seu coração também?!
+porquê algemar também o teu coração?!
 
 254
 00:17:36,580 --> 00:17:38,120
@@ -1125,7 +1125,7 @@ Yamato!
 
 255
 00:17:38,120 --> 00:17:40,540
-O que você quer fazer?!
+O que queres fazer?!
 
 256
 00:18:14,160 --> 00:18:15,490
@@ -1133,11 +1133,11 @@ Eu admito...
 
 257
 00:18:16,280 --> 00:18:18,870
-Eu estava me contendo.
+Eu estava a conter-me.
 
 258
 00:18:20,160 --> 00:18:21,710
-Mas agora eu percebi...
+Mas agora percebi...
 
 259
 00:18:22,620 --> 00:18:26,540
@@ -1145,7 +1145,7 @@ Eu quero ir para o mar e viver uma aventura!
 
 260
 00:18:27,090 --> 00:18:30,130
-Eu quero viver livremente como Oden!
+Eu quero viver livremente como o Oden!
 
 261
 00:18:31,130 --> 00:18:32,130
@@ -1157,7 +1157,7 @@ Para o mar...
 
 263
 00:18:34,260 --> 00:18:36,470
-Eu quero sair dessa ilha horrível...!
+Eu quero sair desta ilha horrível...!
 
 264
 00:18:37,100 --> 00:18:40,350
@@ -1165,7 +1165,7 @@ Eu quero viver livremente!
 
 265
 00:18:44,480 --> 00:18:46,270
-É isso aí, Yamato!
+É isso mesmo, Yamato!
 
 266
 00:19:00,040 --> 00:19:02,160
@@ -1173,7 +1173,7 @@ Eu quero viver livremente!
 
 267
 00:19:03,120 --> 00:19:04,830
-Agora você sabe o que fazer.
+Agora sabes o que fazer.
 
 268
 00:19:13,260 --> 00:19:14,340
@@ -1185,12 +1185,12 @@ E ele voltou para casa em farrapos!
 
 270
 00:19:22,600 --> 00:19:27,400
-Quando éramos crianças, ele nos
-metia em todo tipo de enrascada!
+Quando éramos crianças, metia-nos
+em todo o tipo de trapalhadas!
 
 271
 00:19:27,400 --> 00:19:29,690
-Seu irmãozinho é realmente interessante!
+O teu irmãozinho é mesmo interessante!
 
 272
 00:19:29,690 --> 00:19:30,270
@@ -1198,31 +1198,31 @@ Não é?!
 
 273
 00:19:31,230 --> 00:19:33,610
-Ei, me diga, como estão as coisas lá fora?!
+Ei, diz-me, como estão as coisas lá fora?!
 
 274
 00:19:33,610 --> 00:19:36,280
-Há muitos novatos subindo na fama?!
+Há muitos novatos a subir na fama?!
 
 275
 00:19:36,280 --> 00:19:38,820
-Novatos? Deixa eu ver...
+Novatos? Deixa-me ver...
 
 276
 00:19:39,240 --> 00:19:41,870
-Tá todo mundo falando de um tal Cavendish.
+Está toda a gente a falar de um tal Cavendish.
 
 277
 00:19:41,870 --> 00:19:43,330
-É?!
+A sério?!
 
 278
 00:19:43,330 --> 00:19:45,910
-Bem, eu estou em uma categoria diferente,
+Bem, eu estou numa categoria diferente,
 
 279
 00:19:45,910 --> 00:19:49,920
-mas ouvi dizer que alguns caras perigosos estão à solta em todos os mares.
+mas ouvi dizer que alguns tipos perigosos estão à solta em todos os mares.
 
 280
 00:19:49,920 --> 00:19:51,250
@@ -1230,11 +1230,11 @@ Hm-hm! Hm-hm!
 
 281
 00:19:51,250 --> 00:19:53,380
-Tem Kid no sul e...
+Há o Kid no sul e...
 
 282
 00:19:53,380 --> 00:19:56,090
-Law no norte e Bege no oeste.
+o Law no norte e o Bege no oeste.
 
 283
 00:19:57,380 --> 00:20:01,010
@@ -1243,19 +1243,19 @@ vai para o mar daqui a alguns anos...
 
 284
 00:20:01,010 --> 00:20:02,850
-Meu irmãozinho!
+O meu irmãozinho!
 
 285
 00:20:03,890 --> 00:20:06,480
-Ele vai acabar com todo mundo!
+Ele vai acabar com toda a gente!
 
 286
 00:20:06,480 --> 00:20:09,730
-Você gosta de falar do seu irmão.
+Gostas de falar do teu irmão.
 
 287
 00:20:09,730 --> 00:20:11,480
-E daí?! Você devia apenas ouvir!
+E depois?! Devias era ouvir!
 
 288
 00:20:11,480 --> 00:20:13,070
@@ -1263,16 +1263,16 @@ Ai, ai, ai!
 
 289
 00:20:13,070 --> 00:20:13,780
-Você... isso dói!
+Tu... isso dói!
 
 290
 00:20:13,780 --> 00:20:15,740
-Você... isso dói!
+Tu... isso dói!
 P-Parem, por favor!
 
 291
 00:20:20,910 --> 00:20:25,370
-É. A verdade é que fui eu que quebrou esta estátua de dragão primeiro.
+Pois. A verdade é que fui eu que parti esta estátua de dragão primeiro.
 
 292
 00:20:26,540 --> 00:20:28,290
@@ -1285,7 +1285,7 @@ ao Kaidou de que eu voltarei!"
 
 294
 00:20:34,380 --> 00:20:35,920
-Entendi...
+Percebi...
 
 295
 00:20:35,920 --> 00:20:40,050
@@ -1294,11 +1294,11 @@ tentou salvar Wano uma vez...
 
 296
 00:20:40,050 --> 00:20:42,220
-Isso deixou meu pai irritado,
+Isso deixou o meu pai irritado,
 
 297
 00:20:42,220 --> 00:20:44,600
-mas no fim, ele nunca conheceu o Ace.
+mas no fim nunca chegou a conhecer o Ace.
 
 298
 00:20:45,430 --> 00:20:46,480
@@ -1306,11 +1306,11 @@ Espera...
 
 299
 00:20:46,480 --> 00:20:47,270
-Seu pai?
+O teu pai?
 
 300
 00:20:48,350 --> 00:20:50,810
-Eu não mencionei que o Kaidou é meu pai?
+Eu não mencionei que o Kaidou é o meu pai?
 
 301
 00:20:54,190 --> 00:20:57,110
@@ -1318,28 +1318,28 @@ Quê... Ei, não fiquem com medo!
 
 302
 00:20:57,110 --> 00:20:59,700
-Ah, mas eu o odeio de verdade!
+Ah, mas eu odeio-o mesmo!
 
 303
 00:20:59,700 --> 00:21:01,740
-Eu disse que sou Oden, não disse?!
+Eu disse que sou o Oden, não disse?!
 
 304
 00:21:01,740 --> 00:21:03,410
-Isso nos confunde ainda mais!
+Isso confunde-nos ainda mais!
 
 305
 00:21:03,410 --> 00:21:06,830
-Não precisam ter medo! Eu odeio o Kaidou!
+Não precisam de ter medo! Eu odeio o Kaidou!
 
 306
 00:21:06,830 --> 00:21:11,330
-Eu ansiava pelo mar e aventura,
-então me tornei Oden, que vivia livremente!
+Eu ansiava pelo mar e pela aventura,
+por isso tornei-me o Oden, que vivia livremente!
 
 307
 00:21:11,330 --> 00:21:13,340
-Nós entendemos a maior parte, senhor.
+Percebemos a maior parte, senhor.
 
 308
 00:21:13,340 --> 00:21:15,420
@@ -1347,7 +1347,7 @@ Agradecemos a explicação!
 
 309
 00:21:15,420 --> 00:21:17,920
-Parem ser tão formais e venham aqui!
+Parem de ser tão formais e venham cá!
 
 310
 00:21:17,920 --> 00:21:19,340
@@ -1359,7 +1359,7 @@ onde está esse aspirante a salvador de Wano agora?
 
 312
 00:21:23,010 --> 00:21:24,300
-Ace...
+O Ace...
 
 313
 00:21:24,300 --> 00:21:26,180
@@ -1367,7 +1367,7 @@ morreu há dois anos.
 
 314
 00:21:26,770 --> 00:21:29,390
-Otama, você conheceu o Ace?!
+Otama, conheceste o Ace?!
 
 315
 00:21:29,390 --> 00:21:31,980
@@ -1376,28 +1376,28 @@ Sim, ele era como um irmão para mim!
 316
 00:21:31,980 --> 00:21:36,570
 Eu decidi acreditar no Ace e
-tentei me tornar uma kunoichi,
+tentei tornar-me uma kunoichi,
 
 317
 00:21:36,570 --> 00:21:39,860
 mas o Irmão Luffy foi 
-indelicado e me disse...
+indelicado e disse-me...
 
 318
 00:21:41,240 --> 00:21:43,950
-Ace está morto.
+O Ace está morto.
 
 319
 00:21:45,030 --> 00:21:46,910
-Ele me disse do nada.
+Disse-mo do nada.
 
 320
 00:21:46,910 --> 00:21:49,330
-Isso me deixou muito triste.
+Isso deixou-me muito triste.
 
 321
 00:21:49,330 --> 00:21:52,120
-Ah, me desculpe por isso.
+Ah, desculpa lá isso.
 
 322
 00:21:52,120 --> 00:21:53,710
@@ -1405,7 +1405,7 @@ Ah, me desculpe por isso.
 
 323
 00:21:53,710 --> 00:21:58,000
-Mas sabe, Otama, foi muito difícil para o Luffy também.
+Mas sabes, Otama, foi muito difícil para o Luffy também.
 
 324
 00:21:58,000 --> 00:21:59,010
@@ -1418,11 +1418,11 @@ Hã?
 
 326
 00:22:01,840 --> 00:22:03,300
-Ele está estragando tudo!
+Está a estragar tudo!
 
 327
 00:22:08,010 --> 00:22:09,680
-Atenção, pessoal!
+Atenção, malta!
 
 328
 00:22:09,680 --> 00:22:11,690
@@ -1434,12 +1434,12 @@ Não o deixem correr livremente!
 
 330
 00:22:17,190 --> 00:22:20,320
-Qual é, ele nos salvou...
+Qual é, ele salvou-nos...
 
 331
 00:22:20,320 --> 00:22:24,110
 Mas se não fizermos o que a Sua Majestade
-quer, ele vai nos matar mesmo assim...
+quer, ele vai matar-nos na mesma...
 
 332
 00:22:25,030 --> 00:22:27,280
@@ -1456,7 +1456,7 @@ Eu não vou enfrentar o Kaidou diretamente agora.
 335
 00:22:39,590 --> 00:22:43,300
 Nico Robin! Esqueleto!
-Vocês têm lugares para ir!
+Vocês têm sítios aonde ir!
 
 336
 00:22:43,300 --> 00:22:45,090
@@ -1464,19 +1464,19 @@ Corram para o castelo!
 
 337
 00:22:45,550 --> 00:22:46,800
-Agora é nossa chance.
+Agora é a nossa oportunidade.
 
 338
 00:22:46,800 --> 00:22:48,640
-Se você insiste!
+Se insistes!
 
 339
 00:22:48,640 --> 00:22:51,020
-Vá para o inferno, Marco!
+Vai para o inferno, Marco!
 
 340
 00:22:58,440 --> 00:23:02,240
-Você está acabado, Marco, a Fênix!
+Estás acabado, Marco, a Fénix!
 
 341
 00:23:13,080 --> 00:23:14,460
@@ -1496,32 +1496,32 @@ Boa!
 
 345
 00:23:39,310 --> 00:23:44,280
-Você está bem relaxado para alguém
+Estás bem relaxado para alguém
 que vai encarar um Yonkou!
 
 346
 00:23:44,280 --> 00:23:47,160
-Por que eu deveria ter medo do Kaidou?
+Porque deveria eu ter medo do Kaidou?
 
 347
 00:23:47,160 --> 00:23:50,620
-Se meu capitão der a ordem, eu a sigo.
+Se o meu capitão der a ordem, sigo-a.
 
 348
 00:23:50,620 --> 00:23:54,250
-Olhe só para mim, torcendo pelo Chapéu de Palha... Não...
+Olha só para mim, a torcer pelo Chapéu de Palha... Não...
 
 349
 00:23:54,250 --> 00:23:57,290
-Torcendo para todos vocês da Pior Geração!
+A torcer por todos vocês da Pior Geração!
 
 350
 00:23:58,790 --> 00:24:04,090
-Queria saber o que ele faria se ouvisse que seu irmão arranjou briga com um Yonkou...
+Quem me dera saber o que ele faria se ouvisse que o irmão arranjou luta com um Yonkou...
 
 351
 00:24:04,710 --> 00:24:06,300
-Eu te imploro, Pai!
+Imploro-te, Pai!
 
 352
 00:24:06,720 --> 00:24:08,800
@@ -1533,16 +1533,16 @@ Ace, eu já te disse várias vezes...
 
 354
 00:24:14,890 --> 00:24:20,060
-quem era o comandante da 2ª Divisão antes de você...
+quem era o comandante da 2ª Divisão antes de ti...
 
 355
 00:24:20,060 --> 00:24:22,690
-e por que a posição ficou vaga por tanto tempo.
+e porque a posição ficou vaga tanto tempo.
 
 356
 00:24:22,690 --> 00:24:27,240
 Wano pratica uma política de isolamento,
-então as informações não saem.
+por isso as informações não saem.
 
 357
 00:24:28,030 --> 00:24:33,620
@@ -1551,12 +1551,12 @@ morreu vários anos depois do ocorrido.
 
 358
 00:24:35,290 --> 00:24:40,500
-Nós brincamos com a ideia de invadir
-Wano, mas para que propósito?
+Nós acalentámos a ideia de invadir
+Wano, mas com que propósito?
 
 359
 00:24:40,920 --> 00:24:43,460
-Consegue imaginar o preço que isso custaria?
+Consegues imaginar o preço que isso custaria?
 
 360
 00:24:44,170 --> 00:24:45,670
@@ -1564,7 +1564,7 @@ O preço?
 
 361
 00:24:46,050 --> 00:24:48,470
-Então, me deixe ir sozinho!
+Então deixa-me ir sozinho!
 
 362
 00:24:51,680 --> 00:24:53,430
@@ -1572,24 +1572,24 @@ Eu fiz uma promessa...
 
 363
 00:24:54,640 --> 00:24:58,440
-Kozuki Oden não conseguiu derrotar aquele cara...
+O Kozuki Oden não conseguiu derrotar aquele tipo...
 
 364
 00:25:02,770 --> 00:25:05,650
-Não tem como você derrotá-lo!
+Não há maneira de o derrotares!
 
 365
 00:25:05,650 --> 00:25:08,900
-Não se superestime, Ace!
+Não te sobrestimes, Ace!
 
 366
 00:25:20,670 --> 00:25:23,460
-Sabe, a força do Oden era de avassaladora!
+Sabes, a força do Oden era avassaladora!
 
 367
 00:25:24,130 --> 00:25:28,720
-Você realmente quer derrotar os
-peixes grandes, Comandante Ace!
+Queres mesmo derrotar os
+peixes graúdos, Comandante Ace!
 
 368
 00:25:28,720 --> 00:25:31,010
@@ -1597,25 +1597,25 @@ Cala a boca, Teach!
 
 369
 00:25:31,010 --> 00:25:34,510
-Ace não é motivado por derrotar "peixes grandes".
+O Ace não é motivado por derrotar "peixes graúdos".
 
 370
 00:25:36,350 --> 00:25:38,220
-Droga...
+Raios...
 
 371
 00:25:40,600 --> 00:25:45,020
-Preciso ficar mais forte
+Tenho de ficar mais forte
 para cumprir a promessa...
 
 372
 00:25:45,020 --> 00:25:49,610
-Isso é o que você escolheu carregar, é?
+É isso que escolheste carregar, é?
 
 373
 00:25:49,610 --> 00:25:54,660
 Ace, se o Pai um dia der o sinal verde,
-ão se esqueça de me convidar.
+não te esqueças de me convidar.
 
 374
 00:25:54,660 --> 00:25:56,700
@@ -1623,12 +1623,12 @@ Contem comigo também.
 
 375
 00:25:57,370 --> 00:26:00,250
-Nesse caso, podemos provavelmente
-chutar a bunda dele agora...
+Nesse caso, provavelmente já lhe
+podemos dar um pontapé no rabo agora...
 
 376
 00:26:02,040 --> 00:26:05,170
-Como você ainda consegue
+Como consegues ainda
 ser tão otimista...?
 
 377
@@ -1637,19 +1637,19 @@ Marco!
 
 378
 00:26:20,770 --> 00:26:23,390
-Não pense que vamos te deixar passar!
+Não penses que te vamos deixar passar!
 
 379
 00:26:23,390 --> 00:26:23,770
-Celebridade Queen
+Grande Astro Queen
 Akuma no Mi Saur-Saur, Modelo Braquiossauro
-Não pense que vamos te deixar passar!
+Não penses que te vamos deixar passar!
 
 380
 00:26:23,770 --> 00:26:29,070
 Além disso, todos os samurais lá em 
 cima já devem ter morrido!
-Celebridade Queen
+Grande Astro Queen
 Akuma no Mi Saur-Saur, Modelo Braquiossauro
 
 381
@@ -1659,19 +1659,19 @@ de Kozuki Oden, o que encerrará a batalha!
 
 382
 00:26:34,280 --> 00:26:34,820
-Celebridade King
+Grande Astro King
 Akuma no Mi Saur-Saur, Modelo Pteranodonte
 
 383
 00:26:34,820 --> 00:26:39,700
 E Wano renascerá como
 o império pirata de Nova Onigashima!
-Celebridade King
+Grande Astro King
 Akuma no Mi Saur-Saur, Modelo Pteranodonte
 
 384
 00:26:39,700 --> 00:26:43,580
-Se é isso que você acredita, então você realmente não bate bem...
+Se é nisso que acreditas, então não bates mesmo bem...
 
 385
 00:26:43,580 --> 00:26:45,920
@@ -1679,11 +1679,11 @@ Cala a boca, passarinho!
 
 386
 00:26:52,590 --> 00:26:54,800
-Droga! Ele é invencível?!
+Raios! Ele é invencível?!
 
 387
 00:26:54,800 --> 00:26:56,720
-Que tipo de poder é esse?
+Que tipo de poder é este?
 
 388
 00:26:58,560 --> 00:27:02,600
@@ -1699,7 +1699,7 @@ O quê-
 
 391
 00:27:21,120 --> 00:27:24,330
-Calma, calma... Deixa ele passar!
+Calma, calma... Deixa-o passar!
 
 392
 00:27:24,330 --> 00:27:25,960
@@ -1707,7 +1707,7 @@ E lá vai!
 
 393
 00:27:28,290 --> 00:27:30,250
-Você me jogou do nada?!
+Atiraste-me do nada?!
 
 394
 00:27:42,180 --> 00:27:44,480
@@ -1737,19 +1737,19 @@ ele disse tão casualmente...
 
 400
 00:27:58,240 --> 00:28:00,070
-Ace está morto.
+O Ace está morto.
 
 401
 00:28:00,950 --> 00:28:04,450
-Eu disse coisas ruins para o Irmão...
+Eu disse coisas más ao Irmão...
 
 402
 00:28:04,450 --> 00:28:08,120
-Se tivesse o incomodado, ele teria sido rude com você.
+Se o tivesses incomodado, ele teria sido rude contigo.
 
 403
 00:28:08,120 --> 00:28:09,630
-Não se preocupe!
+Não te preocupes!
 
 404
 00:28:09,630 --> 00:28:10,500
@@ -1757,15 +1757,15 @@ Mas...
 
 405
 00:28:10,920 --> 00:28:15,010
-Irmão... me desculpe!
+Irmão... desculpa!
 
 406
 00:28:15,010 --> 00:28:17,550
-Como eu disse, não se preocupe.
+Como eu disse, não te preocupes.
 
 407
 00:28:17,550 --> 00:28:23,350
-De qualquer forma, vamos dar uma chance à sua "Estratégia Otama"!
+De qualquer forma, vamos dar uma hipótese à tua "Estratégia Otama"!
 
 408
 00:28:25,810 --> 00:28:27,810
@@ -1783,12 +1783,12 @@ O quê?!
 
 410
 00:28:29,940 --> 00:28:32,570
-A pessoa de quem você 
-fala era filho do Roger,
+A pessoa de quem 
+falas era filho do Roger,
 
 411
 00:28:32,570 --> 00:28:34,570
-e o irmão mais velho de Luffy?!
+e o irmão mais velho do Luffy?!
 
 412
 00:28:34,980 --> 00:28:36,820
@@ -1800,7 +1800,7 @@ Hm-hm.
 
 414
 00:28:38,240 --> 00:28:42,740
-Vocês trouxeram Luffy para Wano, não foi?
+Vocês trouxeram o Luffy para Wano, não foi?
 
 415
 00:28:42,740 --> 00:28:43,910
@@ -1808,11 +1808,11 @@ Isso mesmo...
 
 416
 00:28:44,450 --> 00:28:48,960
-Há tantos piratas quanto estrelas no céu, mas foram eles que vocês conheceram...
+Há tantos piratas como estrelas no céu, mas foram eles que vocês conheceram...
 
 417
 00:28:48,960 --> 00:28:51,670
-e vocês os trouxeram para este país...
+e trouxeram-nos para este país...
 
 418
 00:28:51,670 --> 00:28:54,250
@@ -1824,7 +1824,7 @@ Porque...
 
 420
 00:28:58,050 --> 00:29:02,300
-O nome de Luffy leva o nome dos D!
+O nome do Luffy leva o nome dos D!
 
 421
 00:29:17,820 --> 00:29:19,570
@@ -1832,7 +1832,7 @@ Que delícia!
 
 422
 00:29:23,660 --> 00:29:25,620
-Fogo é realmente delicioso!
+O fogo é mesmo delicioso!
 
 423
 00:29:32,250 --> 00:29:34,420
@@ -1848,7 +1848,7 @@ Estou totalmente recarregado!
 
 426
 00:29:45,010 --> 00:29:47,060
-Já terminaram de comer?
+Já acabaram de comer?
 
 427
 00:29:47,060 --> 00:29:48,560
@@ -1860,11 +1860,11 @@ Estou pronto para ir!
 
 429
 00:29:52,190 --> 00:29:54,480
-Tudo bem, vamos nessa!
+Muito bem, vamos a isto!
 
 430
 00:30:05,950 --> 00:30:09,160
-Chapéu de Palha ainda não chegou?
+O Chapéu de Palha ainda não chegou?
 
 431
 00:30:09,160 --> 00:30:11,080
@@ -1872,13 +1872,13 @@ Ei, Kaidou!
 
 432
 00:30:11,080 --> 00:30:15,920
-Você pode matar quantos quiser,
-contanto que deixe Nico Robin viva.
+Podes matar quantos quiseres,
+desde que deixes a Nico Robin viva.
 
 433
 00:30:16,790 --> 00:30:21,260
-Não tem nenhum membro dos três-olhos
-que possa ler a escrita antiga?
+Não há nenhum membro dos três-olhos
+que consiga ler a escrita antiga?
 
 434
 00:30:21,260 --> 00:30:22,800
@@ -1886,7 +1886,7 @@ A Pudding?
 
 435
 00:30:22,800 --> 00:30:24,260
-Não sei se ela pode.
+Não sei se ela consegue.
 
 436
 00:30:24,260 --> 00:30:27,260
@@ -1894,7 +1894,7 @@ Não posso esperar mais pelo verdadeiro despertar dela.
 
 437
 00:30:27,260 --> 00:30:30,980
-Ah, tá...
+Ah, está bem...
 
 438
 00:30:31,020 --> 00:30:34,190
@@ -1905,11 +1905,11 @@ Dentro do Castelo
 439
 00:30:34,190 --> 00:30:39,230
 É tudo o que podemos fazer,
-então, por favor, sigam em frente!
+por isso, por favor, sigam em frente!
 
 440
 00:30:39,230 --> 00:30:41,740
-Essas são as escadas para o Domo da Caveira!
+Estas são as escadas para o Domo da Caveira!
 
 441
 00:30:42,150 --> 00:30:44,200
@@ -1921,11 +1921,11 @@ Obrigado, Shishimamushi!
 
 443
 00:30:45,870 --> 00:30:47,990
-É, nunca vou me esquecer...
+Pois, nunca me vou esquecer...
 
 444
 00:30:47,990 --> 00:30:52,000
-Do jeito que vocês defenderam Raizo com suas vida!
+Da forma como defenderam o Raizo com a vossa vida!
 
 445
 00:30:52,410 --> 00:30:53,540
@@ -1933,11 +1933,11 @@ Obrigado!
 
 446
 00:30:54,290 --> 00:30:55,290
-Até mais!
+Até logo!
 
 447
 00:31:00,880 --> 00:31:04,010
-Onde você está planejando soltar essa ilha?
+Onde estás a planear largar esta ilha?
 
 448
 00:31:04,010 --> 00:31:08,140
@@ -1946,7 +1946,7 @@ que simboliza os Kozuki.
 
 449
 00:31:11,020 --> 00:31:13,520
-Ouvi dizer que eles estão tendo um festival.
+Ouvi dizer que estão a ter um festival.
 
 450
 00:31:13,520 --> 00:31:15,480
@@ -1970,20 +1970,20 @@ E o road poneglyph?
 
 455
 00:31:31,410 --> 00:31:32,660
-Ele está lá?
+Está lá?
 
 456
 00:31:33,790 --> 00:31:36,710
-Sua verdadeira natureza 
-já está aparecendo!
+A tua verdadeira natureza 
+já está a aparecer!
 
 457
 00:31:36,710 --> 00:31:38,630
-Não me subestime!
+Não me subestimes!
 
 458
 00:31:38,630 --> 00:31:42,960
-Você é como um irmãozinho para mim!
+És como um irmãozinho para mim!
 
 459
 00:31:44,380 --> 00:31:47,890
@@ -1991,11 +1991,11 @@ Naquele dia em que o Rocks foi derrotado em God Valley,
 
 460
 00:31:47,890 --> 00:31:53,810
-Eu te dei a Uo Uo no Mi, modelo Carpa.
+Eu dei-te a Uo Uo no Mi, modelo Carpa.
 
 461
 00:31:53,810 --> 00:31:57,270
-Você tem uma dívida de vida comigo, Kaidou!
+Tens uma dívida de vida comigo, Kaidou!
 
 462
 00:31:57,770 --> 00:31:59,650
@@ -2003,8 +2003,8 @@ Tanto faz!
 
 463
 00:32:05,150 --> 00:32:08,240
-Vamos pegar, e depois conversamos!
+Vamos buscá-lo, e depois conversamos!
 
 464
 00:32:08,240 --> 00:32:10,910
-Vamos pegar o One Piece!
+Vamos buscar o One Piece!
