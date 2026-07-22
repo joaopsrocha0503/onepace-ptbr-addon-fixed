@@ -272,7 +272,7 @@ O local onde a Grande Guerra foi travada
 57
 00:03:18,780 --> 00:03:22,030
 As duas bases da Marinha ladeiam
-ambos os lados do Red Line...
+ambos os lados da Red Line...
 TERRA SAGRADA
 DE MARY GEOISE
 ANTIGA MARINEFORD
@@ -309,13 +309,13 @@ RED PORT
 62
 00:03:35,750 --> 00:03:38,200
 Há dois grandes portos como
-este de cada lado do Red Line.
+este de cada lado da Red Line.
 RED PORT
 
 63
 00:03:38,200 --> 00:03:40,660
 Há dois grandes portos como
-este de cada lado do Red Line.
+este de cada lado da Red Line.
 
 64
 00:03:40,660 --> 00:03:45,470
@@ -1217,7 +1217,7 @@ Rei Sterry.
 
 273
 00:16:17,330 --> 00:16:22,160
-Dentro de momentos, a bóndola vai atracar nos arredores do topo do Red Line.
+Dentro de momentos, a bóndola vai atracar nos arredores do topo da Red Line.
 
 274
 00:16:24,300 --> 00:16:26,290

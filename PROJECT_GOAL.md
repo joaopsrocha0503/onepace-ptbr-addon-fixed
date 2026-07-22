@@ -462,9 +462,37 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 - Gralhas do original corrigidas em silêncio quando inequívocas: `Kaidouu`, `cortouo`,
   `á deriva`, `sauce salgado`, `brilo`, `PIRATAS FESTAS`, `muto`, `Kouzki`.
 
+## ⚠️ Género dos termos em inglês — NÃO assumir masculino
+
+**Decisão do utilizador (2026-07-22):** perante um termo inglês, **não assumir logo o
+masculino nem copiar o artigo do PT-BR de origem**. Parar, pensar qual é o substantivo
+português subjacente, e **pesquisar na internet** o uso estabelecido quando houver dúvida.
+
+O que deu origem à regra: eu tinha fixado "o Red Line" e "o Grand Line" só porque era
+assim que o original PT-BR estava. Está errado — a pesquisa confirma que o uso
+estabelecido em português é **feminino** para ambos (`linha`/`rota` são femininos), e o
+guia da Omelete até usa o pronome: *"Para atravessá-**la**"*, a falar da Red Line, apesar
+de a Red Line ser um **continente**. Corrigido a 2026-07-22 em WC_1, WC_8, WC_10, REV_2 e REV_3.
+
+**Método:** identificar o substantivo português subjacente (`Line`→`linha`, f.;
+`Blue`→`mar`, m.; `Suit`→`fato`, m.), e confirmar com uma pesquisa se o uso da comunidade
+não seguir a lógica. A lógica sozinha não chega — a Red Line é um continente (masculino)
+mas trata-se por feminino.
+
+| Termo | Género | Porquê |
+|---|---|---|
+| `a Red Line`, `a Grand Line` | **feminino** | `linha`/`rota`; uso estabelecido, confirmado por pesquisa |
+| `o East/North/South/All Blue` | masculino | `mar` |
+| `a Vivre Card` | **feminino** | forma dominante no corpus (WC_7, WC_10–WC_27) |
+| `o Sunny` | masculino | `navio` |
+| `o Log Pose`, `o Raid Suit`, `o Clima Tact`, `o Haki` | masculino | `dispositivo`, `fato`, `bastão`, termo japonês |
+| `a Shusui`, `a Kitetsu` | feminino | `espada` |
+| `um Headliner` / `uma Headliner` | **varia com a pessoa** | nome de agente: Holdem é `um`, Speed é `uma` |
+
 ## Convenções fixadas no arco Reverie
 
-- **`o Reverie`** (masculino), **`o Red Line`**, **`o Grand Line`** — como no original.
+- **`o Reverie`** (masculino — é uma *conferência/conselho*, mas o uso corrente trata-o
+  como masculino; mantido).
 - Solfejo dos príncipes Ryugu aportuguesado: `-fa-so-la-si-do` → **`-fá-sol-lá-si-dó`**,
   `-fa-mi-re-do` → **`-fá-mi-ré-dó`**.
 

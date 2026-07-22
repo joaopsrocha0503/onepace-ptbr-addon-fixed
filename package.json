@@ -1,6 +1,6 @@
 {
   "name": "onepace-ptbr-subs-addon",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "Addon do Stremio que fornece legendas em PT-BR para o One Pace",
   "type": "module",
   "main": "index.js",
