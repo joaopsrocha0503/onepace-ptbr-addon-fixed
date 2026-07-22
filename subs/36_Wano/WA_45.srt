@@ -1,39 +1,39 @@
 1
 00:00:00,000 --> 00:00:02,190
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:02,190 --> 00:00:05,110
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Ei! Você tá todo sujo de oshiruko!
+Ei! Estás todo sujo de oshiruko!
 
 3
 00:00:05,110 --> 00:00:06,950
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Isso não é pra comer!
+Isso não é para comer!
 
 4
 00:00:06,950 --> 00:00:08,740
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-É melhor se lambuzar mesmo!
+É melhor lambuzares-te mesmo!
 
 5
 00:00:08,740 --> 00:00:09,990
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 6
@@ -54,11 +54,11 @@ O quê?!
 
 10
 00:00:25,090 --> 00:00:28,050
-Qual é o problema de vocês, idiotas?!
+Qual é o vosso problema, idiotas?!
 
 11
 00:00:28,470 --> 00:00:31,430
-Por que vocês têm toda essa comida?!
+Porque é que têm toda essa comida?!
 
 12
 00:00:59,000 --> 00:01:01,120
@@ -67,7 +67,7 @@ fedew
 
 13
 00:01:01,210 --> 00:01:03,380
-Karaokê
+Karaoke
 KaitouYahiko
 
 14
@@ -77,7 +77,7 @@ Gab
 
 15
 00:01:08,630 --> 00:01:13,140
-Trilha Sonora
+Banda Sonora
 Halee
 
 16
@@ -105,7 +105,7 @@ Villager
 
 20
 00:01:21,100 --> 00:01:22,350
-Controle de Qualidade
+Controlo de Qualidade
 Camotoy
 Gab
 Galaxy 9000
@@ -113,33 +113,33 @@ Gol D. Rocks
 
 21
 00:01:22,480 --> 00:01:24,060
-Controle de Qualidade
+Controlo de Qualidade
 Pepperjack
 Scolines
 Zenef
 
 22
 00:02:05,770 --> 00:02:07,940
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Música de Batalha
 
 23
 00:02:07,940 --> 00:02:15,720
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Por favor, use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 24
 00:02:16,990 --> 00:02:18,950
-O que ele tá fazendo?!
+O que está ele a fazer?!
 
 25
 00:02:18,950 --> 00:02:21,750
-Sopa de Oshiruko é tão boa assim?!
+A sopa de oshiruko é assim tão boa?!
 
 26
 00:02:27,710 --> 00:02:30,460
@@ -151,11 +151,11 @@ Nada se compara.
 
 28
 00:02:41,520 --> 00:02:42,520
-Então por que...
+Então porque...
 
 29
 00:02:42,520 --> 00:02:46,480
-vocês desperdiçam enquanto 
+a desperdiçam enquanto 
 a Tama passa fome?!
 
 30
@@ -176,11 +176,11 @@ Capitão, olha!
 
 34
 00:03:44,580 --> 00:03:47,250
-O que aquele idiota tá pensando?!
+O que está aquele idiota a pensar?!
 
 35
 00:03:47,250 --> 00:03:52,880
-A gente se disfarçou pra passar
+Disfarçámo-nos para passar
 discretamente pelo salão...
 
 36
@@ -193,12 +193,12 @@ Kid?
 
 38
 00:03:55,920 --> 00:03:57,380
-Deixa ele!
+Deixa-o!
 
 39
 00:03:57,380 --> 00:04:02,850
-Enquanto focam naquele idiota,
-a gente passa despercebido.
+Enquanto se concentram naquele idiota,
+passamos despercebidos.
 
 40
 00:04:12,730 --> 00:04:14,150
@@ -206,28 +206,28 @@ O quê?!
 
 41
 00:04:44,010 --> 00:04:45,730
-Aff...
+Bolas...
 
 42
 00:04:46,770 --> 00:04:48,940
-Você tinha que armar confusão!
+Tinhas de armar confusão!
 
 43
 00:04:50,980 --> 00:04:54,320
-Fui direto pra zona do caos...
+Fui direto para a zona do caos...
 
 44
 00:04:55,730 --> 00:04:58,240
-e você já destruiu tudo!
+e tu já destruíste tudo!
 
 45
 00:04:58,670 --> 00:05:03,160
-Por que você não consegue 
-se infiltrar em silêncio?!
+Porque não consegues 
+infiltrar-te em silêncio?!
 
 46
 00:05:03,160 --> 00:05:04,700
-Sério?
+A sério?
 
 47
 00:05:04,700 --> 00:05:07,500
@@ -235,11 +235,11 @@ Olha quem fala.
 
 48
 00:05:11,290 --> 00:05:13,670
-Esses babacas mereciam!
+Estes idiotas mereciam!
 
 49
 00:05:15,880 --> 00:05:19,050
-Eles estavam jogando oshiruko de propósito!
+Estavam a atirar oshiruko de propósito!
 
 50
 00:05:19,800 --> 00:05:21,180
@@ -251,7 +251,7 @@ Essa sopa é tão boa!
 
 52
 00:05:26,930 --> 00:05:30,180
-Nesse caso, vou picotar todos!
+Nesse caso, corto-os todos aos bocados!
 
 53
 00:05:36,770 --> 00:05:38,900
@@ -263,19 +263,19 @@ Oshiruko?
 
 55
 00:05:43,870 --> 00:05:45,660
-Isso os irritou?
+Isso irritou-os?
 
 56
 00:05:46,410 --> 00:05:48,120
-Esses caras são sem salvação.
+Estes tipos não têm salvação.
 
 57
 00:05:48,120 --> 00:05:49,700
-Não dá pra trabalhar com eles.
+Não se pode trabalhar com eles.
 
 58
 00:05:50,870 --> 00:05:53,670
-Nós realmente arrumamos confusão.
+Armámos mesmo confusão.
 
 59
 00:05:55,000 --> 00:05:58,880
@@ -289,7 +289,7 @@ descobriram quem somos.
 
 61
 00:06:03,260 --> 00:06:05,260
-Então... Feliz agora?
+Então... Já estás feliz?
 
 62
 00:06:05,800 --> 00:06:06,640
@@ -301,19 +301,19 @@ Então...
 
 64
 00:06:08,510 --> 00:06:09,810
-Vamos vazar!
+Vamos pirar-nos!
 
 65
 00:06:09,810 --> 00:06:10,730
-Beleza!
+Boa!
 
 66
 00:06:10,730 --> 00:06:12,520
-Eles tão fugindo!
+Estão a fugir!
 
 67
 00:06:15,150 --> 00:06:16,900
-Peguem eles!
+Apanhem-nos!
 
 68
 00:06:17,360 --> 00:06:18,980
@@ -321,11 +321,11 @@ Ei, qual é...
 
 69
 00:06:18,980 --> 00:06:21,190
-Que bagunça é essa?
+Que confusão é esta?
 
 70
 00:06:25,410 --> 00:06:26,780
-Não me diga que...
+Não me digas que...
 
 71
 00:06:26,780 --> 00:06:28,200
@@ -342,11 +342,11 @@ notícia bombástica!
 
 74
 00:06:43,010 --> 00:06:44,220
-Então presta atenção!
+Por isso presta atenção!
 
 75
 00:06:44,220 --> 00:06:45,750
-Beleza, Apoo!
+Boa, Apoo!
 
 76
 00:06:45,750 --> 00:06:46,890
@@ -354,15 +354,15 @@ Apoo! Apoo!
 
 77
 00:06:46,890 --> 00:06:49,100
-Não enrola! Compartilha a novidade!
+Não enroles! Partilha a novidade!
 
 78
 00:06:49,100 --> 00:06:52,060
-Irmão Apoo! Solta um ritmo maneiro!
+Irmão Apoo! Solta um ritmo fixe!
 
 79
 00:06:53,730 --> 00:06:55,440
-Essa voz...
+Aquela voz...
 
 80
 00:06:57,020 --> 00:06:58,360
@@ -370,7 +370,7 @@ Olha só!
 
 81
 00:06:58,360 --> 00:07:02,860
-Udon é seu território!
+Udon é o teu território!
 Tentar fugir? Esquece!
 
 82
@@ -379,20 +379,20 @@ Quem entra lá não escapa!
 
 83
 00:07:09,830 --> 00:07:12,160
-Mas olha esses dois!
-O que tá rolando?!
+Mas olha estes dois!
+O que se está a passar?!
 
 84
 00:07:16,290 --> 00:07:17,460
-Vamos brigar?
+Vamos à luta?
 
 85
 00:07:19,960 --> 00:07:22,670
-Essa dupla causando confusão
+Esta dupla a causar confusão
 
 86
 00:07:22,670 --> 00:07:25,300
-me parece familiar!
+parece-me familiar!
 
 87
 00:07:32,520 --> 00:07:33,720
@@ -400,7 +400,7 @@ Impossível!
 
 88
 00:07:49,200 --> 00:07:51,580
-É possível! Cê tá ligado!
+É possível! Estás a ver!
 
 89
 00:07:56,000 --> 00:08:00,710
@@ -413,11 +413,11 @@ Então ele fugiu da prisão...
 
 91
 00:08:06,170 --> 00:08:10,260
-Aqui é Babanuki, diretor de Udon.
+Fala o Babanuki, diretor de Udon.
 
 92
 00:08:10,590 --> 00:08:12,970
-Tudo sob controle.
+Tudo sob controlo.
 
 93
 00:08:18,480 --> 00:08:21,310
@@ -425,7 +425,7 @@ Hoje é o Festival Dourado!
 
 94
 00:08:21,690 --> 00:08:25,280
-Capturem eles de presente pra mim!
+Capturem-nos como presente para mim!
 
 95
 00:08:26,780 --> 00:08:28,820
@@ -437,7 +437,7 @@ E qual é a recompensa?
 
 97
 00:08:31,660 --> 00:08:36,290
-Por acaso tem alguém dos 
+Por acaso há alguém dos 
 Tobiroppos que quero eliminar...
 
 98
@@ -447,15 +447,15 @@ dos Tobiroppos!
 99
 00:09:08,860 --> 00:09:14,280
 Quem capturar esses 
-ratos ganha a vaga!
+ratos fica com a vaga!
 
 100
 00:09:20,710 --> 00:09:22,250
-Tobiroppo, hein?
+Tobiroppo, hã?
 
 101
 00:09:22,250 --> 00:09:25,290
-Isso sim é um prêmio!
+Isso sim é um prémio!
 
 102
 00:09:27,840 --> 00:09:29,760
@@ -476,23 +476,23 @@ Vamos abrir caminho e entrar!
 
 106
 00:09:43,440 --> 00:09:44,310
-Beleza!
+Boa!
 
 107
 00:09:59,330 --> 00:10:02,040
-Esses caras são um pé no saco!
+Estes tipos são muito chatos!
 
 108
 00:10:02,040 --> 00:10:03,210
-Qual o problema deles?
+Qual é o problema deles?
 
 109
 00:10:03,540 --> 00:10:07,040
-Eles devem ter comido frutas SMILE!
+Devem ter comido frutas SMILE!
 
 110
 00:10:24,400 --> 00:10:27,400
-Ouça minha música de batalha!
+Ouve a minha música de batalha!
 
 111
 00:10:27,400 --> 00:10:28,230
@@ -508,11 +508,11 @@ Luffy!
 
 114
 00:10:39,200 --> 00:10:40,950
-O quê?! Algo me acertou?!
+O quê?! Acertou-me alguma coisa?!
 
 115
 00:10:46,170 --> 00:10:49,420
-Aquele cara era aliado 
+Aquele tipo era aliado 
 do Desgrenhado...
 
 116
@@ -537,7 +537,7 @@ Nem vi o ataque...!
 
 121
 00:11:05,600 --> 00:11:07,610
-Que tipo de habilidade ele tem?
+Que tipo de poder é que ele tem?
 
 122
 00:11:12,280 --> 00:11:13,190
@@ -561,7 +561,7 @@ Foi fácil demais!
 
 127
 00:11:32,760 --> 00:11:35,050
-Sem chance! Temos que cair fora!
+Nem pensar! Temos de sair daqui!
 
 128
 00:11:35,050 --> 00:11:36,760
@@ -569,12 +569,12 @@ Ei, vocês!
 
 129
 00:11:36,760 --> 00:11:40,510
-Não deixem eles fugirem!
+Não os deixem fugir!
 
 130
 00:11:40,510 --> 00:11:45,480
 Se querem entrar para os 
-Tobiroppos, têm que merecer!
+Tobiroppos, têm de o merecer!
 
 131
 00:11:46,890 --> 00:11:49,400
@@ -592,7 +592,7 @@ só questão de números.
 
 134
 00:11:59,990 --> 00:12:02,080
-Eles são fortes mesmo!
+São mesmo fortes!
 
 135
 00:12:02,080 --> 00:12:04,500
@@ -600,20 +600,20 @@ A vaga nos Tobiroppos é minha!
 
 136
 00:12:10,080 --> 00:12:11,170
-Foi mal.
+Desculpa.
 
 137
 00:12:11,170 --> 00:12:12,800
-Tô de boa agora.
+Já estou bem.
 
 138
 00:12:13,340 --> 00:12:14,920
-Claro que tá.
+Claro que estás.
 
 139
 00:12:14,920 --> 00:12:17,840
-Esses disfarces não 
-servem mais pra nada.
+Estes disfarces já não 
+servem para nada.
 
 140
 00:12:17,840 --> 00:12:19,130
@@ -621,16 +621,16 @@ Verdade.
 
 141
 00:12:19,130 --> 00:12:21,100
-Atrapalha na luta também.
+Também atrapalham na luta.
 
 142
 00:12:21,100 --> 00:12:22,970
-Beleza!
+Boa!
 
 143
 00:12:25,100 --> 00:12:28,190
 Chega de disfarces! Vamos 
-passar por aqui rápido!
+passar por aqui depressa!
 
 144
 00:12:28,730 --> 00:12:30,400
@@ -638,11 +638,11 @@ Isso!
 
 145
 00:12:30,850 --> 00:12:32,310
-Não adianta.
+Não vale a pena.
 
 146
 00:12:32,310 --> 00:12:35,610
-Vocês estão no meu alcance.
+Estão ao meu alcance.
 
 147
 00:12:35,610 --> 00:12:36,860
@@ -658,15 +658,15 @@ Arranhão!
 
 150
 00:12:45,290 --> 00:12:46,580
-Não faz isso, Kid!
+Não faças isso, Kid!
 
 151
 00:12:46,580 --> 00:12:48,580
-Você vai se queimar também!
+Também te vais queimar!
 
 152
 00:13:00,680 --> 00:13:03,180
-Tô nem aí!
+Estou-me nas tintas!
 
 153
 00:13:08,930 --> 00:13:12,900
@@ -674,11 +674,11 @@ Aquele traidor desgraçado...!
 
 154
 00:13:14,650 --> 00:13:18,360
-Tudo é culpa dele!
+A culpa é toda dele!
 
 155
 00:13:23,320 --> 00:13:25,910
-Vai pro inferno, Apoo!
+Vai para o inferno, Apoo!
 
 156
 00:13:25,910 --> 00:13:27,370
@@ -706,7 +706,7 @@ Apoo!
 
 162
 00:14:00,570 --> 00:14:02,950
-Ei, esse cara é um impostor!
+Ei, este tipo é um impostor!
 
 163
 00:14:16,630 --> 00:14:19,510
@@ -714,7 +714,7 @@ O quê?!
 
 164
 00:14:19,840 --> 00:14:21,300
-Não me diga que...!
+Não me digas que...!
 
 165
 00:14:21,300 --> 00:14:22,420
@@ -726,7 +726,7 @@ Não me diga que...!
 
 167
 00:14:34,850 --> 00:14:37,770
-Que diabos o Kid tá fazendo aqui?
+Que raio está o Kid a fazer aqui?
 
 168
 00:14:37,770 --> 00:14:40,690
@@ -735,25 +735,25 @@ em Udon também!
 
 169
 00:14:40,690 --> 00:14:45,360
-Melhor ter uma boa
-explicação pra isso, Babanuki!
+É bom que tenhas uma boa
+explicação para isto, Babanuki!
 
 170
 00:14:56,960 --> 00:15:01,170
-Você tava tão animado 
-pra formar uma aliança...
+Estavas tão animado 
+para formar uma aliança...
 
 171
 00:15:03,050 --> 00:15:04,630
-Naquela época...
+Naquela altura...
 
 172
 00:15:04,760 --> 00:15:07,390
-Eu devia ter sacado!
+Eu devia ter percebido!
 
 173
 00:15:10,510 --> 00:15:14,270
-Você já era um informante do Kaidou!
+Já eras um informador do Kaidou!
 
 174
 00:15:14,270 --> 00:15:18,060
@@ -762,12 +762,12 @@ os nossos movimentos...
 
 175
 00:15:18,690 --> 00:15:22,150
-porque você tava r
-eportando pra ele, né?!
+porque tu andavas a
+informá-lo, não era?!
 
 176
 00:15:25,820 --> 00:15:28,120
-Você é muito ingênuo!
+És muito ingénuo!
 
 177
 00:15:28,120 --> 00:15:29,160
@@ -775,8 +775,8 @@ O quê?!
 
 178
 00:15:29,160 --> 00:15:35,080
-Achou que nossa aliança era forte
-o suficiente pra derrubar um Yonkou?!
+Achaste que a nossa aliança era forte
+o suficiente para derrubar um Yonkou?!
 
 179
 00:15:35,080 --> 00:15:36,920
@@ -784,7 +784,7 @@ Acorda!
 
 180
 00:15:39,590 --> 00:15:42,170
-Afinal, quando foi que você ouviu...
+Afinal, quando é que ouviste...
 
 181
 00:15:42,170 --> 00:15:45,470
@@ -801,11 +801,11 @@ Corte!
 
 184
 00:16:02,230 --> 00:16:05,030
-Achei que você tivesse morrido...
+Pensei que tivesses morrido...
 
 185
 00:16:05,360 --> 00:16:07,780
-E aí, Kid?
+Então, Kid?
 
 186
 00:16:09,530 --> 00:16:10,780
@@ -817,16 +817,16 @@ Queen!
 
 188
 00:16:11,990 --> 00:16:14,700
-Eles estão descontrolados!
+Estão descontrolados!
 
 189
 00:16:16,000 --> 00:16:19,460
 Como vamos 
-capturá-los desse jeito?!
+capturá-los assim?!
 
 190
 00:16:21,080 --> 00:16:22,710
-Quem disse que não pode matar?
+Quem disse que não se pode matar?
 
 191
 00:16:30,890 --> 00:16:32,390
@@ -838,7 +838,7 @@ Quem quer morrer, pode vir!
 
 193
 00:16:41,060 --> 00:16:43,320
-Eu mesmo acabo com vocês!
+Eu próprio acabo convosco!
 
 194
 00:16:47,070 --> 00:16:48,200
@@ -851,15 +851,15 @@ estaria aqui também!
 
 196
 00:17:05,170 --> 00:17:07,840
-Kid! Vamos cair fora daqui!
+Kid! Vamos sair daqui!
 
 197
 00:17:09,590 --> 00:17:12,300
-Não ganhamos nada brigando aqui!
+Não ganhamos nada a lutar aqui!
 
 198
 00:17:13,010 --> 00:17:14,930
-É, você tem razão...
+Pois, tens razão...
 
 199
 00:17:21,770 --> 00:17:23,440
@@ -867,7 +867,7 @@ Ei, parem!
 
 200
 00:17:23,440 --> 00:17:26,530
-Mesmo se matá-los, não 
+Mesmo que os matem, não 
 vão entrar para os Tobiroppo!
 
 201
@@ -876,7 +876,7 @@ Ei, ei, para!
 
 202
 00:17:42,870 --> 00:17:44,040
-Vão nos acertar também!
+Também nos vão acertar!
 
 203
 00:17:53,390 --> 00:17:54,970
@@ -888,16 +888,16 @@ Alguém o detenha!
 
 205
 00:18:00,230 --> 00:18:02,690
-Acho que é minha vez...
+Acho que é a minha vez...
 
 206
 00:18:02,690 --> 00:18:04,480
-Hora de dar no pé!
+Hora de me pôr a andar!
 
 207
 00:18:05,110 --> 00:18:08,480
-Eles não conseguem controlar
-esse cara! Mas quem é ele?!
+Não conseguem controlar
+este tipo! Mas quem é ele?!
 
 208
 00:18:09,070 --> 00:18:12,400
@@ -910,7 +910,7 @@ Um dos Numbers
 
 210
 00:18:30,170 --> 00:18:31,840
-Isso aí, Haccha!
+Isso mesmo, Haccha!
 
 211
 00:18:42,350 --> 00:18:45,730
@@ -919,15 +919,15 @@ Parece que vou levar a cabeça do Kid!
 212
 00:18:58,410 --> 00:19:00,740
 Desgrenhado! 
-Vamos correr pro castelo!
+Vamos a correr para o castelo!
 
 213
 00:19:11,130 --> 00:19:12,380
-Cara...
+Bolas...
 
 214
 00:19:12,800 --> 00:19:16,300
-Sabia que você arrumaria 
+Sabia que ias arranjar 
 confusão, Desgrenhado!
 
 215
@@ -936,7 +936,7 @@ Olha quem fala, Luffy!
 
 216
 00:19:19,930 --> 00:19:21,640
-Você também não ajuda, Roronoa!
+Tu também não ajudas, Roronoa!
 
 217
 00:19:22,850 --> 00:19:24,520
@@ -944,11 +944,11 @@ São todos uns casos perdidos.
 
 218
 00:19:26,270 --> 00:19:28,310
-Eba!
+Boa!
 
 219
 00:19:28,310 --> 00:19:33,610
-Quando começo minha música
+Quando começo a minha música
 de batalha, ninguém escapa!
 
 220
@@ -961,7 +961,7 @@ Bis! Olha só!
 
 222
 00:19:38,160 --> 00:19:40,740
-Ei! Tampe os ouvidos!
+Ei! Tapem os ouvidos!
 
 223
 00:19:40,740 --> 00:19:41,910
@@ -977,7 +977,7 @@ BOOM
 
 226
 00:20:08,730 --> 00:20:10,020
-Ouçam, galera!
+Ouçam, malta!
 
 227
 00:20:11,020 --> 00:20:12,770
@@ -985,8 +985,8 @@ O Apoo ataca usando o próprio som!
 
 228
 00:20:12,770 --> 00:20:16,740
-Se você ouvir o ataque,
-já é tarde pra esquivar!
+Se ouvires o ataque,
+já é tarde para o evitar!
 
 229
 00:20:17,200 --> 00:20:18,700
@@ -1003,16 +1003,16 @@ Como é importante, vou repetir!
 
 232
 00:20:25,790 --> 00:20:26,620
-Beleza!
+Boa!
 
 233
 00:20:31,290 --> 00:20:33,750
-Eles finalmente me contataram!
+Finalmente contactaram-me!
 
 234
 00:20:33,750 --> 00:20:38,050
 Disseram que o navio está bem,
-então devem chegar logo!
+por isso devem chegar em breve!
 
 235
 00:20:38,050 --> 00:20:39,380
@@ -1020,12 +1020,12 @@ Que curioso...
 
 236
 00:20:39,380 --> 00:20:41,970
-Tem certeza, Big Mom?
+Tens a certeza, Big Mom?
 
 237
 00:20:42,760 --> 00:20:47,140
 Não houve notícias de novas
-equipes no Porto Mogura...
+equipas no Porto Mogura...
 
 238
 00:20:48,730 --> 00:20:50,270
@@ -1033,7 +1033,7 @@ Porto?
 
 239
 00:20:50,730 --> 00:20:52,690
-Tem um porto?
+Há um porto?
 
 240
 00:20:53,270 --> 00:20:54,650
@@ -1041,13 +1041,13 @@ O quê...?!
 
 241
 00:20:55,320 --> 00:20:58,530
-Enquanto isso, as forças do 
-leste lideradas por Kin'emon
+Entretanto, as forças do 
+leste lideradas pelo Kin'emon
 
 242
 00:20:58,530 --> 00:21:01,570
-se aproximam da entrada dos fundos
-do castelo como planejado.
+aproximam-se da entrada das traseiras
+do castelo, como planeado.
 
 243
 00:21:01,570 --> 00:21:02,990
@@ -1056,54 +1056,54 @@ Meus companheiros!
 244
 00:21:02,990 --> 00:21:05,740
 Antes de prosseguir, gostaria 
-de ajustar nosso plano!
+de ajustar o nosso plano!
 
 245
 00:21:06,330 --> 00:21:11,330
 Parece que ainda não
-descobriram nossa chegada!
+descobriram a nossa chegada!
 
 246
 00:21:11,330 --> 00:21:14,590
 Então vamos dividir 
-nossas forças novamente!
+as nossas forças novamente!
 
 247
 00:21:16,000 --> 00:21:16,960
-Metade de nós vai infiltrar
-o Domo da Caveira pelo lado,
+Metade de nós vai infiltrar-se
+no Domo da Caveira pelo lado,
 
 248
 00:21:16,960 --> 00:21:20,550
-Metade de nós vai infiltrar
-o Domo da Caveira pelo lado,
-Presente
-
+Metade de nós vai infiltrar-se
+no Domo da Caveira pelo lado,
 Localização
+
+Atual
 
 249
 00:21:20,550 --> 00:21:24,300
-Presente
-
 Localização
-se misturando ao inimigo
-e esperando o momento certo.
+
+Atual
+a misturar-se com o inimigo
+e à espera do momento certo.
 
 250
 00:21:24,300 --> 00:21:27,810
-Presente
-
 Localização
+
+Atual
 Enquanto a outra metade entra
-pela porta dos fundos.
+pela porta das traseiras.
 
 251
 00:21:27,810 --> 00:21:30,890
-Presente
-
 Localização
+
+Atual
 Assim, faremos uma emboscada
-contra Kaidou e Orochi dos dois lados!
+contra o Kaidou e o Orochi dos dois lados!
 
 252
 00:21:31,650 --> 00:21:33,900
@@ -1116,7 +1116,7 @@ Será que o Momo está lá?
 254
 00:21:39,030 --> 00:21:44,530
 Os samurais avançam em direção
-ao castelo de Orochi e Kaidou.
+ao castelo do Orochi e do Kaidou.
 
 255
 00:21:49,790 --> 00:21:50,540
@@ -1138,7 +1138,7 @@ bem desatualizadas.
 259
 00:22:00,130 --> 00:22:02,590
 Não é surpresa que 
-tenha sido expandido.
+tenha sido ampliado.
 
 260
 00:22:02,590 --> 00:22:03,260
@@ -1165,12 +1165,12 @@ Aquilo é um bordel?!
 265
 00:22:22,280 --> 00:22:27,580
 Este bordel pertence
-a Black Maria, dos Tobiroppo.
+à Black Maria, dos Tobiroppo.
 
 266
 00:22:32,910 --> 00:22:36,710
-Aposto que tem 
-muitas garotas lindas lá!
+Aposto que há 
+muitas raparigas lindas lá!
 
 267
 00:22:36,710 --> 00:22:38,590
@@ -1182,34 +1182,34 @@ Espere, Senhor Sanji!
 
 269
 00:22:43,130 --> 00:22:45,760
-Parece que ele está sendo sugado!
+Parece que está a ser sugado!
 
 270
 00:22:46,300 --> 00:22:48,930
-Vamos nos infiltrar também!
+Vamos infiltrar-nos também!
 
 271
 00:22:48,930 --> 00:22:52,560
-Vamos formar um time de 
-resgate para Lord Momonosuke!
+Vamos formar uma equipa de 
+resgate para o Lorde Momonosuke!
 
 272
 00:22:52,560 --> 00:22:55,270
-Você está super 
+Estás super 
 preocupado com ele!
 
 273
 00:22:55,650 --> 00:22:57,060
-Admita!
+Admite!
 
 274
 00:23:03,360 --> 00:23:06,410
-Deixe o resgate do 
-Momo com a gente!
+Deixa o resgate do 
+Momo connosco!
 
 275
 00:23:08,120 --> 00:23:12,000
-Assim vocês podem focar na batalha!
+Assim podem concentrar-se na batalha!
 
 276
 00:23:12,330 --> 00:23:15,620
@@ -1221,15 +1221,15 @@ Tenho muita gratidão!
 
 278
 00:23:20,710 --> 00:23:22,710
-Na verdade, isso tem me preocupado!
+Na verdade, isso tem-me preocupado!
 
 279
 00:23:23,380 --> 00:23:24,630
-Conto com vocês!
+Conto convosco!
 
 280
 00:23:28,430 --> 00:23:31,220
-Alguém está saindo do bordel!
+Alguém está a sair do bordel!
 
 281
 00:23:33,270 --> 00:23:34,180
@@ -1237,18 +1237,18 @@ Alguém está saindo do bordel!
 
 282
 00:23:37,310 --> 00:23:39,980
-Parece que não achou 
-nenhuma garota...
+Parece que não encontrou 
+nenhuma rapariga...
 
 283
 00:23:41,730 --> 00:23:46,280
 Após o alvoroço causado
-por Luffy e os outros,
+pelo Luffy e os outros,
 
 284
 00:23:46,280 --> 00:23:50,660
 quase todos os subordinados
-de Kaidou e Orochi saíram do local...
+do Kaidou e do Orochi saíram do local...
 
 285
 00:23:52,700 --> 00:23:54,200
@@ -1256,7 +1256,7 @@ Invasores!
 
 286
 00:23:54,200 --> 00:23:55,830
-Peguem eles!
+Apanhem-nos!
 
 287
 00:23:55,830 --> 00:23:57,210
@@ -1272,15 +1272,15 @@ Ei! Ei! Ei!
 
 290
 00:24:17,440 --> 00:24:18,900
-E aí! E aí!
+Então! Então!
 
 291
 00:24:18,900 --> 00:24:21,150
-O que está demorando?
+Porque estão a demorar?
 
 292
 00:24:21,150 --> 00:24:23,610
-O cara não é tão forte!
+O tipo não é assim tão forte!
 
 293
 00:24:25,320 --> 00:24:27,360
@@ -1293,7 +1293,7 @@ fruta SMILE defeituosa,
 
 295
 00:24:29,950 --> 00:24:34,370
-e virou um Pleasure!
+e tornou-se um Pleasure!
 
 296
 00:24:36,410 --> 00:24:38,500
@@ -1301,8 +1301,8 @@ Ei, Killer!
 
 297
 00:24:38,500 --> 00:24:43,130
-Se comer isso, te darei a 
-chance de salvar seu capitão!
+Se comeres isto, dou-te a 
+hipótese de salvar o teu capitão!
 
 298
 00:24:49,220 --> 00:24:51,180
@@ -1314,8 +1314,8 @@ Seus miseráveis!
 
 300
 00:25:02,810 --> 00:25:07,150
-Vou mandar pro inferno 
-quem de rir de você!
+Mando para o inferno 
+quem se rir de ti!
 
 301
 00:25:07,940 --> 00:25:09,030
@@ -1327,7 +1327,7 @@ Ei, Desgrenhado!
 
 303
 00:25:13,830 --> 00:25:15,950
-Não arrume mais confusão!
+Não arranjes mais confusão!
 
 304
 00:25:19,830 --> 00:25:23,330
@@ -1351,8 +1351,8 @@ São só uns insetos.
 
 309
 00:25:30,430 --> 00:25:33,970
-Foquem em encontrar 
-Yamato para mim!
+Concentrem-se em encontrar 
+o Yamato para mim!
 
 310
 00:25:33,970 --> 00:25:36,600
@@ -1361,7 +1361,7 @@ Isso é muito mais importante.
 311
 00:25:37,270 --> 00:25:39,480
 Não deixem o Sasaki 
-nos passar na frente!
+passar-nos à frente!
 
 312
 00:25:39,480 --> 00:25:40,480
@@ -1374,7 +1374,7 @@ com esses fracassados, yo!
 
 314
 00:25:47,400 --> 00:25:50,200
-Enterrem eles de uma vez!
+Enterrem-nos de uma vez!
 
 315
 00:25:52,110 --> 00:25:53,160
@@ -1404,7 +1404,7 @@ atravessar agora!
 
 321
 00:26:15,800 --> 00:26:18,430
-Time de infiltração no 
+Equipa de infiltração no 
 Live Floor, boa sorte!
 
 322
@@ -1414,7 +1414,7 @@ Live Floor, boa sorte!
 
 323
 00:26:21,020 --> 00:26:23,100
-Isso aí! Esse é o espírito, pessoal!
+Isso mesmo! É esse o espírito, malta!
 
 324
 00:26:23,810 --> 00:26:25,690
@@ -1439,7 +1439,7 @@ Entendido, comandante Chopper!
 
 329
 00:26:42,790 --> 00:26:44,290
-Avançando bem devagar!
+A avançar bem devagar!
 
 330
 00:26:48,500 --> 00:26:53,340
@@ -1493,37 +1493,37 @@ King...
 
 341
 00:27:49,560 --> 00:27:53,320
-Eu não te perdoar! Lambida!
+Não te perdoarei! Lambida!
 
 342
 00:27:53,320 --> 00:27:55,450
-Subam até o topo!
+Subam até ao topo!
 
 343
 00:27:55,450 --> 00:27:57,950
-Mas por que diabos esta 
-é a única entrada?!
+Mas porque raio é esta 
+a única entrada?!
 
 344
 00:27:57,950 --> 00:27:59,820
-Isso é um absurdo!
+Isto é um absurdo!
 
 345
 00:28:00,160 --> 00:28:05,710
 O verdadeiro absurdo é os Piratas Big Mom
-se aliando aos Piratas das Feras!
+aliarem-se aos Piratas das Feras!
 
 346
 00:28:05,710 --> 00:28:08,330
-Isso só pode ser piada!
+Isto só pode ser piada!
 
 347
 00:28:08,330 --> 00:28:10,250
-O que a Mama está pensando?!
+O que está a mama a pensar?!
 
 348
 00:28:10,250 --> 00:28:12,460
-Mama já decidiu!
+A mama já decidiu!
 
 349
 00:28:12,460 --> 00:28:14,710
@@ -1536,16 +1536,16 @@ real de estarmos aqui!
 
 351
 00:28:17,680 --> 00:28:18,840
-Você está certo!
+Tens razão!
 
 352
 00:28:18,840 --> 00:28:23,350
-Para restaurar nossa honra, precisamos encontrar o Chapéu de Palha, matá-lo...
+Para restaurar a nossa honra, temos de encontrar o Chapéu de Palha, matá-lo...
 
 353
 00:28:23,350 --> 00:28:26,310
-...e mostrar sua cabeça 
-decepada ao mundo!
+...e mostrar a cabeça 
+decepada dele ao mundo!
 
 354
 00:28:27,310 --> 00:28:28,940
@@ -1557,16 +1557,16 @@ Mais importante...
 
 356
 00:28:31,480 --> 00:28:35,610
-Eu posso me tornar 
+Eu posso tornar-me 
 a favorita do Kaidou!
 
 357
 00:28:35,610 --> 00:28:37,570
-Vá se danar, Flampe!
+Vai-te lixar, Flampe!
 
 358
 00:28:37,570 --> 00:28:39,360
-Chegamos!
+Chegámos!
 
 359
 00:28:39,990 --> 00:28:41,030
@@ -1587,11 +1587,11 @@ Não baixem a guarda!
 363
 00:28:48,210 --> 00:28:52,500
 Da última vez, neste mesmo 
-lugar, aquele maldito do King...
+sítio, aquele maldito do King...
 
 364
 00:28:54,210 --> 00:28:55,090
-Isso é...!
+Isto é...!
 
 365
 00:28:55,420 --> 00:28:57,840
@@ -1611,13 +1611,13 @@ Marco?!
 
 369
 00:29:05,100 --> 00:29:06,350
-Marco "a Fênix"
+Marco "a Fénix"
 Ex-Comandante da Primeira Divisão
 dos Piratas do Barba Branca
 
 370
 00:29:06,350 --> 00:29:07,060
-Marco "a Fênix"
+Marco "a Fénix"
 Ex-Comandante da Primeira Divisão
 dos Piratas do Barba Branca
 Hmm...
@@ -1648,16 +1648,16 @@ Não vai ser hoje!
 
 377
 00:29:41,720 --> 00:29:43,680
-Vocês estão de brincadeira!
+Vocês estão a brincar!
 
 378
 00:29:43,680 --> 00:29:45,260
-– De novo?!
-– De novo?!
+– Outra vez?!
+– Outra vez?!
 
 379
 00:29:50,020 --> 00:29:53,400
-Por que ele está aqui?!
+Porque está ele aqui?!
 
 380
 00:29:53,400 --> 00:29:57,230
@@ -1674,17 +1674,17 @@ O quê?!
 
 383
 00:30:04,070 --> 00:30:06,530
-Tem um navio enorme 
-caindo do céu, miau!
+Está um navio enorme 
+a cair do céu, miau!
 
 384
 00:30:06,870 --> 00:30:07,700
-Olhem lá em cima.
+Olhem lá para cima.
 
 385
 00:30:12,000 --> 00:30:13,790
-Faz tempo que não 
-vejo esse rosto...
+Há muito que não via 
+essa cara...
 
 386
 00:30:13,790 --> 00:30:16,040
