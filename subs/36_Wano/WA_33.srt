@@ -1,40 +1,40 @@
 1
 00:00:00,000 --> 00:00:01,270
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:01,270 --> 00:00:01,770
 HÁ 25 ANOS
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 3
 00:00:01,770 --> 00:00:05,190
 HÁ 25 ANOS
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Vamos voltar vinte e cinco anos no tempo...
 
 4
 00:00:05,190 --> 00:00:05,320
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Vamos voltar vinte e cinco anos no tempo...
 
 5
 00:00:05,320 --> 00:00:09,990
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 6
@@ -44,11 +44,11 @@ Grande Era dos Piratas...
 
 7
 00:00:51,240 --> 00:00:55,930
-Vocês estão se divertindo?!
+Estão a divertir-se?!
 
 8
 00:01:00,500 --> 00:01:02,830
-Ainda bem que eu decidi te seguir,
+Ainda bem que decidi seguir-te,
 
 9
 00:01:02,830 --> 00:01:04,340
@@ -56,7 +56,7 @@ Roger!
 
 10
 00:01:04,340 --> 00:01:05,210
-Hein?!
+Hã?!
 
 11
 00:01:05,210 --> 00:01:08,170
@@ -72,15 +72,15 @@ Nós é que agradecemos!
 
 14
 00:01:24,520 --> 00:01:26,360
-Você bebeu demais, Roger!
+Bebeste demais, Roger!
 
 15
 00:01:26,360 --> 00:01:27,690
-Controle-se!
+Controla-te!
 
 16
 00:01:27,690 --> 00:01:29,440
-Hein?!
+Hã?!
 
 17
 00:01:29,440 --> 00:01:30,610
@@ -88,12 +88,12 @@ Cala a boca!
 
 18
 00:01:30,610 --> 00:01:33,200
-Olha quem fala, médico bêbum!
+Olha quem fala, médico bêbedo!
 
 19
 00:01:35,580 --> 00:01:39,540
 Eu falo porque me 
-preocupo com sua saúde!
+preocupo com a tua saúde!
 
 20
 00:01:39,540 --> 00:01:40,750
@@ -126,16 +126,16 @@ coisa para fazer...
 
 27
 00:02:08,940 --> 00:02:12,820
-Podemos te ajudar de 
+Podemos ajudar-te de 
 alguma forma, Oden?
 
 28
 00:02:12,820 --> 00:02:14,660
-Se precisar de ajuda,
+Se precisares de ajuda,
 
 29
 00:02:14,660 --> 00:02:17,950
-pode contar comigo, Oden-san!
+podes contar comigo, Oden-san!
 
 30
 00:02:17,950 --> 00:02:19,160
@@ -143,7 +143,7 @@ Idiota!
 
 31
 00:02:19,160 --> 00:02:21,580
-Você só vai atrapalhar!
+Só vais atrapalhar!
 
 32
 00:02:21,580 --> 00:02:22,950
@@ -152,7 +152,7 @@ Ei, Oden-san,
 33
 00:02:22,950 --> 00:02:25,250
 Eu garanto que 
-posso ajudar você!
+te posso ajudar!
 
 34
 00:02:28,090 --> 00:02:29,300
@@ -172,53 +172,53 @@ Porém,
 
 38
 00:02:36,990 --> 00:02:40,340
-isso é algo que só 
-os Kozuki precisam fazer!
+isto é algo que só 
+os Kozuki têm de fazer!
 
 39
 00:02:40,350 --> 00:02:43,970
 "Jiro" significa segundo filho.
-Mas por que você sempre 
-me chama de "jiro"?
+Mas porque é que me chamas 
+sempre "jiro"?
 
 40
 00:02:44,060 --> 00:02:47,230
-Não liga pra isso!
+Não ligues a isso!
 
 41
 00:02:47,230 --> 00:02:48,230
-Entendi.
+Percebi.
 
 42
 00:02:48,230 --> 00:02:50,110
-Os Kozuki, hein?
+Os Kozuki, hã?
 
 43
 00:02:50,110 --> 00:02:53,570
-Aprendi muito nessa viagem.
+Aprendi muito nesta viagem.
 
 44
 00:02:53,570 --> 00:02:58,370
-Sempre me perguntei por que o 
+Sempre me perguntei porque é que o 
 País de Wano se isolou do mundo.
 
 45
 00:02:59,700 --> 00:03:01,490
-Eu mesmo decidi deixar meu país,
+Eu próprio decidi deixar o meu país,
 
 46
 00:03:01,490 --> 00:03:08,210
-então não vou dizer algo egoísta como
- "me deixem ser o shogun",
+por isso não vou dizer algo egoísta como
+ "deixem-me ser o shogun",
 
 47
 00:03:08,210 --> 00:03:11,090
 mas, aconteça o que acontecer, 
-vou cumprir minha vontade!
+vou cumprir a minha vontade!
 
 48
 00:03:15,300 --> 00:03:19,350
-Junto com os maravilhosos 
+Juntamente com os maravilhosos 
 servos que deixei no país,
 
 49
@@ -244,13 +244,13 @@ Vamos fazer isso, Roger!
 
 54
 00:03:39,490 --> 00:03:40,120
-Desde então, se passaram 
+Desde então, passaram-se 
 vinte e cinco anos.
 
 55
 00:03:40,120 --> 00:03:43,120
 25 ANOS DEPOIS
-Desde então, se passaram 
+Desde então, passaram-se 
 vinte e cinco anos.
 
 56
@@ -259,17 +259,17 @@ vinte e cinco anos.
 
 57
 00:03:57,800 --> 00:04:02,430
-Como era de se esperar de Orochi-sama,
+Como seria de esperar do Orochi-sama,
  até o clima está a seu favor.
 
 58
 00:04:02,430 --> 00:04:06,140
-Desta vez, Kyoshiro
-quem vai proteger a capital!
+Desta vez, é o Kyoshiro
+que vai proteger a capital!
 
 59
 00:04:06,140 --> 00:04:07,690
-Diga que contamos com ele!
+Digam-lhe que contamos com ele!
 
 60
 00:04:07,690 --> 00:04:08,940
@@ -306,7 +306,7 @@ Que dia lindo!
 
 68
 00:04:37,300 --> 00:04:39,050
-Me tragam bebida!
+Tragam-me bebida!
 
 69
 00:04:39,050 --> 00:04:41,510
@@ -314,12 +314,12 @@ Vamos beber diante dos bordos!
 
 70
 00:04:41,510 --> 00:04:45,220
-Orochi-sama, não deveria beber 
-antes de ver Kaidou-sama.
+Orochi-sama, não devia beber 
+antes de ver o Kaidou-sama.
 
 71
 00:04:45,890 --> 00:04:47,010
-Não importa!
+Não interessa!
 
 72
 00:04:47,010 --> 00:04:49,020
@@ -332,7 +332,7 @@ com trinta mil convidados!
 
 74
 00:04:52,060 --> 00:04:54,940
-Vamos nos divertir como todo ano!
+Vamos divertir-nos como todos os anos!
 
 75
 00:04:54,940 --> 00:04:57,900
@@ -342,31 +342,31 @@ do Festival do Fogo,
 76
 00:04:57,900 --> 00:05:02,740
 os dois líderes que governam o País 
-de Wano se reúnem em Onigashima.
+de Wano reúnem-se em Onigashima.
 
 77
 00:05:02,740 --> 00:05:08,090
-O banquete acontece quando os exércitos do Orochi e Kaidou se juntam.
+O banquete acontece quando os exércitos do Orochi e do Kaidou se juntam.
 
 78
 00:05:11,140 --> 00:05:14,010
-Desenrole o mapa sem fim...
+Desenrola o mapa sem fim...
 
 79
 00:05:14,100 --> 00:05:16,970
-...e vá para o lugar que não tem limites.
+...e vai para o sítio que não tem limites.
 
 80
 00:05:17,100 --> 00:05:21,560
-Içe alto a vela para zarpar...
+Iça bem alto a vela para zarpar...
 
 81
 00:05:21,650 --> 00:05:24,400
-...e navegue pelos ventos.
+...e navega pelos ventos.
 
 82
 00:05:29,900 --> 00:05:33,910
-Se você tem determinação, não desista.
+Se tens determinação, não desistas.
 
 83
 00:05:34,070 --> 00:05:37,080
@@ -374,27 +374,27 @@ Não vou recuar.
 
 84
 00:05:37,160 --> 00:05:40,830
-Afugente os mares tempestuosos com seu riso.
+Afugenta os mares tempestuosos com o teu riso.
 
 85
 00:05:40,920 --> 00:05:45,170
-Grite, para que seu espírito não desmorone.
+Grita, para que o teu espírito não desmorone.
 
 86
 00:05:45,380 --> 00:05:48,260
-Olhe, você tem companheiros.
+Olha, tens companheiros.
 
 87
 00:05:48,340 --> 00:05:54,050
-Você não precisa fingir ser forte.
+Não precisas de fingir que és forte.
 
 88
 00:05:54,180 --> 00:05:58,060
-Mesmo que a escuridão tente nos separar,
+Mesmo que a escuridão tente separar-nos,
 
 89
 00:05:58,140 --> 00:05:59,430
-vamos, enfrente a situação.
+vá lá, enfrenta a situação.
 
 90
 00:05:59,520 --> 00:06:00,940
@@ -402,27 +402,27 @@ Tudo bem.
 
 91
 00:06:01,020 --> 00:06:04,650
-Nossos laços são os mais fortes e são invencíveis.
+Os nossos laços são os mais fortes e são invencíveis.
 
 92
 00:06:04,770 --> 00:06:07,400
-Desenrole o mapa sem fim...
+Desenrola o mapa sem fim...
 
 93
 00:06:07,440 --> 00:06:10,610
-...e vá para o lugar que não tem limites.
+...e vai para o sítio que não tem limites.
 
 94
 00:06:10,690 --> 00:06:15,200
-Seja corajoso e dê esse passo.
+Sê corajoso e dá esse passo.
 
 95
 00:06:15,200 --> 00:06:16,160
-Não pare de sonhar.
+Não pares de sonhar.
 
 96
 00:06:16,160 --> 00:06:18,620
-Desenrole o mapa sem fim...
+Desenrola o mapa sem fim...
 
 97
 00:06:18,660 --> 00:06:21,580
@@ -430,21 +430,21 @@ Fizemos muitos juramentos à nossa bandeira.
 
 98
 00:06:21,710 --> 00:06:24,460
-Continue lutando.
+Continua a lutar.
 
 99
 00:06:24,580 --> 00:06:29,050
-Seja "você mesmo"...
+Sê "tu mesmo"...
 
 100
 00:06:29,130 --> 00:06:33,760
-...e assim você conseguirá, não pare de sonhar.
+...e assim conseguirás, não pares de sonhar.
 
 101
 00:06:42,840 --> 00:06:43,970
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 CAPITAL DAS
  FLORES
@@ -453,26 +453,26 @@ CAPITAL DAS
 00:06:43,970 --> 00:06:45,380
 DIA DO FESTIVAL
  DO FOGO
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 CAPITAL DAS
  FLORES
 
 103
 00:06:45,430 --> 00:06:51,390
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 O porto onde se reunirão
 
 104
 00:06:51,390 --> 00:06:52,770
-Seu reprodutor de vídeo não suporta o formato da legenda utilizado para este episódio. 
-As legendas podem não funcionar corretamente por isso.
-Por favor, use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio. 
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Vamos, vamos, dancem!
 
@@ -497,11 +497,11 @@ do Fogo na capital!
 109
 00:07:01,440 --> 00:07:04,280
 Hoje vamos beber 
-muito e nos divertir!
+muito e divertir-nos!
 
 110
 00:07:04,280 --> 00:07:05,610
-Vamos, rápido!
+Vamos, depressa!
 
 111
 00:07:05,610 --> 00:07:06,570
@@ -510,11 +510,11 @@ Já começou!
 112
 00:07:06,570 --> 00:07:08,910
 Esperem, ainda não decidi
- como arrumar minha franja!
+ como arranjar a minha franja!
 
 113
 00:07:13,050 --> 00:07:14,220
-Nossa...
+Caramba...
 
 114
 00:07:14,220 --> 00:07:16,460
@@ -522,7 +522,7 @@ O céu está tão limpo!
 
 115
 00:07:16,460 --> 00:07:18,920
-Dá pra ver a lua cheia!
+Dá para ver a lua cheia!
 
 116
 00:07:24,710 --> 00:07:25,800
@@ -1188,7 +1188,7 @@ KURI
 KIBI
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 
 152
 00:07:31,150 --> 00:07:31,400
@@ -1197,7 +1197,7 @@ KIBI
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 
 153
 00:07:31,490 --> 00:07:31,650
@@ -1207,7 +1207,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 154
@@ -1218,7 +1218,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 
 155
 00:07:32,110 --> 00:07:32,490
@@ -1228,7 +1228,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 156
@@ -1238,7 +1238,7 @@ KIBI
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 157
@@ -1249,7 +1249,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 158
@@ -1259,7 +1259,7 @@ KIBI
 PORTO TOKAGE
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 159
@@ -1269,7 +1269,7 @@ KIBI
 PORTO TOKAGE
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 
 160
 00:07:33,450 --> 00:07:33,610
@@ -1279,7 +1279,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 161
@@ -1290,7 +1290,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 162
@@ -1301,7 +1301,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 
 163
 00:07:34,450 --> 00:07:34,570
@@ -1311,7 +1311,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 164
@@ -1322,7 +1322,7 @@ PORTO TOKAGE
 UDON
 PAÍS DE WANO
 Da mesma forma, 
-o clima varia em cada lugar,
+o clima varia em cada sítio,
 HAKUMAI
 
 165
@@ -1460,17 +1460,17 @@ o ponto de encontro combinado...
 
 180
 00:08:11,550 --> 00:08:13,600
-Não tem nenhum navio à vista!
+Não se vê nenhum navio!
 
 181
 00:08:14,770 --> 00:08:16,730
-Onde estão nossos 
+Onde estão os nossos 
 quatro mil soldados?!
 
 182
 00:08:18,140 --> 00:08:21,610
-Tenho certeza que 
-conquistamos Udon!
+Tenho a certeza de que 
+conquistámos Udon!
 
 183
 00:08:25,320 --> 00:08:29,570
@@ -1479,7 +1479,7 @@ também estava vazia.
 
 184
 00:08:29,570 --> 00:08:32,660
-Há sinais de ataque nesse porto!
+Há sinais de ataque neste porto!
 
 185
 00:08:32,660 --> 00:08:35,540
@@ -1492,12 +1492,12 @@ O Sumashi não funciona.
 
 187
 00:08:45,210 --> 00:08:48,520
-Não podemos nos 
+Não conseguimos 
 comunicar com ninguém.
 
 188
 00:08:51,400 --> 00:08:55,810
-Combinamos de nos encontrar ao anoitecer no dia do Festival do Fogo no Porto Tokage!
+Combinámos encontrar-nos ao anoitecer no dia do Festival do Fogo no Porto Tokage!
 
 189
 00:08:57,890 --> 00:09:01,270
@@ -1505,7 +1505,7 @@ Estamos no porto correto!
 
 190
 00:09:01,270 --> 00:09:02,900
-Por que não tem ninguém aqui?!
+Porque não está aqui ninguém?!
 
 191
 00:09:02,900 --> 00:09:04,980
@@ -1513,11 +1513,11 @@ Para onde eles foram?!
 
 192
 00:09:07,920 --> 00:09:11,110
-O que diabos aconteceu...
+Que raio aconteceu...
 
 193
 00:09:11,110 --> 00:09:13,030
-...em um único dia?!
+...num único dia?!
 
 194
 00:09:14,280 --> 00:09:15,790
@@ -1525,7 +1525,7 @@ Algo aconteceu com os outros?!
 
 195
 00:09:19,540 --> 00:09:22,330
-Luffy-dono, onde você está?!
+Luffy-dono, onde está?!
 
 196
 00:09:22,330 --> 00:09:24,710
@@ -1545,24 +1545,24 @@ Jibuemon, de Kibi!
 
 200
 00:09:34,390 --> 00:09:38,350
-Seus servos são os 
-companheiros de Kozuki Oden!
+Os vossos servos são os 
+companheiros do Kozuki Oden!
 
 201
 00:09:38,350 --> 00:09:42,200
-Pulamos vinte anos...!
+Saltámos vinte anos...!
 
 202
 00:09:43,730 --> 00:09:49,740
-Pulamos vinte anos no tempo para realizar o desejo de nosso senhor!
+Saltámos vinte anos no tempo para realizar o desejo do nosso senhor!
 
 203
 00:09:49,740 --> 00:09:52,950
-Deveríamos ter morrido naquela época!
+Devíamos ter morrido naquela altura!
 
 204
 00:09:52,950 --> 00:09:55,570
-Viemos para dar nossas vidas!
+Viemos para dar as nossas vidas!
 
 205
 00:09:58,620 --> 00:10:00,290
@@ -1570,8 +1570,8 @@ No entanto...!
 
 206
 00:10:00,290 --> 00:10:03,120
-No entanto, dar nossas 
-vidas não é suficiente!
+No entanto, dar as nossas 
+vidas não chega!
 
 207
 00:10:03,120 --> 00:10:04,620
@@ -1579,7 +1579,7 @@ São trinta mil inimigos!
 
 208
 00:10:04,620 --> 00:10:06,500
-Solicitamos sua ajuda!
+Solicitamos a vossa ajuda!
 
 209
 00:10:08,550 --> 00:10:09,590
@@ -1587,7 +1587,7 @@ Eu imploro!
 
 210
 00:10:09,590 --> 00:10:12,800
-Por favor, nos ajudem!
+Por favor, ajudem-nos!
 
 211
 00:10:12,800 --> 00:10:15,190
@@ -1603,7 +1603,7 @@ Já chega, Kin'emon!
 
 214
 00:10:20,310 --> 00:10:23,940
-Veja como está o tempo e o mar!
+Vê como está o tempo e o mar!
 
 215
 00:10:23,940 --> 00:10:27,570
@@ -1611,12 +1611,12 @@ Até os céus nos abandonaram!
 
 216
 00:10:27,570 --> 00:10:29,820
-Ninguém virá nos salvar!
+Ninguém nos virá salvar!
 
 217
 00:10:29,820 --> 00:10:33,610
-Como eu pensava, deve ter 
-acontecido alguma coisa com eles...
+Como eu pensava, deve ter-lhes 
+acontecido alguma coisa...
 
 218
 00:10:37,660 --> 00:10:40,620
@@ -1632,12 +1632,12 @@ Dancem, dancem!
 
 221
 00:10:45,580 --> 00:10:50,750
-Liberem toda a frustração 
+Libertem toda a frustração 
 acumulada esta noite!
 
 222
 00:10:55,130 --> 00:10:57,300
-Tem um bote...
+Há ali um bote...
 
 223
 00:10:57,300 --> 00:10:58,760
@@ -1645,12 +1645,12 @@ Podemos usá-lo.
 
 224
 00:10:59,350 --> 00:11:01,270
-O que você está 
-fazendo, Inuarashi?
+O que estás a 
+fazer, Inuarashi?
 
 225
 00:11:01,270 --> 00:11:03,310
-Pare!
+Para!
 
 226
 00:11:03,310 --> 00:11:05,520
@@ -1667,20 +1667,20 @@ Kin-sama!
 
 229
 00:11:17,820 --> 00:11:19,780
-Me solte, Shinobu!
+Larga-me, Shinobu!
 
 230
 00:11:22,160 --> 00:11:24,710
-Kin-sama, não conseguiremos 
-fazer isso esta noite!
+Kin-sama, não vamos conseguir 
+fazer isto esta noite!
 
 231
 00:11:25,250 --> 00:11:27,580
-Tem que ser esta noite!
+Tem de ser esta noite!
 
 232
 00:11:27,580 --> 00:11:30,590
-Você entende, Shinobu.
+Tu percebes, Shinobu.
 
 233
 00:11:36,960 --> 00:11:38,930
@@ -1688,12 +1688,12 @@ ONIGASHIMA
 
 234
 00:11:39,890 --> 00:11:41,970
-Tem que ser esta noite!
+Tem de ser esta noite!
 
 235
 00:11:47,580 --> 00:11:52,520
-Um certo incidente havia
- ocorrido na noite anterior.
+Tinha ocorrido um certo
+ incidente na noite anterior.
 
 236
 00:11:52,520 --> 00:11:56,110
@@ -1706,12 +1706,12 @@ Voltemos a quando faltavam dois
 DOIS DIAS ANTES
 Voltemos a quando faltavam dois
  dias para o Festival do Fogo.
-VILA
+ALDEIA
 AMIGASA
 
 238
 00:11:56,960 --> 00:11:59,450
-VILA
+ALDEIA
 AMIGASA
 
 239
@@ -1724,7 +1724,7 @@ Que bom!
 
 241
 00:12:04,950 --> 00:12:07,680
-Fico feliz que vocês se juntaram a nós!
+Ainda bem que se juntaram a nós!
 
 242
 00:12:07,680 --> 00:12:09,290
@@ -1737,7 +1737,7 @@ Bom trabalho!
 244
 00:12:11,920 --> 00:12:15,550
 Usem o tempo restante
-para viajar e se preparar.
+para viajar e se prepararem.
 
 245
 00:12:15,550 --> 00:12:17,550
@@ -1745,7 +1745,7 @@ Sem mais a acrescentar,
 
 246
 00:12:17,550 --> 00:12:20,390
-nos vemos no porto combinado!
+vemo-nos no porto combinado!
 
 247
 00:12:24,680 --> 00:12:28,390
@@ -1776,7 +1776,7 @@ Vocês conseguem?!
 
 253
 00:12:38,740 --> 00:12:41,530
-Conte conosco, irmão Franosuke!
+Conta connosco, irmão Franosuke!
 
 254
 00:12:41,530 --> 00:12:42,950
@@ -1785,8 +1785,8 @@ Muito bem!
 255
 00:12:42,970 --> 00:12:47,160
 PORTO ITACHI
-Nós iremos para a vila Amigasa para nos reunir com nossos companheiros...
-VILA AMIGASA
+Nós vamos para a Aldeia Amigasa para nos juntarmos aos nossos companheiros...
+ALDEIA AMIGASA
 
 256
 00:12:47,160 --> 00:12:50,830
@@ -1794,7 +1794,7 @@ VILA AMIGASA
 
 257
 00:12:50,830 --> 00:12:52,460
-Deixamos o resto com vocês!
+Deixamos o resto convosco!
 
 258
 00:12:52,460 --> 00:12:55,170
@@ -1819,7 +1819,7 @@ Vamos dar uma boa surra...
 263
 00:13:08,890 --> 00:13:11,150
 Toda a madeira que 
-conseguirem será útil para nós!
+conseguirem ser-nos-á útil!
 UDON
 
 264
@@ -1856,7 +1856,7 @@ Muito bem!
 
 271
 00:13:28,500 --> 00:13:33,420
-Se chegarmos muito cedo ao ponto de encontro, chamaremos atenção,
+Se chegarmos muito cedo ao ponto de encontro, chamaremos a atenção,
 KIBI
 
 272
@@ -1882,7 +1882,7 @@ terá início na capital!
 
 276
 00:13:43,640 --> 00:13:46,510
-Ninguém prestará atenção em nós!
+Ninguém nos prestará atenção!
 
 277
 00:13:46,510 --> 00:13:47,930
@@ -1913,7 +1913,7 @@ Certo!
 
 282
 00:14:05,660 --> 00:14:07,870
-Podemos mesmo usar isso?
+Podemos mesmo usar isto?
 
 283
 00:14:07,870 --> 00:14:08,860
@@ -1925,11 +1925,11 @@ Incrível!
 
 285
 00:14:09,700 --> 00:14:11,910
-Usopp vai pirar quando ver isso!
+O Usopp vai passar-se quando vir isto!
 
 286
 00:14:11,910 --> 00:14:14,040
-Somos guerreiros, hein?!
+Somos guerreiros, hã?!
 
 287
 00:14:19,050 --> 00:14:22,010
@@ -1949,7 +1949,7 @@ Aquele maldito...
 
 291
 00:14:28,350 --> 00:14:31,480
-...vou fatiar ele!
+...vou fatiá-lo!
 
 292
 00:14:31,480 --> 00:14:34,100
@@ -1961,12 +1961,12 @@ Ataquem como quiserem!
 
 294
 00:14:39,360 --> 00:14:41,490
-Chormano e os outros 
-estão tão estilosos!
+O Chormano e os outros 
+estão tão elegantes!
 
 295
 00:14:41,490 --> 00:14:43,200
-Nossa, que fofos.
+Caramba, que giros.
 
 296
 00:14:43,200 --> 00:14:44,410
@@ -1974,20 +1974,20 @@ Parecem insetos.
 
 297
 00:14:44,410 --> 00:14:47,160
-Por que você não 
-coloca uma também?
+Porque não 
+pões um também?
 
 298
 00:14:47,160 --> 00:14:49,370
-Não, só vai me atrasar.
+Não, só me vai atrasar.
 
 299
 00:14:49,370 --> 00:14:51,250
-Você devia usar...
+Devias usar...
 
 300
 00:14:51,250 --> 00:14:54,330
-...já que sua recompensa é inferior!
+...já que a tua recompensa é inferior!
 
 301
 00:14:54,330 --> 00:14:55,080
@@ -1995,23 +1995,23 @@ Enma!
 
 302
 00:15:02,050 --> 00:15:03,670
-Então quer brigar?!
+Então queres lutar?!
 
 303
 00:15:03,670 --> 00:15:05,300
-Eu vou te matar!
+Vou matar-te!
 
 304
 00:15:05,300 --> 00:15:07,940
-Vamos ver se consegue!
+Vamos ver se consegues!
 
 305
 00:15:09,970 --> 00:15:12,020
-Mas o que vocês estão fazendo?!
+Mas o que estão vocês a fazer?!
 
 306
 00:15:15,100 --> 00:15:19,360
-Orochi disse que a entrada
+O Orochi disse que a entrada
  de Onigashima é invernal.
 
 307
@@ -2068,7 +2068,7 @@ Vai ser uma noite de lua cheia,
 
 316
 00:15:38,910 --> 00:15:41,000
-mas não vai adiantar 
+mas não vale de nada 
 se estiver nublado.
 
 317
@@ -2099,7 +2099,7 @@ O que foi, Luffy?
 
 323
 00:16:17,660 --> 00:16:19,540
-Big Mom conseguiu 
+A Big Mom conseguiu 
 chegar a este país,
 
 324
@@ -2113,11 +2113,11 @@ escapar da Big Mom!
 
 326
 00:16:29,690 --> 00:16:32,050
-Eu vou esperar você em Wano!
+Eu espero-te em Wano!
 
 327
 00:16:32,050 --> 00:16:33,510
-Dê seu jeito de ir!
+Arranja maneira de lá ir!
 
 328
 00:16:35,350 --> 00:16:36,980
@@ -2129,20 +2129,20 @@ Jinbe!
 
 330
 00:16:39,650 --> 00:16:41,810
-Não morra de jeito nenhum!
+Não morras de maneira nenhuma!
 
 331
 00:16:48,070 --> 00:16:51,570
-Ele se juntou a nós depois de 
-acertar as contas com ela..!
+Juntou-se a nós depois de 
+acertar contas com ela...!
 
 332
 00:17:01,750 --> 00:17:03,290
-Estamos felizes de tê-lo conosco...
+Estamos felizes por tê-lo connosco...
 
 333
 00:17:03,290 --> 00:17:05,210
-Ainda dá tempo.
+Ainda há tempo.
 
 334
 00:17:05,210 --> 00:17:06,300
@@ -2165,14 +2165,14 @@ Ele virá!
 FORA DA CAPITAL 
 DAS FLORES
 
-VILA EBISU
+ALDEIA EBISU
 
 339
 00:17:15,490 --> 00:17:17,270
 FORA DA CAPITAL 
 DAS FLORES
 
-VILA EBISU
+ALDEIA EBISU
 Ei, venham cá, pessoal!
 
 340
@@ -2180,8 +2180,8 @@ Ei, venham cá, pessoal!
 FORA DA CAPITAL 
 DAS FLORES
 
-VILA EBISU
-O Garoto-Madrugada voltou!
+ALDEIA EBISU
+O Rapaz da Madrugada voltou!
 
 341
 00:17:19,430 --> 00:17:22,400
@@ -2204,7 +2204,7 @@ mas graças a ele, teremos
 
 345
 00:17:31,110 --> 00:17:34,740
-Queimamos completamente 
+Queimámos completamente 
 a montanha dos bandidos,
 
 346
@@ -2213,14 +2213,14 @@ mas, em vez de se vingarem,
 
 347
 00:17:38,200 --> 00:17:42,250
-continuam roubando 
-comida da fazenda!
+continuam a roubar 
+comida da quinta!
 KURI 
-VILA OKOBORE
+ALDEIA OKOBORE
 
 348
 00:17:42,250 --> 00:17:44,210
-ATRAÇÃO PRINCIPAL DOS PIRATAS DAS FERAS 
+HEADLINER DOS PIRATAS DAS FERAS 
 HOLDEM
 
 349
@@ -2234,7 +2234,7 @@ N-Não sabemos de nada!
 351
 00:17:50,420 --> 00:17:54,340
 Ouvi rumores de que os samurais
- estão preparando uma invasão.
+ estão a preparar uma invasão.
 
 352
 00:17:54,340 --> 00:17:56,720
@@ -2242,7 +2242,7 @@ Talvez seja por isso.
 
 353
 00:17:56,720 --> 00:17:58,810
-Se for verdade, melhor 
+Se for verdade, é melhor 
 que não descubram!
 
 354
@@ -2251,7 +2251,7 @@ Hã?
 
 355
 00:17:59,930 --> 00:18:03,290
-O que tanto estão cochichando?!
+O que tanto cochicham?!
 
 356
 00:18:03,290 --> 00:18:06,150
@@ -2261,7 +2261,7 @@ Eu vou guiá-lo!
 00:18:06,150 --> 00:18:09,440
 OTSURU 
 ESPOSA DE KIN'EMON
-Mas não machuque ninguém!
+Mas não magoe ninguém!
 
 358
 00:18:09,440 --> 00:18:10,940
@@ -2269,15 +2269,15 @@ O-Otsuru-san!
 
 359
 00:18:10,940 --> 00:18:12,360
-Me guiar?
+Guiar-me?
 
 360
 00:18:14,160 --> 00:18:16,370
-Você sabe de algo?
+Sabes de alguma coisa?
 
 361
 00:18:16,370 --> 00:18:18,240
-Você entenderá quando chegar lá,
+Perceberá quando lá chegar,
 
 362
 00:18:18,240 --> 00:18:19,830
@@ -2285,8 +2285,8 @@ mas é um pouco longe.
 
 363
 00:18:26,340 --> 00:18:31,090
-Você precisa de muita comida porque 
-conseguiu muitos aliados,
+Precisas de muita comida porque 
+conseguiste muitos aliados,
 
 364
 00:18:31,090 --> 00:18:32,970
@@ -2294,11 +2294,11 @@ não é, Kin-san?
 
 365
 00:18:32,970 --> 00:18:35,760
-Você está no País de Wano, não está?
+Estás no País de Wano, não estás?
 
 366
 00:18:35,860 --> 00:18:39,100
-Fiquei surpresa quando vi Kikunojo...
+Fiquei surpreendida quando vi o Kikunojo...
 
 367
 00:18:42,180 --> 00:18:43,310
@@ -2306,7 +2306,7 @@ Kin-san...
 
 368
 00:18:43,310 --> 00:18:46,520
-Kin-san, eu cuido disso!
+Kin-san, eu trato disto!
 
 369
 00:18:46,520 --> 00:18:48,770
@@ -2322,7 +2322,7 @@ Kin-san,
 
 372
 00:18:53,740 --> 00:18:57,370
-recupere o país dos Kozuki!
+recupera o país dos Kozuki!
 
 373
 00:18:58,700 --> 00:19:00,330
@@ -2334,11 +2334,11 @@ Não nos defenda!
 
 375
 00:19:02,250 --> 00:19:04,120
-Não precisamos mais disso...
+Já não precisamos disso...
 
 376
 00:19:04,120 --> 00:19:07,420
-...porque nosso sonho de comer até explodir antes de morrer já se realizou!
+...porque o nosso sonho de comer até rebentar antes de morrer já se realizou!
 
 377
 00:19:07,420 --> 00:19:08,590
@@ -2363,7 +2363,7 @@ Aos Bainhas Vermelhas...
 
 382
 00:19:22,270 --> 00:19:26,410
-eu vou mostrar o verdadeiro inferno!
+vou mostrar-lhes o verdadeiro inferno!
 
 383
 00:19:28,040 --> 00:19:28,430
@@ -2381,20 +2381,20 @@ Sim.
 
 386
 00:19:30,820 --> 00:19:33,790
-Encontramos ele.
+Encontrámo-lo.
 
 387
 00:19:33,790 --> 00:19:35,860
-Mas tem certeza que 
+Mas tem a certeza de que 
 quer fazer isso?
 
 388
 00:19:35,860 --> 00:19:39,830
-Sigam minhas ordens!
+Sigam as minhas ordens!
 
 389
 00:19:42,080 --> 00:19:43,040
-Façam isso!
+Façam-no!
 
 390
 00:19:43,040 --> 00:19:44,620
@@ -2406,8 +2406,8 @@ Missão cumprida!
 
 392
 00:20:06,100 --> 00:20:09,770
-Não vou deixar vocês 
-fazerem o que quiserem!
+Não vos vou deixar 
+fazer o que quiserem!
 
 393
 00:20:09,770 --> 00:20:12,400
@@ -2427,7 +2427,7 @@ Udon foi destruída!
 
 396
 00:20:17,360 --> 00:20:19,240
-Pulverizem eles!
+Pulverizem-nos!
 
 397
 00:20:19,830 --> 00:20:21,240
@@ -2461,16 +2461,16 @@ Olhem!
 GRANDE PONTE ENTRE 
 RINGO E HAKUMAI
 A grande ponte que 
-conecta as regiões...!
+liga as regiões...!
 
 403
 00:20:30,710 --> 00:20:32,670
-Por que agora?!
+Porquê agora?!
 
 404
 00:20:32,670 --> 00:20:35,800
 Assim não poderemos 
-cruzar para o outro lado!
+passar para o outro lado!
 
 405
 00:20:35,800 --> 00:20:38,340
@@ -2499,16 +2499,16 @@ Assim está bom.
 00:20:44,720 --> 00:20:45,970
 KURI, PORTO ITACHI
 Quando tudo acabar,
- a gente reconstrói.
+ reconstruímos.
 
 411
 00:20:45,970 --> 00:20:48,690
 Quando tudo acabar,
- a gente reconstrói.
+ reconstruímos.
 
 412
 00:20:48,690 --> 00:20:56,030
-Ainda não vi com meus próprios olhos os Bainhas Vermelhas nem os samurais que reuniram.
+Ainda não vi com os meus próprios olhos os Bainhas Vermelhas nem os samurais que reuniram.
 
 413
 00:20:56,030 --> 00:21:01,070
@@ -2526,17 +2526,17 @@ uma das cabeças deles...
 
 416
 00:21:08,580 --> 00:21:13,630
-Não, mesmo se eu mostrar,
-é difícil de alguém acreditar.
+Não, mesmo que mostre,
+é difícil que alguém acredite.
 
 417
 00:21:13,630 --> 00:21:20,130
 Além disso, o idiota do Yasuie
- transformou tudo em uma piada!
+ transformou tudo numa piada!
 
 418
 00:21:20,130 --> 00:21:23,640
-Mas a informação é correta.
+Mas a informação está correta.
 
 419
 00:21:23,640 --> 00:21:27,520
@@ -2544,8 +2544,8 @@ Os Bainhas Vermelhas estão vivos!
 
 420
 00:21:29,600 --> 00:21:33,980
-Não me importo se acharem
- que estou falando besteira!
+Não me importo que achem
+ que estou a dizer disparates!
 
 421
 00:21:33,980 --> 00:21:37,820
@@ -2585,7 +2585,7 @@ Mas ninguém chegará ao porto!
 
 427
 00:21:52,710 --> 00:21:56,590
-Não darei nem a chance
+Não lhes darei sequer a hipótese
  de se vingarem!
 
 428
@@ -2615,8 +2615,8 @@ Usar aquele bote é suicídio!
 
 433
 00:22:21,530 --> 00:22:25,820
-Precisamos nos reagrupar
- e aproveitar a próxima chance!
+Precisamos de nos reagrupar
+ e aproveitar a próxima oportunidade!
 
 434
 00:22:25,820 --> 00:22:28,120
@@ -2624,27 +2624,27 @@ Se não atacarmos hoje,
 
 435
 00:22:28,120 --> 00:22:31,540
-teremos que esperar um ano,
+teremos de esperar um ano,
 
 436
 00:22:32,870 --> 00:22:37,210
 mas não poderemos 
-continuar nos escondendo!
+continuar escondidos!
 
 437
 00:22:37,210 --> 00:22:40,340
-Logo descobrirão que 
-conquistamos Udon.
+Em breve descobrirão que 
+conquistámos Udon.
 
 438
 00:22:40,340 --> 00:22:45,820
-E então Kaidou usará todo seu
+E então o Kaidou usará todo o seu
  exército para caçar os rebeldes.
 
 439
 00:22:47,550 --> 00:22:51,220
-Tampouco poderemos 
-continuar roubando comida.
+Também não poderemos 
+continuar a roubar comida.
 
 440
 00:22:51,220 --> 00:22:55,400
@@ -2656,7 +2656,7 @@ Os habitantes de Okobore...
 
 442
 00:22:58,980 --> 00:23:01,610
-...acreditaram em nossa luta.
+...acreditaram na nossa luta.
 
 443
 00:23:01,610 --> 00:23:03,280
@@ -2668,11 +2668,11 @@ Uma dessas habitantes...
 
 445
 00:23:06,490 --> 00:23:08,070
-...era minha esposa!
+...era a minha esposa!
 
 446
 00:23:10,720 --> 00:23:13,040
-Deixe-nos partir!
+Deixa-nos partir!
 
 447
 00:23:16,000 --> 00:23:17,170
@@ -2680,7 +2680,7 @@ Não.
 
 448
 00:23:17,170 --> 00:23:22,670
-Quer que fujamos
+Queres que fujamos
  e vivamos na desonra?!
 
 449
@@ -2690,7 +2690,7 @@ E quanto a mim?
 450
 00:23:26,260 --> 00:23:30,390
 Queremos que viva 
-junto com Hiyori-sama!
+junto da Hiyori-sama!
 
 451
 00:23:30,390 --> 00:23:32,640
@@ -2698,26 +2698,26 @@ Não sejam egoístas!
 
 452
 00:23:34,350 --> 00:23:37,810
-No início, seu pai estava sozinho!
+No início, o seu pai estava sozinho!
 
 453
 00:23:37,810 --> 00:23:41,820
 Se não tivéssemos 
-conhecido Oden-sama,
+conhecido o Oden-sama,
 
 454
 00:23:41,820 --> 00:23:46,740
-não teríamos nos tornado samurais,
+não nos teríamos tornado samurais,
  pois éramos imaturos demais.
 
 455
 00:23:46,740 --> 00:23:49,870
-Por isso, nosso desejo...
+Por isso, o nosso desejo...
 
 456
 00:23:49,870 --> 00:23:55,500
 ...é sermos os samurais do
- Oden-sama até o fim.
+ Oden-sama até ao fim.
 
 457
 00:23:56,920 --> 00:23:58,330
@@ -2767,11 +2767,11 @@ Há quarenta e um anos,
 
 468
 00:24:59,980 --> 00:25:02,810
-Kozuki Oden voltou!
+O Kozuki Oden voltou!
 
 469
 00:25:02,810 --> 00:25:06,190
-Escondam suas esposas e filhas!
+Escondam as vossas esposas e filhas!
 
 470
 00:25:06,190 --> 00:25:08,320
@@ -2792,7 +2792,7 @@ popular na capital.
 
 474
 00:25:34,680 --> 00:25:37,640
-Que lugar apertado!
+Que sítio apertado!
 
 475
 00:25:37,640 --> 00:25:43,520
