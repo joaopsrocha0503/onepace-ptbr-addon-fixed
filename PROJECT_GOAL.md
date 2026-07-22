@@ -5,9 +5,10 @@
 
 ## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
 
-**Traduzir `subs/36_Wano/WA_37.srt` para PT-PT, e continuar daí para a frente.**
-WA_1 a WA_36 já estão feitos; faltam **18 episódios** (WA_37 … WA_54).
-Não é preciso pedir confirmação — o utilizador já autorizou avançar por Wano fora.
+**Traduzir `subs/37_Egghead/EH_1.srt` para PT-PT, e continuar daí para a frente.**
+O arco 36 (Wano) está **completo: WA_1 … WA_54**. Falta só o **arco 37 — Egghead
+(EH_1 … EH_20)**, o último do âmbito.
+Não é preciso pedir confirmação — o utilizador já autorizou avançar arco fora.
 
 ⚠️ **O extrator de texto do `.srt` tem de casar blocos pelo cabeçalho seguinte, não pela
 próxima linha em branco** — ver [Método para ficheiros grandes](#método-para-ficheiros-grandes-extrair--traduzir--reinjetar).
@@ -20,7 +21,7 @@ Isso muda como se traduz e como se verifica — ver
 | Frente | Estado |
 |---|---|
 | **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
-| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35 completos; arco 36 (Wano) em 36/54. Em produção como **v2.4.0** |
+| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35/36 completos; falta só o 37 (Egghead). Em produção como **v2.5.0** |
 
 ---
 
@@ -364,8 +365,8 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 | 33 — Whole Cake Island | WC_1, WC_8–WC_39 | ✅ 32/32 (2026-07-22). WC_2–WC_7 ficam em PT-BR por opção |
 | 34 — Wapol's Omnivorous Hurrah | COVER_WAPOL_1 | ✅ 1/1 (2026-07-22) |
 | 35 — Reverie | REV_1–REV_3 | ✅ 3/3 (2026-07-22) |
-| **36 — Wano** | **WA_1–WA_54** | ▶️ **36/54.** Feitos WA_1–WA_36. **Próximo: WA_37** |
-| 37 — Egghead | EH_1–EH_20 | ⬜ 0/20, por começar |
+| 36 — Wano | WA_1–WA_54 | ✅ **54/54** (2026-07-22) |
+| **37 — Egghead** | **EH_1–EH_20** | ⬜ **0/20, por começar. Próximo: EH_1** |
 
 > ⚠️ **Não confiar só nesta tabela** — já esteve desatualizada e levou a retraduzir o
 > WC_23, que afinal já estava feito. Método fiável para descobrir o próximo por traduzir:
@@ -421,6 +422,26 @@ duas linhas (`ATRAÇÕES` / `PRINCIPAIS`) tem de continuar a ser duas linhas dep
 traduzido (`OS` / `HEADLINERS`). O `splice` aborta e diz quantas linhas faltam; para
 encontrar **onde**, alinhar os dois ficheiros pelas linhas-âncora (letreiros em maiúsculas
 e URLs) e reportar o primeiro índice em que divergem.
+
+> **Localizador de desalinhamento que funciona** (usado no WA_46 e no WA_49, os dois
+> únicos episódios de WA_37–54 em que colapsei uma frase de duas linhas numa só). Voltar a
+> extrair o original para um ficheiro à parte e procurar o ponto em que a tradução passa a
+> corresponder à linha *anterior* do original:
+> ```js
+> const a = fs.readFileSync('orig.txt','utf8').split('\n').map(s=>s.trim());
+> const b = fs.readFileSync('trad.txt','utf8').split('\n').map(s=>s.trim());
+> for (let i=1;i<a.length-1;i++)
+>   if (a[i]!==b[i] && a[i]!=='' && a[i]===b[i-1]) { console.log('desvio em', i+1, a[i]); break; }
+> ```
+> Comparar as posições das **linhas em branco** dos dois ficheiros estreita primeiro a
+> janela — os blocos de créditos e os letreiros multi-linha têm brancos lá dentro e são
+> âncoras fiáveis.
+
+⚠️ **Bug do `splice` a evitar ao reescrever o script:** `split(/\r?\n/)` já devolve um
+elemento `''` final quando o ficheiro acaba em newline. Voltar a acrescentar o terminador
+no `join` duplica-o e o ficheiro fica com mais um byte — o `cmp` de ida-e-volta apanha isto
+e é o primeiro teste a fazer (extrair + reinjetar um episódio **já traduzido** e confirmar
+que fica byte a byte igual).
 
 Só o `.srt` é traduzido. **O `.ass` fica intocado** (continua em PT-BR) — é a fonte do
 posicionamento da frente 1, não é servido ao utilizador.
@@ -523,6 +544,51 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 - Alcunhas inventadas mantêm-se como nomes próprios (`Musgojuurou`, `Sombrangoro`,
   `Gizão`, `Balão`, `Barbinha`); só `Cejogoro` foi aportuguesado para **`Sobrancegoro`**
   por ser espanhol (`ceja`).
+
+## Convenções fixadas em WA_37–WA_54 (fecho do arco)
+
+- **`Headliner`** também onde o original escreve `Astro Principal` / `Atração Principal`
+  (WA_43, WA_51, WA_52, WA_53) — coerente com a decisão do utilizador.
+- **`Grande Astro` / `Grandes Astros`** para o *posto* de All-Star, mesmo onde o original
+  escreve `Celebridade(s)` (WA_44, WA_47, WA_48, WA_49, WA_50, WA_52, WA_54). **Exceção
+  deliberada:** no número do Queen no WA_43 (`quem é a atração principal?` / `a celebridade
+  do canto e da dança?`) ficou `atração principal`/`celebridade`, porque ali é trocadilho de
+  showman e não o nome do posto.
+- **Aviso do reprodutor**: o original aparece em **inglês** (WA_38, WA_51, WA_54) e em
+  variantes PT-BR — todos convertidos para o mesmo fraseado PT-PT de sempre.
+- **Créditos**: `Trilha Sonora` → **`Banda Sonora`**; `Controle de Qualidade` →
+  **`Controlo`**; `Karaokê` → **`Karaoke`**. Quando o bloco inteiro está em inglês
+  (`Video Editing`, `Quality Control`, `Timing`…) **fica em inglês** (WA_51).
+- `Fênix` → **`Fénix`**; `zumbi` → **`zombie`**; `Karatê` → **`Karaté`**;
+  `terremoto` → **`terramoto`**; `equipe` → **`equipa`**; `saquê` → **`saqué`**;
+  `infectado` → **`infetado`**; `demônio` → **`demónio`**.
+- `sobrenome` (=nome de família) → **`apelido`** (WA_40); `apelido` (=alcunha) →
+  **`alcunha`**, como já estava.
+- `Casa de Show`/`Salão de Shows` → **`Casa de Espetáculos`**; `portão/porta dos fundos` →
+  **`portão/porta das traseiras`**; `Fazenda Paradisíaca` → **`Quinta Paradisíaca`**;
+  `Vilarejo Bakura` → **`Cidade Bakura`**; `cachoeiras` → **`cascatas`**.
+- `chutar a bunda` → **`dar um pontapé no rabo`**; `pirralho/moleque` → **`fedelho/puto`**;
+  `garoto/cara` → **`rapaz/tipo`**; `pessoal/galera` → **`malta`**; `Beleza!/Eba!` →
+  **`Boa!`**; `Droga!` → **`Raios!`**; `Que saco/Que chato` → **`Que seca`**;
+  `babaca` → **`idiota`**; `puxa-sacos` → **`graxistas`**; `dar no pé/cair fora` →
+  **`pirar-nos/sair daqui`**; `Foi mal` → **`Desculpa`**; `legal/maneiro` → **`fixe`**.
+- Recompensas: `4 Bilhões 388 Milhões` → **`4 Mil Milhões e 388 Milhões de Berries`**;
+  `1.5 bilhão` → **`1,5 mil milhões`**.
+- **Termos mantidos**: `Sulong`, `Gifters`, `Pleasures`, `Waiters`, `Numbers`, `Tobiroppo`,
+  `Oniwabanshu`, `kunoichi`, `oni`, `kappa`, `oshiruko`, `mochi`, `tatame`, `Live Floor`,
+  `pleasure hall`, `Golden Festival`, `Wapometal`, `road poneglyph`, `Haki`, `Ryuo`,
+  `Akuma no Mi …`, nomes de ataques e alcunhas (`Yamabro`, `Chobro`, `Desgrenhado`,
+  `Ruivotaro`, `Buggyjiro`, `Cabeça de Musgo`, `Pay-Pay`, `Mana`, `-gara`, `mew`, `miau`).
+- **Gralhas do original corrigidas em silêncio:** `emde três dias`, `cadeirão`→`caldeirão`,
+  `setença`→`sentença`, `Técnicamente`, `MONGES CEGO`→`MONGE CEGO`, `KURI, CASTILLO`
+  (espanhol)→`CASTELO`, `se despidou`→`despiu-se`, `Grágicos`, `almeijamos`→`almejamos`,
+  `combicei`→`acalentei`, `desgraçadoo`, `logol`, `Qaualquer`, `o luffy`→`o Luffy`,
+  `ão se esqueça`→`não te esqueças`, `é muito divirto`→`é muito divertido`,
+  `Atachem seus pés`→`Ataquem-lhe os pés`, `1.5 bilhão`.
+- **Incoerências do próprio original mantidas** (não são gralhas inequívocas):
+  `Kanjuro, a Chuva da Noite` (WA_41) vs `Kanjuro Chuva da Tarde` (WA_47);
+  `Torre do Cérebro Direito` (WA_51) vs `Torre do Hemisfério Direito` (WA_52);
+  `Kaido` vs `Kaidou` na mesma cena.
 
 ## ⚠️ Género dos termos em inglês — NÃO assumir masculino
 
