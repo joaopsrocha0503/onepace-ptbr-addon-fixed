@@ -616,7 +616,7 @@ Timing:
 FJATP
 Galaxy 9000
 
-Controle de Qualidade:
+Controlo de Qualidade:
 DolphinWeabu
 Feeso
 Galaxy 9000
@@ -630,7 +630,7 @@ Maestro Musical:
 Gráficos:
  Datenshi
 
-Karaokê:
+Karaoke:
 KaitouYahiko
 Shichibukai Fansub
 

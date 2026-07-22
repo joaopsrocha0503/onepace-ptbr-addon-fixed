@@ -1973,7 +1973,7 @@ Edição:
 Timing:
 KaitouYahiko
 
-Controle de Qualidade:
+Controlo de Qualidade:
 Feeso,
 Galaxy 9000,
 Grug,
@@ -1986,7 +1986,7 @@ Mestre Musical:
 Gráficos:
  Datenshi
 
-Karaokê:
+Karaoke:
 KaitouYahiko
 Shichibukai Fansub
 

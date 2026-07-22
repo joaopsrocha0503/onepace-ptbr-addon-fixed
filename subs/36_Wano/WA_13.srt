@@ -1937,7 +1937,7 @@ Timing:
 FJATP
 PhosCity
 
-Controle de qualidade:
+Controlo de qualidade:
 DolphinWeabu
 Feeso
 Galaxy 9000
@@ -1951,7 +1951,7 @@ Maestro musical:
 Gráficos:
  Datenshi
 
-Karaokê e legendas:
+Karaoke e legendas:
 Shichibukai Fansub
 
 Tradução: Juan Tlgd

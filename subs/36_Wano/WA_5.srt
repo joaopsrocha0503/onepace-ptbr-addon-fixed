@@ -1635,7 +1635,7 @@ Timing:
 FJATP
 KaitouYahiko
 
-Controle de Qualidade:
+Controlo de Qualidade:
 Galaxy 9000
 Grug
 Nagatei
@@ -1647,7 +1647,7 @@ Halee
 Gráficos:
  Datenshi
 
-Karaokê:
+Karaoke:
 KaitouYahiko
 Shichibukai Fansub
 

@@ -2699,7 +2699,7 @@ FJATP
 KaitouYahiko
 Umim
 
-Controle de qualidade:
+Controlo de qualidade:
 Bastia
 Feeso
 Galaxy 9000
