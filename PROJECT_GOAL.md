@@ -367,13 +367,16 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 > WC_23, que afinal já estava feito. Método fiável para descobrir o próximo por traduzir:
 > contar marcadores PT-BR por ficheiro
 > (`você`, `a gente`, `acontecendo`, `falando`, `hein?`, `vilarejo`, gerúndios `-ndo`).
-> Os traduzidos dão ≤6 ocorrências, quase só falsos positivos (`vocês`, `toda a gente`);
-> os por traduzir dão 10–80.
->
 > ```bash
 > cd subs/36_Wano
 > for f in WA_*.srt; do echo "$f $(grep -ciE 'você|a gente|acontecendo|falando|hein\?' $f)"; done
 > ```
+>
+> **Como ler o resultado:** há um salto claro, não um limiar fino. A 2026-07-22 os
+> traduzidos (WA_1–WA_10) davam **0 a 9** e os por traduzir (WA_11+) davam **18 a 80**.
+> Tudo o que está abaixo de ~10 é falso positivo — `vocês` e `boa gente`/`toda a gente`
+> são legítimos em PT-PT. Na dúvida, abrir o ficheiro e olhar: um episódio por traduzir
+> nota-se à primeira linha de diálogo.
 
 ## Método para ficheiros grandes (extrair → traduzir → reinjetar)
 
