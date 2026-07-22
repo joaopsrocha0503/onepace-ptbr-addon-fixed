@@ -8,31 +8,31 @@ Um desejo.
 
 3
 00:00:05,470 --> 00:00:06,840
-Se quiser realizá-lo,
+Se o quiseres realizar,
 
 4
 00:00:06,840 --> 00:00:10,010
-chegue ao topo.
+chega ao topo.
 
 5
 00:00:25,820 --> 00:00:29,370
-Vá para um mundo nunca visto.
+Vai para um mundo nunca visto.
 
 6
 00:00:30,530 --> 00:00:34,070
-Supere ondas e ventos furiosos.
+Supera ondas e ventos furiosos.
 
 7
 00:00:34,660 --> 00:00:37,040
-Você precisa abrir seu caminho...
+Precisas de abrir o teu caminho...
 
 8
 00:00:37,080 --> 00:00:39,370
-...se quiser ser o número um.
+...se queres ser o número um.
 
 9
 00:00:39,370 --> 00:00:42,050
-Deixe as preocupações para depois.
+Deixa as preocupações para depois.
 
 10
 00:00:42,050 --> 00:00:46,470
@@ -44,19 +44,19 @@ Se o inimigo te intimida,
 
 12
 00:00:52,370 --> 00:00:57,150
-é porque seu coração encolheu.
+é porque o teu coração encolheu.
 
 13
 00:00:57,680 --> 00:00:59,810
-Você não tem opção de fugir.
+Não tens opção de fugir.
 
 14
 00:00:59,810 --> 00:01:02,310
-Dê mais um passo à frente.
+Dá mais um passo em frente.
 
 15
 00:01:02,310 --> 00:01:04,560
-Será um elogio se te chamarem de insolente?
+Será um elogio se te chamarem insolente?
 
 16
 00:01:04,560 --> 00:01:05,880
@@ -64,11 +64,11 @@ Quanto mais difícil a situação,
 
 17
 00:01:05,880 --> 00:01:08,860
-mais você deve sorrir!
+mais tens de sorrir!
 
 18
 00:01:10,270 --> 00:01:15,110
-Veja o quanto você avançou em direção a um novo horizonte.
+Vê o quanto avançaste em direção a um novo horizonte.
 
 19
 00:01:15,110 --> 00:01:19,950
@@ -76,11 +76,11 @@ Por isso agora tudo é mais brilhante e difícil.
 
 20
 00:01:20,230 --> 00:01:24,920
-Viva seu sonho e provoque um furacão.
+Vive o teu sonho e provoca um furacão.
 
 21
 00:01:24,920 --> 00:01:29,420
-Vamos, bagunce o ranking!
+Vá lá, baralha o ranking!
 
 22
 00:01:29,420 --> 00:01:31,680
@@ -92,19 +92,19 @@ Um desejo.
 
 24
 00:01:33,710 --> 00:01:38,430
-Seus sonhos não fugirão, nocauteie todos.
+Os teus sonhos não fogem, derruba-os a todos.
 
 25
 00:01:38,430 --> 00:01:40,810
-Chegue ao topo.
+Chega ao topo.
 
 26
 00:01:41,890 --> 00:01:46,480
-Vila Okobore
+Aldeia Okobore
 
 27
 00:01:51,570 --> 00:01:54,260
-Acordou?!
+Acordaste?!
 
 28
 00:01:56,790 --> 00:01:58,330
@@ -128,19 +128,19 @@ Otama-chan!
 
 33
 00:02:09,180 --> 00:02:10,900
-Como está sua barriga?
+Como está a tua barriga?
 
 34
 00:02:12,880 --> 00:02:14,940
-Está doendo?
+Está a doer?
 
 35
 00:02:22,210 --> 00:02:25,720
-Eu estou curada!
+Estou curada!
 
 36
 00:02:27,500 --> 00:02:29,350
-Funcionou bem rápido, hein?!
+Resultou bem depressa, hã?!
 
 37
 00:02:29,350 --> 00:02:33,690
@@ -158,19 +158,19 @@ Mas...
 40
 00:02:43,060 --> 00:02:46,490
 ...o veneno não foi
-eliminado completamente.
+eliminado por completo.
 
 41
 00:02:46,490 --> 00:02:51,750
-Não beba do rio de novo, Otama-chan.
+Não voltes a beber do rio, Otama-chan.
 
 42
 00:02:51,750 --> 00:02:53,980
-Certo, entendi.
+Certo, entendido.
 
 43
 00:02:58,150 --> 00:02:59,670
-Não ronque, barriga!
+Não rosnes, barriga!
 
 44
 00:02:59,670 --> 00:03:01,590
@@ -190,7 +190,7 @@ Otama-chan!
 
 48
 00:03:06,970 --> 00:03:09,290
-Pare!
+Para!
 
 49
 00:03:15,530 --> 00:03:17,550
@@ -198,15 +198,15 @@ A água do rio...!
 
 50
 00:03:20,050 --> 00:03:24,990
-Não beba do rio!
+Não bebas do rio!
 
 51
 00:03:27,140 --> 00:03:29,450
-Bom, já terminei.
+Bom, já está.
 
 52
 00:03:29,450 --> 00:03:31,700
-Mas só foram os primeiros socorros.
+Mas foram só os primeiros socorros.
 
 53
 00:03:31,700 --> 00:03:32,630
@@ -218,7 +218,7 @@ Obrigado.
 
 55
 00:03:36,280 --> 00:03:39,100
-Você é muito alta.
+És muito alta.
 
 56
 00:03:40,520 --> 00:03:43,720
@@ -227,7 +227,7 @@ Mas a Big Mom era bem maior.
 57
 00:03:45,340 --> 00:03:51,750
 Obrigada por me salvar do lutador
-de sumô que estava me perturbando.
+de sumo que me estava a incomodar.
 
 58
 00:03:53,410 --> 00:03:55,990
@@ -268,11 +268,11 @@ para as ervas!
 
 67
 00:04:32,270 --> 00:04:35,370
-Como poderia pagar o oshiruko?
+Como é que podia pagar o oshiruko?
 
 68
 00:04:41,530 --> 00:04:44,010
-Você não precisa me pagar nada.
+Não precisas de me pagar nada.
 
 69
 00:04:44,920 --> 00:04:45,760
@@ -284,29 +284,29 @@ Não posso aceitar!
 
 71
 00:04:50,810 --> 00:04:55,540
-Eu sei que a a senhora e a 
-Okiku-san e não comem direito!
+Eu sei que a senhora e a
+Okiku-san não comem como deve ser!
 
 72
 00:04:55,540 --> 00:04:56,670
-Tudo bem.
+Está tudo bem.
 
 73
 00:04:56,670 --> 00:04:57,900
-Não seja tímida.
+Não sejas tímida.
 
 74
 00:04:58,400 --> 00:05:02,960
-Você já salvou minha vida
-e agora quer me dar comida!
+Já me salvou a vida
+e agora quer dar-me comida!
 
 75
 00:05:02,960 --> 00:05:05,760
-Como eu poderia aceitar?
+Como é que eu podia aceitar?
 
 76
 00:05:05,760 --> 00:05:07,010
-Tá tudo bem.
+Está tudo bem.
 
 77
 00:05:07,010 --> 00:05:08,180
@@ -318,12 +318,12 @@ Eu disse que está tudo bem.
 
 79
 00:05:09,350 --> 00:05:12,620
-Aconteça o que acontecer, 
-vou pagar pelas ervas.
+Aconteça o que acontecer,
+vou pagar as ervas.
 
 80
 00:05:19,390 --> 00:05:22,550
-Cale a boca!
+Cala a boca!
 
 81
 00:05:23,330 --> 00:05:26,220
@@ -331,20 +331,20 @@ Quando uma mulher te serve comida,
 
 82
 00:05:26,570 --> 00:05:28,970
-você acha que ela 
+achas que ela
 aceitaria facilmente...
 
 83
 00:05:29,250 --> 00:05:33,460
-...que você recusasse?!
+...que tu recusasses?!
 
 84
 00:05:35,180 --> 00:05:37,350
-Se não vai comer,
+Se não vais comer,
 
 85
 00:05:38,420 --> 00:05:41,570
-eu jogo tudo na rua!
+atiro tudo para a rua!
 
 86
 00:05:42,890 --> 00:05:45,410
@@ -352,27 +352,27 @@ Não!
 
 87
 00:05:45,410 --> 00:05:47,260
-Otama-chan, aceite!
+Otama-chan, aceita!
 
 88
 00:05:47,260 --> 00:05:50,700
-Otsuru-san nunca ouve a razão.
+A Otsuru-san nunca ouve a razão.
 
 89
 00:06:01,620 --> 00:06:03,820
-Até quando você vai ficar assim?
+Até quando vais ficar assim?
 
 90
 00:06:03,820 --> 00:06:06,200
-Você devia ficar feliz.
+Devias ficar contente.
 
 91
 00:06:06,200 --> 00:06:08,910
-Hoje é seu aniversário, né?
+Hoje é o teu aniversário, não é?
 
 92
 00:06:08,910 --> 00:06:10,680
-Sério?
+A sério?
 
 93
 00:06:11,030 --> 00:06:12,660
@@ -380,12 +380,12 @@ Foi o que me disseram.
 
 94
 00:06:12,660 --> 00:06:16,850
-Então, considere isso
-um presente meu...
+Então, considera isto
+uma prenda minha...
 
 95
 00:06:16,850 --> 00:06:18,350
-...e coma.
+...e come.
 
 96
 00:07:08,640 --> 00:07:12,070
@@ -397,7 +397,7 @@ Que comida maravilhosa!
 
 98
 00:07:20,270 --> 00:07:23,560
-É a primeira vez que come isso?
+É a primeira vez que comes isso?
 
 99
 00:07:23,560 --> 00:07:24,590
@@ -405,13 +405,13 @@ Sim!
 
 100
 00:07:27,360 --> 00:07:32,110
-Quantos dias você acha
-que ela ficou sem comer?!
+Fazes ideia de quantos dias
+ela esteve sem comer?!
 
 101
 00:07:32,110 --> 00:07:37,400
-Mesmo tecendo chapéus
-e vendendo todos os dias,
+Mesmo a tecer chapéus
+e a vendê-los todos os dias,
 
 102
 00:07:37,400 --> 00:07:42,080
@@ -424,11 +424,11 @@ Tem mochi!
 
 104
 00:07:54,150 --> 00:07:57,270
-Essa comida é um luxo!
+Esta comida é um luxo!
 
 105
 00:07:59,910 --> 00:08:02,230
-Mas está caindo da sua boca.
+Mas está a cair-te da boca.
 
 106
 00:08:04,330 --> 00:08:07,310
@@ -445,11 +445,11 @@ Senhora, muito obrigado!
 109
 00:08:18,670 --> 00:08:23,330
 Acho que nunca vou ter
-um aniversário melhor que esse!
+um aniversário melhor do que este!
 
 110
 00:08:23,910 --> 00:08:27,190
-Me sinto mal pelo mestre.
+Sinto-me mal pelo mestre.
 
 111
 00:08:33,620 --> 00:08:35,660
@@ -457,7 +457,7 @@ Otsuru-san...
 
 112
 00:08:43,400 --> 00:08:47,710
-Esse é o melhor dia 
+Este é o melhor dia
 da minha vida!
 
 113
@@ -470,12 +470,12 @@ Há muitas crianças como ela...
 
 115
 00:09:12,860 --> 00:09:17,470
-Por que uma criança não 
-pode comer o quanto quiser?
+Porque é que uma criança não
+pode comer o que quiser?
 
 116
 00:09:17,470 --> 00:09:21,620
-Bem, quando crescer, 
+Bem, quando crescer,
 pode comer veneno.
 
 117
@@ -485,7 +485,7 @@ Não, não pode.
 118
 00:09:22,960 --> 00:09:29,280
 Com o mar, montanhas e florestas,
-não era pra faltar comida.
+não devia faltar comida.
 
 119
 00:09:29,750 --> 00:09:31,090
@@ -510,11 +510,11 @@ Vocês são jovens muito gentis.
 
 124
 00:09:48,500 --> 00:09:52,690
-A propósito, como se chamam?
+Já agora, como se chamam?
 
 125
 00:09:53,380 --> 00:09:56,190
-Eu sou Zorojuro.
+Eu sou o Zorojuro.
 
 126
 00:09:56,190 --> 00:09:57,530
@@ -522,11 +522,11 @@ Sou um ronin.
 
 127
 00:09:58,220 --> 00:09:59,870
-Eu sou Monkey D....
+Eu sou o Monkey D....
 
 128
 00:10:12,600 --> 00:10:14,750
-O nome dele é...
+Ele chama-se...
 
 129
 00:10:17,150 --> 00:10:18,300
@@ -538,7 +538,7 @@ Isso mesmo.
 
 131
 00:10:24,370 --> 00:10:26,300
-Eu sou Luffytaro!
+Eu sou o Luffytaro!
 
 132
 00:10:27,770 --> 00:10:29,420
@@ -546,7 +546,7 @@ Digo, a vosso serviço.
 
 133
 00:10:33,430 --> 00:10:35,130
-Vocês são estrangeiros, né?
+Vocês são estrangeiros, não são?
 
 134
 00:10:36,190 --> 00:10:38,510
@@ -554,11 +554,11 @@ Deve ter sido difícil entrar no país.
 
 135
 00:10:38,510 --> 00:10:40,220
-Como descobriu?
+Como é que descobriu?
 
 136
 00:10:40,220 --> 00:10:42,450
-Vocês falam engraçado.
+Vocês falam de forma esquisita.
 
 137
 00:10:42,450 --> 00:10:44,390
@@ -566,7 +566,7 @@ Não se preocupem.
 
 138
 00:10:44,390 --> 00:10:47,710
-Não vou contar a ninguém.
+Não conto a ninguém.
 
 139
 00:10:48,610 --> 00:10:51,830
@@ -579,11 +579,11 @@ aqui há um mês.
 
 141
 00:10:57,160 --> 00:11:00,070
-Essa vila se chama Okobore, né?
+Esta aldeia chama-se Okobore, não é?
 
 142
 00:11:00,070 --> 00:11:02,460
-Por que chamam assim?
+Porque é que lhe chamam isso?
 
 143
 00:11:02,460 --> 00:11:03,970
@@ -591,12 +591,12 @@ Exatamente como o nome diz,
 
 144
 00:11:04,830 --> 00:11:10,690
-nós que vivemos aqui sobrevivemos
+nós, que vivemos aqui, sobrevivemos
 com as sobras dos oficiais.
 
 145
 00:11:10,690 --> 00:11:14,920
-Tama disse que tem um lugar
+A Tama disse que há um sítio
 com comida sem veneno.
 
 146
@@ -605,7 +605,7 @@ Olhem ali.
 
 147
 00:11:18,840 --> 00:11:21,980
-Vêm aquela montanha sem chaminés?
+Veem aquela montanha sem chaminés?
 
 148
 00:11:21,980 --> 00:11:26,700
@@ -629,12 +629,12 @@ Quem era?
 
 153
 00:11:36,950 --> 00:11:39,470
-Até vinte anos atrás,
+Até há vinte anos,
 
 154
 00:11:39,900 --> 00:11:45,380
 a família Kozuki governou
-o País de Wano por muito tempo.
+o País de Wano durante muito tempo.
 
 155
 00:11:48,100 --> 00:11:52,950
@@ -643,7 +643,7 @@ ao pé da montanha...
 
 156
 00:11:52,950 --> 00:11:56,230
-...foi criada pelo 
+...foi criada pelo
 falecido Oden-sama...
 
 157
@@ -653,20 +653,20 @@ de Kuri com comida deliciosa.
 
 158
 00:12:19,460 --> 00:12:26,390
-A Fazenda Paradisíaca não foi feita
-para Orochi e seus capangas...
+A Quinta Paradisíaca não foi feita
+para o Orochi e os seus capangas...
 
 159
 00:12:29,310 --> 00:12:31,600
-Monopolizarem a comida.
+monopolizarem a comida.
 
 160
 00:12:33,910 --> 00:12:35,540
-Eu ouvi isso!.
+Eu ouvi isso!
 
 161
 00:12:35,540 --> 00:12:39,570
-Nessa plantação tem 
+Nessa plantação há
 comida sem veneno?
 
 162
@@ -684,27 +684,27 @@ Mas tudo isso...
 
 165
 00:12:49,390 --> 00:12:53,600
-Pertence a Orochi, o Shogun.
+Pertence ao Orochi, o Shogun.
 
 166
 00:12:56,890 --> 00:13:01,050
-Além daquele portão torii,
+Para lá daquele portão torii,
 fica a cidade dos oficiais.
 
 167
 00:13:01,050 --> 00:13:05,340
-Nós vivemos com o que
-eles não querem mais...
+Nós vivemos do que
+eles já não querem...
 
 168
 00:13:05,340 --> 00:13:09,280
-E com a comida quase 
+E da comida quase
 podre que nos vendem.
 
 169
 00:13:10,110 --> 00:13:12,290
-Por isso esse lugar
-se chama Vila Okobore.
+Por isso este sítio
+se chama Aldeia Okobore.
 
 170
 00:13:12,290 --> 00:13:14,380
@@ -712,38 +712,38 @@ Mas está tudo bem.
 
 171
 00:13:14,380 --> 00:13:16,770
-Dá pra sobreviver, mesmo mal.
+Dá para sobreviver, mesmo que mal.
 
 172
 00:14:04,130 --> 00:14:06,200
-O que você acha 
-que está fazendo?
+O que é que julgas
+que estás a fazer?
 
 173
 00:14:06,200 --> 00:14:08,380
-Não se intrometa!
+Não te metas!
 
 174
 00:14:09,660 --> 00:14:12,790
-Eu ouvi você, mulher!
+Eu ouvi-te, mulher!
 
 175
 00:14:12,790 --> 00:14:15,620
-Falou mal do Shogun, hein?!
+Falaste mal do Shogun, hã?!
 
 176
 00:14:17,770 --> 00:14:21,520
-GIFTER 
-BATMAN 
-USUÁRIO DA SMILE DE MORCEGO
-Minha audição é seis vezes
-melhor que a de um humano!
+GIFTER
+BATMAN
+UTILIZADOR DA SMILE DE MORCEGO
+A minha audição é seis vezes
+melhor do que a de um humano!
 
 177
 00:14:21,520 --> 00:14:23,270
-GIFTER 
-BATMAN 
-USUÁRIO DA SMILE DE MORCEGO
+GIFTER
+BATMAN
+UTILIZADOR DA SMILE DE MORCEGO
 Não tolero insultos ao Shogun!
 
 178
@@ -752,25 +752,25 @@ Não tolero insultos ao Shogun!
 
 179
 00:14:28,090 --> 00:14:30,450
-Tudo bem você ter ouvido,
+Tudo bem teres ouvido,
 
 180
 00:14:30,450 --> 00:14:33,280
-Mas isso é motivo 
-pra matar alguém?
+mas isso é motivo
+para matar alguém?
 
 181
 00:14:33,790 --> 00:14:36,060
-Ela teria morrido se você acertasse.
+Ela tinha morrido se acertasses.
 
 182
 00:14:38,100 --> 00:14:42,190
 Enquanto viverem sem
-nos perturbar, não atacamos,
+nos incomodar, não atacamos,
 
 183
 00:14:43,040 --> 00:14:44,880
-mas Orochi-sama...
+mas o Orochi-sama...
 
 184
 00:14:44,880 --> 00:14:50,340
@@ -779,24 +779,24 @@ um espírito rebelde!
 
 185
 00:15:24,980 --> 00:15:26,860
-Minhas flechas!
+As minhas flechas!
 
 186
 00:15:26,860 --> 00:15:29,760
-Ele destruiu todas!
+Destruiu-as todas!
 
 187
 00:15:29,760 --> 00:15:30,720
-Quem é você?!
+Quem és tu?!
 
 188
 00:15:32,030 --> 00:15:36,050
-Estão roubando nossa plantação
- tem várias semanas.
+Andam a roubar a nossa plantação
+ há várias semanas.
 
 189
 00:15:36,050 --> 00:15:40,270
-Estamos procurando o ladrão.
+Estamos à procura do ladrão.
 
 190
 00:15:40,270 --> 00:15:43,420
@@ -808,15 +808,15 @@ Um ronin com um olho só?
 
 192
 00:15:55,050 --> 00:15:58,020
-Vi o pôster com a descrição.
+Vi o cartaz com a descrição.
 
 193
 00:16:14,160 --> 00:16:16,720
-Me solta!
+Larga-me!
 
 194
 00:16:17,600 --> 00:16:19,470
-Quem é você?!
+Quem és tu?!
 
 195
 00:16:19,970 --> 00:16:21,370
@@ -840,15 +840,15 @@ Tama!
 
 200
 00:16:34,860 --> 00:16:36,880
-GIFTER 
-GAZELLEMAN 
-USUÁRIO DA SMILE DE GAZELA
+GIFTER
+GAZELLEMAN
+UTILIZADOR DA SMILE DE GAZELA
 
 201
 00:16:36,880 --> 00:16:38,780
-GIFTER 
-GAZELLEMAN 
-USUÁRIO DA SMILE DE GAZELA
+GIFTER
+GAZELLEMAN
+UTILIZADOR DA SMILE DE GAZELA
 Missão cumprida!
 
 202
@@ -857,7 +857,7 @@ Missão cumprida!
 
 203
 00:16:42,370 --> 00:16:45,040
-Devolva a Tama!
+Devolvam a Tama!
 
 204
 00:16:58,760 --> 00:17:00,310
@@ -873,44 +873,44 @@ Que pernas rápidas!
 
 207
 00:17:13,820 --> 00:17:15,900
-Me solta!
+Larga-me!
 
 208
 00:17:16,280 --> 00:17:18,660
-Fique quieta, sua pestinha!
+Está quieta, sua fedelha!
 
 209
 00:17:18,990 --> 00:17:21,370
-Me permita montar em 
-você, komainu-kun!
+Permite-me montar-te,
+komainu-kun!
 
 210
 00:17:26,970 --> 00:17:27,860
-Cachorro!
+Cão!
 
 211
 00:17:35,170 --> 00:17:37,970
-Essa mulher tem uma espada!
+Aquela mulher tem uma espada!
 
 212
 00:17:37,970 --> 00:17:39,930
-Parece que sabe usá-la,
+Parece que a sabe usar,
 
 213
 00:17:41,580 --> 00:17:43,770
-mas nunca a vi empunhando.
+mas nunca a vi empunhá-la.
 
 214
 00:17:46,730 --> 00:17:48,600
-Cachorro!
+Cão!
 
 215
 00:17:48,600 --> 00:17:50,860
-Me leve também!
+Leva-me também!
 
 216
 00:17:54,520 --> 00:17:55,440
-Nossa, o braço dele!
+Caramba, o braço dele!
 
 217
 00:17:57,650 --> 00:17:59,490
@@ -918,7 +918,7 @@ Espera!
 
 218
 00:17:59,490 --> 00:18:01,540
-Eu vou também!
+Eu também vou!
 
 219
 00:18:01,540 --> 00:18:02,330
@@ -938,7 +938,7 @@ Zorojuro-san!
 
 223
 00:18:17,060 --> 00:18:19,510
-Por que querem essa pestinha?!
+Porque é que querem essa fedelha?!
 
 224
 00:18:19,510 --> 00:18:21,010
@@ -946,7 +946,7 @@ Não sei!
 
 225
 00:18:21,010 --> 00:18:23,140
-Mas temos que salvá-la!
+Mas temos de a salvar!
 
 226
 00:18:25,390 --> 00:18:27,800
@@ -954,7 +954,7 @@ Tama!
 
 227
 00:18:27,800 --> 00:18:30,850
-Tô indo te salvar!
+Vou salvar-te!
 
 228
 00:18:31,410 --> 00:18:33,770
@@ -966,7 +966,7 @@ Gazelleman!
 
 230
 00:18:39,740 --> 00:18:41,030
-Rápido!
+Depressa!
 
 231
 00:18:41,030 --> 00:18:43,330
@@ -974,25 +974,25 @@ Entendido!
 
 232
 00:18:47,950 --> 00:18:50,420
-Não vão nos alcançar!
+Não nos vão apanhar!
 
 233
 00:18:53,540 --> 00:18:55,150
-Droga!
+Raios!
 
 234
 00:18:55,150 --> 00:18:58,060
-Que sequestro bem planejado.
+Que rapto tão bem planeado.
 
 235
 00:18:58,060 --> 00:19:02,250
 Provavelmente agiram sob as ordens
-de uma Atração Principal.
+de um Astro Principal.
 
 236
 00:19:02,250 --> 00:19:05,680
 Além disso, nessa direção
-só tem um destino:
+só há um destino:
 
 237
 00:19:07,690 --> 00:19:09,520
@@ -1004,7 +1004,7 @@ Um caderno?
 
 239
 00:19:13,490 --> 00:19:16,280
-Naquela cidade há três Atrações Principais:
+Naquela cidade há três Astros Principais:
 
 240
 00:19:17,170 --> 00:19:18,380
@@ -1029,11 +1029,11 @@ poderes com Akumas no Mi artificiais.
 
 245
 00:19:32,750 --> 00:19:36,600
-Você não é uma garota qualquer.
+Não és uma rapariga qualquer.
 
 246
 00:19:38,790 --> 00:19:40,230
-Quem é você?
+Quem és tu?
 
 247
 00:19:47,220 --> 00:19:48,680
@@ -1045,17 +1045,17 @@ Diante de vocês está...
 
 249
 00:19:58,840 --> 00:20:02,110
-Holdem-sama, aqui 
-é o Gazelleman.
+Holdem-sama, fala
+o Gazelleman.
 
 250
 00:20:02,680 --> 00:20:08,460
-Capturei a garota que, segundo 
+Capturei a miúda que, segundo
 o relatório, domou o babuíno.
 
 251
 00:20:09,580 --> 00:20:12,870
-Me solta!
+Larga-me!
 
 252
 00:20:13,890 --> 00:20:16,300
@@ -1063,11 +1063,11 @@ Bom trabalho.
 
 253
 00:20:16,300 --> 00:20:18,840
-Ela será útil.
+Vai ser útil.
 
 254
 00:20:19,400 --> 00:20:20,790
-Traga-a.
+Tragam-na.
 
 255
 00:20:20,790 --> 00:20:21,620
@@ -1079,12 +1079,12 @@ Irmão Luffy!
 
 257
 00:20:44,050 --> 00:20:49,140
-Estamos em Bakura, uma vila 
-próspera localizada na região de Kuri.
+Estamos em Bakura, uma cidade
+próspera situada na região de Kuri.
 
 258
 00:20:59,380 --> 00:21:00,500
-Droga!
+Raios!
 
 259
 00:21:02,960 --> 00:21:05,340
@@ -1092,13 +1092,13 @@ Aquele maldito ronin!
 
 260
 00:21:05,340 --> 00:21:08,880
-Me afastei porque senti
+Afastei-me porque senti
 um espírito estranho nele,
 
 261
 00:21:08,880 --> 00:21:13,830
 mas aconteça o que acontecer,
-eu quero me casar com a Okiku.
+eu quero casar com a Okiku.
 
 262
 00:21:15,100 --> 00:21:20,080
@@ -1107,11 +1107,11 @@ fama e comida garantida.
 
 263
 00:21:21,720 --> 00:21:24,650
-Como ela poderia me recusar?
+Como é que ela me podia recusar?
 
 264
 00:21:29,450 --> 00:21:33,330
-Não se preocupe com bobagens, idiota.
+Não te preocupes com disparates, idiota.
 
 265
 00:21:33,330 --> 00:21:34,850
@@ -1119,62 +1119,62 @@ O quê?!
 
 266
 00:21:34,850 --> 00:21:37,340
-Ela é uma mulher da Vila Okobore.
+Ela é uma mulher da Aldeia Okobore.
 
 267
 00:21:37,340 --> 00:21:42,450
-São inferiores, Orochi-sama
-não se importa com eles.
+São inferiores, o Orochi-sama
+não quer saber deles.
 
 268
 00:21:45,760 --> 00:21:49,140
-Nunca importou se ela gosta de você.
+Nunca interessou se ela gosta de ti.
 
 269
 00:21:49,140 --> 00:21:52,630
-Pode raptá-la à força.
+Podes raptá-la à força.
 
 270
 00:21:52,630 --> 00:21:55,100
-Queimar a casa dela...
+Queimar-lhe a casa...
 
 271
 00:21:55,920 --> 00:22:00,620
-...ou matar sua família
+...ou matar-lhe a família
 para que não tenha para onde ir.
 
 272
 00:22:01,170 --> 00:22:06,190
-Elimine as opções
-e faça-a depender de você.
+Elimina as opções
+e fá-la depender de ti.
 
 273
 00:22:09,320 --> 00:22:09,870
-Seus ancestrais eram samurais.
+Os teus antepassados eram samurais.
 
 274
 00:22:09,870 --> 00:22:12,080
-Seus ancestrais eram samurais.
-GIFTER 
-MOUSEMAN 
-USUÁRIO DA SMILE DE RATO
+Os teus antepassados eram samurais.
+GIFTER
+MOUSEMAN
+UTILIZADOR DA SMILE DE RATO
 
 275
 00:22:12,080 --> 00:22:16,790
-GIFTER 
-MOUSEMAN 
-USUÁRIO DA SMILE DE RATO
+GIFTER
+MOUSEMAN
+UTILIZADOR DA SMILE DE RATO
 Em Wano temos classes
 sociais bem definidas.
 
 276
 00:22:21,790 --> 00:22:26,920
-Se você, estrela do esporte 
-nacional, valorizar um inferior,
+Se tu, estrela do desporto
+nacional, valorizares um inferior,
 
 277
 00:22:27,630 --> 00:22:30,780
-estará dando mau exemplo.
+estás a dar mau exemplo.
 
 278
 00:22:33,760 --> 00:22:35,470
@@ -1186,7 +1186,7 @@ Exatamente!
 
 280
 00:22:38,440 --> 00:22:41,270
-Posso fazer o que 
+Posso fazer o que
 quiser com a Okiku!
 
 281
@@ -1203,24 +1203,24 @@ Isso é um guaxinim, certo?
 
 284
 00:22:55,450 --> 00:22:59,660
-Sim, é nosso animal de estimação
+Sim, é o nosso animal de estimação
 há muito tempo.
 
 285
 00:22:59,960 --> 00:23:02,070
-Cozinhem ele!
+Cozinhem-no!
 
 286
 00:23:04,790 --> 00:23:07,460
-Guaxinins são minha comida favorita.
+Guaxinins são a minha comida preferida.
 
 287
 00:23:34,470 --> 00:23:36,300
-Chegou, hein?
+Chegámos, hã?
 
 288
 00:23:51,260 --> 00:23:53,060
-Já dá para ver!
+Já se vê!
 
 289
 00:23:57,560 --> 00:24:00,980
@@ -1229,11 +1229,11 @@ Vamos invadir, Luffytaro-san, Zorojuro-san!
 290
 00:24:01,850 --> 00:24:05,940
 À frente fica Bakura,
-a cidade dos oficiais e piratas.
+a cidade dos oficiais e dos piratas.
 
 291
 00:24:06,560 --> 00:24:08,650
-Talvez não sairemos vivos de lá.
+Talvez não saiamos de lá vivos.
 
 292
 00:24:13,690 --> 00:24:15,910
@@ -1265,38 +1265,38 @@ Hã?
 
 299
 00:24:44,350 --> 00:24:44,890
-Não finja ser forte!
+Não finjas ser forte!
 
 300
 00:24:44,890 --> 00:24:46,510
-Não finja ser forte!
-UMA CERTA MANSÃO 
+Não finjas ser forte!
+UMA CERTA MANSÃO
 NA CIDADE BAKURA
 
 301
 00:24:46,510 --> 00:24:50,320
-UMA CERTA MANSÃO 
+UMA CERTA MANSÃO
 NA CIDADE BAKURA
 
 302
 00:25:09,810 --> 00:25:12,050
-Minhas costas doem.
+Doem-me as costas.
 
 303
 00:25:15,310 --> 00:25:18,090
-Cale a boca, Gazelleman!
+Cala a boca, Gazelleman!
 
 304
 00:25:26,900 --> 00:25:28,730
-Pode ir agora!
+Já podes ir!
 
 305
 00:25:28,730 --> 00:25:31,540
-Seus gemidos estão me irritando!
+Os teus gemidos estão a irritar-me!
 
 306
 00:25:38,700 --> 00:25:40,580
-Melhore sua resistência!
+Melhora a tua resistência!
 
 307
 00:25:40,580 --> 00:25:42,340
@@ -1304,11 +1304,11 @@ Idiota!
 
 308
 00:25:50,120 --> 00:25:52,750
-Não estava falando com você!
+Não estava a falar contigo!
 
 309
 00:25:53,580 --> 00:25:58,260
-Pare de encarar meu rosto!
+Para de me encarar!
 
 310
 00:26:16,150 --> 00:26:16,280
@@ -1316,22 +1316,22 @@ Que medo!
 
 311
 00:26:16,280 --> 00:26:19,050
-ATRAÇÃO PRINCIPAL DOS PIRATAS FESTAS 
-HOLDEM 
-USUÁRIO DA SMILE DE LEÃO
+ASTRO PRINCIPAL DOS PIRATAS FERAS
+HOLDEM
+UTILIZADOR DA SMILE DE LEÃO
 Que medo!
 
 312
 00:26:19,050 --> 00:26:19,560
-ATRAÇÃO PRINCIPAL DOS PIRATAS FESTAS 
-HOLDEM 
-USUÁRIO DA SMILE DE LEÃO
+ASTRO PRINCIPAL DOS PIRATAS FERAS
+HOLDEM
+UTILIZADOR DA SMILE DE LEÃO
 
 313
 00:26:19,560 --> 00:26:21,070
-ATRAÇÃO PRINCIPAL DOS PIRATAS FESTAS 
-HOLDEM 
-USUÁRIO DA SMILE DE LEÃO
+ASTRO PRINCIPAL DOS PIRATAS FERAS
+HOLDEM
+UTILIZADOR DA SMILE DE LEÃO
 Ele tem um leão na barriga!
 
 314
@@ -1340,7 +1340,7 @@ Ele tem um leão na barriga!
 
 315
 00:26:22,870 --> 00:26:27,040
-ABDÔMEN DE HOLDEM 
+ABDÓMEN DE HOLDEM
 KAMIJIRO
 
 316
@@ -1349,7 +1349,7 @@ E esse olhar desafiador?!
 
 317
 00:26:47,130 --> 00:26:48,600
-O que eu fiz?
+O que é que eu fiz?
 
 318
 00:26:48,600 --> 00:26:49,850
@@ -1365,12 +1365,12 @@ Mas...
 
 321
 00:26:58,150 --> 00:27:05,580
-...compartilham o mesmo corpo,
+...partilham o mesmo corpo,
 essa virilha também é do leão.
 
 322
 00:27:10,420 --> 00:27:12,290
-Por que não aprende?
+Porque é que não aprendes?
 
 323
 00:27:12,290 --> 00:27:14,130
@@ -1378,7 +1378,7 @@ Holdem-sama...
 
 324
 00:27:14,130 --> 00:27:16,670
-O que fazemos com a pestinha?
+O que fazemos com a fedelha?
 
 325
 00:27:17,680 --> 00:27:18,970
@@ -1386,12 +1386,12 @@ Holdem-sama!
 
 326
 00:27:19,600 --> 00:27:21,470
-Seu nome é Otama, né?
+Chamas-te Otama, não é?
 
 327
 00:27:26,790 --> 00:27:32,350
-Como uma pestinha fraca
-e pequena como você...
+Como é que uma fedelha fraca
+e pequena como tu...
 
 328
 00:27:34,140 --> 00:27:38,400
@@ -1399,15 +1399,15 @@ e pequena como você...
 
 329
 00:27:38,400 --> 00:27:41,520
-Meus homens viram!
+Os meus homens viram!
 
 330
 00:28:00,340 --> 00:28:03,260
-Não finja que não sabe!
+Não finjas que não sabes!
 
 331
 00:28:03,260 --> 00:28:07,860
-Deve ser uma Akuma no Mi 
+Deve ser uma Akuma no Mi
 verdadeira!
 
 332
@@ -1416,7 +1416,7 @@ Vamos!
 
 333
 00:28:13,190 --> 00:28:15,060
-Fale!
+Fala!
 
 334
 00:28:18,080 --> 00:28:19,360
@@ -1424,11 +1424,11 @@ Otama.
 
 335
 00:28:19,360 --> 00:28:23,880
-Sua habilidade atrai os inimigos.
+A tua habilidade atrai os inimigos.
 
 336
 00:28:23,880 --> 00:28:27,580
-Nunca use na frente dos outros.
+Nunca a uses à frente dos outros.
 
 337
 00:28:39,460 --> 00:28:41,670
@@ -1444,7 +1444,7 @@ Nunca use na frente dos outros.
 
 340
 00:28:54,470 --> 00:28:56,100
-Entendo.
+Estou a ver.
 
 341
 00:28:56,100 --> 00:28:59,090
@@ -1456,24 +1456,24 @@ Sim.
 
 343
 00:29:05,490 --> 00:29:07,120
-Você tá me zoando?!
+Estás a gozar comigo?!
 
 344
 00:29:09,700 --> 00:29:12,920
-Maldita pestinha!
+Maldita fedelha!
 
 345
 00:29:16,520 --> 00:29:22,350
-Ouvi dizer que arrancou
-parte da própria bochecha.
+Ouvi dizer que arrancaste
+parte da tua própria bochecha.
 
 346
 00:29:35,930 --> 00:29:38,860
-Se não vai me contar,
+Se não me contas,
 
 347
 00:29:41,380 --> 00:29:43,740
-nós mesmos descobriremos.
+descobrimos nós mesmos.
 
 348
 00:29:43,740 --> 00:29:45,990
@@ -1522,7 +1522,7 @@ A cidade Bakura está atrás deles!
 359
 00:30:38,710 --> 00:30:42,460
 Luffy, não podemos perder
-tempo com esses fracotes!
+tempo com estes fracotes!
 
 360
 00:30:43,830 --> 00:30:45,130
@@ -1530,7 +1530,7 @@ Eu sei!
 
 361
 00:30:45,130 --> 00:30:47,590
-Ataque, cachorro!
+Ataca, cão!
 
 362
 00:30:55,450 --> 00:30:57,270
@@ -1550,33 +1550,33 @@ O que foi?
 
 366
 00:31:07,280 --> 00:31:08,690
-Por que está tão agitado?
+Porque é que estás tão agitado?
 
 367
 00:31:10,090 --> 00:31:12,450
-É que o Chapéu de Palha e Roronoa...!
+É que o Chapéu de Palha e o Roronoa...!
 
 368
 00:31:13,880 --> 00:31:15,830
-O Chapéu de Palha-ya 
+O Chapéu de Palha-ya
 está em Wano?
 
 369
 00:31:15,830 --> 00:31:18,730
-Então ele chegou.
+Então chegou.
 
 370
 00:31:18,730 --> 00:31:23,130
-O Chapéu de Palha e Roronoa
+O Chapéu de Palha e o Roronoa
 invadiram a cidade Bakura!
 
 371
 00:31:24,380 --> 00:31:25,930
-Ei, espera aí!
+Ei, espera lá!
 
 372
 00:31:25,930 --> 00:31:28,620
-Isso vai virar um caso grave!
+Isto vai dar um caso grave!
 
 373
 00:31:28,620 --> 00:31:30,510
@@ -1604,7 +1604,7 @@ Não façam isso...
 
 379
 00:31:57,930 --> 00:32:01,990
-Então mostre sua habilidade!
+Então mostra a tua habilidade!
 
 380
 00:32:22,050 --> 00:32:25,310
@@ -1612,7 +1612,7 @@ Tama!
 
 381
 00:32:42,160 --> 00:32:44,000
-Você fez algo?
+Fizeste alguma coisa?
 
 382
 00:32:46,390 --> 00:32:47,540
