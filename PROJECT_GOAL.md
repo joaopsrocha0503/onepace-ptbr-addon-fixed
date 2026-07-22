@@ -3,11 +3,12 @@
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
 > **Última atualização: 2026-07-21**
 
-## ▶ PRÓXIMA SESSÃO: retomar a tradução PT-PT no WC_23
+## ✅ AS DUAS FRENTES ESTÃO FECHADAS
 
-A frente 1 está **fechada e no ar**. O trabalho ativo passa a ser a **frente 2**
-(adaptação PT-BR → PT-PT), a partir do **WC_23**. Saltar para
-[FRENTE 2](#frente-2--adaptação-pt-br--pt-pt-ativa).
+A frente 1 (posicionamento) fechou a 2026-07-21. A frente 2 (PT-PT) fechou a
+2026-07-22 com o arco Whole Cake Island completo (WC_1, WC_8–WC_39).
+**Não há trabalho em curso.** Antes de começar seja o que for nos arcos
+seguintes, é preciso confirmação explícita do utilizador.
 
 ⚠️ **Ler antes de traduzir a primeira linha:** os `.srt` foram achatados pela frente 1.
 Isso muda como se traduz e como se verifica — ver
@@ -16,7 +17,7 @@ Isso muda como se traduz e como se verifica — ver
 | Frente | Estado |
 |---|---|
 | **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
-| **2. Adaptação PT-BR → PT-PT** | ▶️ **ATIVA** — próximo: **WC_23**. 15 de 32 do arco WCI feitos |
+| **2. Adaptação PT-BR → PT-PT** | ✅ **ARCO WCI CONCLUÍDO** a 2026-07-22 — 32/32. Hard stop antes dos arcos seguintes |
 
 ---
 
@@ -362,10 +363,12 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 |----------|--------|
 | WC_1 | ✅ Traduzido + verificado (piloto aprovado) |
 | WC_2–WC_7 | ⏭️ Deixados em PT-BR (por opção) |
-| WC_8–24 | ✅ Traduzidos + timestamps verificados |
-| **WC_25 → WC_39** | ⬜ Por traduzir (próximo: WC_25) |
+| WC_8–39 | ✅ Traduzidos + timestamps verificados |
 
-**17 de 32 ficheiros do arco feitos.**
+**32 de 32 ficheiros do arco feitos — ARCO WCI CONCLUÍDO a 2026-07-22.**
+
+⛔ **HARD STOP em vigor:** não avançar para `COVER_WAPOL`, `34_Reverie`, `36_Wano`
+nem `37_Egghead` sem confirmação explícita do utilizador.
 
 > O WC_23 já estava traduzido quando a sessão de 2026-07-21 o foi retomar — este ficheiro
 > é que tinha ficado por atualizar. Método fiável para descobrir o próximo por traduzir,
