@@ -5,9 +5,13 @@
 
 ## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
 
-**Traduzir `subs/36_Wano/WA_11.srt` para PT-PT, e continuar daí para a frente.**
-WA_1 a WA_10 já estão feitos; faltam **44 episódios** (WA_11 … WA_54).
+**Traduzir `subs/36_Wano/WA_37.srt` para PT-PT, e continuar daí para a frente.**
+WA_1 a WA_36 já estão feitos; faltam **18 episódios** (WA_37 … WA_54).
 Não é preciso pedir confirmação — o utilizador já autorizou avançar por Wano fora.
+
+⚠️ **O extrator de texto do `.srt` tem de casar blocos pelo cabeçalho seguinte, não pela
+próxima linha em branco** — ver [Método para ficheiros grandes](#método-para-ficheiros-grandes-extrair--traduzir--reinjetar).
+Um parser ingénuo salta os blocos de créditos **sem dar erro**.
 
 ⚠️ **Ler antes de traduzir a primeira linha:** os `.srt` foram achatados pela frente 1.
 Isso muda como se traduz e como se verifica — ver
@@ -16,7 +20,7 @@ Isso muda como se traduz e como se verifica — ver
 | Frente | Estado |
 |---|---|
 | **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
-| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35 completos; arco 36 (Wano) em 10/54. Em produção como **v2.3.0** |
+| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35 completos; arco 36 (Wano) em 36/54. Em produção como **v2.4.0** |
 
 ---
 
@@ -360,7 +364,7 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 | 33 — Whole Cake Island | WC_1, WC_8–WC_39 | ✅ 32/32 (2026-07-22). WC_2–WC_7 ficam em PT-BR por opção |
 | 34 — Wapol's Omnivorous Hurrah | COVER_WAPOL_1 | ✅ 1/1 (2026-07-22) |
 | 35 — Reverie | REV_1–REV_3 | ✅ 3/3 (2026-07-22) |
-| **36 — Wano** | **WA_1–WA_54** | ▶️ **10/54.** Feitos WA_1–WA_10. **Próximo: WA_11** |
+| **36 — Wano** | **WA_1–WA_54** | ▶️ **36/54.** Feitos WA_1–WA_36. **Próximo: WA_37** |
 | 37 — Egghead | EH_1–EH_20 | ⬜ 0/20, por começar |
 
 > ⚠️ **Não confiar só nesta tabela** — já esteve desatualizada e levou a retraduzir o
@@ -373,7 +377,7 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 > ```
 >
 > **Como ler o resultado:** há um salto claro, não um limiar fino. A 2026-07-22 os
-> traduzidos (WA_1–WA_10) davam **0 a 9** e os por traduzir (WA_11+) davam **18 a 80**.
+> traduzidos (WA_1–WA_36) davam **0 a 10** e os por traduzir (WA_37+) davam **33 a 70**.
 > Tudo o que está abaixo de ~10 é falso positivo — `vocês` e `boa gente`/`toda a gente`
 > são legítimos em PT-PT. Na dúvida, abrir o ficheiro e olhar: um episódio por traduzir
 > nota-se à primeira linha de diálogo.
@@ -391,11 +395,32 @@ Os episódios de Reverie e Wano têm 400–900 linhas de texto. Reescrever o `.s
    nunca são tocados.
 
 O script (`srt.js`, com os modos `extract` e `splice`) é descartável e vive no scratchpad
-da sessão — são ~30 linhas de Node, mais rápido reescrever do que ir procurar. O `splice`
+da sessão — são ~50 linhas de Node, mais rápido reescrever do que ir procurar. O `splice`
 **aborta** se a contagem de linhas não bater certo, que é a rede de segurança principal.
 
 Antes de reinjetar, confirmar o alinhamento com um `paste` lado a lado em 3–4 pontos do
 ficheiro; se as linhas escorregarem, o erro é silencioso e espalha-se por tudo.
+
+### ⚠️ Três armadilhas do script (todas custaram retrabalho a 2026-07-22)
+
+1. **O fim de um bloco NÃO é a próxima linha em branco.** Os blocos de créditos do fansub
+   têm **linhas em branco lá dentro** (`Timing:` ⏎ `FJATP` ⏎ ⏎ `Gráficos:` …). Um parser
+   que pare na primeira linha em branco salta esse texto **sem dar erro** — o `splice`
+   passa, o `diff` de timestamps passa, e o bloco fica em PT-BR. O fim do bloco é o
+   **cabeçalho do bloco seguinte** (linha só com dígitos seguida de uma linha com `-->`).
+   Este bug existia também nas sessões anteriores: os créditos de todos os arcos 33/35 e
+   de WA_1–WA_10 ficaram por traduzir e só foram corrigidos a 2026-07-22.
+2. **Os `.srt` são maioritariamente CRLF.** Ler, `split('\n')` e juntar com `'\n'` produz um
+   ficheiro **misto** CRLF/LF. Detetar o terminador dominante e voltar a juntar com ele.
+3. **Não mexer nos espaços iniciais/finais.** Muitas linhas de continuação começam por um
+   espaço. O `splice` deve **repor os espaços do original** à volta do texto traduzido, em
+   vez de confiar em quem escreveu a tradução.
+
+E a armadilha que não é do script: **nunca colapsar duas linhas numa só**. Um letreiro de
+duas linhas (`ATRAÇÕES` / `PRINCIPAIS`) tem de continuar a ser duas linhas depois de
+traduzido (`OS` / `HEADLINERS`). O `splice` aborta e diz quantas linhas faltam; para
+encontrar **onde**, alinhar os dois ficheiros pelas linhas-âncora (letreiros em maiúsculas
+e URLs) e reportar o primeiro índice em que divergem.
 
 Só o `.srt` é traduzido. **O `.ass` fica intocado** (continua em PT-BR) — é a fonte do
 posicionamento da frente 1, não é servido ao utilizador.
@@ -463,7 +488,41 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 - O **aviso do reprodutor** (`Seu reprodutor de mídia não suporta…`) também varia de
   episódio para episódio no original — mesmo fraseado PT-PT em todos.
 - Gralhas do original corrigidas em silêncio quando inequívocas: `Kaidouu`, `cortouo`,
-  `á deriva`, `sauce salgado`, `brilo`, `PIRATAS FESTAS`, `muto`, `Kouzki`.
+  `á deriva`, `sauce salgado`, `brilo`, `PIRATAS FESTAS`, `muto`, `Kouzki`, `Grágicos`,
+  `PREHISTÓRICA`, `espirítos`, `leles`, `houveram`, `jutando`, `sere fugia`,
+  `pequeninoss`, `finji`, `captivos`, `Pedir para ela guardar` (→ `Pedi-lhe`).
+  Restos de espanhol no original também: `MONJE Y COVEIRO`, `Plata`, `TENDÃO DE RES`,
+  `Aviso de rompimiento`, `guardias`, e o aviso do reprodutor inteiro em espanhol no WA_31.
+  E um erro de facto: o WA_35 legenda o Edward Newgate como **"Piratas da Barba Negra"** —
+  corrigido para **Barba Branca**.
+
+## Convenções fixadas em WA_11–WA_36
+
+- **Créditos do fansub:** `Controle de qualidade` → **`Controlo de qualidade`**,
+  `Karaokê` → **`Karaoke`**. Os labels em inglês (`Timing`, `Typesetting`,
+  `Quality Control`, `Soundtracking`, `Graphics`, `Subtitle Editing`) **ficam em inglês** —
+  é assim que o original os escreve nos episódios mais recentes.
+- **Aviso do reprodutor** — fraseado único em todos os episódios:
+  `O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.` /
+  `É provável que as legendas não funcionem corretamente.` /
+  `Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:` / `https://mpv.io`
+- **`berries`** (não `BERRYS`/`BERRIS`) — é a forma que o resto do corpus usa.
+- `bilhão`/`bilhões` → **`mil milhões`**; nas recompensas ditas por extenso,
+  `Dois bilhões duzentos e…` → **`Dois mil duzentos e…`**.
+- **`Grande Astro` / `Grandes Astros`** (All-Stars) **mantém-se em português** — é forma já
+  fixada pelo fansub, como `Governador Geral`. A regra dos termos ingleses aplica-se a
+  escolhas novas minhas; o caso do `Headliner` foi decidido explicitamente pelo utilizador.
+- `Waiters`, `Gifters`, `Pleasures`, `Numbers`, `Smile`, `SAD`, `Tobiroppo`, `Sumashi`,
+  `Smart Tanishi`, `Tanishi Visual`, `Ryuuou`, `Meitou`, `Enma`, `Ame no Habakiri`,
+  `Kapparyuu`, `Ninpou`, `aburaage`, `kappa`, `youkai` — todos em inglês/japonês.
+- `sumô` → **`sumo`** (e `Sumo Infernal`); `apelido` (=alcunha) → **`alcunha`**;
+  `Fazenda` → **`Quinta`**; `cachoeira` → **`cascata`**; `banheiros públicos` →
+  **`banhos públicos`**; `garçonete` → **`empregada (de mesa)`**; `zumbi` → **`zombie`**;
+  `geisha` → **`gueixa`**; `franco-atirador` mantém-se.
+- **`Cidade Bakura`** mesmo quando o original escreve `Vila`/`Vilarejo Bakura`.
+- Alcunhas inventadas mantêm-se como nomes próprios (`Musgojuurou`, `Sombrangoro`,
+  `Gizão`, `Balão`, `Barbinha`); só `Cejogoro` foi aportuguesado para **`Sobrancegoro`**
+  por ser espanhol (`ceja`).
 
 ## ⚠️ Género dos termos em inglês — NÃO assumir masculino
 
