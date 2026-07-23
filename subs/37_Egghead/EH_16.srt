@@ -1,24 +1,24 @@
 1
 00:00:00,000 --> 00:00:00,770
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:00,770 --> 00:00:01,500
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Edição de Vídeo
 Zenef
 
 3
 00:00:01,500 --> 00:00:03,480
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Edição de Vídeo
 Zenef
@@ -26,18 +26,18 @@ Nós, nós
 
 4
 00:00:03,480 --> 00:00:04,100
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Edição de Vídeo
 Zenef
 
 5
 00:00:04,100 --> 00:00:06,530
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Edição de Vídeo
 Zenef
@@ -45,17 +45,17 @@ NÓS, TODOS NÓS
 
 6
 00:00:06,530 --> 00:00:09,340
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 NÓS, TODOS NÓS
 
 7
 00:00:09,340 --> 00:00:09,990
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 8
@@ -64,29 +64,29 @@ O fim do sonho, o fim do mar
 
 9
 00:00:15,770 --> 00:00:17,120
-Todos nós temos lugares diferentes para onde queremos ir
+Todos nós temos sítios diferentes para onde queremos ir
 
 10
 00:00:17,120 --> 00:00:17,750
-TODOS NÓS TEMOS LUGARES DIFERENTES PARA ONDE QUEREMOS IR
+TODOS NÓS TEMOS SÍTIOS DIFERENTES PARA ONDE QUEREMOS IR
 
 11
 00:00:17,750 --> 00:00:18,530
-Todos nós temos lugares diferentes para onde queremos ir
+Todos nós temos sítios diferentes para onde queremos ir
 
 12
 00:00:18,530 --> 00:00:18,960
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 13
 00:00:18,960 --> 00:00:20,960
 Sincronização
 Gab
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 14
 00:00:20,960 --> 00:00:21,310
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 15
 00:00:21,310 --> 00:00:25,660
@@ -99,11 +99,11 @@ Gráficos: Datenshi
 17
 00:00:26,930 --> 00:00:28,680
 Gráficos: Datenshi
-Faíscas estão voando, SEM LIMITES! É aqui que começa
+Faíscas a voar, SEM LIMITES! É aqui que começa
 
 18
 00:00:28,680 --> 00:00:29,250
-Faíscas estão voando, SEM LIMITES! É aqui que começa
+Faíscas a voar, SEM LIMITES! É aqui que começa
 
 19
 00:00:29,250 --> 00:00:30,530
@@ -111,26 +111,26 @@ ONE PIECE!!
 
 20
 00:00:30,890 --> 00:00:33,510
-TODOS NÓS, tenho uma pergunta para você
+TODOS NÓS, tenho uma pergunta para ti
 
 21
 00:00:33,510 --> 00:00:37,100
-Você deixou o mundo e todos os seus fardos diminuírem seus sonhos?
+Deixaste que o mundo e todos os seus fardos te diminuíssem os sonhos?
 
 22
 00:00:38,740 --> 00:00:45,300
-Cada célula em mim está ficando inquieta - 
-Elas estão prestes a explodir, oh, é demais
+Cada célula em mim está a ficar inquieta - 
+Estão prestes a explodir, oh, é demais
 
 23
 00:00:45,410 --> 00:00:49,360
-Ainda tentamos, TODOS NÓS temos nossos próprios caminhos aos quais nos apegamos
+Ainda tentamos, TODOS NÓS temos os nossos caminhos a que nos agarramos
 
 24
 00:00:49,360 --> 00:00:51,990
 Karaoke
 PhosCity
-Ainda tentamos, TODOS NÓS temos nossos próprios caminhos aos quais nos apegamos
+Ainda tentamos, TODOS NÓS temos os nossos caminhos a que nos agarramos
 
 25
 00:00:52,030 --> 00:00:52,740
@@ -138,7 +138,7 @@ TODOS NÓS, tenho algo para te dizer
 
 26
 00:00:52,740 --> 00:00:53,870
-Controle de Qualidade
+Controlo de Qualidade
 TODOS NÓS, tenho algo para te dizer
 fedew
 Gab
@@ -146,7 +146,7 @@ Galaxy 9000
 
 27
 00:00:53,870 --> 00:00:54,450
-Controle de Qualidade
+Controlo de Qualidade
 fedew
 Gab
 Galaxy 9000
@@ -158,55 +158,55 @@ TODOS NÓS, tenho algo para te dizer
 
 29
 00:00:54,780 --> 00:00:55,330
-Controle de Qualidade
+Controlo de Qualidade
 Edição de Legendas
 Pollychan
 Westfal
-Se você tem um sonho que vale a pena você tem que se manter firme
+Se tens um sonho que valha a pena, tens de te manter firme
 Pepperjack
 Zenef
 
 30
 00:00:55,330 --> 00:00:57,250
-Controle de Qualidade
+Controlo de Qualidade
 Edição de Legendas
 Pollychan
 Westfal
 Pepperjack
 Zenef
-Se você tem um sonho que vale a pena você tem que se manter firme
+Se tens um sonho que valha a pena, tens de te manter firme
 
 31
 00:00:57,250 --> 00:00:58,200
-Se você tem um sonho que vale a pena você tem que se manter firme
+Se tens um sonho que valha a pena, tens de te manter firme
 
 32
 00:00:59,890 --> 00:01:02,580
-Pistas aleatórias de repente se encaixam
+Pistas soltas encaixam-se de repente
 
 33
 00:01:02,580 --> 00:01:06,510
-Começando a fazer sentido, oh, o que está acontecendo?
+Começa a fazer sentido, oh, o que se passa?
 
 34
 00:01:06,510 --> 00:01:07,840
-Fios do tempo tecendo uma intrincada tapeçaria
+Fios do tempo a tecer uma tapeçaria intrincada
 
 35
 00:01:07,840 --> 00:01:10,430
-Trilha Sonora
+Banda Sonora
 Halee
-Fios do tempo tecendo uma intrincada tapeçaria
+Fios do tempo a tecer uma tapeçaria intrincada
 
 36
 00:01:10,430 --> 00:01:10,550
-Fios do tempo tecendo uma intrincada tapeçaria
+Fios do tempo a tecer uma tapeçaria intrincada
 
 37
 00:01:10,550 --> 00:01:12,980
 Tipografia
 Gab
-Fios do tempo tecendo uma intrincada tapeçaria
+Fios do tempo a tecer uma tapeçaria intrincada
 
 38
 00:01:13,090 --> 00:01:16,930
@@ -214,12 +214,12 @@ Tradução e Revisão
 Juan Tlg
 Dankratos
 Não podemos impedir o mundo de girar,
-Ele está mudando junto com cada um de–
+está a mudar juntamente com cada um de–
 
 39
 00:01:16,930 --> 00:01:18,680
 Não podemos impedir o mundo de girar,
-Ele está mudando junto com cada um de–
+está a mudar juntamente com cada um de–
 
 40
 00:01:19,280 --> 00:01:21,250
@@ -231,47 +231,47 @@ Nós, TODOS NÓS
 
 42
 00:01:30,110 --> 00:01:35,120
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Dentro do Castelo Pangaea
 A Terra Sagrada, Mary Geoise
 
 43
 00:01:35,120 --> 00:01:38,080
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 44
 00:01:38,080 --> 00:01:40,060
-Seu reprodutor de mídia não suporta o formato de legenda utilizado neste episódio.
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
 É provável que as legendas não funcionem corretamente.
-Por favor, utilize um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-A Tentativa de Assassinato
+A Tentativa de Assassínio
 de um Tenryuubito
 
 45
 00:01:40,060 --> 00:01:40,330
-A Tentativa de Assassinato
+A Tentativa de Assassínio
 de um Tenryuubito
 
 46
 00:01:40,330 --> 00:01:41,710
-A Tentativa de Assassinato
+A Tentativa de Assassínio
 de um Tenryuubito
 Maldito Exército Revolucionário!
 
 47
 00:01:41,710 --> 00:01:43,710
-Devolva as chaves!
+Devolve as chaves!
 
 48
 00:02:24,830 --> 00:02:26,080
-Você é o Sabo, não é?!
+Tu és o Sabo, não és?!
 
 49
 00:02:26,080 --> 00:02:27,460
@@ -279,20 +279,20 @@ Hã?
 
 50
 00:02:27,460 --> 00:02:28,380
-Você não é...
+Tu não és...
 
 51
 00:02:28,750 --> 00:02:30,510
-Jewelry Bonney?!
+a Jewelry Bonney?!
 
 52
 00:02:30,510 --> 00:02:33,260
-Você me conhece?
-Que bom, isso vai nos poupar algum tempo.
+Conheces-me?
+Ainda bem, isso poupa-nos algum tempo.
 
 53
 00:02:33,260 --> 00:02:35,760
-Eu acho que podemos estar atrás da mesma coisa.
+Acho que podemos andar atrás da mesma coisa.
 
 54
 00:02:37,010 --> 00:02:39,010
@@ -300,20 +300,20 @@ Intrusos no quartel da guarda!
 
 55
 00:02:39,350 --> 00:02:41,520
-Eles roubaram as chaves das coleiras dos escravos!
+Roubaram as chaves das coleiras dos escravos!
 
 56
 00:02:41,520 --> 00:02:43,180
-Prendam eles!
+Prendam-nos!
 
 57
 00:02:45,190 --> 00:02:47,860
-Eu sempre ouvi dizer que o Kuma tinha uma filha.
+Sempre ouvi dizer que o Kuma tinha uma filha.
 
 58
 00:02:47,860 --> 00:02:51,530
-Eu estive de olho no Exército
-Revolucionário por um tempo.
+Ando de olho no Exército
+Revolucionário há algum tempo.
 
 59
 00:02:51,530 --> 00:02:54,700
@@ -321,11 +321,11 @@ Revolucionário por um tempo.
 
 60
 00:02:54,700 --> 00:02:56,530
-Por favor, salvem meu pai!
+Por favor, salvem o meu pai!
 
 61
 00:02:56,530 --> 00:02:58,910
-Nós vamos. É por isso que estamos aqui.
+Vamos. É por isso que aqui estamos.
 
 62
 00:03:02,910 --> 00:03:03,580
@@ -341,40 +341,40 @@ Sim.
 
 65
 00:03:05,420 --> 00:03:07,420
-Pegue estas chaves!
+Leva estas chaves!
 
 66
 00:03:07,420 --> 00:03:09,670
-Diga a Morley e aos outros...
+Diz ao Morley e aos outros...
 
 67
 00:03:09,670 --> 00:03:14,300
-assim que destrancarem as coleiras do Kuma
-e dos escravos, voltem direto para o quartel-general.
+assim que abrirem as coleiras do Kuma
+e dos escravos, voltem já para o quartel-general.
 
 68
 00:03:14,300 --> 00:03:15,930
-A missão de vocês termina aí!
+A missão de vocês acaba aí!
 
 69
 00:03:20,260 --> 00:03:22,270
-E você, Sabo?
+E tu, Sabo?
 
 70
 00:03:22,270 --> 00:03:24,180
-Tenho que cuidar de algo primeiro!
+Tenho de tratar de uma coisa primeiro!
 
 71
 00:03:24,180 --> 00:03:26,350
-Entendido! Tenha cuidado!
+Entendido! Tem cuidado!
 
 72
 00:03:32,400 --> 00:03:34,570
-E então, qual é o seu próximo passo, Bonney?
+Então, qual é o teu próximo passo, Bonney?
 
 73
 00:03:35,070 --> 00:03:36,570
-Eu vou para Egghead!
+Vou para Egghead!
 
 74
 00:03:36,570 --> 00:03:37,820
@@ -386,26 +386,26 @@ Sim!
 
 76
 00:03:39,700 --> 00:03:42,830
-Tem certeza de que vai ficar bem?
+Tens a certeza de que vai correr bem?
 Aquilo é território do Governo Mundial.
 
 77
 00:03:42,830 --> 00:03:47,330
-Eu preciso perguntar ao Vegapunk como
+Preciso de perguntar ao Vegapunk como
 restaurar a consciência do meu pai!
 
 78
 00:03:47,330 --> 00:03:49,330
-É a única razão pela qual eu saí para o mar!
+É a única razão pela qual me fiz ao mar!
 
 79
 00:03:49,330 --> 00:03:53,090
-Espera... você está me dizendo que há uma maneira de trazer o Kuma de volta ao normal?
+Espera... estás a dizer-me que há maneira de pôr o Kuma outra vez normal?
 
 80
 00:03:53,590 --> 00:03:58,840
-Se ainda não houver, eu vou fazer ele
-descobrir algo! Se ele não puder...
+Se ainda não houver, obrigo-o a
+descobrir alguma coisa! Se ele não puder...
 
 81
 00:03:59,930 --> 00:04:01,350
@@ -417,40 +417,40 @@ Por aqui!
 
 83
 00:04:02,430 --> 00:04:03,640
-Se apressem!
+Depressa!
 
 84
 00:04:13,320 --> 00:04:14,400
-Aonde eles foram?!
+Para onde é que foram?!
 
 85
 00:04:14,400 --> 00:04:15,650
-Não tem ninguém aqui!
+Não está aqui ninguém!
 
 86
 00:04:17,400 --> 00:04:18,910
-Que bizarro...
+Que estranho...
 
 87
 00:04:18,910 --> 00:04:20,620
-Eu poderia jurar que os vi...
+Podia jurar que os vi...
 
 88
 00:04:21,070 --> 00:04:23,490
-D-Desculpe por isso.
+D-Desculpa lá isso.
 
 89
 00:04:24,660 --> 00:04:29,290
-Não consigo acreditar que eles reduziram
-a segurança nesta torre novamente.
+Não acredito que voltaram a reduzir
+a segurança nesta torre.
 
 90
 00:04:29,290 --> 00:04:33,040
-Mesmo havendo tanto terreno para cobrir.
+Mesmo havendo tanto terreno a cobrir.
 
 91
 00:04:33,040 --> 00:04:36,260
-O quê? Você não sabe?
+O quê? Não sabes?
 
 92
 00:04:36,260 --> 00:04:38,380
@@ -462,7 +462,7 @@ Uma certa coisa?
 
 94
 00:04:40,430 --> 00:04:42,180
-Eles viram, sabe, aquilo.
+Eles viram, sabes, aquilo.
 
 95
 00:04:42,180 --> 00:04:43,680
@@ -474,11 +474,11 @@ A Câmara Perdida.
 
 97
 00:04:44,930 --> 00:04:47,680
-Seu idiota! Nem brinque com isso!
+Seu idiota! Nem brinques com isso!
 
 98
 00:04:51,440 --> 00:04:52,360
-Obrigado.
+Obrigada.
 
 99
 00:04:52,360 --> 00:04:54,860
@@ -486,11 +486,11 @@ Egghead fica no Novo Mundo.
 
 100
 00:04:54,860 --> 00:04:57,070
-Estamos indo na direção oposta.
+Nós vamos na direção oposta.
 
 101
 00:04:57,400 --> 00:04:58,530
-Tenha cuidado.
+Tem cuidado.
 
 102
 00:04:58,530 --> 00:04:59,320
@@ -498,11 +498,11 @@ Sim.
 
 103
 00:04:59,860 --> 00:05:01,200
-Boa sorte para você.
+Boa sorte para ti.
 
 104
 00:05:03,320 --> 00:05:04,700
-Cara, isso é assustador.
+Bolas, isso é assustador.
 
 105
 00:05:05,030 --> 00:05:05,950
@@ -510,15 +510,15 @@ Hã?
 
 106
 00:05:05,950 --> 00:05:08,370
-Por que você está sendo tão gentil comigo?
+Porque é que estás a ser tão simpático comigo?
 
 107
 00:05:08,370 --> 00:05:11,790
-Piratas eu entendo, mas um Revolucionário?
+De piratas percebo, mas um Revolucionário?
 
 108
 00:05:12,710 --> 00:05:14,500
-Nós dois queremos salvar o Kuma.
+Nós os dois queremos salvar o Kuma.
 
 109
 00:05:14,500 --> 00:05:15,590
@@ -530,7 +530,7 @@ Cuidem do meu pai!
 
 111
 00:05:20,550 --> 00:05:22,300
-O que você gostaria de nos perguntar?
+O que gostaria de nos perguntar?
 
 112
 00:05:22,640 --> 00:05:26,390
@@ -542,11 +542,11 @@ Bem...
 
 114
 00:05:28,770 --> 00:05:31,100
-Por onde devo começar?
+Por onde hei de começar?
 
 115
 00:05:31,850 --> 00:05:35,520
-A história nos conta que, oito séculos atrás,
+A história conta-nos que, há oito séculos,
 
 116
 00:05:35,520 --> 00:05:40,610
@@ -559,48 +559,48 @@ Como criadores deste novo mundo,
 
 118
 00:05:44,410 --> 00:05:47,410
-esses monarcas realocaram
-suas famílias para Mary Geoise,
+esses monarcas transferiram
+as famílias para Mary Geoise,
 
 119
 00:05:47,740 --> 00:05:53,420
-reinando sobre todos a partir de então
+reinando desde então sobre todos
 como os Tenryuubitos.
 
 120
 00:05:54,500 --> 00:05:59,420
-Entre eles, os vinte se tratavam
+Entre si, os vinte tratavam-se
 como iguais, tomando medidas para garantir
 
 121
 00:05:59,880 --> 00:06:02,930
-que um único monarca
-jamais subjugaria os outros.
+que nenhum monarca
+subjugasse alguma vez os outros.
 
 122
 00:06:03,260 --> 00:06:06,170
-Eles intencionalmente
-ergueram um trono vazio,
+Ergueram intencionalmente
+um trono vazio,
 
 123
 00:06:06,190 --> 00:06:08,970
 rodeando-o com cada
-uma de suas armas
+uma das suas armas,
 
 124
 00:06:08,970 --> 00:06:12,940
 para simbolizar que nenhum homem
-poderia sentar-se acima de todos os outros.
+se poderia sentar acima de todos os outros.
 
 125
 00:06:13,310 --> 00:06:17,020
-Enquanto isso, nos vinte países
-que perderam suas famílias reais,
+Entretanto, nos vinte países
+que perderam as suas famílias reais,
 
 126
 00:06:17,020 --> 00:06:21,280
-novos monarcas foram selecionados
-e têm reinado desde então.
+foram escolhidos novos monarcas,
+que reinam desde então.
 
 127
 00:06:21,280 --> 00:06:25,990
@@ -609,7 +609,7 @@ das famílias reais dos Vinte Originais
 
 128
 00:06:25,990 --> 00:06:28,450
-foram apagados de seus países de origem.
+foram apagados dos seus países de origem.
 
 129
 00:06:28,950 --> 00:06:31,450
@@ -617,98 +617,98 @@ Mas Alabasta foi diferente.
 
 130
 00:06:31,450 --> 00:06:37,380
-Embora a Rainha Nefertari Lili
-tenha sido contada entre os Vinte Originais,
+Apesar de a Rainha Nefertari Lili
+ser contada entre os Vinte Originais,
 
 131
 00:06:37,380 --> 00:06:41,210
-ela escolheu voltar para Alabasta,
+escolheu voltar para Alabasta,
 rejeitando o título de Tenryuubito.
 
 132
 00:06:41,880 --> 00:06:46,260
-Então, a família Nefertari
+Por isso, a família Nefertari
 continua lá até hoje.
 
 133
 00:06:46,260 --> 00:06:52,020
-Por essa razão, apenas dezenove armas
-rodeiam o trono, tecnicamente falando.
+Por essa razão, tecnicamente,
+apenas dezanove armas rodeiam o trono.
 
 134
 00:06:52,390 --> 00:06:54,520
-Tudo o que você disse é verdade.
+Tudo o que disse é verdade.
 
 135
 00:06:54,520 --> 00:06:56,270
-Mas o que isso significa?
+Mas o que significa isso?
 
 136
 00:06:56,810 --> 00:07:00,780
-Bem, eu estive lendo os textos mais antigos de Alabasta.
+Bem, andei a ler os textos mais antigos de Alabasta.
 
 137
 00:07:01,150 --> 00:07:09,280
-Tudo que temos acesso é a história escrita depois do Século Perdido.
+Só temos acesso à história escrita depois do Século Perdido.
 
 138
 00:07:09,620 --> 00:07:10,830
-Mas eu não consegui encontrá-la.
+Mas não a consegui encontrar.
 
 139
 00:07:11,410 --> 00:07:13,290
-O nome da Rainha Lili não foi mencionado uma única vez!
+O nome da Rainha Lili não é mencionado uma única vez!
 
 140
 00:07:16,670 --> 00:07:20,800
-Veja bem, ela nunca voltou para Alabasta.
+Repare, ela nunca voltou para Alabasta.
 
 141
 00:07:21,380 --> 00:07:26,180
-A partir de então, o irmão mais novo
-dela governou o país em seu lugar.
+Daí em diante, foi o irmão mais novo
+dela que governou o país em seu lugar.
 
 142
 00:07:27,260 --> 00:07:31,060
-Existe algo que você possa me dizer sobre ela?
+Há alguma coisa que me possam dizer sobre ela?
 
 143
 00:07:31,560 --> 00:07:33,310
-É isso que você queria nos perguntar?
+Era isso que nos queria perguntar?
 
 144
 00:07:33,720 --> 00:07:36,560
-Sobre algo de 800 anos atrás?
+Uma coisa de há 800 anos?
 
 145
 00:07:37,060 --> 00:07:38,430
-É realmente verdade
+É verdade
 
 146
 00:07:38,450 --> 00:07:42,570
 que a Rainha Nefertari Lili foi a única que
-escolheu permanecer em seu país natal,
+escolheu ficar na sua terra natal,
 
 147
 00:07:43,070 --> 00:07:47,070
-mas nós também tínhamos a impressão
-de que ela havia retornado a Alabasta.
+mas também tínhamos a impressão
+de que ela tinha regressado a Alabasta.
 
 148
 00:07:47,070 --> 00:07:49,660
-O motivo dela e seu destino...
+Os motivos dela e o seu destino...
 
 149
 00:07:49,660 --> 00:07:54,080
-Bem, receio que essas coisas tenham se perdido no tempo.
+Bem, receio que essas coisas se tenham perdido no tempo.
 
 150
 00:07:54,080 --> 00:07:55,660
-Desculpe.
+Lamento.
 
 151
 00:07:55,660 --> 00:07:56,790
-Não temos a menor ideia.
+Não fazemos a menor ideia.
 
 152
 00:07:58,620 --> 00:08:00,670
@@ -716,7 +716,7 @@ Então... o que é o D?
 
 153
 00:08:02,210 --> 00:08:04,510
-Por que você está perguntando isso?
+Porque está a perguntar isso?
 
 154
 00:08:04,510 --> 00:08:09,260
@@ -725,8 +725,8 @@ uma pequena carta há 800 anos.
 
 155
 00:08:10,010 --> 00:08:13,760
-Ela tem sido passada através da
-nossa família real por gerações.
+Tem passado pela nossa
+família real ao longo de gerações.
 
 156
 00:08:17,520 --> 00:08:20,520
@@ -734,7 +734,7 @@ Castelo Pangaea
 
 157
 00:08:20,520 --> 00:08:22,770
-Pare! Eu te imploro!
+Pare! Imploro-lhe!
 
 158
 00:08:23,270 --> 00:08:24,530
@@ -746,19 +746,19 @@ Por favor!
 
 160
 00:08:27,030 --> 00:08:28,650
-Você está me machucando!
+Está a magoar-me!
 
 161
 00:08:28,650 --> 00:08:32,450
-Alguém, por favor! Me ajude!
+Alguém, por favor! Ajudem-me!
 
 162
 00:08:34,950 --> 00:08:37,460
-Eu consegui! Pai, eu consegui!
+Consegui! Pai, consegui!
 
 163
 00:08:37,460 --> 00:08:39,710
-Eu não desisti,
+Não desisti
 
 164
 00:08:39,710 --> 00:08:42,710
@@ -770,7 +770,7 @@ Muito bem, Charlos!
 
 166
 00:08:45,710 --> 00:08:48,420
-Alguém, por favor, me ajudem!
+Alguém, por favor, ajude-me!
 
 167
 00:08:48,420 --> 00:08:49,970
@@ -782,31 +782,31 @@ Minha querida Princesa Shirahoshi...
 
 169
 00:08:53,470 --> 00:08:55,470
-O que eu devo te dar para comer?
+O que é que te hei de dar de comer?
 
 170
 00:08:55,470 --> 00:09:00,850
-A partir de hoje, você vai servir como minha montaria pessoal para andar pela cidade!
+A partir de hoje, vais servir de montada pessoal para eu andar pela cidade!
 
 171
 00:09:00,850 --> 00:09:04,440
-Shirahoshi é minha!
+A Shirahoshi é minha!
 
 172
 00:09:04,440 --> 00:09:06,860
-Saiam da minha frente agora!
+Saiam já da minha frente!
 
 173
 00:09:08,820 --> 00:09:11,110
-Isso é incrível!
+Isto é incrível!
 
 174
 00:09:12,660 --> 00:09:15,870
-Se você me desobedecer, eu vou fazer você se arrepender!
+Se me desobedeceres, faço-te arrepender!
 
 175
 00:09:16,240 --> 00:09:17,370
-Eu me recuso!
+Recuso-me!
 
 176
 00:09:19,120 --> 00:09:21,870
@@ -814,7 +814,7 @@ Alguém, por favor!
 
 177
 00:09:22,210 --> 00:09:24,750
-Alguém, por favor, me ajude!
+Alguém, por favor, ajude-me!
 
 178
 00:09:24,750 --> 00:09:26,210
@@ -822,7 +822,7 @@ Ah, não!
 
 179
 00:09:26,210 --> 00:09:28,760
-Papai e nossos guardas
+O pai e os nossos guardas
 estão na Torre da Conferência...
 
 180
@@ -835,7 +835,7 @@ Alguém!
 
 182
 00:09:34,010 --> 00:09:35,760
-Não podemos apenas ficar parados...!
+Não podemos ficar aqui parados...!
 
 183
 00:09:37,010 --> 00:09:38,270
@@ -843,7 +843,7 @@ Por favor...
 
 184
 00:09:40,520 --> 00:09:42,270
-Vamos correr para longe!
+Vamos fugir!
 
 185
 00:09:42,270 --> 00:09:43,440
@@ -855,7 +855,7 @@ Ei, sereia!
 
 187
 00:09:45,270 --> 00:09:47,570
-Eu ouvi você me desafiar agora!
+Ouvi-te a desafiar-me agora mesmo!
 
 188
 00:09:47,570 --> 00:09:49,030
@@ -864,11 +864,11 @@ Mulher desobediente!
 189
 00:09:49,030 --> 00:09:52,400
 Implorar pela nossa ajuda?!
-Sinceramente, quão rude você pode ser?!
+Sinceramente, quão mal-educada consegues ser?!
 
 190
 00:09:52,400 --> 00:09:55,910
-Não é como se ela fosse se casar conosco de qualquer forma!
+Não é como se ela fosse casar connosco!
 
 191
 00:09:55,910 --> 00:09:56,910
@@ -876,7 +876,7 @@ Exato!
 
 192
 00:09:56,910 --> 00:09:58,910
-Quem se importa se essa vadia sobrevive?!
+Que interessa se essa cabra sobrevive?!
 
 193
 00:09:58,910 --> 00:10:00,160
@@ -884,7 +884,7 @@ Saiam da minha frente!
 
 194
 00:10:00,160 --> 00:10:03,420
-Tolos como vocês são tão maleáveis quanto alga marinha!
+Tolos como vocês são tão moles como algas!
 
 195
 00:10:04,420 --> 00:10:05,880
@@ -893,7 +893,7 @@ O Reino de Ryugu!
 196
 00:10:07,840 --> 00:10:10,920
 Não os desafiem!
-Eles vão destruir o país de vocês inteiro!
+Vão destruir o vosso país inteiro!
 
 197
 00:10:10,920 --> 00:10:11,920
@@ -901,8 +901,8 @@ Hã?!
 
 198
 00:10:13,180 --> 00:10:15,680
-Desculpe! Nós nunca deveríamos
-ter tirado os olhos de você!
+Desculpa! Nunca te devíamos
+ter tirado os olhos de cima!
 
 199
 00:10:15,680 --> 00:10:17,430
@@ -910,12 +910,12 @@ Irmãos!
 
 200
 00:10:17,430 --> 00:10:19,180
-Desculpem pela espera!
+Desculpem a demora!
 
 201
 00:10:19,180 --> 00:10:22,560
-Agora que estamos aqui,
-tudo vai ficar bem!
+Agora que aqui estamos,
+vai correr tudo bem!
 
 202
 00:10:24,560 --> 00:10:26,060
@@ -923,7 +923,7 @@ Vamos para casa!
 
 203
 00:10:26,060 --> 00:10:28,320
-Vamos deixar este lugar terrível para sempre!
+Vamos deixar este sítio horrível para sempre!
 
 204
 00:10:28,320 --> 00:10:30,070
@@ -931,27 +931,27 @@ Irmão Fukaboshi...
 
 205
 00:10:30,070 --> 00:10:33,320
-Eu concordo. Vocês três deveriam ir para casa.
+Concordo. Vocês os três deviam ir para casa.
 
 206
 00:10:33,650 --> 00:10:38,580
-Mas a sereia fica. Ela é o meu mais novo animal de estimação, veja só.
+Mas a sereia fica. É o meu mais recente animal de estimação.
 
 207
 00:10:38,580 --> 00:10:41,830
-Escória dos Tenryuubitos!
+Escumalha dos Tenryuubitos!
 
 208
 00:10:41,830 --> 00:10:44,000
-Como você ousa fazer isso com a nossa irmã?!
+Como te atreves a fazer isto à nossa irmã?!
 
 209
 00:10:45,580 --> 00:10:47,080
-Nós vamos fazer você pagar!
+Vais pagar por isto!
 
 210
 00:10:49,840 --> 00:10:51,840
-Livre-se deles!
+Livra-te deles!
 
 211
 00:10:51,840 --> 00:10:54,590
@@ -967,19 +967,19 @@ Shirahoshi!
 
 214
 00:11:04,850 --> 00:11:06,190
-Senhorita Rebecca!
+Menina Rebecca!
 
 215
 00:11:06,190 --> 00:11:07,860
-Não se preocupe! Estou indo!
+Não te preocupes! Vou já!
 
 216
 00:11:07,860 --> 00:11:10,980
-Rebecca! É aquele homem de antes!
+Rebecca! É aquele homem de há bocado!
 
 217
 00:11:10,980 --> 00:11:13,490
-Que irritante! Eu vou fazê-lo pagar por isso!
+Que irritante! Vou fazê-lo pagar por isto!
 
 218
 00:11:15,400 --> 00:11:16,990
@@ -987,11 +987,11 @@ Ei, Mjosgard!
 
 219
 00:11:16,990 --> 00:11:19,030
-Eu posso bater nele dessa vez, certo?!
+Desta vez já lhe posso bater, certo?!
 
 220
 00:11:19,030 --> 00:11:21,990
-Certamente! Eu assumo total responsabilidade!
+Sem dúvida! Assumo toda a responsabilidade!
 
 221
 00:11:24,410 --> 00:11:27,710
@@ -1000,7 +1000,7 @@ Bartholomew Kuma...!
 
 222
 00:11:27,710 --> 00:11:28,750
-Você tem a minha pena!
+Tens a minha pena!
 
 223
 00:11:28,750 --> 00:11:32,880
@@ -1013,15 +1013,15 @@ Mas isso não muda nada! Avancem, meus irmãos!
 
 225
 00:11:33,510 --> 00:11:36,010
-Você tem a minha permissão para matá-los, Kuma!
+Tens a minha autorização para os matar, Kuma!
 
 226
 00:11:36,010 --> 00:11:40,010
-Eles podem até ser da realeza, mas nós podemos nos safar apenas pagando!
+Podem ser da realeza, mas safamo-nos só com pagar!
 
 227
 00:11:40,010 --> 00:11:41,760
-Eles são apenas Homens-Peixe, afinal!
+Afinal, são só Homens-Peixe!
 
 228
 00:11:41,760 --> 00:11:43,890
@@ -1033,11 +1033,11 @@ Príncipe Fukaboshi!
 
 230
 00:11:45,730 --> 00:11:47,650
-Você deve se lembrar da sua posição!
+Deves lembrar-te da tua posição!
 
 231
 00:11:47,980 --> 00:11:49,150
-Saia da minha frente!
+Sai da minha frente!
 
 232
 00:11:49,150 --> 00:11:50,900
@@ -1045,16 +1045,16 @@ Deixem com eles!
 
 233
 00:11:52,150 --> 00:11:55,530
-Qual a diferença entre
-Eles e nós, Mjosgard?!
+Qual é a diferença entre
+eles e nós, Mjosgard?!
 
 234
 00:11:55,530 --> 00:11:58,030
-Olhe como ele está tratando a nossa irmã!
+Olha para a forma como está a tratar a nossa irmã!
 
 235
 00:11:58,030 --> 00:12:00,200
-Eles podem se safar!
+Eles safam-se!
 
 236
 00:12:00,200 --> 00:12:03,040
@@ -1066,11 +1066,11 @@ Mjosgard!
 
 238
 00:12:05,700 --> 00:12:09,040
-Eu não acredito que você me socou outro dia!
+Não acredito que me deste um murro no outro dia!
 
 239
 00:12:09,040 --> 00:12:13,210
-Kuma! Execute Mjosgard!
+Kuma! Executa o Mjosgard!
 
 240
 00:12:20,050 --> 00:12:22,180
@@ -1111,15 +1111,15 @@ Estão perdidos!
 
 249
 00:12:46,250 --> 00:12:48,250
-Ele está morto com certeza!
+Está morto de certeza!
 
 250
 00:12:48,250 --> 00:12:50,750
-Isso é assassinato!
+Isto é assassínio!
 
 251
 00:12:50,750 --> 00:12:53,670
-O assassinato de um Tenryuubito!
+O assassínio de um Tenryuubito!
 
 252
 00:12:53,670 --> 00:12:56,510
@@ -1131,8 +1131,8 @@ Não, Kuma-ursinho!
 
 254
 00:13:13,270 --> 00:13:19,280
-Está tudo bem agora! Você não precisa
-mais ouvir esses homens maus!
+Agora está tudo bem! Já não precisas
+de obedecer a estes homens maus!
 
 255
 00:13:19,280 --> 00:13:23,410
@@ -1144,7 +1144,7 @@ O quê?!
 
 257
 00:13:24,910 --> 00:13:27,410
-O que um gigante está fazendo aqui?!
+O que é que um gigante está aqui a fazer?!
 
 258
 00:13:27,790 --> 00:13:28,660
@@ -1156,11 +1156,11 @@ Karasu!
 
 260
 00:13:29,580 --> 00:13:31,420
-Eu peguei as chaves do Sabo!
+Fui buscar as chaves ao Sabo!
 
 261
 00:13:31,420 --> 00:13:32,790
-Quem é esse?!
+Quem é este?!
 
 262
 00:13:32,790 --> 00:13:34,040
@@ -1176,7 +1176,7 @@ Um comandante do Exército Revolucionário!
 
 265
 00:13:37,550 --> 00:13:39,300
-Ok! Indo para baixo!
+Certo! Vamos descer!
 
 266
 00:13:45,470 --> 00:13:46,810
@@ -1188,7 +1188,7 @@ Imu...!
 
 268
 00:14:03,450 --> 00:14:05,700
-Rei Cobra ainda está aqui!
+O Rei Cobra ainda está aqui!
 
 269
 00:14:06,950 --> 00:14:08,450
@@ -1200,29 +1200,29 @@ Lili...
 
 271
 00:14:28,560 --> 00:14:32,520
-Ninguém deveria se sentar ali.
+Ninguém se devia sentar ali.
 
 272
 00:14:32,890 --> 00:14:37,310
-Nenhum homem tem permissão para moldar
-o mundo de acordo com sua própria vontade!
+Nenhum homem tem autorização para moldar
+o mundo à sua própria vontade!
 
 273
 00:14:37,310 --> 00:14:44,410
-Responderei a duas de suas perguntas,
-e você responderá a uma das minhas, Cobra.
+Responderei a duas das suas perguntas
+e o senhor responderá a uma das minhas, Cobra.
 
 274
 00:14:44,410 --> 00:14:46,370
-Quem no mundo é você?!
+Quem é o senhor, afinal?!
 
 275
 00:14:48,160 --> 00:14:50,290
-Eu conheço o nome Imu.
+Conheço o nome Imu.
 
 276
 00:14:50,830 --> 00:14:54,790
-Deve ser uma coincidência,
+Deve ser coincidência,
 mas entre os Vinte Originais...
 
 277
@@ -1235,7 +1235,7 @@ Não vou responder.
 
 279
 00:15:00,340 --> 00:15:03,380
-Mas para responder às suas outras perguntas...
+Mas, para responder às suas outras perguntas...
 
 280
 00:15:04,340 --> 00:15:06,300
@@ -1243,23 +1243,23 @@ Mas para responder às suas outras perguntas...
 
 281
 00:15:06,300 --> 00:15:10,140
-o nome do povo que uma vez se opôs a nós.
+o nome do povo que outrora se opôs a nós.
 
 282
 00:15:11,310 --> 00:15:15,100
-Nos últimos anos, esse nome ressurgiu em vários lugares.
+Nos últimos anos, esse nome ressurgiu em vários sítios,
 
 283
 00:15:15,100 --> 00:15:19,150
-mas são meras cascas vazias, ignorantes até mesmo do significado de seus próprios nomes.
+mas são meras cascas vazias, ignorantes até do significado dos próprios nomes.
 
 284
 00:15:19,150 --> 00:15:21,530
-Mas assim como todo o resto,
+Mas, tal como tudo o resto,
 
 285
 00:15:21,530 --> 00:15:28,200
-isso deriva do erro catastrófico da Rainha Lili há 800 anos.
+isso decorre do erro catastrófico da Rainha Lili há 800 anos.
 
 286
 00:15:28,200 --> 00:15:29,240
@@ -1267,25 +1267,25 @@ O erro dela?
 
 287
 00:15:29,740 --> 00:15:34,710
-Sejam estudiosos pesquisando o Século Perdido...
+Sejam estudiosos a investigar o Século Perdido...
 
 288
 00:15:35,290 --> 00:15:40,790
-ou piratas caçando os poneglyphs
+ou piratas a caçar os poneglyphs
 em busca de tesouros...
 
 289
 00:15:41,210 --> 00:15:44,670
-Se não fosse pelo erro de Lili naquele dia fatídico,
+Se não fosse o erro da Lili naquele dia fatídico,
 
 290
 00:15:45,340 --> 00:15:52,660
-os detestáveis artefatos conhecidos como poneglyphs
-não estariam espalhados por todo o mundo.
+os detestáveis artefactos conhecidos como poneglyphs
+não estariam espalhados pelo mundo inteiro.
 
 291
 00:15:57,600 --> 00:16:00,590
-Considerando tudo o que cerca este evento passado...
+Tendo em conta tudo o que rodeia este acontecimento passado...
 
 292
 00:16:00,900 --> 00:16:04,150
@@ -1293,35 +1293,35 @@ não se pode deixar de pensar.
 
 293
 00:16:04,860 --> 00:16:09,990
-Foi realmente um engano que
-os poneglyphs foram liberados?
+Terá sido mesmo um engano
+os poneglyphs terem sido libertados?
 
 294
 00:16:09,990 --> 00:16:13,700
-Ou foi premeditado?
+Ou terá sido premeditado?
 
 295
 00:16:20,080 --> 00:16:21,710
-A resposta para isso...
+A resposta a isso...
 
 296
 00:16:22,170 --> 00:16:26,420
-deve estar registrada na
-carta que Lili enviou a Alabasta.
+deve estar registada na
+carta que a Lili enviou a Alabasta.
 
 297
 00:16:28,130 --> 00:16:35,600
-Durante todo este tempo, você se referiu
+Durante todo este tempo, referiu-se
 a ela apenas como Rainha Nefertari Lili.
 
 298
 00:16:35,600 --> 00:16:36,850
-Por que isso?
+Porquê?
 
 299
 00:16:38,480 --> 00:16:43,150
 Diga o nome completo
-como foi assinado naquela carta.
+tal como estava assinado nessa carta.
 
 300
 00:16:51,160 --> 00:16:52,870
@@ -1333,11 +1333,11 @@ Acho que não vou sair vivo desta sala.
 
 302
 00:17:01,210 --> 00:17:04,290
-Se eu mentir, eu ainda tenho alugma chance de sair vivo?
+Se mentir, ainda tenho alguma hipótese de sair vivo?
 
 303
 00:17:04,290 --> 00:17:09,760
-Receio que seu destino tenha sido selado no momento em que você viu Imu.
+Receio que o seu destino tenha ficado selado no momento em que viu o Imu.
 
 304
 00:17:24,060 --> 00:17:25,940
@@ -1349,19 +1349,19 @@ Ele tem razão...
 
 306
 00:17:34,990 --> 00:17:37,080
-Que diabos está acontecendo aqui?
+Que raio se está a passar aqui?
 
 307
 00:17:37,080 --> 00:17:38,620
-Algo está claramente errado.
+Há claramente alguma coisa errada.
 
 308
 00:17:40,210 --> 00:17:42,000
-Foi assim que estava assinado.
+Estava assinada assim.
 
 309
 00:17:43,040 --> 00:17:49,010
-A rainha de Alabasta, 800 anos atrás:
+A rainha de Alabasta, há 800 anos:
 
 310
 00:17:52,800 --> 00:17:54,970
@@ -1385,15 +1385,15 @@ Xeque Torre!
 
 315
 00:18:31,920 --> 00:18:33,630
-De onde você veio?!
+De onde é que tu vieste?!
 
 316
 00:19:02,700 --> 00:19:05,580
-Eu esperava poder acabar com todos vocês,
+Esperava poder acabar com todos vocês,
 
 317
 00:19:05,960 --> 00:19:09,040
-mas nunca pensei que encontraria
+mas nunca pensei encontrar
 o inferno no topo do mundo.
 
 318
@@ -1402,7 +1402,7 @@ Que deprimente!
 
 319
 00:19:32,150 --> 00:19:33,360
-Você é...
+Tu és...
 
 320
 00:19:33,360 --> 00:19:35,360
@@ -1414,7 +1414,7 @@ certo?
 
 322
 00:19:40,950 --> 00:19:43,330
-Você me ajudaria?
+Ajudava-me?
 
 323
 00:19:43,330 --> 00:19:45,290
@@ -1422,68 +1422,68 @@ Apesar de ser um Revolucionário?
 
 324
 00:19:46,160 --> 00:19:49,630
-Nossa verdadeira luta é contra
+A nossa verdadeira luta é contra
 as pessoas sentadas acima da realeza...
 
 325
 00:19:49,630 --> 00:19:50,960
-Esses caras.
+Estes tipos.
 
 326
 00:19:51,590 --> 00:19:53,260
-Mas como você conhece o Luffy?
+Mas como é que conhece o Luffy?
 
 327
 00:19:54,630 --> 00:19:56,840
-Ele salvou a minha vida.
+Salvou-me a vida.
 
 328
 00:19:57,840 --> 00:19:59,680
-Isso é tão a cara do Luffy.
+Isso é bem à Luffy.
 
 329
 00:20:07,020 --> 00:20:09,270
-Apenas se mantenha firme!
+Aguente-se!
 
 330
 00:20:09,270 --> 00:20:10,770
-Eu vou te tirar daqui–
+Eu tiro-o daqui–
 
 331
 00:20:21,160 --> 00:20:23,910
-Sem mim, você consegue.
+Sem mim, consegues.
 
 332
 00:20:23,910 --> 00:20:26,290
-É tarde demais para mim.
+Para mim é tarde demais.
 
 333
 00:20:26,290 --> 00:20:27,410
-Me deixe para trás!
+Deixa-me para trás!
 
 334
 00:20:27,410 --> 00:20:28,420
-Eu vou te salvar!
+Eu salvo-o!
 
 335
 00:20:30,500 --> 00:20:33,130
-Eu entendi agora...
+Agora percebi...
 
 336
 00:20:34,590 --> 00:20:37,920
-Eu não posso permitir que você morra aqui!
+Não posso permitir que morra aqui!
 
 337
 00:20:37,920 --> 00:20:41,550
-Eu preciso que você diga ao Luffy e à Vivi...!
+Preciso que diga ao Luffy e à Vivi...!
 
 338
 00:20:41,550 --> 00:20:43,260
-Luffy e Princesa Vivi?!
+O Luffy e a Princesa Vivi?!
 
 339
 00:20:44,640 --> 00:20:47,730
-Diga a eles que compartilhamos o apelido "D"!
+Diz-lhes que partilhamos o apelido "D"!
 
 340
 00:20:47,730 --> 00:20:48,810
@@ -1491,7 +1491,7 @@ O quê?
 
 341
 00:20:53,770 --> 00:20:55,150
-É uma coincidência?
+É coincidência?
 
 342
 00:20:56,690 --> 00:20:58,400
@@ -1499,27 +1499,27 @@ Coincidência o quê?
 
 343
 00:20:58,400 --> 00:20:59,990
-Bem, vocês dois–
+Bem, vocês os dois–
 
 344
 00:20:59,990 --> 00:21:01,620
-Eles estão prontos, estão prontos!
+Estão prontos, estão prontos!
 
 345
 00:21:02,950 --> 00:21:04,370
-Eles parecem tão saborosos!
+Parecem tão saborosos!
 
 346
 00:21:04,370 --> 00:21:06,290
-Ei! Você não pode pegar dois de uma vez!
+Ei! Não podes levar dois de uma vez!
 
 347
 00:21:06,290 --> 00:21:07,750
-Qual é, estou morrendo de fome!
+Vá lá, estou esfomeado!
 
 348
 00:21:07,750 --> 00:21:09,710
-Mas você não pode–
+Mas não podes–
 
 349
 00:21:11,000 --> 00:21:11,960
@@ -1527,7 +1527,7 @@ Que delícia!
 
 350
 00:21:12,330 --> 00:21:13,960
-Sério, cara?
+A sério, meu?
 
 351
 00:21:17,920 --> 00:21:19,930
@@ -1539,7 +1539,7 @@ Sabo!
 
 353
 00:21:21,010 --> 00:21:22,890
-Você estava prestes a dizer algo.
+Estavas prestes a dizer alguma coisa.
 
 354
 00:21:22,890 --> 00:21:24,050
@@ -1547,8 +1547,8 @@ Sim.
 
 355
 00:21:24,050 --> 00:21:29,100
-Eu me pergunto se é uma coincidência que
-ambos tenham um "D" em seus nomes.
+Pergunto-me se é coincidência
+terem os dois um "D" no nome.
 
 356
 00:21:29,100 --> 00:21:30,270
@@ -1564,15 +1564,15 @@ Há um "D" nos dois.
 
 359
 00:21:36,270 --> 00:21:38,280
-Ah, acho que você está certo.
+Ah, acho que tens razão.
 
 360
 00:21:38,280 --> 00:21:40,610
-Bem, quem se importa com nomes?
+Bom, quem é que quer saber de nomes?
 
 361
 00:21:41,280 --> 00:21:43,910
-Você também quer um "D", Sabo?
+Também queres um "D", Sabo?
 
 362
 00:21:43,910 --> 00:21:44,830
@@ -1584,11 +1584,11 @@ Sa D. Bo!
 
 364
 00:21:45,950 --> 00:21:47,450
-Por que você colocou aí?!
+Porque é que o puseste aí?!
 
 365
 00:21:47,450 --> 00:21:48,910
-Isso realmente importa?!
+Isso interessa mesmo?!
 
 366
 00:21:48,910 --> 00:21:50,870
@@ -1596,11 +1596,11 @@ Sa D. Bo! Sa D. Bo!
 
 367
 00:21:59,710 --> 00:22:04,390
-Eu finalmente vejo o caminho que Alabasta deve seguir...
+Finalmente vejo o caminho que Alabasta deve seguir...
 
 368
 00:22:05,430 --> 00:22:07,310
-Fique comigo, Rei Cobra!
+Aguente-se, Rei Cobra!
 
 369
 00:22:07,310 --> 00:22:08,930
@@ -1620,7 +1620,7 @@ Rei Cobra...!
 
 373
 00:22:47,050 --> 00:22:49,510
-"Carregam a bandeira do amanhecer..."
+"Erguem a bandeira da alvorada..."
 
 374
 00:22:51,310 --> 00:22:54,440
@@ -1628,11 +1628,11 @@ Rei Cobra...!
 
 375
 00:22:55,690 --> 00:22:57,270
-Eu estou contando com você!
+Conto contigo!
 
 376
 00:23:05,570 --> 00:23:07,950
-Estou contando com você, Sabo!
+Conto contigo, Sabo!
 
 377
 00:23:11,040 --> 00:23:13,000
@@ -1640,4 +1640,4 @@ Rei Cobra!
 
 378
 00:23:17,080 --> 00:23:19,460
-Você precisa sobreviver!
+Tens de sobreviver!
