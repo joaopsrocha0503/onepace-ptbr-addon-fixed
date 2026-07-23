@@ -1,16 +1,16 @@
 1
 00:00:00,000 --> 00:00:00,770
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:00,770 --> 00:00:01,500
 Edição de Vídeo
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Gab
 Zenef
@@ -18,9 +18,9 @@ Zenef
 3
 00:00:01,500 --> 00:00:03,480
 Edição de Vídeo
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Gab
 Zenef
@@ -29,9 +29,9 @@ US, US
 4
 00:00:03,480 --> 00:00:04,100
 Edição de Vídeo
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Gab
 Zenef
@@ -39,9 +39,9 @@ Zenef
 5
 00:00:04,100 --> 00:00:06,530
 Edição de Vídeo
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Gab
 Zenef
@@ -49,17 +49,17 @@ US, ALL OF US
 
 6
 00:00:06,530 --> 00:00:09,340
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 US, ALL OF US
 
 7
 00:00:09,340 --> 00:00:09,990
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 8
@@ -132,7 +132,7 @@ Still we try, ALL OF US have our own paths we cling to
 
 24
 00:00:49,360 --> 00:00:51,990
-Karaokê
+Karaoke
 PhosCity
 Still we try, ALL OF US have our own paths we cling to
 
@@ -142,7 +142,7 @@ ALL OF US, I've got something to tell you
 
 26
 00:00:52,740 --> 00:00:53,870
-Controle de Qualidade
+Controlo de Qualidade
 ALL OF US, I've got something to tell you
 fedew
 FishyBusyness
@@ -150,7 +150,7 @@ Gab
 
 27
 00:00:53,870 --> 00:00:54,450
-Controle de Qualidade
+Controlo de Qualidade
 fedew
 FishyBusyness
 Gab
@@ -162,7 +162,7 @@ ALL OF US, I've got something to tell you
 
 29
 00:00:54,780 --> 00:00:55,330
-Controle de Qualidade
+Controlo de Qualidade
 Edição de Legendas
 CraigyBoi
 Pollychan
@@ -175,7 +175,7 @@ Westfal
 
 30
 00:00:55,330 --> 00:00:57,250
-Controle de Qualidade
+Controlo de Qualidade
 Edição de Legendas
 CraigyBoi
 Pollychan
@@ -204,7 +204,7 @@ Threads of time weaving into an intricate tapestry
 
 35
 00:01:07,840 --> 00:01:10,430
-Trilha Sonora: Rei
+Banda Sonora: Rei
 Halee
 Threads of time weaving into an intricate tapestry
 
@@ -242,105 +242,105 @@ US, ALL OF US
 
 42
 00:01:30,070 --> 00:01:31,150
-Quartel General da Marinha
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Quartel-General da Marinha
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 43
 00:01:31,150 --> 00:01:33,820
 Uma figura amada por muitos Marinheiros e cidadãos,
-Quartel General da Marinha
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Quartel-General da Marinha
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 44
 00:01:33,820 --> 00:01:39,250
-a morte do Vice-Almirante T-Bone em serviço
+a morte em serviço do Vice-Almirante T-Bone
 chocou o público.
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 45
 00:01:39,250 --> 00:01:39,790
 No entanto, a Marinha nunca revelou
-a causa de sua morte.
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+a causa da morte.
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 46
 00:01:39,790 --> 00:01:40,060
 No entanto, a Marinha nunca revelou
-a causa de sua morte.
+a causa da morte.
 QG da Marinha
-Vice Almirante T-Bone Morto
-Seu reprodutor de mídia não é compatível com o formato de legenda
-usado neste episódio. As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores de vídeo recomendados, de preferência o mpv:
+Vice-Almirante T-Bone Morto
+O teu reprodutor de multimédia não suporta o formato de legenda
+usado neste episódio. É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 47
 00:01:40,060 --> 00:01:43,210
 No entanto, a Marinha nunca revelou
-a causa de sua morte.
+a causa da morte.
 QG da Marinha
-Vice Almirante T-Bone Morto
+Vice-Almirante T-Bone Morto
 
 48
 00:01:43,250 --> 00:01:44,080
-Vamos Pegá-lo!
+Vamos Apanhá-lo!
 
 49
 00:01:44,080 --> 00:01:46,210
-Vamos Pegá-lo!
+Vamos Apanhá-lo!
 Já encontraram a culpada?
 
 50
 00:01:46,210 --> 00:01:46,590
-Vamos Pegá-lo!
+Vamos Apanhá-lo!
 
 51
 00:01:46,590 --> 00:01:48,050
-Vamos Pegá-lo!
-Eu não sei.
+Vamos Apanhá-lo!
+Não sei.
 
 52
 00:01:48,050 --> 00:01:48,210
-Eu não sei.
+Não sei.
 
 53
 00:01:48,210 --> 00:01:52,380
-Tudo o que sei é que a família da culpada
-deve estar vivendo uma vida feliz agora.
+Só sei que a família da culpada
+deve estar a viver uma vida feliz agora.
 
 54
 00:01:53,220 --> 00:01:55,600
-O mundo está de ponta cabeça, Tsuru.
+O mundo está de pernas para o ar, Tsuru.
 
 55
 00:01:55,970 --> 00:02:00,140
-O que você faz quando os cidadãos que jurou proteger te apunhalam pelas costas?
+O que fazes quando os cidadãos que juraste proteger te apunhalam pelas costas?
 
 56
 00:02:00,140 --> 00:02:02,600
-Quando colocam recompensas em Marinheiros,
+Quando põem recompensas em Marinheiros,
 
 57
 00:02:03,100 --> 00:02:06,730
-não são mais só piratas
-que querem um pedaço desse bolo.
+já não são só os piratas
+que querem uma fatia do bolo.
 
 58
 00:02:06,730 --> 00:02:11,570
-Ele foi assassinado no Reino Pepe, onde
-a inanição ceifa mais de mil vidas por ano.
+Foi assassinado no Reino Pepe, onde
+a fome ceifa mais de mil vidas por ano.
 
 59
 00:02:12,320 --> 00:02:15,160
@@ -348,37 +348,37 @@ A pobreza e a riqueza mudam as pessoas...
 
 60
 00:02:15,160 --> 00:02:17,950
-não para desculpar a culpada.
+o que não desculpa a culpada.
 
 61
 00:02:17,950 --> 00:02:22,160
-Se era isso que ele queria,
-então subestimamos Buggy, o Palhaço Estrela.
+Se era isto que ele queria,
+então subestimámos o Buggy, o Palhaço Estrela.
 
 62
 00:02:22,160 --> 00:02:27,380
-Como podemos arriscar nossas vidas por civis
-que podem nos matar a qualquer momento?
+Como é que podemos arriscar a vida por civis
+que nos podem matar a qualquer momento?
 
 63
 00:02:29,250 --> 00:02:31,300
-Se não derrubarmos a Cross Guild logo...
+Se não derrubarmos a Cross Guild depressa...
 
 64
 00:02:32,510 --> 00:02:35,680
-isso poderia desmoralizar a base
+isto pode desmoralizar a base
 e enfraquecer a nossa organização!
 
 65
 00:02:35,680 --> 00:02:36,390
 QG da Marinha
-Vice Almirante T-Bone Morto
-isso poderia desmoralizar a base
+Vice-Almirante T-Bone Morto
+isto pode desmoralizar a base
 e enfraquecer a nossa organização!
 
 66
 00:02:36,390 --> 00:02:37,720
-isso poderia desmoralizar a base
+isto pode desmoralizar a base
 e enfraquecer a nossa organização!
 
 67
@@ -387,11 +387,11 @@ Hina!
 
 68
 00:02:42,020 --> 00:02:43,890
-Sabe onde está o Garp?
+Sabes onde está o Garp?
 
 69
 00:02:43,890 --> 00:02:46,520
-Tenho um novo sabor de biscoito de arroz
+Tenho um novo sabor de bolacha de arroz
 para ele experimentar.
 
 70
@@ -400,16 +400,16 @@ Ah, bem...
 
 71
 00:02:47,730 --> 00:02:51,690
-Ele disse que ia salvar Koby
-há alguns dias, então...
+Disse que ia salvar o Koby
+há uns dias, por isso...
 
 72
 00:02:51,690 --> 00:02:54,240
-ele provavelmente está com a SWORD agora.
+deve estar com a SWORD agora.
 
 73
 00:02:54,240 --> 00:02:55,950
-A Kujaku provavelmente está com ele também.
+A Kujaku deve estar com ele também.
 
 74
 00:02:56,320 --> 00:02:57,200
@@ -418,17 +418,17 @@ A Kujaku provavelmente está com ele também.
 
 75
 00:02:57,950 --> 00:03:01,450
-– Eles foram para Hachinosu?!
-– Eles foram para Hachinosu?!
+– Foram para Hachinosu?!
+– Foram para Hachinosu?!
 
 76
 00:03:04,210 --> 00:03:06,960
-Ilha Empty Bluffs
+Ilha dos Penhascos Vazios
 Novo Mundo
 
 77
 00:03:06,960 --> 00:03:10,130
-Estou impressionado que você tenha conseguido chegar até aqui pelo mar!
+Estou impressionado por teres conseguido chegar aqui pelo mar!
 
 78
 00:03:10,130 --> 00:03:11,170
@@ -444,11 +444,11 @@ Os chefões do submundo estão contentes!
 
 81
 00:03:16,630 --> 00:03:19,050
-Uma grande estrela do crime nasceu!
+Nasceu uma grande estrela do crime!
 
 82
 00:03:22,890 --> 00:03:26,770
-Fui informado que minha família
+Fui informado de que a minha família
 recebeu o dinheiro...
 
 83
@@ -457,39 +457,39 @@ Muito obrigado!
 
 84
 00:03:28,600 --> 00:03:30,610
-Claro que fiz!
+Claro que sim!
 
 85
 00:03:30,610 --> 00:03:36,320
-Você é o mestre do mal que eliminou
-ninguém menos que um vice-almirante da Marinha!
+És o mestre do mal que eliminou
+nada menos do que um vice-almirante da Marinha!
 
 86
 00:03:39,660 --> 00:03:43,290
 Ouvi dizer que os Marinheiros
-ficaram loucos no dia em que aconteceu!
+ficaram doidos no dia em que aconteceu!
 
 87
 00:03:43,290 --> 00:03:47,920
-Se eles te encontrarem,
-a sua cabeça será cortada!
+Se te encontrarem,
+cortam-te a cabeça!
 
 88
 00:03:50,500 --> 00:03:53,630
-Pensei que mesmo se eu nunca mais
-pudesse ver minha família,
+Pensei que, mesmo que nunca mais
+pudesse ver a minha família,
 
 89
 00:03:54,260 --> 00:03:56,970
-isso ainda seria melhor do que deixar eles morrerem de fome!
+seria melhor do que deixá-los morrer de fome!
 
 90
 00:03:56,970 --> 00:03:58,720
-Não se preocupe!
+Não te preocupes!
 
 91
 00:03:58,720 --> 00:04:02,310
-Eu vou te aceitar na minha tripulação pirata!
+Vou aceitar-te na minha tripulação pirata!
 
 92
 00:04:02,310 --> 00:04:03,600
@@ -505,7 +505,7 @@ Não, eu...
 
 95
 00:04:07,390 --> 00:04:09,400
-Você não entende, não é?
+Não estás a perceber, pois não?
 
 96
 00:04:09,400 --> 00:04:10,270
@@ -518,12 +518,12 @@ O Presidente Buggy, o Palhaço Estrela,
 
 98
 00:04:13,110 --> 00:04:18,110
-Um pirata comum só poderia
+Um pirata comum só podia
 sonhar em conhecer alguém como ele!
 
 99
 00:04:18,110 --> 00:04:20,320
-Então, olhe bem para ele!
+Por isso, olha bem para ele!
 Pois é...
 
 100
@@ -541,7 +541,7 @@ Buggy em pessoa!
 
 103
 00:04:28,210 --> 00:04:30,290
-Eu adoro isso, pessoal!
+Adoro isto, malta!
 – Buggy em pessoa! Buggy em pessoa!
 – Buggy em pessoa! Buggy em pessoa!
 
@@ -577,7 +577,7 @@ Com licença, Presidente Bagre em pessoa!
 
 110
 00:04:41,140 --> 00:04:43,220
-Quem você chamou de Bagre?!
+A quem é que chamaste Bagre?!
 
 111
 00:04:43,550 --> 00:04:45,430
@@ -589,7 +589,7 @@ o navio da Cross Guild!
 
 113
 00:04:48,640 --> 00:04:50,770
-Deixe a construção do navio comigo!
+Deixa a construção do navio comigo!
 
 114
 00:04:50,770 --> 00:04:53,360
@@ -597,31 +597,31 @@ Temos construtores de navios incríveis!
 
 115
 00:04:55,940 --> 00:04:56,780
-Por quê?!
+Porquê?!
 
 116
 00:04:56,780 --> 00:04:58,280
-Como isso foi acabar assim?!
+Como é que isto foi acabar assim?!
 
 117
 00:04:58,280 --> 00:05:00,660
-O Presidente Buggy tem que estar na proa, claro!
+O Presidente Buggy tem de estar à proa, claro!
 
 118
 00:05:00,660 --> 00:05:01,780
-Mandamos bem, hein?!
+Ficou bom, hã?!
 
 119
 00:05:01,780 --> 00:05:03,240
-É o melhor navio de todos os tempos!
+É o melhor navio de sempre!
 
 120
 00:05:03,240 --> 00:05:03,990
-Ótimo trabalho, pessoal!
+Ótimo trabalho, malta!
 
 121
 00:05:03,990 --> 00:05:05,490
-Ótimo trabalho, pessoal!
+Ótimo trabalho, malta!
 P-Por favor, parem...
 
 122
@@ -630,15 +630,15 @@ P-Por favor, parem...
 
 123
 00:05:09,540 --> 00:05:12,290
-Ei, que diabos é aquilo?
+Ei, que raio é aquilo?
 
 124
 00:05:12,290 --> 00:05:17,130
-Nós não vamos navegar nessa coisa horrível.
+Não vamos navegar nessa coisa horrível.
 
 125
 00:05:17,130 --> 00:05:18,800
-Sala de reuniões. Agora!
+Sala de reuniões. Já!
 
 126
 00:05:20,300 --> 00:05:23,300
@@ -646,44 +646,44 @@ N-N-Não... Quero dizer...
 
 127
 00:05:29,850 --> 00:05:30,980
-Sala de Reunião
+Sala de Reuniões
 
 128
 00:05:30,980 --> 00:05:32,770
-Sala de Reunião
-A recepção do público à
+Sala de Reuniões
+A recetividade do público à
 Cross Guild tem sido excelente.
 
 129
 00:05:32,770 --> 00:05:34,310
-A recepção do público à
+A recetividade do público à
 Cross Guild tem sido excelente.
 
 130
 00:05:34,810 --> 00:05:38,860
-Já é hora de a Marinha
-notar a ameaça que representamos.
+Já é altura de a Marinha
+reparar na ameaça que representamos.
 
 131
 00:05:39,240 --> 00:05:43,160
-Apenas... apenas... me mate logo...
+Matem-me... matem-me... de uma vez...
 
 132
 00:05:43,160 --> 00:05:44,200
-Eu não aguento mais...
+Já não aguento mais...
 
 133
 00:05:44,200 --> 00:05:46,330
-Nós devemos estabelecer uma utopia,
+Devemos estabelecer uma utopia,
 
 134
 00:05:46,330 --> 00:05:51,250
-uma nação militar que possa enfrentar
+uma nação militar capaz de enfrentar
 qualquer quantidade de oposição.
 
 135
 00:05:51,830 --> 00:05:53,790
-E para conseguir isso, precisaremos de...
+E, para conseguir isso, vamos precisar de...
 
 136
 00:05:54,170 --> 00:05:55,750
@@ -691,15 +691,15 @@ E para conseguir isso, precisaremos de...
 
 137
 00:05:55,750 --> 00:05:57,670
-Isso está tudo errado...
+Está tudo errado...
 
 138
 00:05:57,670 --> 00:06:01,880
-Não foi assim que minha vida deveria ser...
+Não era assim que a minha vida devia ser...
 
 139
 00:06:01,880 --> 00:06:04,590
-E para pagar isso, precisaremos de uma quantidade enorme de...
+E, para pagar isso, vamos precisar de uma quantidade enorme de...
 
 140
 00:06:04,590 --> 00:06:06,390
@@ -707,52 +707,52 @@ E para pagar isso, precisaremos de uma quantidade enorme de...
 
 141
 00:06:07,850 --> 00:06:09,600
-D-Desculpa por interromper...
+D-Desculpem interromper...
 
 142
 00:06:09,600 --> 00:06:10,810
-Fique quieto.
+Cala-te.
 
 143
 00:06:12,270 --> 00:06:16,440
-Poxa, se você vai me matar, faça logo!
+Bolas, se me vão matar, façam-no de uma vez!
 
 144
 00:06:16,440 --> 00:06:19,110
-Mas sério, como vocês podem
-se chamar de piratas?!
+Mas, a sério, como é que se podem
+chamar piratas?!
 
 145
 00:06:19,110 --> 00:06:21,440
-Seus objetivos são pequenos!
+Os vossos objetivos são pequenos!
 
 146
 00:06:21,440 --> 00:06:24,530
-Pare de dar tantas voltas!
+Deixa-te de rodeios!
 
 147
 00:06:24,530 --> 00:06:26,120
-O que é isso? Desespero?
+O que é isto? Desespero?
 
 148
 00:06:26,490 --> 00:06:31,120
-Aposto que vocês ouviram que
-O Ruivo começou a se mover.
+Aposto que ouviram dizer que
+o Ruivo se pôs em movimento.
 
 149
 00:06:31,120 --> 00:06:34,710
-Embora nós dois estivéssemos
+Embora estivéssemos os dois
 na tripulação do Rei dos Piratas,
 
 150
 00:06:35,290 --> 00:06:39,000
-por uma razão ou outra,
-nenhum de nós jamais chegou a Laugh Tale.
+por uma razão ou por outra,
+nenhum de nós chegou alguma vez a Laugh Tale.
 
 151
 00:06:39,380 --> 00:06:42,970
-O que vocês queriam se tornar
-quando eram jovens?!
+O que é que vocês queriam ser
+quando eram novos?!
 
 152
 00:06:42,970 --> 00:06:47,930
@@ -760,22 +760,22 @@ Quando vi o tipo de potencial que o Shanks tinha...
 
 153
 00:06:47,930 --> 00:06:51,350
-Eu desisti do meu sonho!
+desisti do meu sonho!
 
 154
 00:06:52,100 --> 00:06:53,810
-24 Anos Atrás
+Há 24 Anos
 
 O Dia da
 Execução de Gol D. Roger
 
 155
 00:06:54,190 --> 00:06:57,060
-Não se lembra do que prometeu, Shanks?!
+Não te lembras do que prometeste, Shanks?!
 
 156
 00:06:57,060 --> 00:07:00,230
-Você disse que um dia navegaríamos com nossos próprios navios para Laugh Tale!
+Disseste que um dia navegaríamos com os nossos próprios navios até Laugh Tale!
 
 157
 00:07:00,570 --> 00:07:01,860
@@ -783,11 +783,11 @@ Sim.
 
 158
 00:07:01,860 --> 00:07:03,490
-Mas mudei de ideia.
+Mas mudei de ideias.
 
 159
 00:07:03,490 --> 00:07:05,450
-Não vou procurá-lo agora.
+Não o vou procurar agora.
 
 160
 00:07:05,450 --> 00:07:06,910
@@ -795,39 +795,39 @@ O quê?!
 
 161
 00:07:06,910 --> 00:07:08,660
-Mas vou continuar sendo um pirata.
+Mas vou continuar a ser pirata.
 
 162
 00:07:08,660 --> 00:07:11,580
-Estou decepcionado com você, Shanks.
+Estou desiludido contigo, Shanks.
 
 163
 00:07:11,620 --> 00:07:16,040
-Você era para se tornar o rei da próxima geração.
+Era suposto tornares-te o rei da próxima geração.
 
 164
 00:07:16,620 --> 00:07:19,130
-Venha comigo, Buggy.
+Vem comigo, Buggy.
 
 165
 00:07:19,840 --> 00:07:22,960
-Não vou receber ordens suas, seu idiota!
+Não recebo ordens tuas, seu idiota!
 
 166
 00:07:22,960 --> 00:07:24,220
-Seu covarde!
+Seu cobarde!
 
 167
 00:07:24,720 --> 00:07:29,850
-O que o Capitão Roger queria era que você seguisse os passos dele, não era?!
+O que o Capitão Roger queria era que lhe seguisses os passos, não era?!
 
 168
 00:07:29,850 --> 00:07:32,100
-É melhor você não ter se esquecido!
+É bom que não te tenhas esquecido!
 
 169
 00:07:32,470 --> 00:07:34,850
-Você é a razão pela qual perdi meu mapa do tesouro!
+Foi por tua causa que perdi o meu mapa do tesouro!
 
 170
 00:07:34,850 --> 00:07:36,480
@@ -839,11 +839,11 @@ Da próxima vez que nos encontrarmos, seremos inimigos!
 
 172
 00:07:41,360 --> 00:07:43,440
-E agora Shanks está em movimento.
+E agora o Shanks pôs-se em movimento.
 
 173
 00:07:43,440 --> 00:07:46,110
-Por quê, depois de todo esse tempo?!
+Porquê, depois de todo este tempo?!
 
 174
 00:07:46,110 --> 00:07:48,070
@@ -851,12 +851,12 @@ Mas desta vez...!
 
 175
 00:07:48,070 --> 00:07:51,660
-Chame de acidente ou apenas de sorte,
-mas estou no mesmo nível que ele!
+Chamem-lhe acidente ou apenas sorte,
+mas estou ao mesmo nível que ele!
 
 176
 00:07:54,040 --> 00:07:58,870
-Então... eu quero ser o Rei dos Piratas!
+Portanto... eu quero ser o Rei dos Piratas!
 
 177
 00:07:58,870 --> 00:08:01,130
@@ -868,7 +868,7 @@ Podemos ter tudo!
 
 179
 00:08:06,420 --> 00:08:08,380
-Vamos lá pegar!
+Vamos lá buscá-lo!
 
 180
 00:08:08,380 --> 00:08:11,140
@@ -876,24 +876,24 @@ O maior tesouro do mundo!
 
 181
 00:08:13,890 --> 00:08:16,180
-Cale a boca!
+Cala-te!
 
 182
 00:08:16,930 --> 00:08:17,890
-Oh droga!
+Ai, raios!
 
 183
 00:08:29,530 --> 00:08:33,030
-Eu sei que os títulos tendem a subir à cabeça das pessoas,
+Sei que os títulos costumam subir à cabeça das pessoas,
 
 184
 00:08:33,030 --> 00:08:35,240
-mas como você pode ser tão iludido?!
+mas como é que podes ser tão iludido?!
 
 185
 00:08:35,620 --> 00:08:39,120
-Você achou que seríamos tão facilmente
-influenciados por sua língua solta?
+Achaste que nos deixaríamos
+influenciar assim pela tua língua solta?
 
 186
 00:08:39,120 --> 00:08:41,540
@@ -905,27 +905,27 @@ A pirataria é um negócio!
 
 188
 00:08:43,460 --> 00:08:46,300
-Ruivo, Barba Negra, Chapéu de Palha...
+O Ruivo, o Barba Negra, o Chapéu de Palha...
 
 189
 00:08:46,300 --> 00:08:49,050
-Você pretende lutar contra todos eles?
+Tencionas lutar contra todos eles?
 
 190
 00:08:49,800 --> 00:08:51,640
-Nós só temos que chegar antes deles!
+Só temos de lá chegar antes deles!
 
 191
 00:08:51,640 --> 00:08:54,600
-Uma caça ao tesouro é uma corrida, afinal!
+Afinal, uma caça ao tesouro é uma corrida!
 
 192
 00:08:55,810 --> 00:08:58,060
-Permita-me demonstrar!
+Permitam-me demonstrar!
 
 193
 00:08:58,060 --> 00:09:00,900
-Lembrem-se da paixão que essas palavras inspiram!
+Lembrem-se da paixão que estas palavras inspiram!
 
 194
 00:09:00,900 --> 00:09:03,520
@@ -933,11 +933,11 @@ Todos os piratas...
 
 195
 00:09:03,520 --> 00:09:06,980
-saem para o mar em busca da mesma coisa!
+se fazem ao mar em busca da mesma coisa!
 
 196
 00:09:09,320 --> 00:09:11,990
-Ouçam, pessoal!
+Ouçam, malta!
 
 197
 00:09:12,950 --> 00:09:14,780
@@ -946,51 +946,51 @@ Ouçam, pessoal!
 
 198
 00:09:15,700 --> 00:09:18,160
-Pare com isso, Buggy!
+Para com isso, Buggy!
 
 199
 00:09:23,040 --> 00:09:24,710
-Me falem!
+Digam-me!
 
 200
 00:09:24,710 --> 00:09:27,840
 Qual foi o sonho
-que os levou ao mar?!
+que vos levou ao mar?!
 
 201
 00:09:28,340 --> 00:09:31,300
-Aqui fora, onde você pode
+Aqui fora, onde se pode
 morrer a qualquer momento...
 
 202
 00:09:31,300 --> 00:09:35,810
-sua alma não clama por isso?!
+a vossa alma não clama por isso?!
 
 203
 00:09:45,110 --> 00:09:46,230
-Está acontecendo!
+Está a acontecer!
 
 204
 00:09:46,230 --> 00:09:50,070
-O Presidente Buggy está reacendendo
-a paixão perdida em nossos corações!
+O Presidente Buggy está a reacender
+a paixão perdida nos nossos corações!
 
 205
 00:09:50,070 --> 00:09:53,280
-Para todos os covardes que se
-contentaram com o status quo...
+A todos os cobardes que se
+contentaram com o que está...
 
 206
 00:09:53,280 --> 00:09:56,910
-busquem o que seu coração mais deseja!
+procurem aquilo que o vosso coração mais deseja!
 
 207
 00:09:56,910 --> 00:09:59,620
-Lembrem-se, vocês me têm ao seu lado!
+Lembrem-se, têm-me ao vosso lado!
 
 208
 00:10:03,580 --> 00:10:05,330
-Vamos lá pegar...
+Vamos lá buscar...
 
 209
 00:10:05,330 --> 00:10:07,250
@@ -1012,7 +1012,7 @@ De quem é o navio?
 213
 00:10:21,930 --> 00:10:23,060
 Vice-Comandante Ushiano
-(Subordinado de Morley)
+(Subordinado do Morley)
 Divisão Ocidental
 Exército Revolucionário
 Quase lá!
@@ -1020,7 +1020,7 @@ Quase lá!
 214
 00:10:23,060 --> 00:10:23,940
 Vice-Comandante Ushiano
-(Subordinado de Morley)
+(Subordinado do Morley)
 Divisão Ocidental
 Exército Revolucionário
 Muito íngreme?
@@ -1028,33 +1028,33 @@ Muito íngreme?
 215
 00:10:23,940 --> 00:10:24,770
 Vice-Comandante Ushiano
-(Subordinado de Morley)
+(Subordinado do Morley)
 Divisão Ocidental
 Exército Revolucionário
-Você está bem?
+Estás bem?
 
 216
 00:10:26,650 --> 00:10:29,110
-Kamabakka Queendom
+Reino Kamabakka
 Grand Line
 
 217
 00:10:30,110 --> 00:10:32,570
 Vice-Comandante Ahiru
-(Subordinada de Belo Betty)
+(Subordinada da Belo Betty)
 Divisão Oriental
 Exército Revolucionário
 
 218
 00:10:37,200 --> 00:10:39,740
 Vice-Comandante Jiron
-(Subordinado de Karasu)
+(Subordinado do Karasu)
 Divisão do Norte
 Exército Revolucionário
 
 219
 00:10:41,330 --> 00:10:43,460
-Ei! E aí?! E aí?!
+Ei! Então?! Então?!
 
 220
 00:10:43,460 --> 00:10:45,540
@@ -1062,12 +1062,12 @@ Então, aquele navio...
 
 221
 00:10:45,540 --> 00:10:48,170
-É um inimigo? O quê? Quem?
-O que devemos fazer?!
+É inimigo? O quê? Quem?
+O que é que fazemos?!
 
 222
 00:10:48,540 --> 00:10:51,300
-Ei! Está vindo para cá!
+Ei! Vem para aqui!
 
 223
 00:10:51,300 --> 00:10:52,630
@@ -1091,31 +1091,31 @@ Shwing!
 
 228
 00:11:07,270 --> 00:11:09,400
-Ei, quer fazer uma aposta?
+Ei, queres fazer uma aposta?
 
 229
 00:11:10,320 --> 00:11:12,650
 Vice-Comandante Gambo
-(Subordinado de Lindbergh)
+(Subordinado do Lindbergh)
 Divisão do Sul
 Exército Revolucionário
-No navio desconhecido?
+Sobre o navio desconhecido?
 
 230
 00:11:12,650 --> 00:11:14,400
 Vice-Comandante Gambo
-(Subordinado de Lindbergh)
+(Subordinado do Lindbergh)
 Divisão do Sul
 Exército Revolucionário
-Eu aposto que é um navio inimigo!
+Aposto que é um navio inimigo!
 
 231
 00:11:14,400 --> 00:11:15,240
 Vice-Comandante Gambo
-(Subordinado de Lindbergh)
+(Subordinado do Lindbergh)
 Divisão do Sul
 Exército Revolucionário
-Então, por quanto?
+Então, quanto?
 
 232
 00:11:16,700 --> 00:11:18,410
@@ -1127,11 +1127,11 @@ Bweee...
 
 234
 00:11:25,830 --> 00:11:27,460
-Eu aposto...
+Aposto...
 
 235
 00:11:29,380 --> 00:11:32,340
-um milhão no retorno do Sabo.
+um milhão no regresso do Sabo.
 
 236
 00:11:32,340 --> 00:11:34,170
@@ -1151,11 +1151,11 @@ Iva!
 
 240
 00:11:50,400 --> 00:11:52,360
-Sabo...
+O Sabo...
 
 241
 00:11:52,360 --> 00:11:55,240
-retornou!
+voltou!
 
 242
 00:11:57,030 --> 00:11:59,030
@@ -1171,7 +1171,7 @@ Então ele está bem!
 
 245
 00:12:05,200 --> 00:12:07,580
-Eu senti tanto a falta dele!
+Tive tantas saudades dele!
 
 246
 00:12:07,580 --> 00:12:09,170
@@ -1184,7 +1184,7 @@ Sabo!
 
 248
 00:12:46,200 --> 00:12:47,580
-Pessoal!
+Malta!
 
 249
 00:12:47,580 --> 00:12:48,960
@@ -1197,7 +1197,7 @@ Estou de volta!
 
 251
 00:12:54,880 --> 00:12:56,260
-Eu sei que você trapaceou!
+Eu sei que fizeste batota!
 
 252
 00:12:56,260 --> 00:12:57,760
@@ -1205,11 +1205,11 @@ Um milhão?!
 
 253
 00:12:57,760 --> 00:12:59,550
-Você não vai tirar um berry de mim!
+Não me sacas um berry que seja!
 
 254
 00:12:59,550 --> 00:13:02,760
-Não, eu vou fazer você pagar.
+Não, eu é que te vou fazer pagar.
 
 255
 00:13:02,760 --> 00:13:03,720
@@ -1217,7 +1217,7 @@ Hã?
 
 256
 00:13:03,720 --> 00:13:06,470
-Você usou um telescópio, não foi?!
+Usaste um telescópio, não foi?!
 
 257
 00:13:06,470 --> 00:13:07,850
@@ -1225,7 +1225,7 @@ Não.
 
 258
 00:13:07,850 --> 00:13:09,230
-Você está comendo?!
+Estás a comer?!
 
 259
 00:13:09,230 --> 00:13:10,600
@@ -1245,15 +1245,15 @@ Bem-vindo de volta!
 
 263
 00:13:16,440 --> 00:13:18,150
-Quase atirei em você, Sabo!
+Quase que disparava sobre ti, Sabo!
 
 264
 00:13:18,150 --> 00:13:20,650
-Você é uma ameaça, Ahiru.
+És uma ameaça, Ahiru.
 
 265
 00:13:20,650 --> 00:13:21,860
-Eu fiz você se preocupar?
+Fiz-te preocupar?
 
 266
 00:13:21,860 --> 00:13:23,200
@@ -1261,31 +1261,31 @@ Talvez!
 
 267
 00:13:23,200 --> 00:13:25,910
-Sabo! Seguro! Feliz!
+Sabo! Salvo! Feliz!
 
 268
 00:13:25,910 --> 00:13:28,830
-Eu também estou feliz em ver você, Ushiano.
+Também estou feliz por te ver, Ushiano.
 
 269
 00:13:28,830 --> 00:13:30,040
-Sério!
+A sério!
 
 270
 00:13:30,040 --> 00:13:32,420
-Você certamente gosta de manter as pessoas em suspense!
+Gostas mesmo de manter as pessoas em suspense!
 
 271
 00:13:32,420 --> 00:13:35,170
-Você nos deixou preocupados!
+Deixaste-nos preocupados!
 
 272
 00:13:35,170 --> 00:13:36,380
-Desculpe por isso.
+Desculpem lá isso.
 
 273
 00:13:37,000 --> 00:13:39,920
-O que te fez demorar tanto, afinal?
+Afinal, porque é que demoraste tanto?
 
 274
 00:13:39,920 --> 00:13:42,130
@@ -1301,11 +1301,11 @@ Sim.
 
 277
 00:13:45,300 --> 00:13:46,720
-Explico depois.
+Depois explico.
 
 278
 00:13:48,890 --> 00:13:52,020
-Vamos acomodá-los primeiro.
+Vamos primeiro instalá-los.
 
 279
 00:13:52,600 --> 00:13:54,560
@@ -1313,24 +1313,24 @@ Sabo!
 
 280
 00:13:58,110 --> 00:14:00,530
-Como você pôde simplesmente sumir?!
+Como é que pudeste desaparecer assim?!
 
 281
 00:14:00,530 --> 00:14:02,240
-Koala, me desculpe!
+Koala, desculpa!
 
 282
 00:14:04,160 --> 00:14:06,450
-Eu não tinha um Den Den Mushi de criptografia,
+Não tinha um Den Den Mushi de cifra,
 
 283
 00:14:06,450 --> 00:14:09,750
-então todas as minhas comunicações
-teriam sido interceptadas!
+por isso todas as minhas comunicações
+teriam sido intercetadas!
 
 284
 00:14:10,200 --> 00:14:13,960
-Mas eu dei três toques para
+Mas dei três toques para
 indicar que era uma chamada indireta!
 
 285
@@ -1343,11 +1343,11 @@ Ainda assim...
 
 287
 00:14:21,010 --> 00:14:24,970
-Eu estava preocupada com você!
+Estava preocupada contigo!
 
 288
 00:14:25,470 --> 00:14:26,970
-Desculpe.
+Desculpa.
 
 289
 00:14:35,350 --> 00:14:37,560
@@ -1355,11 +1355,11 @@ Sabo!
 
 290
 00:14:37,560 --> 00:14:39,530
-Sério...
+A sério...
 
 291
 00:14:39,530 --> 00:14:42,030
-por que vocês garotos são todos assim?!
+porque é que vocês, rapazes, são todos assim?!
 
 292
 00:14:43,400 --> 00:14:44,240
@@ -1367,7 +1367,7 @@ Morley!
 
 293
 00:14:44,240 --> 00:14:48,830
-Não me deixe preocupado!
+Não me deixes preocupado!
 
 294
 00:14:48,830 --> 00:14:51,450
@@ -1375,7 +1375,7 @@ Sabo!
 
 295
 00:14:52,080 --> 00:14:56,170
-Estou tão feliz que você voltou!
+Estou tão feliz por teres voltado!
 
 296
 00:14:58,130 --> 00:14:59,340
@@ -1383,15 +1383,15 @@ Bem-vindos!
 
 297
 00:15:01,130 --> 00:15:04,010
-Eu me lembro de vocês, idiotas de Lulusia!
+Lembro-me de vocês, idiotas de Lulusia!
 
 298
 00:15:04,720 --> 00:15:07,090
-Lamento pelo que aconteceu com seu lar.
+Lamento o que aconteceu à vossa terra.
 
 299
 00:15:07,720 --> 00:15:10,720
-Eu soube que vocês queriam se juntar
+Soube que se queriam juntar
 ao Exército Revolucionário.
 
 300
@@ -1405,7 +1405,7 @@ Mas primeiro!
 
 302
 00:15:14,180 --> 00:15:15,560
-Vão descansar um pouco.
+Vão descansar um bocado.
 
 303
 00:15:16,190 --> 00:15:18,060
@@ -1413,19 +1413,19 @@ Tirem um tempo e esvaziem a cabeça.
 
 304
 00:15:23,990 --> 00:15:25,950
-Eu ouvi sobre Kuma.
+Ouvi falar do Kuma.
 
 305
 00:15:25,950 --> 00:15:27,160
-Minhas desculpas.
+Peço desculpa.
 
 306
 00:15:27,160 --> 00:15:29,870
-Todos os seus esforços foram em vão.
+Todos os vossos esforços foram em vão.
 
 307
 00:15:29,870 --> 00:15:36,330
-Ele pode ter sido programado para retornar
+Pode ter sido programado para regressar
 a Mary Geoise a qualquer momento.
 
 308
@@ -1434,12 +1434,12 @@ Não...
 
 309
 00:15:37,830 --> 00:15:41,250
-Deve ser mais difícil para vocês dois do que para mim.
+Deve ser mais difícil para vocês os dois do que para mim.
 
 310
 00:15:41,250 --> 00:15:45,970
-Sabo... nem mesmo os capitães
-podem ouvir o que você tem a dizer?
+Sabo... nem sequer os capitães
+podem ouvir o que tens para dizer?
 
 311
 00:15:46,380 --> 00:15:47,470
@@ -1447,7 +1447,7 @@ Sim...
 
 312
 00:15:47,470 --> 00:15:51,430
-Apenas saber disso poderia colocar a vida deles em perigo.
+Só saber isso podia pôr-lhes a vida em perigo.
 
 313
 00:15:51,430 --> 00:15:52,260
@@ -1456,11 +1456,11 @@ O que é?
 314
 00:15:53,100 --> 00:15:56,100
 Esta Reverie foi
-particularmente tumultuada...
+particularmente turbulenta...
 
 315
 00:15:56,480 --> 00:15:59,980
-Eu vou te contar tudo o que realmente aconteceu...
+Vou contar-vos tudo o que realmente aconteceu...
 
 316
 00:15:59,980 --> 00:16:01,900
@@ -1468,21 +1468,21 @@ na Terra Sagrada, Mary Geoise!
 
 317
 00:16:01,900 --> 00:16:04,320
-Nós cumprimos todos os aspectos da nossa missão.
+Cumprimos todos os aspetos da nossa missão.
 
 318
 00:16:05,900 --> 00:16:08,530
-Nós tínhamos três objetivos principais:
+Tínhamos três objetivos principais:
 
 319
 00:16:09,160 --> 00:16:12,780
-Declarar guerra destruindo o símbolo
+declarar guerra destruindo o símbolo
 dos Tenryuubitos.
 
 320
 00:16:13,410 --> 00:16:17,660
-Libertar o máximo de escravos possível
-enquanto resgatávamos Kuma.
+Libertar o maior número possível de escravos
+enquanto resgatávamos o Kuma.
 
 321
 00:16:18,290 --> 00:16:21,630
@@ -1491,7 +1491,7 @@ comida na Terra dos Deuses.
 
 322
 00:16:22,250 --> 00:16:23,500
-Como foi?
+Como correu?
 
 323
 00:16:23,500 --> 00:16:24,710
@@ -1499,17 +1499,17 @@ Bem...
 
 324
 00:16:25,090 --> 00:16:28,180
-Você certamente chamou a atenção do mundo.
+Chamaste sem dúvida a atenção do mundo.
 
 325
 00:16:28,180 --> 00:16:33,060
-Graças ao fato de você ter mantido
-a maioria das forças da Marinha ocupadas,
+Graças a teres mantido
+a maior parte das forças da Marinha ocupadas,
 
 326
 00:16:33,060 --> 00:16:39,140
-doze países se revoltaram por
-causa da nossa influência.
+doze países revoltaram-se
+por influência nossa.
 
 327
 00:16:39,480 --> 00:16:44,020
@@ -1517,7 +1517,7 @@ Oito dessas revoluções foram bem-sucedidas.
 
 328
 00:16:44,530 --> 00:16:47,610
-Eles a chamaram de Revolução das Oito Nações,
+Chamaram-lhe a Revolução das Oito Nações,
 
 329
 00:16:47,610 --> 00:16:50,990
@@ -1538,44 +1538,44 @@ mas as sete nações restantes que se revoltaram
 
 333
 00:17:01,540 --> 00:17:04,670
-estão se recusando a pagar o tributo celestial
+recusam-se a pagar o tributo celestial
 
 334
 00:17:04,670 --> 00:17:07,920
-e pararam de exportar recursos naturais
+e deixaram de exportar recursos naturais
 para o governo.
 
 335
 00:17:08,380 --> 00:17:10,700
-O Exército Revolucionário está realizando ataques
+O Exército Revolucionário está a fazer ataques
 
 336
 00:17:10,730 --> 00:17:13,050
-globais nas linhas de
+globais às linhas de
 abastecimento do governo,
 
 337
 00:17:13,050 --> 00:17:16,270
-cortando os recursos de Mary Geoise!
+cortando os recursos a Mary Geoise!
 
 338
 00:17:16,810 --> 00:17:19,340
-As pessoas dizem que
+Diz-se que
 Mary Geoise é uma fortaleza
 
 339
 00:17:19,360 --> 00:17:21,730
 impenetrável porque
-está bem acima do mar.
+está muito acima do mar.
 
 340
 00:17:22,690 --> 00:17:25,690
-Mas eles não podem resistir
+Mas não conseguem resistir
 às nossas táticas de fome!
 
 341
 00:17:25,690 --> 00:17:29,780
-Deixem-nos aprender o que significa ser
+Que aprendam o que é ser
 pobre e passar fome!
 
 342
@@ -1592,17 +1592,17 @@ Sim, é muito provável.
 
 345
 00:17:38,410 --> 00:17:46,630
-Nem tudo está sendo interrompido, mas é o suficiente para atormentá-los.
+Nem tudo está a ser interrompido, mas chega para os atormentar.
 
 346
 00:17:47,670 --> 00:17:52,510
-É claro que eles não são o tipo de gente que
-vai ficar de braços cruzados.
+É claro que não são o tipo de gente
+que fica de braços cruzados.
 
 347
 00:17:52,510 --> 00:17:57,470
-Quando eles enviarem os Cavaleiros Sagrados,
-a verdadeira batalha começará!
+Quando enviarem os Cavaleiros Sagrados,
+começa a verdadeira batalha!
 
 348
 00:17:57,470 --> 00:17:58,430
@@ -1614,35 +1614,35 @@ Não... Menino Imperador da Chama!
 
 350
 00:18:01,560 --> 00:18:04,860
-Você é o alvo número um deles agora!
+Agora és o alvo número um deles!
 
 351
 00:18:04,860 --> 00:18:07,610
-Eu ainda não gosto desse apelido...
+Continuo a não gostar dessa alcunha...
 
 352
 00:18:07,610 --> 00:18:11,070
-Seja como for, isso o
-tornou um nome conhecido.
+Seja como for, isso
+tornou-te um nome conhecido.
 
 353
 00:18:11,070 --> 00:18:18,790
-Independentemente da verdade, o assassinato
-do Rei Cobra fez de você um herói.
+Independentemente da verdade, o assassínio
+do Rei Cobra fez de ti um herói.
 
 354
 00:18:21,040 --> 00:18:24,420
-Da perspectiva dos insurgentes,
+Do ponto de vista dos insurgentes,
 
 355
 00:18:24,420 --> 00:18:28,550
-qualquer um afiliado com
-o Governo Mundial é igual.
+qualquer um que esteja ligado
+ao Governo Mundial é igual.
 
 356
 00:18:28,580 --> 00:18:32,580
-É claro que existem alguns reis
-que maltrataram seu povo,
+É claro que há alguns reis
+que maltrataram o seu povo,
 
 357
 00:18:32,600 --> 00:18:36,680
@@ -1656,7 +1656,7 @@ conhecido como um monarca excelente e benevolente.
 
 359
 00:18:46,360 --> 00:18:49,820
-Mas o que é reportado nem sempre
+Mas o que é noticiado nem sempre
 reflete a realidade.
 
 360
@@ -1669,19 +1669,19 @@ isso não me incomoda.
 
 362
 00:18:53,990 --> 00:18:56,240
-O que aconteceu com o Rei Cobra é uma tragédia...
+O que aconteceu ao Rei Cobra é uma tragédia...
 
 363
 00:18:56,620 --> 00:19:00,200
-mas tudo é para acender as chamas da revolução!
+mas tudo serve para acender as chamas da revolução!
 
 364
 00:19:01,290 --> 00:19:02,910
-É por isso que depositamos nossa fé em você.
+É por isso que depositamos a nossa fé em ti.
 
 365
 00:19:03,750 --> 00:19:06,960
-Agora, nos explique!
+Agora, explica-nos!
 
 366
 00:19:06,960 --> 00:19:07,210
@@ -1782,12 +1782,12 @@ por trás desta notícia chocante!
 
 372
 00:19:12,210 --> 00:19:16,050
-Você nos fez chorar enquanto nós tentávamos
-desesperadamente entender o porquê.
+Fizeste-nos chorar enquanto tentávamos
+desesperadamente perceber porquê.
 
 373
 00:19:16,800 --> 00:19:18,890
-Nossa fé em você foi testada!
+A nossa fé em ti foi posta à prova!
 
 374
 00:19:26,270 --> 00:19:28,610
@@ -1800,7 +1800,7 @@ realizada na Terra Sagrada, Mary Geoise...
 
 376
 00:19:38,700 --> 00:19:42,370
-Isto é uma emergência! Intrusos invadiram
+Isto é uma emergência! Invadiram
 a Terra dos Deuses!
 
 377
@@ -1809,16 +1809,16 @@ Por favor, evacuem imediatamente!
 
 378
 00:19:44,870 --> 00:19:47,830
-Nossas reservas de comida explodiram!
+As nossas reservas de comida explodiram!
 
 379
 00:19:47,830 --> 00:19:51,840
-Façam algo, seus burocratas!
-Se livrem desses intrusos!
+Façam alguma coisa, seus burocratas!
+Livrem-se destes intrusos!
 
 380
 00:19:51,840 --> 00:19:56,550
-Quatro comandantes do Exército Revolucionário foram identificados no local!
+Foram identificados no local quatro comandantes do Exército Revolucionário!
 
 381
 00:19:56,550 --> 00:19:58,550
@@ -1826,12 +1826,12 @@ Malditos!
 
 382
 00:19:58,550 --> 00:20:01,680
-Não só eles destroem o símbolo
+Não só destroem o símbolo
 da nobreza mundial,
 
 383
 00:20:01,680 --> 00:20:04,310
-mas também miram em nossas
+como também atacam as nossas
 reservas de comida gourmet!
 
 384
@@ -1840,28 +1840,28 @@ A inveja dos pobres não tem limites!
 
 385
 00:20:06,940 --> 00:20:09,270
-Capturam-nos e decapitem-os de uma vez!
+Capturem-nos e decapitem-nos já!
 
 386
 00:20:09,730 --> 00:20:12,980
-Vocês guardas são os próximos na linha de abate!
+Vocês, guardas, são os próximos a ser abatidos!
 
 387
 00:20:13,360 --> 00:20:17,450
-Vocês acharam que poderiam deixar
-isso acontecer conosco e se safar?!
+Acharam que podiam deixar
+que isto nos acontecesse e safar-se?!
 
 388
 00:20:21,870 --> 00:20:26,080
-Eu te disse para se apressar! Cachorro inútil!
+Eu disse-te para te despachares! Cão inútil!
 
 389
 00:20:29,790 --> 00:20:32,670
-Imagine se algo acontecesse comigo!
+Imagina se me acontecia alguma coisa!
 
 390
 00:20:32,670 --> 00:20:34,250
-Vá mais rápido!
+Anda mais depressa!
 
 391
 00:20:43,100 --> 00:20:44,430
@@ -1869,15 +1869,15 @@ Ai!
 
 392
 00:20:45,640 --> 00:20:48,190
-Seu bastardo inútil!
+Seu inútil de um raio!
 
 393
 00:20:48,190 --> 00:20:51,020
-Esqueça! Eu vou a pé!
+Esquece! Vou a pé!
 
 394
 00:20:53,060 --> 00:20:55,070
-Você está demitido.
+Estás despedido.
 
 395
 00:20:56,570 --> 00:20:58,070
@@ -1885,15 +1885,15 @@ Seu pedaço de lixo!
 
 396
 00:21:06,870 --> 00:21:08,080
-Minha arma!
+A minha arma!
 
 397
 00:21:09,330 --> 00:21:11,540
-Quem fez isso?!
+Quem fez isto?!
 
 398
 00:21:12,040 --> 00:21:14,380
-O que te dá o direito...
+O que é que te dá o direito...
 
 399
 00:21:14,380 --> 00:21:16,840
@@ -1905,7 +1905,7 @@ Karasoot!
 
 401
 00:21:24,180 --> 00:21:25,970
-Vá para o lado leste da cidade.
+Vai para o lado leste da cidade.
 
 402
 00:21:25,970 --> 00:21:26,930
@@ -1913,19 +1913,19 @@ O quê?
 
 403
 00:21:27,270 --> 00:21:29,020
-T-Tá bom!
+E-Está bem!
 
 404
 00:21:29,940 --> 00:21:32,900
-Tenryuubito Pluming! Por favor, evacue rapidamente!
+Tenryuubito Pluming! Por favor, evacue depressa!
 
 405
 00:21:32,900 --> 00:21:35,860
-Cipher Pol... por que demoraram tanto?!
+Cipher Pol... porque é que demoraram tanto?!
 
 406
 00:21:35,860 --> 00:21:38,940
-Eliminem essa praga agora!
+Eliminem já esta praga!
 
 407
 00:21:38,940 --> 00:21:40,570
@@ -1933,11 +1933,11 @@ O Exército Revolucionário?!
 
 408
 00:21:40,570 --> 00:21:41,950
-Atirem!
+Disparem!
 
 409
 00:21:48,080 --> 00:21:50,330
-Boa, nós o pegamos!
+Boa, apanhámo-lo!
 
 410
 00:21:50,330 --> 00:21:51,830
@@ -1945,7 +1945,7 @@ Vamos enchê-lo de balas!
 
 411
 00:21:51,830 --> 00:21:54,790
-Transformem-no em poeira!
+Reduzam-no a pó!
 
 412
 00:21:57,000 --> 00:21:58,000
@@ -1953,15 +1953,15 @@ O quê?!
 
 413
 00:21:58,000 --> 00:22:01,680
-E-Ele realmente virou poeira...
+E-Ele virou mesmo pó...
 
 414
 00:22:01,680 --> 00:22:03,800
-O que ele é...?
+O que é ele...?
 
 415
 00:22:03,800 --> 00:22:05,140
-Nós o matamos?
+Matámo-lo?
 
 416
 00:22:12,480 --> 00:22:14,150
@@ -1980,19 +1980,19 @@ Exército Revolucionário
 
 419
 00:22:45,720 --> 00:22:47,350
-Me ajudem!
+Ajudem-me!
 
 420
 00:22:47,350 --> 00:22:48,680
-Me salvem!
+Salvem-me!
 
 421
 00:22:51,640 --> 00:22:54,390
-Senhores! Eu lhes imploro!
+Senhores! Imploro-vos!
 
 422
 00:22:54,770 --> 00:22:57,060
-Por favor, deixem-nos escapar também!
+Por favor, deixem-nos fugir também!
 
 423
 00:22:57,060 --> 00:22:59,520
@@ -2004,7 +2004,7 @@ Ali estão eles!
 
 425
 00:23:04,110 --> 00:23:06,700
-Eu estou aqui para salvar vocês todos!
+Vim salvar-vos a todos!
 
 426
 00:23:10,950 --> 00:23:12,080
@@ -2020,7 +2020,7 @@ Tiro de Laser!
 
 429
 00:23:28,550 --> 00:23:29,850
-Se apressem!
+Despachem-se!
 
 430
 00:23:29,850 --> 00:23:31,970
@@ -2028,7 +2028,7 @@ Esperem no lado leste da cidade!
 
 431
 00:23:31,970 --> 00:23:33,980
-Vamos sair todos juntos daqui!
+Vamos sair todos daqui juntos!
 
 432
 00:23:35,480 --> 00:23:37,730
@@ -2045,11 +2045,11 @@ Agradeçam-me depois!
 
 435
 00:23:42,570 --> 00:23:44,400
-Se certifiquem de chegar lá!
+Garantam que lá chegam!
 
 436
 00:23:48,070 --> 00:23:50,740
-Vejam isso!
+Vejam só!
 
 437
 00:23:51,580 --> 00:23:54,040
@@ -2059,7 +2059,7 @@ Exército Revolucionário
 
 438
 00:23:54,500 --> 00:23:57,000
-Lindbergh! Os inimigos estão vindo para cá!
+Lindbergh! Vêm aí os inimigos!
 
 439
 00:23:57,420 --> 00:23:58,120
@@ -2067,7 +2067,7 @@ Hã?
 
 440
 00:23:58,500 --> 00:24:00,750
-Se apresse em libertar os escravos!
+Despacha-te a libertar os escravos!
 
 441
 00:24:00,750 --> 00:24:01,880
@@ -2075,11 +2075,11 @@ Entendido!
 
 442
 00:24:05,380 --> 00:24:07,760
-Algo está vindo...
+Vem aí alguma coisa...
 
 443
 00:24:07,760 --> 00:24:09,340
-Algo forte!
+Uma coisa forte!
 
 444
 00:24:14,140 --> 00:24:15,350
@@ -2103,11 +2103,11 @@ Hã?
 
 449
 00:25:04,020 --> 00:25:05,360
-O que está acontecendo?!
+O que se está a passar?!
 
 450
 00:25:05,360 --> 00:25:08,320
-Ah, foi mal.
+Ah, desculpa.
 
 451
 00:25:08,320 --> 00:25:09,950
@@ -2115,15 +2115,15 @@ Um gigante?!
 
 452
 00:25:13,780 --> 00:25:15,910
-Isso não é legal!
+Isso não se faz!
 
 453
 00:25:15,910 --> 00:25:19,620
-Você tem que parar de atirar nas pessoas assim!
+Tens de parar de disparar sobre as pessoas assim!
 
 454
 00:25:19,620 --> 00:25:22,540
-Ei, gente, vocês têm que sair daqui agora!
+Ei, malta, têm de sair já daqui!
 
 455
 00:25:22,540 --> 00:25:24,290
@@ -2131,7 +2131,7 @@ Vão para o lado leste da cidade!
 
 456
 00:25:24,290 --> 00:25:26,800
-Meus amigos estão esperando por vocês!
+Os meus amigos estão à vossa espera!
 
 457
 00:25:27,630 --> 00:25:30,130
@@ -2141,7 +2141,7 @@ Exército Revolucionário
 
 458
 00:25:30,470 --> 00:25:32,640
-E se certifiquem de ter cuidado!
+E tenham muito cuidado!
 
 459
 00:25:32,640 --> 00:25:34,220
@@ -2149,15 +2149,15 @@ Obrigado!
 
 460
 00:25:38,310 --> 00:25:42,060
-Vocês, malditos pirralhos do Exército Revolucionário!
+Seus malditos fedelhos do Exército Revolucionário!
 
 461
 00:25:48,190 --> 00:25:51,570
-Vocês entendem exatamente o que significa...
+Percebem exatamente o que significa...
 
 462
 00:25:51,570 --> 00:25:55,240
-se opor aos Tenryuubitos, não é?!
+opor-se aos Tenryuubitos, não percebem?!
 
 463
 00:25:59,290 --> 00:26:00,160
@@ -2165,11 +2165,11 @@ Eca!
 
 464
 00:26:06,090 --> 00:26:08,550
-O que há de errado com este garoto?!
+O que é que se passa com este rapaz?!
 
 465
 00:26:08,550 --> 00:26:10,760
-Ele se irrita tão fácil!
+Irrita-se tão facilmente!
 
 466
 00:26:11,130 --> 00:26:12,510
@@ -2177,16 +2177,16 @@ Ele se irrita tão fácil!
 
 467
 00:26:13,010 --> 00:26:15,140
-estão destruindo a cidade!
+estão a destruir a cidade!
 
 468
 00:26:15,140 --> 00:26:17,260
-Onde foi o líder de vocês?!
+Para onde é que foi o vosso líder?!
 
 469
 00:26:17,260 --> 00:26:20,520
-Por que você está me fazendo
-perguntas, garoto malvado?!
+Porque é que me estás a fazer
+perguntas, seu rapaz malvado?!
 
 470
 00:26:20,520 --> 00:26:21,980
@@ -2198,15 +2198,15 @@ Hã?!
 
 472
 00:26:23,100 --> 00:26:25,230
-Disse o cara certo!
+Olha quem fala!
 
 473
 00:26:25,230 --> 00:26:26,940
-Olha o que você está vestindo!
+Olha lá para o que tu vestes!
 
 474
 00:26:28,900 --> 00:26:31,360
-Ei, meus olhos estão aqui em cima!
+Ei, os meus olhos estão aqui em cima!
 
 475
 00:26:33,110 --> 00:26:34,610
@@ -2214,15 +2214,15 @@ Uau...
 
 476
 00:26:34,610 --> 00:26:36,830
-Por que você está me encarando?
+Porque é que estás a olhar para mim?
 
 477
 00:26:37,370 --> 00:26:39,120
-Você...
+Tu...
 
 478
 00:26:39,120 --> 00:26:40,450
-gosta de mim?!
+gostas de mim?!
 
 479
 00:26:40,830 --> 00:26:41,700
@@ -2230,7 +2230,7 @@ O quê?!
 
 480
 00:26:45,830 --> 00:26:47,840
-Cale a sua boca!
+Cala a boca!
 
 481
 00:26:51,380 --> 00:26:53,510
@@ -2243,15 +2243,15 @@ Ryokugyu!
 483
 00:26:56,300 --> 00:26:59,890
 Se algum de nós levar um arranhão, 
-você será condenado à morte!
+és condenado à morte!
 
 484
 00:26:59,890 --> 00:27:01,890
-Não posso lutar com tudo assim!
+Não posso lutar com tudo isto assim!
 
 485
 00:27:01,890 --> 00:27:03,600
-Vão embora logo!
+Vão-se embora de uma vez!
 
 486
 00:27:09,690 --> 00:27:10,280
@@ -2263,11 +2263,11 @@ Ei, Fujitora!
 
 488
 00:27:12,280 --> 00:27:13,990
-O que você está fazendo?!
+O que é que estás a fazer?!
 
 489
 00:27:14,610 --> 00:27:16,200
-Eu vou derrubar...
+Vou fazer cair...
 
 490
 00:27:16,200 --> 00:27:17,660
@@ -2275,11 +2275,11 @@ um meteoro.
 
 491
 00:27:17,660 --> 00:27:18,870
-Você não pode fazer isso!
+Não podes fazer isso!
 
 492
 00:27:18,870 --> 00:27:19,910
-Pare com isso, seu idiota!
+Para com isso, seu idiota!
 
 493
 00:27:21,370 --> 00:27:23,450
@@ -2288,20 +2288,20 @@ Dois Almirantes...
 494
 00:27:23,450 --> 00:27:27,330
 Se aqui não fosse a Terra dos Deuses,
-eles poderiam destruir a paisagem inteira.
+podiam destruir a paisagem inteira.
 
 495
 00:27:27,330 --> 00:27:29,340
-Mas eles lutando sem muita preocupação.
+Mas estão a lutar sem grandes cuidados.
 
 496
 00:27:30,920 --> 00:27:34,970
-O Exército Revolucionário está aguentando
-a luta, apesar de sua desvantagem.
+O Exército Revolucionário está a aguentar
+a luta, apesar da desvantagem.
 
 497
 00:27:35,430 --> 00:27:39,720
-Seus comandantes devem ser muito fortes...
+Os comandantes deles devem ser muito fortes...
 
 498
 00:27:39,720 --> 00:27:40,890
@@ -2313,7 +2313,7 @@ Bem...
 
 500
 00:27:43,770 --> 00:27:47,400
-Eu suponho que nós também deveríamos ir.
+Suponho que também devíamos ir.
 
 501
 00:28:00,280 --> 00:28:01,080
@@ -2321,7 +2321,7 @@ Sabo.
 
 502
 00:28:01,530 --> 00:28:03,330
-Você encontrou as chaves das coleiras?
+Encontraste as chaves das coleiras?
 
 503
 00:28:03,330 --> 00:28:05,040
@@ -2329,7 +2329,7 @@ Não vai demorar muito.
 
 504
 00:28:05,620 --> 00:28:07,330
-Acabei de descobrir onde elas estão.
+Acabei de descobrir onde estão.
 
 505
 00:28:08,790 --> 00:28:10,040
@@ -2337,11 +2337,11 @@ Lindbergh!
 
 506
 00:28:10,040 --> 00:28:11,340
-O quê?
+O que é?
 
 507
 00:28:11,710 --> 00:28:13,840
-Kuma está no Castelo Pangaea agora!
+O Kuma está agora no Castelo Pangaea!
 
 508
 00:28:13,840 --> 00:28:14,550
@@ -2349,7 +2349,7 @@ O quê?!
 
 509
 00:28:16,260 --> 00:28:19,300
-Eu vi o Tenryuubito Rosward e seu filho Charlos...
+Vi o Tenryuubito Rosward e o filho Charlos...
 
 510
 00:28:20,050 --> 00:28:22,760
@@ -2358,7 +2358,7 @@ Exército Revolucionário
 
 511
 00:28:23,140 --> 00:28:26,940
-Eu acho que eles estão indo para o Pátio da Unidade para terminar o que eles começaram...
+Acho que vão para o Pátio da Unidade acabar o que começaram...
 
 512
 00:28:26,940 --> 00:28:28,900
@@ -2366,31 +2366,31 @@ O quê?!
 
 513
 00:28:30,770 --> 00:28:34,320
-Eu a farei de meu animal de estimação desta vez.
+Desta vez faço dela o meu animal de estimação.
 
 514
 00:28:34,690 --> 00:28:36,900
-Ele não desistiu da Princesa Shirahoshi...
+Não desistiu da Princesa Shirahoshi...
 
 515
 00:28:37,280 --> 00:28:39,860
-Como ousam usar Kuma para isso?!
+Como se atrevem a usar o Kuma para isso?!
 
 516
 00:28:40,200 --> 00:28:43,330
-Claro, eu não vou deixar que façam isso!
+Claro que não os vou deixar fazer isso!
 
 517
 00:28:43,330 --> 00:28:45,660
-Morley... se prepare!
+Morley... prepara-te!
 
 518
 00:28:45,660 --> 00:28:46,750
-Ok!
+Certo!
 
 519
 00:28:47,250 --> 00:28:50,710
-Eu vou salvar Kuma... custe o que custar!
+Vou salvar o Kuma... custe o que custar!
 
 520
 00:28:54,840 --> 00:28:56,090
@@ -2398,31 +2398,31 @@ Pai!
 
 521
 00:29:09,980 --> 00:29:11,730
-Por favor, volte para seu quarto.
+Por favor, volte para o seu quarto.
 
 522
 00:29:11,730 --> 00:29:13,060
-Você pode me deixar em paz?!
+Podes deixar-me em paz?!
 
 523
 00:29:13,560 --> 00:29:16,150
-Eu vou ao Vice-Almirante Garp para pedir ajuda!
+Vou pedir ajuda ao Vice-Almirante Garp!
 
 524
 00:29:16,730 --> 00:29:19,070
-Nós já estamos aqui para protegê-los.
+Nós já estamos aqui para vos proteger.
 
 525
 00:29:19,070 --> 00:29:24,450
-Como vocês protegeram a Shirahoshi mais cedo, não é?!
+Como protegeram a Shirahoshi há bocado, não é?!
 
 526
 00:29:24,780 --> 00:29:26,490
-Tenho certeza que você sabe!
+De certeza que sabes!
 
 527
 00:29:26,490 --> 00:29:29,960
-Você sabe que eles vão atrás dela de novo!
+Sabes que vão outra vez atrás dela!
 
 528
 00:29:35,210 --> 00:29:37,960
@@ -2430,12 +2430,12 @@ Chaka, Pell.
 
 529
 00:29:37,960 --> 00:29:41,590
-Esta é a minha chance de
+Esta é a minha oportunidade de
 finalmente encontrar os Goroseis.
 
 530
 00:29:41,590 --> 00:29:45,600
-Eu posso nunca ter
+Posso nunca mais ter
 outra oportunidade como esta.
 
 531
@@ -2444,7 +2444,7 @@ Pare!
 
 532
 00:29:51,140 --> 00:29:54,520
-Apenas o Rei Cobra tem permissão
+Só o Rei Cobra tem autorização
 para uma audiência com os Goroseis.
 
 533
@@ -2453,21 +2453,21 @@ Mas...
 
 534
 00:29:55,570 --> 00:29:57,280
-Fique para trás.
+Fiquem para trás.
 
 535
 00:29:58,860 --> 00:30:03,990
 Isto não deve demorar, mas não se
-entediem esperando por mim.
+aborreçam à minha espera.
 
 536
 00:30:03,990 --> 00:30:06,330
-Vão e protejam a Vivi.
+Vão proteger a Vivi.
 
 537
 00:30:06,330 --> 00:30:08,910
-Aquela garota ainda é tão travessa.
+Aquela rapariga ainda é tão traquina.
 
 538
 00:30:08,910 --> 00:30:11,330
-Ela está sempre me preocupando!
+Está sempre a deixar-me preocupado!
