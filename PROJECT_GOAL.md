@@ -1,9 +1,28 @@
 # PROJECT GOAL — Legendas One Pace (addon Stremio)
 
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
-> **Última atualização: 2026-07-22**
+> **Última atualização: 2026-07-23**
 
 ## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
+
+### ✅ Tarefa 0 — reverter `Grande Astro` → `All-Star` (feita a 2026-07-23)
+
+Concluída. **19 ocorrências em 11 ficheiros** (`WA_18`, `19`, `24`, `25`, `43`, `44`, `48`,
+`49`, `50`, `52`, `54`) passaram a `All-Star` / `All-Stars` / `ALL-STAR`. Substituição em
+modo binário, para não tocar em CRLF nem nos espaços iniciais/finais das linhas; `diff` das
+linhas `-->` e contagem de números de bloco: **0 diferenças** nos 11 ficheiros.
+
+- Todas as ocorrências eram o **posto** e todas se referiam a personagens masculinos, logo
+  os artigos existentes mantiveram-se (`um All-Star`, `os três All-Stars`). O masculino é
+  também o uso da comunidade — confirmado na One Piece Wiki PT ("os All-Stars").
+- O trocadilho do Queen no **WA_43** (`atração principal` / `celebridade`, linhas 1107 e
+  1120) ficou **intocado**, como estava decidido.
+- Os `.ass` de `WA_19/24/25` também contêm o termo, mas **não se tocam** — são os originais
+  PT-BR e não são servidos.
+- `STYLE_GUIDE_PTPT.md` ganhou a secção **5.1 — Termos em inglês**, que fixa o All-Star e
+  consolida a regra de género.
+
+### Agora
 
 **Traduzir `subs/37_Egghead/EH_1.srt` para PT-PT, e continuar daí para a frente.**
 O arco 36 (Wano) está **completo: WA_1 … WA_54**. Falta só o **arco 37 — Egghead
@@ -530,9 +549,8 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 - **`berries`** (não `BERRYS`/`BERRIS`) — é a forma que o resto do corpus usa.
 - `bilhão`/`bilhões` → **`mil milhões`**; nas recompensas ditas por extenso,
   `Dois bilhões duzentos e…` → **`Dois mil duzentos e…`**.
-- **`Grande Astro` / `Grandes Astros`** (All-Stars) **mantém-se em português** — é forma já
-  fixada pelo fansub, como `Governador Geral`. A regra dos termos ingleses aplica-se a
-  escolhas novas minhas; o caso do `Headliner` foi decidido explicitamente pelo utilizador.
+- **`All-Star` / `All-Stars`** para o posto (em tempos traduzido para `Grande Astro` —
+  revertido a 2026-07-23). `Governador Geral` mantém-se em português.
 - `Waiters`, `Gifters`, `Pleasures`, `Numbers`, `Smile`, `SAD`, `Tobiroppo`, `Sumashi`,
   `Smart Tanishi`, `Tanishi Visual`, `Ryuuou`, `Meitou`, `Enma`, `Ame no Habakiri`,
   `Kapparyuu`, `Ninpou`, `aburaage`, `kappa`, `youkai` — todos em inglês/japonês.
@@ -549,8 +567,8 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 
 - **`Headliner`** também onde o original escreve `Astro Principal` / `Atração Principal`
   (WA_43, WA_51, WA_52, WA_53) — coerente com a decisão do utilizador.
-- **`Grande Astro` / `Grandes Astros`** para o *posto* de All-Star, mesmo onde o original
-  escreve `Celebridade(s)` (WA_44, WA_47, WA_48, WA_49, WA_50, WA_52, WA_54). **Exceção
+- **`All-Star` / `All-Stars`** para o *posto*, mesmo onde o original escreve
+  `Celebridade(s)` (WA_44, WA_47, WA_48, WA_49, WA_50, WA_52, WA_54). **Exceção
   deliberada:** no número do Queen no WA_43 (`quem é a atração principal?` / `a celebridade
   do canto e da dança?`) ficou `atração principal`/`celebridade`, porque ali é trocadilho de
   showman e não o nome do posto.

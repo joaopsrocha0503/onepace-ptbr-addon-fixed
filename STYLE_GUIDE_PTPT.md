@@ -135,6 +135,29 @@ O gerúndio contínuo brasileiro passa à construção europeia **"a" + infiniti
 - Termos já estabelecidos em Portugal para One Piece: preservar a forma que já
   aparece no material; não criar traduções novas.
 
+### 5.1 Termos em inglês — manter em inglês
+
+Termos do universo One Piece que estão em inglês **não se traduzem**, mesmo que o
+PT-BR de origem os tenha traduzido: `Headliner`, `Gifter`, `Pleasure`, `Waiter`,
+`Number`, `SMILE`, `Raid Suit`, `Vivre Card`, `Room`, `Shambles`, `Den Den Mushi`,
+`Live Floor`, `Sulong`, `Haki`.
+
+- **`All-Star` / `All-Stars`** — o posto dos executivos dos Piratas das Feras fica
+  em inglês, onde o original escreve `Grande Astro`, `Celebridade` ou `Atração
+  Principal`. Masculino (`o All-Star`, `os All-Stars`), como no uso da comunidade.
+  Exceção: quando não é o nome do posto mas trocadilho de showman (o número do
+  Queen no WA_43), traduz-se normalmente.
+- **`Governador Geral`**, `Piratas das Feras`, `Nove Bainhas Vermelhas` e
+  `Akuma no Mi` **ficam em português** — já vinham traduzidos do original e são a
+  forma estabelecida no material. A regra aplica-se a escolhas *novas*, não a
+  desfazer o que o fansub fixou.
+
+**Género:** não assumir masculino nem copiar o artigo do PT-BR. Identificar o
+substantivo português subjacente (`Line`→`linha`, f.; `Blue`→`mar`, m.;
+`Suit`→`fato`, m.) e confirmar por pesquisa quando houver dúvida — daí
+`a Red Line`, `a Grand Line`, `a Vivre Card`, mas `o Raid Suit`, `o Log Pose`.
+Nos nomes de agente o género segue a pessoa (`um Headliner` / `uma Headliner`).
+
 ## 6. Tom por personagem
 
 - **Luffy:** informal, direto, entusiasta, frases curtas. Pode usar "fixe".
