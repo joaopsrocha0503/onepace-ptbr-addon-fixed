@@ -1,30 +1,30 @@
 1
 00:00:00,000 --> 00:00:00,770
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:00,770 --> 00:00:06,530
 Edição de Vídeo
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Feeso
 Galaxy 9000
 
 3
 00:00:06,530 --> 00:00:09,990
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 4
 00:00:19,040 --> 00:00:20,960
-Controle de Qualidade
+Controlo de Qualidade
 Camotoy
 fedew
 fishybusyness
@@ -39,7 +39,7 @@ Gráficos: Datenshi
 
 6
 00:00:49,360 --> 00:00:51,990
-Karaokê
+Karaoke
 PhosCity
 
 7
@@ -56,7 +56,7 @@ Pollychan
 
 9
 00:01:07,840 --> 00:01:10,430
-Trilha Sonora
+Banda Sonora
 Halee
 
 10
@@ -73,49 +73,49 @@ Dankratos
 
 12
 00:01:30,110 --> 00:01:31,530
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 A Vontade de Ohara
 
 13
 00:01:31,530 --> 00:01:34,030
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 A Vontade de Ohara
-Novecentos anos atrás...?
+Há novecentos anos...?
 
 14
 00:01:34,030 --> 00:01:34,660
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 15
 00:01:34,660 --> 00:01:36,740
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Do que você está falando?!
+Do que é que estás a falar?!
 
 16
 00:01:36,740 --> 00:01:40,060
-Seu reprodutor de mídia não suporta o formato de legenda usado neste episódio.
-As legendas provavelmente não funcionarão corretamente.
-Use um dos reprodutores recomendados, de preferência o mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Você está dizendo que uma cidade futurista
-como essa existia naquela época também?!
+Estás a dizer que uma cidade futurista
+como esta também existia naquela época?!
 
 17
 00:01:40,060 --> 00:01:40,580
-Você está dizendo que uma cidade futurista
-como essa existia naquela época também?!
+Estás a dizer que uma cidade futurista
+como esta também existia naquela época?!
 
 18
 00:01:40,960 --> 00:01:43,040
@@ -123,8 +123,8 @@ como essa existia naquela época também?!
 
 19
 00:01:43,710 --> 00:01:47,250
-Havia um homem que uma vez
-arriscou sua vida pela arqueologia...
+Houve um homem que um dia
+arriscou a vida pela arqueologia...
 
 20
 00:01:47,880 --> 00:01:50,550
@@ -132,8 +132,8 @@ para trazer à luz aquele reino antigo.
 
 21
 00:01:50,550 --> 00:01:56,470
-E... máquinas escavadas em um local específico
-datam da época daquele reino.
+E... máquinas escavadas num local específico
+datam da época desse reino.
 
 22
 00:01:59,890 --> 00:02:04,100
@@ -142,16 +142,16 @@ no Século Perdido?!
 
 23
 00:02:05,060 --> 00:02:07,570
-O quanto você sabe exatamente?
+Quanto é que tu sabes ao certo?
 
 24
 00:02:07,570 --> 00:02:08,690
-– Hein?
-– Hein?
+– Hã?
+– Hã?
 
 25
 00:02:08,690 --> 00:02:11,030
-Robin! Você sabe sobre isso?!
+Robin! Tu sabes disto?!
 
 26
 00:02:11,030 --> 00:02:13,990
@@ -159,8 +159,8 @@ Sei que deve ser doloroso recordar...
 
 27
 00:02:14,490 --> 00:02:17,950
-mas vinte e dois anos atrás,
-sua casa, Ohara...
+mas há vinte e dois anos,
+a tua terra, Ohara...
 
 28
 00:02:17,950 --> 00:02:21,830
@@ -168,12 +168,12 @@ foi destruída por um Buster Call dos Marinheiros.
 
 29
 00:02:22,710 --> 00:02:23,790
-Minha teoria é:
+A minha teoria é esta:
 
 30
 00:02:24,420 --> 00:02:29,750
 Ohara foi destruída porque
-descobriu a existência daquele reino.
+descobriu a existência desse reino.
 
 31
 00:02:32,260 --> 00:02:34,300
@@ -182,7 +182,7 @@ O Século Perdido...
 32
 00:02:34,930 --> 00:02:38,810
 é a história de um conflito entre
-aquele reino altamente avançado...
+esse reino altamente avançado...
 
 33
 00:02:38,810 --> 00:02:41,390
@@ -190,29 +190,29 @@ e uma aliança de vinte reinos.
 
 34
 00:02:50,980 --> 00:02:53,280
-Aqueles vinte reinos saíram vitoriosos,
+Esses vinte reinos saíram vitoriosos
 
 35
 00:02:53,650 --> 00:02:58,490
 e fundaram o Governo Mundial,
-criando o mundo como conhecemos hoje.
+criando o mundo tal como o conhecemos hoje.
 
 36
 00:02:58,870 --> 00:03:03,120
-Então, para garantir que os ideais
-daquele reino nunca fossem repassados,
+Depois, para garantir que os ideais
+desse reino nunca fossem transmitidos,
 
 37
 00:03:03,580 --> 00:03:06,960
-eles o apagaram da história completamente.
+apagaram-no por completo da história.
 
 38
 00:03:06,960 --> 00:03:09,170
-O quê...? Isso é loucura...!
+O quê...? Isso é de loucos...!
 
 39
 00:03:09,170 --> 00:03:12,130
-E-Ei?! Você está falando sério?!
+E-Ei?! Estás a falar a sério?!
 
 40
 00:03:14,470 --> 00:03:17,510
@@ -220,40 +220,40 @@ Que história eletrizante!
 
 41
 00:03:17,510 --> 00:03:20,220
-Espere aí, Vegapunk!
+Espera lá, Vegapunk!
 
 42
 00:03:20,220 --> 00:03:23,350
-Se eles lançaram um Buster Call
-em Ohara por isso...
+Se lançaram um Buster Call
+sobre Ohara por causa disso...
 
 43
 00:03:23,350 --> 00:03:26,560
-isso significa que quem descobre...
+então quem descobrir...
 
 44
 00:03:26,560 --> 00:03:28,770
-Sim, eles serão eliminados.
+Sim, será eliminado.
 
 45
 00:03:30,900 --> 00:03:34,280
-Ei! Por que você nos contou isso?!
+Ei! Porque é que nos contaste isso?!
 
 46
 00:03:34,280 --> 00:03:35,650
-Droga!
+Raios!
 
 47
 00:03:35,650 --> 00:03:38,160
-Eu ouvi cada palavra que ele disse!
+Ouvi cada palavra que ele disse!
 
 48
 00:03:38,160 --> 00:03:40,490
-Não consigo não ouvir...
+Não consigo desouvir...
 
 49
 00:03:40,490 --> 00:03:41,870
-Hora de esquecer!
+É hora de esquecer!
 
 50
 00:03:41,870 --> 00:03:43,490
@@ -266,11 +266,11 @@ Não ouvi! Não sei!
 52
 00:03:45,960 --> 00:03:47,580
 Acalmem-se um pouco.
-Sem pensamentos! Só esqueça!
+Sem pensamentos! Esquece!
 
 53
 00:03:47,580 --> 00:03:48,250
-Sem pensamentos! Só esqueça!
+Sem pensamentos! Esquece!
 
 54
 00:03:48,250 --> 00:03:48,750
@@ -283,11 +283,11 @@ Não ouvi nada! Absolutamente nada!
 
 56
 00:03:52,250 --> 00:03:53,710
-Isso é horrível!
+Isto é horrível!
 
 57
 00:03:53,710 --> 00:03:55,170
-Eu não quero morrer!
+Não quero morrer!
 
 58
 00:03:55,760 --> 00:03:57,800
@@ -295,16 +295,16 @@ No entanto, Nico Robin...
 
 59
 00:03:58,380 --> 00:04:02,560
-se Ohara foi destruída por essa teoria...
+se Ohara foi destruída por causa desta teoria...
 
 60
 00:04:02,560 --> 00:04:05,810
 o governo não estaria
-basicamente admitindo que é verdade?
+basicamente a admitir que é verdade?
 
 61
 00:04:05,810 --> 00:04:08,640
-De que lado você está, exatamente?
+De que lado estás tu, exatamente?
 
 62
 00:04:08,640 --> 00:04:11,070
@@ -318,19 +318,19 @@ chegar a essa teoria.
 
 64
 00:04:14,110 --> 00:04:17,700
-Você tem um alto cargo no governo. Você não deveria saber?
+Tens um cargo elevado no governo. Não devias saber?
 
 65
 00:04:17,700 --> 00:04:19,570
-Não, eles não me contaram nada.
+Não, não me contaram nada.
 
 66
 00:04:19,570 --> 00:04:21,780
-É o mesmo para todos.
+É igual para toda a gente.
 
 67
 00:04:21,780 --> 00:04:25,830
-Discutir isso resultaria na minha eliminação, independente da minha afiliação.
+Falar disto resultaria na minha eliminação, independentemente da minha filiação.
 
 68
 00:04:27,210 --> 00:04:29,290
@@ -338,20 +338,20 @@ Então eu não quero saber!
 
 69
 00:04:29,290 --> 00:04:31,830
-Isso é como tortura!
+Isto é como tortura!
 
 70
 00:04:31,830 --> 00:04:33,630
-Me tira daqui!
+Tirem-me daqui!
 
 71
 00:04:33,630 --> 00:04:37,760
-Então como você descobriu sobre o reino?!
+Então como é que descobriste o reino?!
 
 72
 00:04:37,760 --> 00:04:41,640
-Todos os livros que Ohara coletou
-de todo o mundo... foram...
+Todos os livros que Ohara reuniu
+do mundo inteiro... foram...
 
 73
 00:04:42,260 --> 00:04:44,140
@@ -359,8 +359,8 @@ A vontade de Ohara sobrevive.
 
 74
 00:04:44,680 --> 00:04:49,310
-Os eventos daquele dia
-jogaram o mundo em confusão.
+Os acontecimentos daquele dia
+lançaram o mundo na confusão.
 
 75
 00:04:49,310 --> 00:04:54,610
@@ -369,38 +369,38 @@ com o conhecimento mais avançado do mundo,
 
 76
 00:04:55,020 --> 00:04:58,650
-foi destruída em um único dia,
-exceto por uma garotinha...
+foi destruída num único dia,
+exceto por uma menina...
 
 77
 00:05:02,450 --> 00:05:04,990
 Os estudiosos foram rotulados
-como um grupo de demônios...
+como um grupo de demónios...
 
 78
 00:05:04,990 --> 00:05:07,290
-que buscava derrubar o Governo Mundial.
+que procurava derrubar o Governo Mundial.
 
 79
 00:05:09,500 --> 00:05:11,420
-Alguns meses após o incidente...
+Alguns meses depois do incidente...
 
 80
 00:05:12,210 --> 00:05:14,340
-Eu visitei Ohara.
+visitei Ohara.
 
 81
 00:05:14,880 --> 00:05:19,670
 Eu conhecia o Professor Clover,
-uma autoridade em arqueologia.
+uma autoridade em arqueologia,
 
 82
 00:05:20,340 --> 00:05:22,130
-então quis levar flores.
+por isso quis levar-lhe flores.
 
 83
 00:05:22,510 --> 00:05:24,100
-Você o conhecia?!
+Tu conhecia-lo?!
 
 84
 00:05:24,100 --> 00:05:25,050
@@ -408,31 +408,31 @@ Sim.
 
 85
 00:05:26,180 --> 00:05:28,930
-Ele era obcecado pelo Século Perdido...
+Era obcecado pelo Século Perdido...
 
 86
 00:05:31,690 --> 00:05:35,980
-a ponto de sair em aventuras
-para buscar textos relacionados.
+ao ponto de partir em aventuras
+à procura de textos relacionados.
 
 87
 00:05:36,360 --> 00:05:40,950
-Os Marinheiros o prenderam
-e o jogaram na cadeia dez vezes...
+Os Marinheiros prenderam-no
+e meteram-no na cadeia dez vezes...
 
 88
 00:05:42,570 --> 00:05:44,160
-Lá está ele!
+Ali está ele!
 
 89
 00:05:44,570 --> 00:05:48,620
-Isso o tornou o arqueólogo
+Isso tornou-o o arqueólogo
 mais famoso do mundo.
 
 90
 00:05:49,450 --> 00:05:54,790
-Com o tempo, estudiosos atraídos
-por seu trabalho foram para Ohara,
+Com o tempo, os estudiosos atraídos
+pelo trabalho dele foram para Ohara,
 
 91
 00:05:54,790 --> 00:05:58,920
@@ -440,29 +440,29 @@ transformando-a num centro arqueológico.
 
 92
 00:05:59,380 --> 00:06:02,170
-Pode-se dizer que seu talento
-foi o que causou a tragédia.
+Pode dizer-se que foi o talento dele
+que causou a tragédia.
 
 93
 00:06:03,380 --> 00:06:06,100
-Quando eu cheguei em Ohara,
+Quando cheguei a Ohara,
 
 94
 00:06:06,100 --> 00:06:08,310
-o lugar estava em ruínas.
+o sítio estava em ruínas.
 
 95
 00:06:11,480 --> 00:06:14,350
 Até a Árvore do Conhecimento
-havia queimado por completo...
+tinha ardido por completo...
 
 96
 00:06:14,350 --> 00:06:17,610
-com tudo ao redor reduzido a cinzas.
+com tudo à volta reduzido a cinzas.
 
 97
 00:06:20,110 --> 00:06:23,650
-Mas conforme eu adentrava a ilha,
+Mas, à medida que entrava pela ilha,
 
 98
 00:06:24,530 --> 00:06:27,120
@@ -470,11 +470,11 @@ testemunhei algo surpreendente.
 
 99
 00:06:27,950 --> 00:06:29,910
-O que é tudo isso?!
+O que é tudo isto?!
 
 100
 00:06:30,540 --> 00:06:33,040
-Uma enorme quantidade de livros de todos os tipos...
+Uma enorme quantidade de livros de todo o tipo...
 
 101
 00:06:33,040 --> 00:06:36,540
@@ -484,27 +484,27 @@ no centro da ilha!
 102
 00:06:36,960 --> 00:06:39,740
 Acredito que os estudiosos
-permaneceram firmes,
+se mantiveram firmes,
 
 103
 00:06:39,760 --> 00:06:42,420
 mesmo com o Buster
-Call queimando seu lar,
+Call a queimar-lhes a casa,
 
 104
 00:06:42,420 --> 00:06:45,550
-e morreram garantindo que seu legado
+e morreram a garantir que o seu legado
 chegaria ao futuro.
 
 105
 00:06:46,890 --> 00:06:51,310
 Os livros pelos quais todos aqueles
-estudiosos arriscaram suas vidas...
+estudiosos arriscaram a vida...
 
 106
 00:06:51,930 --> 00:06:56,980
-Marinheiros ignorantes não entenderiam
-seu valor, mesmo se os encontrassem.
+Marinheiros ignorantes não perceberiam
+o valor deles, nem que os encontrassem.
 
 107
 00:06:57,690 --> 00:06:59,270
@@ -512,19 +512,19 @@ Ohara venceu.
 
 108
 00:06:59,820 --> 00:07:01,610
-Quando eu vi isso,
+Quando vi aquilo,
 
 109
 00:07:01,610 --> 00:07:04,740
-Não consegui conter as lágrimas.
+não consegui conter as lágrimas.
 
 110
 00:07:06,200 --> 00:07:07,280
-Leve Robin!
+Leva a Robin!
 
 111
 00:07:07,620 --> 00:07:09,780
-Minha filha precisa escapar da ilha!
+A minha filha tem de fugir da ilha!
 
 112
 00:07:09,780 --> 00:07:10,490
@@ -532,28 +532,28 @@ O quê?!
 
 113
 00:07:10,490 --> 00:07:12,410
-Não! E você, mãe?!
+Não! E tu, mãe?!
 
 114
 00:07:12,410 --> 00:07:13,790
-Você não vem comigo?!
+Não vens comigo?!
 
 115
 00:07:15,040 --> 00:07:17,290
-Olvia, o que você...?
+Olvia, o que estás a...?
 
 116
 00:07:18,170 --> 00:07:21,500
-Ainda há algo
-que preciso fazer aqui, então...
+Ainda há uma coisa
+que tenho de fazer aqui, por isso...
 
 117
 00:07:22,000 --> 00:07:25,260
-Mãe! Não me deixe!
+Mãe! Não me deixes!
 
 118
 00:07:25,260 --> 00:07:27,010
-Eu fico aqui também!
+Eu também fico!
 
 119
 00:07:27,010 --> 00:07:28,510
@@ -561,8 +561,8 @@ Robin...
 
 120
 00:07:28,510 --> 00:07:31,600
-Como uma estudiosa de Ohara,
-você deve entender isso bem.
+Como estudiosa de Ohara,
+deves perceber isto bem.
 
 121
 00:07:32,140 --> 00:07:34,270
@@ -582,11 +582,11 @@ Salvem quantos livros conseguirem!
 
 125
 00:07:38,060 --> 00:07:40,520
-Joguem os livros para fora da biblioteca!
+Atirem os livros para fora da biblioteca!
 
 126
 00:07:40,980 --> 00:07:43,320
-Ohara não quer expor nossa história.
+Ohara não quer expor a nossa história.
 
 127
 00:07:43,650 --> 00:07:46,990
@@ -595,11 +595,11 @@ as vozes do passado.
 
 128
 00:07:47,610 --> 00:07:50,450
-Nossa pesquisa termina aqui...
+A nossa investigação acaba aqui...
 
 129
 00:07:51,160 --> 00:07:53,410
-mas mesmo se Ohara for obliterada...
+mas mesmo que Ohara seja obliterada...
 
 130
 00:07:53,410 --> 00:07:55,580
@@ -607,15 +607,15 @@ não podemos abandonar...
 
 131
 00:07:56,120 --> 00:07:59,380
-o futuro da sua geração!
+o futuro da tua geração!
 
 132
 00:08:00,580 --> 00:08:02,380
-Eu não entendo!
+Eu não percebo!
 
 133
 00:08:03,800 --> 00:08:06,130
-Você vai entender... algum dia.
+Vais perceber... um dia.
 
 134
 00:08:08,800 --> 00:08:09,470
@@ -623,20 +623,20 @@ Agora...
 
 135
 00:08:10,470 --> 00:08:11,510
-vá, Saul!
+vai, Saul!
 
 136
 00:08:15,810 --> 00:08:17,440
-Tem certeza disso?
+Tens a certeza disto?
 
 137
 00:08:17,980 --> 00:08:19,150
-Sim.
+Tenho.
 
 138
 00:08:19,150 --> 00:08:23,980
 Eu não quero ir!
-Eu quero ficar com você, mãe!
+Quero ficar contigo, mãe!
 
 139
 00:08:23,980 --> 00:08:26,860
@@ -644,19 +644,19 @@ Mãe!
 
 140
 00:08:28,240 --> 00:08:30,570
-Viva, Robin!
+Vive, Robin!
 
 141
 00:08:36,410 --> 00:08:38,290
-Mantenha a cabeça erguida, Robin!
+Mantém a cabeça erguida, Robin!
 
 142
 00:08:38,290 --> 00:08:40,880
-Sua mãe é honrosa!
+A tua mãe é uma mulher de honra!
 
 143
 00:08:40,880 --> 00:08:45,920
-Um dia, transmita
+Um dia, transmite
 a história desta ilha, Robin!
 
 144
@@ -665,12 +665,12 @@ Ohara lutou contra o mundo!
 
 145
 00:08:55,220 --> 00:08:57,850
-O que houve, Robin?
+O que foi, Robin?
 
 146
 00:08:57,850 --> 00:09:01,730
-Ei! Como ousa fazer
-Robin chorar, seu cabeça de lata!
+Ei! Como te atreves a fazer
+a Robin chorar, seu cabeça de lata!
 
 147
 00:09:01,730 --> 00:09:02,610
@@ -679,24 +679,24 @@ Chega, Vegapunk!
 148
 00:09:02,610 --> 00:09:04,110
 Chega, Vegapunk!
-Você é tão insensível, Vega!
+És tão insensível, Vega!
 
 149
 00:09:04,110 --> 00:09:04,900
-Você é tão insensível, Vega!
-Tire esses sapatos para eu chutar sua bunda!
+És tão insensível, Vega!
+Tira estes sapatos para eu te dar um pontapé no rabo!
 
 150
 00:09:04,900 --> 00:09:07,070
-Tire esses sapatos para eu chutar sua bunda!
+Tira estes sapatos para eu te dar um pontapé no rabo!
 
 151
 00:09:07,070 --> 00:09:08,190
-Tira isso!
+Tira isto!
 
 152
 00:09:08,190 --> 00:09:10,570
-Preste atenção, cabeça de lata!
+Presta atenção, cabeça de lata!
 
 153
 00:09:15,330 --> 00:09:16,540
@@ -704,29 +704,29 @@ Vegapunk.
 
 154
 00:09:17,870 --> 00:09:19,660
-É como você pensou.
+É como pensaste.
 
 155
 00:09:20,410 --> 00:09:23,170
 Ohara descobriu
-a existência daquele reino.
+a existência desse reino.
 
 156
 00:09:23,170 --> 00:09:25,340
-Entendo. Então é verdade.
+Estou a ver. Então é verdade.
 
 157
 00:09:25,750 --> 00:09:29,010
-Onde estão os livros do lago agora?
+Onde estão agora os livros do lago?
 
 158
 00:09:29,010 --> 00:09:32,680
-Eu queria trazê-los para Punk Hazard,
+Eu queria levá-los para Punk Hazard,
 
 159
 00:09:32,680 --> 00:09:35,260
 mas não podia arriscar
-os superiores descobrirem.
+que os superiores descobrissem.
 
 160
 00:09:35,850 --> 00:09:37,260
@@ -734,27 +734,27 @@ Para ser sincero...
 
 161
 00:09:37,260 --> 00:09:40,140
-Encontrei algumas pessoas naquele dia.
+naquele dia encontrei umas pessoas.
 
 162
 00:09:40,140 --> 00:09:43,230
-22 Anos Atrás
+Há 22 Anos
 
 Ohara
 West Blue
 
 163
 00:09:43,230 --> 00:09:48,110
-Meses Após
-o Buster Call
+Meses Depois
+do Buster Call
 
 164
 00:10:02,540 --> 00:10:05,040
-Quem estaria aqui em ruínas como estas?
+Quem estaria em ruínas como estas?
 
 165
 00:10:06,500 --> 00:10:08,300
-Puxe para cima!
+Puxa para cima!
 
 166
 00:10:10,550 --> 00:10:13,010
@@ -762,11 +762,11 @@ Gigantes?!
 
 167
 00:10:13,380 --> 00:10:15,720
-O que eles estão tramando?
+O que andarão eles a tramar?
 
 168
 00:10:15,720 --> 00:10:18,810
-Eles conhecem o valor desses livros?!
+Sabem o valor destes livros?!
 
 169
 00:10:19,520 --> 00:10:20,270
@@ -774,19 +774,19 @@ Os livros...
 
 170
 00:10:22,100 --> 00:10:24,440
-O que vão fazer com eles?!
+O que lhes vão fazer?!
 
 171
 00:10:24,440 --> 00:10:25,770
-Sua cabeça...
+Essa tua cabeça...
 
 172
 00:10:26,730 --> 00:10:30,030
-Está grande como sempre. Reconheceria em qualquer lugar.
+Está grande como sempre. Reconhecia-a em qualquer lado.
 
 173
 00:10:39,830 --> 00:10:42,830
-Faz tempo, Vegapunk.
+Há quanto tempo, Vegapunk.
 
 174
 00:10:42,830 --> 00:10:45,750
@@ -799,7 +799,7 @@ Dragon?!
 
 176
 00:10:48,290 --> 00:10:52,380
-Sua cabeça ficou maior de novo.
+A tua cabeça voltou a crescer.
 
 177
 00:10:52,970 --> 00:10:56,970
@@ -808,15 +808,15 @@ Chefe do Laboratório Punk Hazard
 
 178
 00:10:56,970 --> 00:10:58,510
-Esquece isso!
+Esquece lá isso!
 
 179
 00:10:58,890 --> 00:11:00,640
-Por que você está aqui?!
+Porque é que estás aqui?!
 
 180
 00:11:00,640 --> 00:11:03,810
-Essa é minha pergunta, Vegapunk.
+Essa pergunta é minha, Vegapunk.
 
 181
 00:11:03,810 --> 00:11:07,610
@@ -824,7 +824,7 @@ Eu conhecia o velho Clover.
 
 182
 00:11:07,610 --> 00:11:10,610
-Oh? Você também?
+Ah? Tu também?
 
 183
 00:11:10,610 --> 00:11:11,440
@@ -832,17 +832,17 @@ Bem...
 
 184
 00:11:12,030 --> 00:11:15,990
-ele era um arruaceiro
-que aventurava por todo lugar.
+era um arruaceiro
+que se metia em aventuras por todo o lado.
 
 185
 00:11:16,030 --> 00:11:19,280
-Aquela bobagem sobre ele
-tentar destruir o mundo...
+Aquela treta de ele
+querer destruir o mundo...
 
 186
 00:11:19,280 --> 00:11:21,490
-é bobagem e propaganda!
+é treta e propaganda!
 
 187
 00:11:22,120 --> 00:11:23,370
@@ -850,7 +850,7 @@ Sim.
 
 188
 00:11:26,210 --> 00:11:29,210
-Está se perguntando o que eles estão fazendo?
+Estás a perguntar-te o que eles estão a fazer?
 
 189
 00:11:29,210 --> 00:11:33,420
@@ -858,11 +858,11 @@ Não posso deixá-los roubar aqueles livros valiosos!
 
 190
 00:11:33,420 --> 00:11:35,510
-Eles não são bandidos.
+Não são bandidos.
 
 191
 00:11:35,510 --> 00:11:37,380
-Eu já verifiquei.
+Já verifiquei.
 
 192
 00:11:37,380 --> 00:11:38,390
@@ -870,20 +870,20 @@ O quê?
 
 193
 00:11:40,100 --> 00:11:42,770
-Eles vieram de Elbaph.
+Vieram de Elbaph.
 
 194
 00:11:43,140 --> 00:11:45,730
-Eles sabem o valor dos livros.
+Sabem o valor dos livros.
 
 195
 00:11:49,560 --> 00:11:54,650
-Seu capitão é um homem estranho
-com bandagens por todo o corpo...
+O capitão deles é um homem estranho
+com ligaduras pelo corpo todo...
 
 196
 00:11:56,490 --> 00:11:59,870
-Ele disse: "Ohara sacrificou sua vida, mas salvou seu legado...
+Disse: "Ohara sacrificou a vida, mas salvou o seu legado...
 
 197
 00:11:59,870 --> 00:12:03,120
@@ -891,16 +891,16 @@ e não deixarei que seja apagado da história."
 
 198
 00:12:11,790 --> 00:12:15,170
-Ainda bem que vocês
-do governo...
+Ainda bem que vocês,
+os do governo...
 
 199
 00:12:15,170 --> 00:12:18,180
-não encontraram e destruíram os livros antes.
+não encontraram nem destruíram os livros primeiro.
 
 200
 00:12:18,180 --> 00:12:19,430
-Ei, espere!
+Ei, espera!
 
 201
 00:12:19,430 --> 00:12:20,720
@@ -908,52 +908,52 @@ Eu nunca...!
 
 202
 00:12:20,720 --> 00:12:22,720
-Achei que fosse piada!
+Pensei que fosse uma piada!
 
 203
 00:12:22,720 --> 00:12:26,180
-Não acreditei quando você
-virou um cachorrinho do governo.
+Não acreditei quando te
+tornaste um cãozinho do governo.
 
 204
 00:12:28,020 --> 00:12:31,770
-E depois de recusar nosso convite
+E depois de recusares o nosso convite
 para os Lutadores da Liberdade...
 
 205
 00:12:33,150 --> 00:12:34,480
-Não seja burro!
+Não sejas burro!
 
 206
 00:12:34,480 --> 00:12:37,490
-Mesmo com meu talento e intelecto,
+Mesmo com o meu talento e intelecto,
 
 207
 00:12:37,490 --> 00:12:40,780
-o que eu poderia criar em
-uma organização pobre como a sua?!
+o que é que eu poderia criar numa
+organização pobre como a tua?!
 
 208
 00:12:41,780 --> 00:12:43,240
-Entendi.
+Estou a ver.
 
 209
 00:12:43,240 --> 00:12:46,120
-Você é tão direto como sempre.
+Continuas tão direto como sempre.
 
 210
 00:12:46,120 --> 00:12:48,870
 O Governo Mundial é
-um organização enorme.
+uma organização enorme.
 
 211
 00:12:48,870 --> 00:12:52,000
-Os Marinheiros, especialmente,
-tem muitas pessoas razoáveis.
+Os Marinheiros, sobretudo,
+têm muita gente sensata.
 
 212
 00:12:52,630 --> 00:12:55,460
-Não perca o foco, Dragon.
+Não percas o norte, Dragon.
 
 213
 00:12:56,170 --> 00:12:57,720
@@ -961,12 +961,12 @@ Eu sei, mas...
 
 214
 00:12:59,220 --> 00:13:02,340
-Esse incidente realmente me abalou.
+este incidente abalou-me a sério.
 
 215
 00:13:03,140 --> 00:13:09,060
 Um grupo de estudiosos inofensivos
-foi erradicado violentamente...
+foi erradicado com violência...
 
 216
 00:13:09,060 --> 00:13:11,440
@@ -975,15 +975,15 @@ simplesmente por questionar aquela "lei" absurda!
 217
 00:13:14,110 --> 00:13:17,360
 Mas eu vou criar
-um exército que possa lutar!
+um exército capaz de lutar!
 
 218
 00:13:17,860 --> 00:13:20,200
-Eu pensei que você odiasse a guerra!
+Pensei que odiavas a guerra!
 
 219
 00:13:20,820 --> 00:13:22,950
-Apenas espere, Vegapunk.
+Espera só, Vegapunk.
 
 220
 00:13:22,950 --> 00:13:25,030
@@ -991,15 +991,15 @@ Eu vou mudar o mundo!
 
 221
 00:13:25,740 --> 00:13:27,330
-Não deixarei a morte de Clover...
+Não deixarei que a morte do Clover...
 
 222
 00:13:28,080 --> 00:13:31,460
-ou a vontade de Ohara serem em vão!
+nem a vontade de Ohara sejam em vão!
 
 223
 00:13:33,040 --> 00:13:35,790
-Naquele mesmo ano, Dragon se uniu a...
+Nesse mesmo ano, o Dragon juntou-se a...
 
 224
 00:13:36,500 --> 00:13:38,960
@@ -1015,7 +1015,7 @@ para criar o Exército Revolucionário...
 
 227
 00:13:47,220 --> 00:13:49,220
-que agora abala o mundo!
+que hoje abala o mundo!
 
 228
 00:13:53,270 --> 00:13:55,980
@@ -1023,11 +1023,11 @@ O pai do Luffy é tão ambicioso!
 
 229
 00:13:55,980 --> 00:13:58,940
-Espera aí! Você disse Elbaph?!
+Espera lá! Disseste Elbaph?!
 
 230
 00:13:58,940 --> 00:14:03,410
-Eu não sabia que Dragon e
+Eu não sabia que o Dragon e
 o Professor Clover se conheciam...!
 
 231
@@ -1037,33 +1037,33 @@ do Exército Revolucionário?
 
 232
 00:14:09,120 --> 00:14:11,500
-Sinto que meu cérebro vai explodir!
+Sinto que o meu cérebro vai explodir!
 
 233
 00:14:11,500 --> 00:14:14,670
-Por que Kuma nos ajudou?!
+Porque é que o Kuma nos ajudou?!
 
 234
 00:14:14,670 --> 00:14:18,590
-Por que você o modificou, Vegapunk?!
+Porque é que o modificaste, Vegapunk?!
 
 235
 00:14:18,920 --> 00:14:23,680
 Embora seja verdade que o governo
-não pode encontrar os livros de Ohara...
+não consegue encontrar os livros de Ohara...
 
 236
 00:14:29,720 --> 00:14:33,350
-Eu fui secretamente para Elbaph
+eu fui em segredo a Elbaph
 por motivos pessoais.
 
 237
 00:14:38,270 --> 00:14:40,980
-Eu li todos os documentos lá.
+Li lá todos os documentos.
 
 238
 00:14:42,780 --> 00:14:43,530
-Então...
+Portanto...
 
 239
 00:14:44,110 --> 00:14:46,740
@@ -1076,11 +1076,11 @@ vive no meu cérebro...
 
 241
 00:14:49,870 --> 00:14:53,750
-e eu continuei a pesquisa deles.
+e eu continuei a investigação deles.
 
 242
 00:14:53,750 --> 00:14:56,670
-Posso te perguntar uma coisa?
+Posso fazer-te uma pergunta?
 
 243
 00:14:57,580 --> 00:14:59,710
@@ -1096,7 +1096,7 @@ Saul, não era?
 
 246
 00:15:12,220 --> 00:15:15,190
-Ele está escondido agora.
+Está escondido agora.
 
 247
 00:15:15,190 --> 00:15:17,900
@@ -1108,12 +1108,12 @@ Obrigado, Vegapunk...
 
 249
 00:15:27,530 --> 00:15:30,990
-por não permitir que a luta de Ohara
+por não deixares que a luta de Ohara
 fosse em vão.
 
 250
 00:15:31,370 --> 00:15:34,410
-Eu simplesmente domino todas as áreas do conhecimento.
+Eu domino simplesmente todas as áreas do conhecimento.
 
 251
 00:15:34,410 --> 00:15:36,870
@@ -1121,28 +1121,28 @@ Eu simplesmente domino todas as áreas do conhecimento.
 
 252
 00:15:48,890 --> 00:15:51,890
-Os sapatos estão se movendo sozinhos!
+Os sapatos estão a mexer-se sozinhos!
 
 253
 00:15:56,940 --> 00:16:00,150
-Não posso soltar vocês ainda.
-Vão ter que vir comigo.
+Ainda não vos posso soltar.
+Vão ter de vir comigo.
 
 254
 00:16:00,860 --> 00:16:03,150
-Tem algo que quero mostrar a vocês.
+Há uma coisa que vos quero mostrar.
 
 255
 00:16:03,780 --> 00:16:06,990
-Ferro Velho
+Sucata
 Fabriophase
 Egghead
-Ei! Não tem cabine de pilotagem
-nessa coisa, Chopper.
+Ei! Não há cabina de pilotagem
+nesta coisa, Chopper.
 
 256
 00:16:07,910 --> 00:16:10,700
-Entendi! Talvez esse robô...
+Já percebi! Talvez este robô...
 
 257
 00:16:10,700 --> 00:16:12,910
@@ -1150,7 +1150,7 @@ se mova sozinho!
 
 258
 00:16:12,910 --> 00:16:16,330
-Talvez ele reaja se falarmos algo pra ele!
+Talvez reaja se lhe dissermos alguma coisa!
 
 259
 00:16:16,660 --> 00:16:18,460
@@ -1158,11 +1158,11 @@ Tipo... Tipo...
 
 260
 00:16:18,460 --> 00:16:21,130
-Move! Move, robô!
+Mexe-te! Mexe-te, robô!
 
 261
 00:16:21,920 --> 00:16:22,960
-Não funcionou...
+Não resultou...
 
 262
 00:16:22,960 --> 00:16:25,460
@@ -1174,11 +1174,11 @@ Não! Deve ter um nome!
 
 264
 00:16:27,930 --> 00:16:29,840
-Devemos chamar por ele!
+Temos de o chamar!
 
 265
 00:16:29,840 --> 00:16:32,100
-Move, Robonosuke!
+Mexe-te, Robonosuke!
 
 266
 00:16:34,810 --> 00:16:36,560
@@ -1186,15 +1186,15 @@ Robo King!
 
 267
 00:16:36,560 --> 00:16:37,850
-Aff...
+Bolas...
 
 268
 00:16:37,850 --> 00:16:39,480
-Vocês são crianças ou o quê?
+Vocês são crianças ou quê?
 
 269
 00:16:39,480 --> 00:16:41,650
-Isso obviamente não vai funcionar.
+Isso obviamente não vai resultar.
 
 270
 00:16:50,200 --> 00:16:51,910
@@ -1202,7 +1202,7 @@ O quê?!
 
 271
 00:17:02,920 --> 00:17:04,420
-Você está bem?
+Estás bem?
 
 272
 00:17:04,420 --> 00:17:05,670
@@ -1210,7 +1210,7 @@ Sim...
 
 273
 00:17:05,670 --> 00:17:08,220
-O que foi isso?! O robô explodiu?!
+O que foi aquilo?! O robô explodiu?!
 
 274
 00:17:08,220 --> 00:17:10,930
@@ -1226,7 +1226,7 @@ Ei!
 
 277
 00:17:17,720 --> 00:17:20,560
-Me ajudem-quasar!
+Ajudem-me-quasar!
 
 278
 00:17:21,690 --> 00:17:23,020
@@ -1234,19 +1234,19 @@ Me ajudem-quasar!
 
 279
 00:17:23,020 --> 00:17:24,150
-Oh não!
+Oh, não!
 
 280
 00:17:24,150 --> 00:17:25,520
-Falhei de novo!
+Falhei outra vez!
 
 281
 00:17:25,520 --> 00:17:28,740
-Alguém, me ajudem-quasar!
+Alguém, ajudem-me-quasar!
 
 282
 00:17:28,740 --> 00:17:32,200
-Talvez eu tenha distorcido o espaço-tempo ao me teletransportar!
+Talvez tenha distorcido o espaço-tempo ao teletransportar-me!
 
 283
 00:17:32,200 --> 00:17:33,820
@@ -1254,17 +1254,17 @@ Aquele velho estava ali antes?
 
 284
 00:17:33,820 --> 00:17:34,320
-Estou afundando! Ei!
+Estou a afundar-me! Ei!
 Aquele velho estava ali antes?
 
 285
 00:17:34,320 --> 00:17:36,410
-Estou afundando! Ei!
+Estou a afundar-me! Ei!
 Acho que não.
 
 286
 00:17:36,410 --> 00:17:38,790
-Meu corpo está afundando!
+O meu corpo está a afundar-se!
 
 287
 00:17:38,790 --> 00:17:40,410
@@ -1272,15 +1272,15 @@ Alguém!
 
 288
 00:17:43,630 --> 00:17:45,630
-Não sei o que está acontecendo.
+Não sei o que se está a passar.
 
 289
 00:17:45,630 --> 00:17:48,010
-Ei, vovô, precisa de ajuda?
+Ei, avô, precisa de ajuda?
 
 290
 00:17:53,300 --> 00:17:55,890
-Me ajudem-quasar!
+Ajudem-me-quasar!
 
 291
 00:17:55,890 --> 00:17:57,310
@@ -1288,7 +1288,7 @@ O que...?
 
 292
 00:17:57,310 --> 00:17:59,640
-Você é igual ao Kin'emon.
+És igual ao Kin'emon.
 
 293
 00:18:01,440 --> 00:18:04,190
@@ -1296,7 +1296,7 @@ Depressa!
 
 294
 00:18:07,400 --> 00:18:09,280
-Vou te tirar daí!
+Vou tirá-lo daí!
 
 295
 00:18:09,280 --> 00:18:10,400
@@ -1304,7 +1304,7 @@ Obrigado!
 
 296
 00:18:14,200 --> 00:18:15,410
-Sabia!
+Eu sabia!
 
 297
 00:18:15,410 --> 00:18:16,410
@@ -1316,7 +1316,7 @@ Obrigado!
 
 299
 00:18:19,790 --> 00:18:21,120
-A propósito, você é...
+Já agora, tu és...
 
 300
 00:18:21,120 --> 00:18:22,870
@@ -1324,23 +1324,23 @@ o filho do Dragon, certo?
 
 301
 00:18:22,870 --> 00:18:24,460
-Sabia que você estava aqui.
+Sabia que estavas aqui.
 
 302
 00:18:24,460 --> 00:18:26,250
-Estou feliz que você veio.
+Ainda bem que vieste.
 
 303
 00:18:26,250 --> 00:18:27,460
-E você deve ser...
+E tu deves ser...
 
 304
 00:18:27,460 --> 00:18:28,750
-Bonney!
+a Bonney!
 
 305
 00:18:28,750 --> 00:18:30,460
-Você cresceu tanto!
+Cresceste tanto!
 
 306
 00:18:30,460 --> 00:18:31,920
@@ -1348,15 +1348,15 @@ Vegapunk!
 
 307
 00:18:32,670 --> 00:18:34,680
-Que bom te ver bem!
+Que bom ver-te bem!
 
 308
 00:18:35,890 --> 00:18:37,890
-Vovô, você está flutuando?!
+Avô, está a flutuar?!
 
 309
 00:18:38,390 --> 00:18:40,270
-Você está usando também.
+Tu também os tens postos.
 
 310
 00:18:40,270 --> 00:18:40,970
@@ -1364,7 +1364,7 @@ O quê?
 
 311
 00:18:40,970 --> 00:18:44,690
-Esses sapatos têm função de levitação!
+Estes sapatos têm função de levitação!
 
 312
 00:18:44,690 --> 00:18:47,440
@@ -1372,23 +1372,23 @@ O quê?! Função de levitação?!
 
 313
 00:18:47,440 --> 00:18:48,650
-Como usamos isso?!
+Como é que usamos isso?!
 
 314
 00:18:48,650 --> 00:18:52,320
-Primeiro, aperte o botão na lateral...
+Primeiro, carrega no botão da lateral...
 
 315
 00:18:53,070 --> 00:18:54,530
-Ah, esse aqui.
+Ah, este aqui.
 
 316
 00:18:55,110 --> 00:18:57,070
-E essa alavanca!
+E esta alavanca!
 
 317
 00:18:57,070 --> 00:19:00,040
-Empurre pra baixo!
+Empurra para baixo!
 
 318
 00:19:00,040 --> 00:19:00,870
@@ -1400,11 +1400,11 @@ Isso mesmo!
 
 320
 00:19:11,050 --> 00:19:13,510
-Voamos alto demais!
+Subimos alto demais!
 
 321
 00:19:15,680 --> 00:19:19,970
-Me ajudem-quasar!
+Ajudem-me-quasar!
 
 322
 00:19:21,600 --> 00:19:22,470
