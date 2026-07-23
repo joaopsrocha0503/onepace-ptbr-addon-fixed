@@ -22,25 +22,27 @@ linhas `-->` e contagem de números de bloco: **0 diferenças** nos 11 ficheiros
 - `STYLE_GUIDE_PTPT.md` ganhou a secção **5.1 — Termos em inglês**, que fixa o All-Star e
   consolida a regra de género.
 
-### Agora
+### ✅ Arco 37 — Egghead: COMPLETO (EH_1 … EH_20, 2026-07-23)
 
-**Traduzir `subs/37_Egghead/EH_1.srt` para PT-PT, e continuar daí para a frente.**
-O arco 36 (Wano) está **completo: WA_1 … WA_54**. Falta só o **arco 37 — Egghead
-(EH_1 … EH_20)**, o último do âmbito.
-Não é preciso pedir confirmação — o utilizador já autorizou avançar arco fora.
+**As duas frentes estão fechadas. Não há trabalho por fazer no âmbito acordado.**
 
-⚠️ **O extrator de texto do `.srt` tem de casar blocos pelo cabeçalho seguinte, não pela
-próxima linha em branco** — ver [Método para ficheiros grandes](#método-para-ficheiros-grandes-extrair--traduzir--reinjetar).
-Um parser ingénuo salta os blocos de créditos **sem dar erro**.
-
-⚠️ **Ler antes de traduzir a primeira linha:** os `.srt` foram achatados pela frente 1.
-Isso muda como se traduz e como se verifica — ver
-[Impacto do achatamento na tradução](#impacto-do-achatamento-na-tradução).
+Se voltar a haver trabalho aqui, será por uma destas vias:
+- **Novos episódios** do One Pace (o arco Egghead continua a ser lançado) — traduzir com o
+  mesmo método e as convenções abaixo.
+- **Revisão a olho** no Stremio: nenhum episódio de Wano ou Egghead foi visto a olho (opção
+  do utilizador, para evitar spoilers). Se aparecer sobreposição estranha ou erro de
+  tradução, corrige-se pontualmente.
 
 | Frente | Estado |
 |---|---|
 | **1. Posicionamento / sobreposição** | ✅ **CONCLUÍDA.** 117 episódios, em produção na Beamup como **v2.1.0** (`9d5839f`) desde 2026-07-21 |
-| **2. Adaptação PT-BR → PT-PT** | ▶️ **EM CURSO.** Arcos 33/34/35/36 completos; falta só o 37 (Egghead). Em produção como **v2.5.0** |
+| **2. Adaptação PT-BR → PT-PT** | ✅ **CONCLUÍDA a 2026-07-23.** Arcos 33/34/35/36/37 completos. Em produção como **v2.6.0** |
+
+⚠️ **Se voltar a mexer nos `.srt`:** o extrator de texto tem de casar blocos pelo cabeçalho
+seguinte, não pela próxima linha em branco — ver
+[Método para ficheiros grandes](#método-para-ficheiros-grandes-extrair--traduzir--reinjetar).
+Um parser ingénuo salta os blocos de créditos **sem dar erro**. E os `.srt` foram achatados
+pela frente 1 — ver [Impacto do achatamento na tradução](#impacto-do-achatamento-na-tradução).
 
 ---
 
@@ -385,7 +387,7 @@ Ver **`STYLE_GUIDE_PTPT.md`** (aprovado pelo utilizador). Resumo do essencial:
 | 34 — Wapol's Omnivorous Hurrah | COVER_WAPOL_1 | ✅ 1/1 (2026-07-22) |
 | 35 — Reverie | REV_1–REV_3 | ✅ 3/3 (2026-07-22) |
 | 36 — Wano | WA_1–WA_54 | ✅ **54/54** (2026-07-22) |
-| **37 — Egghead** | **EH_1–EH_20** | ⬜ **0/20, por começar. Próximo: EH_1** |
+| **37 — Egghead** | **EH_1–EH_20** | ✅ **20/20** (2026-07-23) |
 
 > ⚠️ **Não confiar só nesta tabela** — já esteve desatualizada e levou a retraduzir o
 > WC_23, que afinal já estava feito. Método fiável para descobrir o próximo por traduzir:
@@ -607,6 +609,82 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
   `Kanjuro, a Chuva da Noite` (WA_41) vs `Kanjuro Chuva da Tarde` (WA_47);
   `Torre do Cérebro Direito` (WA_51) vs `Torre do Hemisfério Direito` (WA_52);
   `Kaido` vs `Kaidou` na mesma cena.
+
+## Convenções fixadas no arco Egghead (EH_1–EH_20)
+
+O arco tem muito **nome próprio novo e muito letreiro técnico**, e o original oscila entre
+formas de episódio para episódio. Estas ficaram fixadas — quando o original varia, é esta a
+forma usada em todo o arco:
+
+| Fixado | O original também escrevia |
+|---|---|
+| **`Frontier Dome`** (inglês) | `Domo da Fronteira` |
+| **`Labophase`** | `Labphase` |
+| **`Fabriophase`** | `Fabriofase`, `Fabrio` |
+| **`Elbaph`** | `Elbaf` |
+| **`Mary Geoise`** | `Mariejois`, `Mariejoa` |
+| **`Cipher Pol`** | `Cypher Pool` |
+| **`Ilha dos Penhascos Vazios`** | `Ilha Empty Bluffs`, `Ilha das Falésias Vazia` |
+| **`Reino Kamabakka`** | `Kamabakka Queendom` |
+| **`Colmeia`** (sem acento) | `Colméia` |
+| **`Porto Vermelho`** | `Red Port` |
+| **`Aldeia Moinho de Vento`** | `Vila Moinho de Vento` |
+| **`Capacete`** (alcunha do Edison) | `Elmo` |
+| **`Sucata`** | `Ferro Velho` |
+| **`Edifício`** | `Prédio` |
+| **`Espetada Etária`** (ataque da Bonney) | `Espeto da Idade` |
+
+- **Termos mantidos em inglês/japonês:** `Mother Flame`, `Punk Records`, `stella`,
+  `Vegaforce-01`, `Pacifista Mk. III`, `MADS`, `Goroseis`, `Coup de Burst`,
+  `Yata no Kagami`, `Room`, `Soru`, `Rankyaku`, `dom shoes`, `Den Den Mushi`, `SWORD`,
+  `Akuma no Mi` e todos os nomes das frutas (`Nui Nui no Mi`, `Susu Susu no Mi`…),
+  `poneglyphs`/`road poneglyphs`, `Sulong`, `Haki`, honoríficos (`-san`, `-senpai`,
+  `-kun`, `-chan`, `-sama`).
+- **Nomes e virtudes dos satélites do Vegapunk** ficam como no original: `Shaka Bondade`,
+  `Lilith Maldade`, `Edison Raciocínio`, `Pythagoras Sabedoria`, `Atlas Violência`,
+  `York Desejo`. O sufixo-onomatopeia do Pythagoras (**`-quasar`**) é preservado, como
+  manda a regra dos sufixos de personagem.
+- **Trocadilhos preservados:** `Sanjituição` (Sanji+Constituição), `Sanji-fim`/`Zoro-fim`/
+  `Verde-fim`/`espiral-fim`/`perdido-fim`/`Celha-fim` (serafim), `parfake` (parfait+fake),
+  `Presidente Bagre` (Buggy), `Sa D. Bo`.
+- **Créditos do fansub:** `Controle de Qualidade` → **`Controlo`**, `Trilha Sonora` →
+  **`Banda Sonora`**, `Karaokê` → **`Karaoke`**, `Diagramação`/`Tipagem` →
+  **`Tipografia`**. Quando o bloco inteiro está em inglês, **fica em inglês**.
+- **Aviso do reprodutor:** aparece em **inglês** e em quatro variantes PT-BR diferentes ao
+  longo do arco — todas convertidas para o fraseado PT-PT único de sempre.
+- **Genérico de abertura:** em alguns episódios vem com a letra **em inglês** (EH_7–EH_11,
+  EH_15, EH_18–EH_20) e noutros em PT-BR (EH_12–EH_14, EH_16, EH_17). Onde está em inglês
+  **fica em inglês** (não há PT-BR para adaptar); onde está em PT-BR foi adaptado, com a
+  regra §8 do guia (a métrica ganha).
+- **Texto cifrado** (ruído de transmissão em EH_2, EH_3, EH_10, EH_15) fica **intocado** —
+  é ruído gráfico proposital, não texto.
+- Recompensas: `bilhão` → **`mil milhões`**; por extenso segue o padrão de Wano
+  (`1 Bilhão e 32 milhões` → **`Mil e 32 milhões de berries`**).
+- Vocabulário do arco: `pesquisa`→`investigação`, `pesquisador`→`investigador`,
+  `prédio`→`edifício`, `foguete`→`foguetão`, `pizza`→`piza`, `hashis`→`pauzinhos`,
+  `quadrinho`→`banda desenhada`, `furo (de reportagem)`→`cacha`, `pilantra`→`vigarista`,
+  `besouro`→`escaravelho`, `ternos`→`fatos`, `grampo`→`escuta`, `bondolas`→`gôndolas`,
+  `câmera`→`câmara`, `alto-falante`→`altifalante`, `mão de vaca`→`forreta`,
+  `de ponta cabeça`→`de pernas para o ar`, `coceira`→`comichão`,
+  `Prefeito`→`Presidente da Câmara`, `Agentes de Inteligência`→`Agentes dos Serviços de
+  Informações`, `Vovô`→`Avô`, `dezenove`→`dezanove`, `assassinato`→`assassínio`.
+- **Registo:** a tripulação trata o Dr. Vegapunk pela **3.ª pessoa de cortesia**
+  (`o senhor`, `percebe`), e por `tu` entre si. Os revoltosos tratam o Rei Seki por
+  cortesia (regra da realeza do guia).
+- **Gralhas do original corrigidas em silêncio:** `Gragicos`, `Govermo Mundial`,
+  `alugma`, `herença`, `bondolas`, `Iha Peachy`, `parea`→`páreo`, `podemriam`, `Labphase`,
+  `Cypher Pool`, `Eu não perco tempo com Eu não perco tempo com` (frase duplicada),
+  `TODOS NÓS,eutenhoalgoatedizer` (sem espaços), `possível...f` (letra solta),
+  `um trancos` e `Você tem que ser  o ao montar` (texto em falta),
+  `Nunca vou perdoar o ` (nome em falta → `o Sabo`), `Em, Buggy?` → `Hã, Buggy?`,
+  `o weevil` → `o Weevil`, `A marinha estão agindo` (concordância),
+  `Reis dos Mares armadas` (concordância).
+- **Incoerências do próprio original mantidas** (não são gralhas inequívocas):
+  `Palhaço Estrela` vs `Palhaço Bombástico` (Buggy, EH_1); `Kaido` (EH_14) vs `Kaidou`
+  nos restantes; `Imperador das Chamas` vs `Menino Imperador da Chama` (Sabo).
+- **Unificações minhas, para o texto bater certo consigo próprio:** o letreiro do Chopper
+  (`Bicho de Estimação`) e a fala dele (`Mascote`) passaram ambos a **`Animal de
+  estimação`**; o letreiro `Antiga QG da Marinha` alinhado em **`Antigo`** (QG é masculino).
 
 ## ⚠️ Género dos termos em inglês — NÃO assumir masculino
 
