@@ -995,7 +995,7 @@ ao foguetão a vácuo!
 
 222
 00:13:04,970 --> 00:13:07,220
-Têm de chegar à Cúpula da Fronteira!
+Têm de chegar ao Frontier Dome!
 
 223
 00:13:07,770 --> 00:13:09,730
@@ -1699,7 +1699,7 @@ Labophase, Egghead.
 
 392
 00:28:09,210 --> 00:28:11,170
-Cúpula da Fronteira agora fortificada.
+Frontier Dome agora fortificado.
 
 393
 00:28:11,790 --> 00:28:13,300
