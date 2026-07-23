@@ -1,25 +1,25 @@
 1
 00:00:00,000 --> 00:00:00,770
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:00,770 --> 00:00:06,530
 Edição de Vídeo
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Feeso
 Galaxy 9000
 
 3
 00:00:06,530 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 4
@@ -33,19 +33,19 @@ Gráficos: Datenshi
 
 6
 00:00:49,360 --> 00:00:51,990
-Karaokê
+Karaoke
 PhosCity
 
 7
 00:00:52,740 --> 00:00:54,450
-Controle de Qualidade
+Controlo de Qualidade
 Camotoy
 fedew
 Pepperjack
 
 8
 00:00:54,780 --> 00:00:57,250
-Controle de Qualidade
+Controlo de Qualidade
 Edição de Legendas
 AphantasticRabbit
 Pollychan
@@ -57,7 +57,7 @@ Zenef
 
 9
 00:01:07,840 --> 00:01:10,430
-Trilha Sonora
+Banda Sonora
 Halee
 
 10
@@ -74,17 +74,17 @@ Dankratos
 
 12
 00:01:30,110 --> 00:01:32,200
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Aventura na Terra da Ciência
 
 13
 00:01:32,200 --> 00:01:33,780
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Aventura na Terra da Ciência
 – O quê?!
@@ -92,25 +92,25 @@ Aventura na Terra da Ciência
 
 14
 00:01:33,780 --> 00:01:36,240
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Aquele Vegapunk?!
 
 15
 00:01:36,240 --> 00:01:38,200
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Vocês são muito barulhentos...
 
 16
 00:01:38,200 --> 00:01:40,060
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 17
@@ -119,7 +119,7 @@ Vegapunk!
 
 18
 00:01:41,960 --> 00:01:45,170
-Eu te admiro demais!
+Admiro-te imenso!
 
 19
 00:01:46,130 --> 00:01:48,090
@@ -127,15 +127,15 @@ Passei dois anos inteiros...
 
 20
 00:01:49,420 --> 00:01:51,920
-na sua terra natal, Baldimore...
+na tua terra natal, Baldimore...
 
 21
 00:01:52,590 --> 00:01:54,760
-fuçando no seu laboratório!
+a remexer no teu laboratório!
 
 22
 00:01:57,140 --> 00:02:00,930
-Tenho tanta coisa pra te mostrar!
+Tenho tanta coisa para te mostrar!
 
 23
 00:02:00,930 --> 00:02:02,560
@@ -151,25 +151,25 @@ dos meus sonhos!
 
 26
 00:02:09,650 --> 00:02:13,610
-Quantas vezes ele é maior
-que o Franky Shogun?
+Quantas vezes é maior
+do que o Franky Shogun?
 
 27
 00:02:13,610 --> 00:02:16,280
-Luffy e Chopper estão perdendo!
+O Luffy e o Chopper estão a passar-se!
 
 28
 00:02:17,910 --> 00:02:20,200
-Vegapunk é uma gata!
+Vegapunk é uma brasa!
 
 29
 00:02:20,200 --> 00:02:22,370
-Por favor, deixa eu ver sua calcinha!
+Por favor, deixa-me ver as tuas cuecas!
 
 30
 00:02:23,370 --> 00:02:24,830
-Fofa!
-Calcinha!
+Que gira!
+Cuecas!
 
 31
 00:02:25,830 --> 00:02:27,340
@@ -193,15 +193,15 @@ Vegapunk? Uma mulher...?
 
 36
 00:02:36,840 --> 00:02:38,180
-Isso é novidade pra mim!
+Isso é novidade para mim!
 
 37
 00:02:38,180 --> 00:02:39,600
-Como deveria ser!
+Como havia de ser!
 
 38
 00:02:39,600 --> 00:02:41,560
-Óbvio que eu não sou o stella!
+Claro que eu não sou o stella!
 
 39
 00:02:42,060 --> 00:02:43,310
@@ -209,7 +209,7 @@ O stella?
 
 40
 00:02:44,440 --> 00:02:46,480
-Eu sou Punk-02,
+Eu sou a Punk-02,
 
 41
 00:02:46,480 --> 00:02:49,020
@@ -225,15 +225,15 @@ Lilith? Punk-02?
 
 44
 00:02:56,280 --> 00:02:59,280
-Nosso orçamento de pesquisa está sempre apertado!
+O nosso orçamento de investigação está sempre apertado!
 
 45
 00:02:59,280 --> 00:03:00,910
-Então, passem seus tesouros!
+Por isso, passem para cá os tesouros!
 
 46
 00:03:00,910 --> 00:03:03,370
-Depois disso, eu sigo meu caminho!
+Depois disso, sigo o meu caminho!
 
 47
 00:03:03,370 --> 00:03:04,370
@@ -241,22 +241,22 @@ O quê?!
 
 48
 00:03:04,370 --> 00:03:07,130
-Do que você tá falando?!
-Esse mar tá congelante!
+Do que é que estás a falar?!
+Este mar está gelado!
 
 49
 00:03:07,130 --> 00:03:10,460
-Se vai nos salvar,
-termine o trabalho!
+Se nos vais salvar,
+acaba o trabalho!
 
 50
 00:03:10,460 --> 00:03:11,920
-Eu não quis salvar vocês!
+Eu não vos quis salvar!
 
 51
 00:03:13,050 --> 00:03:17,050
 É supostamente impossível
-qualquer navio entrar nessas águas!
+qualquer navio entrar nestas águas!
 
 52
 00:03:17,050 --> 00:03:21,890
@@ -265,7 +265,7 @@ para afundar quem tentar!
 
 53
 00:03:38,030 --> 00:03:38,990
-Esses aqui...
+Estes aqui...
 
 54
 00:03:39,990 --> 00:03:42,870
@@ -281,11 +281,11 @@ Incrível!
 
 57
 00:03:46,080 --> 00:03:47,580
-Deixa pra lá, já perdi o interesse!
+Deixa lá, já perdi o interesse!
 
 58
 00:03:47,580 --> 00:03:48,790
-Oh não!
+Oh, não!
 
 59
 00:03:49,380 --> 00:03:50,790
@@ -297,11 +297,11 @@ Se não querem dar um mergulho...
 
 61
 00:03:56,670 --> 00:03:57,880
-apenas...
+limitem-se a...
 
 62
 00:03:57,880 --> 00:03:59,640
-passem seu tesouro!
+passar o vosso tesouro!
 
 63
 00:04:02,180 --> 00:04:03,720
@@ -313,48 +313,48 @@ Ei, Lilith!
 
 65
 00:04:07,730 --> 00:04:09,400
-O que você está fazendo?
+O que é que estás a fazer?
 
 66
 00:04:09,400 --> 00:04:12,110
-Calada, Shaka! Só estou
-fazendo meu trabalho!
+Cala-te, Shaka! Estou só
+a fazer o meu trabalho!
 
 67
 00:04:12,110 --> 00:04:13,900
-Pilhando de novo?!
+Outra vez a pilhar?!
 
 68
 00:04:13,900 --> 00:04:16,070
-Tenha algum orgulho como cientista!
+Tem algum orgulho como cientista!
 
 69
 00:04:16,070 --> 00:04:18,400
-Orgulho não financia nossa pesquisa!
+O orgulho não financia a nossa investigação!
 
 70
 00:04:18,780 --> 00:04:20,360
-Com quem ela está falando?
+Com quem está ela a falar?
 
 71
 00:04:20,360 --> 00:04:22,330
-Não vem bancar o superior comigo!
+Não venhas armar-te em superior comigo!
 
 72
 00:04:22,740 --> 00:04:25,200
-Eles não vão se render.
+Eles não se vão render.
 
 73
 00:04:25,200 --> 00:04:26,870
-Esses são os Piratas do Chapéu de Palha.
+Aqueles são os Piratas do Chapéu de Palha.
 
 74
 00:04:26,870 --> 00:04:29,000
-Seu capitão acabou de ser nomeado um Yonkou.
+O capitão deles acabou de ser nomeado Yonkou.
 
 75
 00:04:29,000 --> 00:04:30,250
-Eu sei, né?!
+Eu sei, não é?!
 
 76
 00:04:31,420 --> 00:04:34,750
@@ -362,7 +362,7 @@ Um Yonkou deve nadar em tesouros!
 
 77
 00:04:35,340 --> 00:04:37,720
-Nesse caso, você cometeu um erro grave.
+Nesse caso, cometeste um erro grave.
 
 78
 00:04:38,840 --> 00:04:39,680
@@ -370,61 +370,61 @@ Um erro?
 
 79
 00:04:40,050 --> 00:04:42,430
-Os Reis dos Mares os cercaram!
+Os Reis dos Mares cercaram-nos!
 
 80
 00:04:42,430 --> 00:04:43,510
-Não tem escapatória!
+Não têm escapatória!
 
 81
 00:04:43,510 --> 00:04:46,470
-Não, você subestimou eles.
+Não, subestimaste-os.
 
 82
 00:04:46,470 --> 00:04:48,890
-Olhe para o espadachim no navio.
+Olha para o espadachim no navio.
 
 83
 00:04:49,560 --> 00:04:56,030
-É o Caçador de Piratas Zoro, um homem com recompensa de 1 bilhão 111 milhões de berries.
+É o Caçador de Piratas Zoro, um homem com uma recompensa de mil e 111 milhões de berries.
 
 84
 00:04:56,030 --> 00:05:01,490
-Ele está calmo porque sabe que pode
-te matar num instante daí.
+Está calmo porque sabe que te pode
+matar num instante daí.
 
 85
 00:05:02,320 --> 00:05:06,160
 O mesmo vale para a mulher atrás dele,
-Criança Demoníaca Nico Robin.
+a Criança Demónio Nico Robin.
 
 86
 00:05:06,160 --> 00:05:10,500
-E como diabos eles poderiam
+E como raio poderiam eles
 derrotar tantas armas dos Reis dos Mares?!
 
 87
 00:05:10,500 --> 00:05:14,630
 Os fortes sabem deduzir
-quais alvos priorizar!
+que alvos priorizar!
 
 88
 00:05:14,630 --> 00:05:16,750
-Você é quem está encrencada.
+Quem está em apuros és tu.
 
 89
 00:05:16,750 --> 00:05:18,710
-Então esses moleques...
+Então estes fedelhos...
 
 90
 00:05:18,710 --> 00:05:20,170
-– Maneiro!
-– Maneiro!
-são isca?!
+– Fixe!
+– Fixe!
+são isco?!
 
 91
 00:05:20,550 --> 00:05:21,880
-Eu baixei a guarda!
+Baixei a guarda!
 
 92
 00:05:22,760 --> 00:05:24,350
@@ -433,27 +433,27 @@ Ei, Vegapunk!
 93
 00:05:25,050 --> 00:05:27,310
 Temos algumas exigências
-que você vai aceitar...
+que vais aceitar...
 
 94
 00:05:28,310 --> 00:05:29,520
-Entendeu?
+Percebeste?
 
 95
 00:05:29,520 --> 00:05:33,270
-V-Você está tentando me ameaçar?!
+E-Estás a tentar ameaçar-me?!
 
 96
 00:05:33,270 --> 00:05:34,270
-Tudo bem.
+Está bem.
 
 97
 00:05:34,270 --> 00:05:35,520
-Traga-os aqui.
+Tragam-nos cá.
 
 98
 00:05:35,520 --> 00:05:38,530
-Estou interessado nessa tripulação.
+Estou interessado nesta tripulação.
 
 99
 00:05:38,530 --> 00:05:42,240
@@ -461,20 +461,20 @@ Shaka Bondade
 
 100
 00:05:44,740 --> 00:05:46,530
-Você já esteve aqui antes?
+Já cá estiveste antes?
 
 101
 00:05:46,530 --> 00:05:50,120
 Sim, quando era criança.
-Naquela época, era só um laboratório normal.
+Na altura, era só um laboratório normal.
 
 102
 00:05:50,120 --> 00:05:53,210
-E por que você voltou?
+E porque é que voltaste?
 
 103
 00:05:54,290 --> 00:05:57,040
-Você disse que tinha negócios com Vegapunk...
+Disseste que tinhas contas a ajustar com o Vegapunk...
 
 104
 00:05:57,040 --> 00:05:58,710
@@ -482,11 +482,11 @@ Dependendo da resposta dele...
 
 105
 00:05:59,130 --> 00:06:00,800
-ele pode ter que morrer!
+pode ter de morrer!
 
 106
 00:06:02,050 --> 00:06:03,840
-Espera aí!
+Espera lá!
 
 107
 00:06:05,600 --> 00:06:07,140
@@ -494,44 +494,44 @@ O que aconteceu?!
 
 108
 00:06:07,680 --> 00:06:09,600
-Meu pai...
+O meu pai...
 
 109
 00:06:09,600 --> 00:06:12,560
-Vegapunk transformou ele em um ciborgue.
+O Vegapunk transformou-o num ciborgue.
 
 110
 00:06:12,560 --> 00:06:14,730
-Um ciborgue?! Isso é muito legal!
+Um ciborgue?! Isso é muito fixe!
 
 111
 00:06:14,730 --> 00:06:16,690
-Vai se lascar!
+Vai-te lixar!
 
 112
 00:06:18,150 --> 00:06:21,740
-A essa altura, ele perdeu toda a humanidade...
+A esta altura, já perdeu toda a humanidade...
 
 113
 00:06:22,650 --> 00:06:24,700
-Ele nem sabe mais quem ele é...
+Já nem sabe quem é...
 
 114
 00:06:26,820 --> 00:06:29,240
-Ele se tornou nada mais
-que uma arma viva.
+Tornou-se apenas
+uma arma viva.
 
 115
 00:06:29,830 --> 00:06:32,660
-Isso é realmente horrível...
+Isso é mesmo horrível...
 
 116
 00:06:33,870 --> 00:06:36,420
-É, e eu vou fazê-lo pagar.
+Pois é, e eu vou fazê-lo pagar.
 
 117
 00:06:36,710 --> 00:06:38,630
-Eu sinto muito, Bogey!
+Peço imensa desculpa, Bogey!
 
 118
 00:06:39,380 --> 00:06:41,260
@@ -539,19 +539,19 @@ Bo-nn-ey!
 
 119
 00:06:42,010 --> 00:06:43,550
-Sinto muito, Bonney!
+Desculpa, Bonney!
 
 120
 00:06:44,800 --> 00:06:46,140
-Só sobe!
+Sobe e pronto!
 
 121
 00:06:46,140 --> 00:06:48,070
-Acho que podemos chegar à superfície daqui.
+Acho que daqui conseguimos chegar à superfície.
 
 122
 00:06:48,600 --> 00:06:49,640
-Beleza!
+Boa!
 
 123
 00:06:55,100 --> 00:06:56,980
@@ -559,7 +559,7 @@ Oh! Estamos quase lá!
 
 124
 00:06:56,980 --> 00:06:58,060
-Tô tão animado!
+Estou tão entusiasmado!
 
 125
 00:06:58,560 --> 00:07:02,150
@@ -567,35 +567,35 @@ Espera por mim, comida!
 
 126
 00:07:03,740 --> 00:07:05,740
-Chegamos à superfície!
+Chegámos à superfície!
 
 127
 00:07:11,990 --> 00:07:14,040
-Beleza, vamos achar algo pra com–
+Boa, vamos procurar alguma coisa para co–
 
 128
 00:07:14,830 --> 00:07:17,040
-Luffy! O que você viu?
+Luffy! O que é que viste?
 
 129
 00:07:17,040 --> 00:07:19,340
-Eu vou com você!
+Eu vou contigo!
 
 130
 00:07:19,340 --> 00:07:20,460
-Ah sim!
+Ah, sim!
 
 131
 00:07:20,460 --> 00:07:22,840
-Eu encontrei Sabo em Mary Geoise.
+Encontrei o Sabo em Mary Geoise.
 
 132
 00:07:22,840 --> 00:07:23,970
-Bom, por enquanto tá tudo bem.
+Bom, por agora está tudo bem.
 
 133
 00:07:36,270 --> 00:07:40,400
-O que são todas essas coisas?!
+O que são todas estas coisas?!
 
 134
 00:07:45,280 --> 00:07:47,030
@@ -603,7 +603,7 @@ Um robô gigante?!
 
 135
 00:07:47,030 --> 00:07:49,030
-Mas o que...?
+Mas que...?
 
 136
 00:07:49,030 --> 00:07:50,530
@@ -611,7 +611,7 @@ Um monstro espacial?!
 
 137
 00:07:50,530 --> 00:07:52,740
-Tantas coisas voando!
+Tanta coisa a voar!
 
 138
 00:07:53,830 --> 00:07:55,410
@@ -619,7 +619,7 @@ Incrível!
 
 139
 00:07:55,410 --> 00:07:57,120
-Beleza! Eu vou andar nessa coisa!
+Boa! Vou andar nessa coisa!
 
 140
 00:07:59,670 --> 00:08:01,500
@@ -635,7 +635,7 @@ Gomu Gomu no...
 
 143
 00:08:05,010 --> 00:08:05,760
-Ouça!
+Ouve!
 
 144
 00:08:05,760 --> 00:08:07,760
@@ -643,15 +643,15 @@ Rocket!
 
 145
 00:08:16,890 --> 00:08:18,560
-Aquele negócio comeu o Luffy!
+Aquela coisa comeu o Luffy!
 
 146
 00:08:28,450 --> 00:08:31,030
-Você tá bem?! Luffy!
+Estás bem?! Luffy!
 
 147
 00:08:31,910 --> 00:08:33,990
-Hã? Eu pensei que tinha sido comido...
+Hã? Pensei que tinha sido comido...
 
 148
 00:08:35,580 --> 00:08:38,250
@@ -663,15 +663,15 @@ Comida!
 
 150
 00:08:41,250 --> 00:08:43,500
-Biscoitos! Frutas!
+Bolachas! Fruta!
 
 151
 00:08:43,500 --> 00:08:45,090
-Ei! Onde você tá indo?!
+Ei! Onde é que vais?!
 
 152
 00:08:45,090 --> 00:08:46,510
-Isso só pode ser uma armadilha!
+Isto só pode ser uma armadilha!
 
 153
 00:08:46,760 --> 00:08:47,880
@@ -695,24 +695,24 @@ Montes de creme!
 
 157
 00:09:05,900 --> 00:09:07,320
-– Que diabos?!
-– Que diabos?!
+– Mas que raio?!
+– Mas que raio?!
 
 158
 00:09:07,320 --> 00:09:09,490
-O quê?! Minhas mãos passam direto por isso!
+O quê?! As minhas mãos atravessam aquilo!
 
 159
 00:09:09,490 --> 00:09:10,530
-O que é isso?!
+O que é isto?!
 
 160
 00:09:11,530 --> 00:09:13,280
-Está ali, mas não consigo pegar!
+Está ali, mas não consigo agarrar!
 
 161
 00:09:13,280 --> 00:09:15,620
-Isso só tá me deixando com mais fome!
+Isto só me deixa com mais fome!
 
 162
 00:09:15,620 --> 00:09:18,250
@@ -720,7 +720,7 @@ Não consigo comer!
 
 163
 00:09:20,920 --> 00:09:22,460
-Não me diga que nós...
+Não me digas que nós...
 
 164
 00:09:22,460 --> 00:09:23,380
@@ -728,31 +728,31 @@ O quê?! Luffy!
 
 165
 00:09:23,880 --> 00:09:27,050
-Será que morremos sem perceber?!
+Será que morremos sem dar por isso?!
 
 166
 00:09:27,050 --> 00:09:30,260
-A gente morreu?!
+Nós morremos?!
 
 167
 00:09:32,180 --> 00:09:33,680
-Espera aí, Luffy.
+Espera lá, Luffy.
 
 168
 00:09:33,680 --> 00:09:36,060
-Cala a boca! Eu tô morto agora!
+Cala-te! Estou morto!
 
 169
 00:09:36,060 --> 00:09:37,810
-Você não morreu!
+Não morreste!
 
 170
 00:09:37,810 --> 00:09:40,180
-Então por que isso tá acontecendo?
+Então porque é que isto está a acontecer?
 
 171
 00:09:40,180 --> 00:09:42,940
-Não é porque somos fantasmas.
+Não é por sermos fantasmas.
 
 172
 00:09:42,940 --> 00:09:44,150
@@ -760,11 +760,11 @@ Parece que...
 
 173
 00:09:46,150 --> 00:09:47,650
-Como eu pensei...
+Tal como eu pensava...
 
 174
 00:09:49,490 --> 00:09:51,740
-Esse parfait é um holograma.
+Este parfait é um holograma.
 
 175
 00:09:51,740 --> 00:09:53,570
@@ -772,20 +772,20 @@ Holo-holo...?
 
 176
 00:09:53,570 --> 00:09:55,530
-Então não tem comida?!
+Então não há comida?!
 
 177
 00:09:56,450 --> 00:10:00,450
-Não tem como eles terem
+Não era possível terem
 comida espalhada assim.
 
 178
 00:10:00,450 --> 00:10:03,120
-Ainda assim, é minha primeira vez vendo um holograma.
+Ainda assim, é a primeira vez que vejo um holograma.
 
 179
 00:10:03,120 --> 00:10:05,290
-Que diabos?! Eles vão pagar!
+Mas que raio?! Vão pagar por isto!
 
 180
 00:10:05,670 --> 00:10:08,420
@@ -793,8 +793,8 @@ Uma imagem tridimensional produzida por luz.
 
 181
 00:10:08,420 --> 00:10:11,550
-É como algo saído de um
-quadrinho ou mundo de fantasia.
+É como algo saído de uma
+banda desenhada ou de um mundo de fantasia.
 
 182
 00:10:11,550 --> 00:10:12,590
@@ -802,17 +802,17 @@ Uma imagem?!
 
 183
 00:10:13,800 --> 00:10:16,930
-Então é por isso que passei
-direto por aquele monstro espacial!
+Então foi por isso que atravessei
+aquele monstro espacial!
 
 184
 00:10:16,930 --> 00:10:19,180
-Aquele robô gigante deve ser um holograma também.
+Aquele robô gigante também deve ser um holograma.
 
 185
 00:10:19,180 --> 00:10:21,770
-Afinal, ninguém poderia 
-fazer algo assim.
+Afinal, ninguém conseguiria 
+fazer uma coisa assim.
 
 186
 00:10:22,180 --> 00:10:23,140
@@ -820,32 +820,32 @@ Ei!
 
 187
 00:10:23,140 --> 00:10:24,650
-Dá uma olhada nisso!
+Vejam só isto!
 
 188
 00:10:24,650 --> 00:10:25,900
-O que será isso?
+O que será isto?
 
 189
 00:10:27,190 --> 00:10:29,610
-Tem botões com fotos de comida.
+Tem botões com fotografias de comida.
 
 190
 00:10:29,610 --> 00:10:32,190
-Você não estava prestando atenção?
+Não estavas com atenção?
 
 191
 00:10:32,190 --> 00:10:34,860
-Esquece. Tudo nessa ilha é mentira.
+Esquece. Nesta ilha é tudo mentira.
 
 192
 00:10:35,620 --> 00:10:37,590
-Acabei de perceber...
+Acabei de reparar...
 
 193
 00:10:37,590 --> 00:10:42,410
-Apesar do mar ao redor estar congelante, 
-esse lugar é bem quente.
+Apesar de o mar à volta estar gelado, 
+este sítio é bem quente.
 
 194
 00:10:43,000 --> 00:10:43,870
@@ -857,85 +857,85 @@ Embora pareça tropical...
 
 196
 00:10:46,960 --> 00:10:49,420
-isso é, sem dúvida, uma ilha de inverno.
+isto é, sem dúvida, uma ilha de inverno.
 
 197
 00:10:49,960 --> 00:10:54,090
-Esse clima quente é tudo graças
-ao meu sistema de A.C. de ilha.
+Este clima quente deve-se todo
+ao meu sistema de ar condicionado da ilha.
 
 198
 00:10:54,090 --> 00:10:58,850
-Estou controlando a temperatura
+Controlo a temperatura
 da ilha através do solo.
 
 199
 00:11:00,060 --> 00:11:03,020
-Acho que nunca vi vocês antes...
+Acho que nunca vos vi por aqui...
 
 200
 00:11:10,020 --> 00:11:11,780
-Ela é ainda maior que o Kaidou!
+Ela é ainda maior do que o Kaidou!
 
 201
 00:11:12,020 --> 00:11:13,380
-Bem, não importa!
+Bom, não interessa!
 
 202
 00:11:13,380 --> 00:11:16,210
-É quentinho e gostoso aqui, então fiquem à vontade!
+Aqui é quentinho e agradável, por isso fiquem à vontade!
 
 203
 00:11:16,210 --> 00:11:18,240
-Estou indo trabalhar, então...
+Vou trabalhar, portanto...
 
 204
 00:11:18,240 --> 00:11:19,870
-Vou indo agora!
+Vou andando!
 
 205
 00:11:21,200 --> 00:11:22,950
-Ei, moçona!
+Ei, brutamontes!
 
 206
 00:11:22,950 --> 00:11:24,580
-Tô com fome!
+Tenho fome!
 
 207
 00:11:24,580 --> 00:11:26,750
-Você fez aquele parfake, não foi?!
+Foste tu que fizeste aquele parfake, não foste?!
 
 208
 00:11:26,750 --> 00:11:28,710
-Ah, se você está com fome...
+Ah, se tens fome...
 
 209
 00:11:28,710 --> 00:11:31,000
-Você também deve ser um holo-holo!
+Também deves ser um holo-holo!
 
 210
 00:11:33,010 --> 00:11:35,170
-O quê? Eu acertei ela! Ela é real?!
+O quê? Acertei-lhe! Ela é real?!
 
 211
 00:11:35,170 --> 00:11:39,140
-Para com essa de "acertei ela, ela é real"!
+Para com essa de "acertei-lhe, ela é real"!
 
 212
 00:11:39,140 --> 00:11:41,510
-O que você tá fazendo, seu imbecil?!
+O que é que estás a fazer, seu imbecil?!
 
 213
 00:11:41,510 --> 00:11:42,770
-Foi mal...
+Desculpa...
 
 214
 00:11:46,940 --> 00:11:48,060
-Oh não!
+Oh, não!
 
 215
 00:11:48,060 --> 00:11:49,730
-Ela é real mesmo!
+Ela é mesmo real!
 
 216
 00:11:58,820 --> 00:11:59,530
@@ -951,11 +951,11 @@ O quê?
 
 219
 00:12:11,420 --> 00:12:14,300
-Essa textura... Esse cheiro...
+Esta textura... Este cheiro...
 
 220
 00:12:15,800 --> 00:12:18,720
-Um combo de hambúrguer com batatas e refri!
+Um menu de hambúrguer com batatas e refrigerante!
 
 221
 00:12:18,720 --> 00:12:19,720
@@ -981,15 +981,15 @@ Posso comer?
 
 226
 00:12:28,980 --> 00:12:30,980
-É real mesmo!
+É mesmo real!
 
 227
 00:12:32,560 --> 00:12:34,400
-Pera... Quem fez isso, hein?!
+Espera... Quem é que fez isto, hã?!
 
 228
 00:12:34,400 --> 00:12:35,860
-Não foi essa coisa aqui?!
+Não foi esta coisa aqui?!
 
 229
 00:12:35,860 --> 00:12:37,150
@@ -997,13 +997,13 @@ Não é uma pessoa...
 
 230
 00:12:37,150 --> 00:12:39,410
-...mas quando ele apertou
-um botão, saiu comida.
+...mas quando ele carregou
+num botão, saiu comida.
 
 231
 00:12:39,410 --> 00:12:42,280
-Se a gente consegue comida,
-quem se importa?! Aperta o próximo!
+Se conseguimos comida,
+que interessa?! Carrega no próximo!
 
 232
 00:12:42,280 --> 00:12:43,330
@@ -1020,7 +1020,7 @@ Bife! Omelete de arroz! Costeleta!
 
 235
 00:12:51,000 --> 00:12:52,210
-Próximo, próximo!
+A seguir, a seguir!
 
 236
 00:12:52,210 --> 00:12:53,380
@@ -1028,24 +1028,24 @@ Bolo de algodão doce!
 
 237
 00:12:53,380 --> 00:12:54,380
-Não, pizza!
+Não, piza!
 
 238
 00:12:54,380 --> 00:12:55,500
-Esses aqui primeiro!
+Estes primeiro!
 
 239
 00:12:55,500 --> 00:12:57,630
-Lámen, frango frito e cachorro-quente!
+Ramen, frango frito e cachorro-quente!
 
 240
 00:12:57,630 --> 00:13:00,720
-Espera! Se apertar tudo,
+Espera! Se carregarmos em tudo,
  talvez saia tudo junto!
 
 241
 00:13:00,720 --> 00:13:01,800
-Você é um gênio!
+És um génio!
 
 242
 00:13:01,800 --> 00:13:03,600
@@ -1053,7 +1053,7 @@ Boa ideia, Chopper!
 
 243
 00:13:03,600 --> 00:13:05,970
-Me elogiar não vai funcionar!
+Elogiar-me não vai resultar!
 
 244
 00:13:05,970 --> 00:13:07,270
@@ -1061,19 +1061,19 @@ Escolhe alguma coisa, Jinbe!
 
 245
 00:13:07,270 --> 00:13:08,810
-Tô de boa, valeu.
+Estou bem, obrigado.
 
 246
 00:13:13,230 --> 00:13:17,280
-Yum!
+Que bom!
 
 247
 00:13:17,650 --> 00:13:19,360
-Caramba, você come mesmo, hein!
+Caramba, tu comes mesmo, hã!
 
 248
 00:13:19,360 --> 00:13:22,200
-Óbvio! Eu tava morrendo de fome!
+Claro! Estava esfomeado!
 
 249
 00:13:23,280 --> 00:13:24,280
@@ -1086,23 +1086,23 @@ Eu também!
 
 251
 00:13:27,620 --> 00:13:28,370
-Experimenta isso!
+Experimenta isto!
 
 252
 00:13:28,750 --> 00:13:30,750
-Que bom que eles gostaram.
+Ainda bem que gostaram.
 
 253
 00:13:30,750 --> 00:13:32,080
-O que está acontecendo?
+O que se está a passar?
 
 254
 00:13:32,080 --> 00:13:33,330
-O que é esse aparelho?
+O que é este aparelho?
 
 255
 00:13:33,330 --> 00:13:35,090
-Está curioso, né?
+Estás curioso, não estás?
 
 256
 00:13:37,420 --> 00:13:39,800
@@ -1114,27 +1114,27 @@ Desde que haja ingredientes,
 
 258
 00:13:41,760 --> 00:13:44,720
-ela pode preparar qualquer um dos 
+consegue preparar qualquer um dos 
 500 pratos em menos de um minuto!
 
 259
 00:13:45,100 --> 00:13:48,680
-O modo "usar sobras"
+O modo "aproveitar sobras"
 é super prático!
 
 260
 00:13:51,770 --> 00:13:54,860
-Se ao menos pudéssemos replicá-la
-segundo os planos!
+Se ao menos a pudéssemos replicar
+a partir dos planos!
 
 261
 00:13:55,400 --> 00:13:58,360
 Mas faltam os técnicos
-necessários para produção em massa!
+necessários para a produção em massa!
 
 262
 00:13:58,360 --> 00:13:59,860
-O mesmo vale para o A.C. da ilha.
+O mesmo vale para o ar condicionado da ilha.
 
 263
 00:13:59,860 --> 00:14:02,490
@@ -1143,7 +1143,7 @@ a temperatura de uma ilha inteira,
 
 264
 00:14:02,490 --> 00:14:05,740
-então poderíamos monitorar
+então poderíamos monitorizar
 os sinais vitais de todos os organismos!
 
 265
@@ -1152,8 +1152,8 @@ Fiz invenções tão incríveis,
 
 266
 00:14:09,540 --> 00:14:13,420
-mas a situação não permite
-que eu realize seu potencial!
+mas a situação não me permite
+concretizar o potencial delas!
 
 267
 00:14:13,420 --> 00:14:18,090
@@ -1167,12 +1167,12 @@ Preciso de mais fundos!
 
 269
 00:14:20,840 --> 00:14:24,050
-Estou trabalhando tanto para inventar,
-então por que isso acontece?!
+Trabalho tanto a inventar,
+então porque é que isto acontece?!
 
 270
 00:14:27,140 --> 00:14:28,760
-Pare de me enrolar!
+Para de me enrolar!
 
 271
 00:14:30,220 --> 00:14:32,600
@@ -1180,7 +1180,7 @@ Não há recursos suficientes!
 
 272
 00:14:35,810 --> 00:14:38,020
-Ela socou um holograma!
+Ela deu um murro num holograma!
 
 273
 00:14:38,020 --> 00:14:39,270
@@ -1196,29 +1196,29 @@ Ah, muito melhor!
 
 276
 00:14:47,490 --> 00:14:48,950
-Como isso é possível?
+Como é que isso é possível?
 
 277
 00:14:48,950 --> 00:14:51,910
-Como você socou um holograma?
+Como é que deste um murro num holograma?
 
 278
 00:14:52,370 --> 00:14:54,790
-Curioso, né? Deixa eu explicar.
+Curioso, não é? Deixa-me explicar.
 
 279
 00:14:54,790 --> 00:14:59,250
-Com essas luvas de pressão luminosa,
-luz não é mais algo que você só vê.
+Com estas luvas de pressão luminosa,
+a luz deixa de ser algo que só se vê.
 
 280
 00:15:01,590 --> 00:15:02,590
-Oi!
+Olá!
 
 281
 00:15:03,720 --> 00:15:08,180
-Quando você toca algo,
-percebe como um objeto sólido, certo?
+Quando tocas em alguma coisa,
+sentes um objeto sólido, certo?
 
 282
 00:15:08,180 --> 00:15:10,140
@@ -1238,15 +1238,15 @@ Ufa, então ela não era real...
 
 286
 00:15:22,360 --> 00:15:24,990
-Eu jurava que ela era...!
+E eu que jurava que era...!
 
 287
 00:15:24,990 --> 00:15:28,240
-Pare de perguntar o que é real ou não!
+Parem de perguntar o que é real ou não!
 
 288
 00:15:28,240 --> 00:15:30,370
-Você decide por si mesmo!
+Decidam por vocês próprios!
 
 289
 00:15:30,370 --> 00:15:34,620
@@ -1259,11 +1259,11 @@ Que delícia!
 
 291
 00:15:36,080 --> 00:15:37,540
-Você nem está ouvindo!
+Nem sequer estás a ouvir!
 
 292
 00:15:37,540 --> 00:15:40,500
-Quem diabos é você?
+Quem raio és tu?
 
 293
 00:15:42,210 --> 00:15:43,260
@@ -1275,11 +1275,11 @@ Eu sou só...
 
 295
 00:15:45,170 --> 00:15:47,430
-um simples cientista gênio de aluguel,
+um simples cientista génio de aluguer,
 
 296
 00:15:51,640 --> 00:15:54,730
-Dr. Vegapunk!
+o Dr. Vegapunk!
 
 297
 00:15:57,100 --> 00:15:58,900
@@ -1291,15 +1291,15 @@ Nhac!
 
 299
 00:16:02,940 --> 00:16:04,860
-Você é o Dr. Vegapunk?!
+És o Dr. Vegapunk?!
 
 300
 00:16:04,860 --> 00:16:06,360
-Koby me contou tudo sobre você!
+O Koby contou-me tudo sobre ti!
 
 301
 00:16:06,360 --> 00:16:08,610
-Você é tão grande! E tão jovem!
+És tão grande! E tão jovem!
 
 302
 00:16:08,610 --> 00:16:10,030
@@ -1307,7 +1307,7 @@ Isso é mentira!
 
 303
 00:16:10,030 --> 00:16:11,950
-Do que ela está falando?
+Do que é que ela está a falar?
 
 304
 00:16:11,950 --> 00:16:14,160
@@ -1319,21 +1319,21 @@ Então, qual é o plano?
 
 306
 00:16:20,290 --> 00:16:23,960
-Olha. Só existe um Vegapunk no mundo,
+Ouve. Só existe um Vegapunk no mundo,
 
 307
 00:16:23,960 --> 00:16:26,590
-mas como ele é um gênio,
-fica ocupado que nem uma abelha.
+mas, como é um génio,
+anda ocupado que nem uma abelha.
 
 308
 00:16:27,090 --> 00:16:30,800
-Ele tem tão pouco tempo
+Tem tão pouco tempo
 que aceita qualquer ajuda.
 
 309
 00:16:31,300 --> 00:16:33,510
-Então ele pensou...
+Então pensou...
 
 310
 00:16:33,890 --> 00:16:36,850
@@ -1341,12 +1341,12 @@ Então ele pensou...
 
 311
 00:16:36,850 --> 00:16:38,180
-Ele chama essas cópias de satélites.
+Ele chama satélites a essas cópias.
 
 312
 00:16:38,180 --> 00:16:40,150
 Dr. Vegapunk
-Ele chama essas cópias de satélites.
+Ele chama satélites a essas cópias.
 
 313
 00:16:40,170 --> 00:16:45,800
@@ -1356,19 +1356,19 @@ satélites são todos Vegapunk!
 
 314
 00:16:45,820 --> 00:16:50,240
-Você realmente espera que eu acredite nessa bobagem?
+Esperas mesmo que eu acredite nessa patetice?
 
 315
 00:16:50,240 --> 00:16:53,780
-Gênios são um incômodo.
+Os génios são um incómodo.
 
 316
 00:16:54,830 --> 00:16:57,120
-Nossa missão é levar esse pirralho de volta a Egghead e eliminar todos os Vegapunks.
+A nossa missão é levar este fedelho de volta a Egghead e eliminar todos os Vegapunk.
 
 317
 00:16:57,120 --> 00:17:02,250
-Nossa missão é levar esse pirralho de volta a Egghead e eliminar todos os Vegapunks.
+A nossa missão é levar este fedelho de volta a Egghead e eliminar todos os Vegapunk.
 Kaku, Lucci e Stussy
 Cipher Pol Aigis 0
 (Assassinos Mascarados)
@@ -1386,63 +1386,63 @@ O laboratório está cheio de ativos valiosos.
 
 320
 00:17:04,710 --> 00:17:07,010
-Tente não danificá-los no processo.
+Tentem não os danificar no processo.
 
 321
 00:17:07,010 --> 00:17:10,550
-Temos a tarefa de eliminar
+Temos por missão eliminar
 o homem mais útil do mundo.
 
 322
 00:17:10,550 --> 00:17:15,390
-Isso tem algo a ver com
-o que aconteceu em Lulusia outro dia?
+Isso tem alguma coisa a ver com
+o que aconteceu em Lulusia no outro dia?
 
 323
 00:17:15,390 --> 00:17:18,270
-Não seja intrometido.
+Não sejas intrometido.
 
 324
 00:17:18,270 --> 00:17:21,100
-Você é esperto demais para o seu próprio bem.
+És esperto demais para teu próprio bem.
 
 325
 00:17:21,100 --> 00:17:22,650
-Eu concordo!
+Concordo!
 
 326
 00:17:22,650 --> 00:17:26,150
-Não nos arraste para nada, Lucci!
+Não nos arrastes para nada, Lucci!
 
 327
 00:17:27,900 --> 00:17:30,450
-Ah cara, que satisfação!
+Ai, que bem que isto soube!
 
 328
 00:17:30,450 --> 00:17:34,320
-Todos vão se surpreender
-quando virem a máquina de comida.
+Vão ficar todos surpreendidos
+quando virem a máquina da comida.
 
 329
 00:17:34,320 --> 00:17:38,700
-Que pena que eles não estão aqui ainda.
-Essa coisa é demais!
+É pena ainda não estarem aqui.
+Esta coisa é demais!
 
 330
 00:17:38,700 --> 00:17:41,460
-Ei, será que o Sanji vai ficar bravo?
+Ei, será que o Sanji se vai chatear?
 
 331
 00:17:41,460 --> 00:17:43,210
-Vocês realmente comeram pra caramba!
+Vocês comeram mesmo à brava!
 
 332
 00:17:43,210 --> 00:17:46,210
-Seus estômagos estão cheios até explodir!
+Têm os estômagos a rebentar!
 
 333
 00:17:46,210 --> 00:17:47,840
-Não, eu sempre fiquei assim.
+Não, eu sempre fui assim.
 
 334
 00:17:47,840 --> 00:17:51,090
@@ -1450,19 +1450,19 @@ Recycollie
 
 335
 00:17:54,930 --> 00:17:56,720
-Bom, tenho que voar!
+Bom, tenho de voar!
 
 336
 00:17:56,720 --> 00:17:58,560
-Espera, já vai embora?
+Espera, já vais embora?
 
 337
 00:17:58,560 --> 00:18:00,680
-Meu trabalho é ser violenta!
+O meu trabalho é ser violenta!
 
 338
 00:18:00,680 --> 00:18:02,060
-Que tipo de trabalho é esse?
+Que raio de trabalho é esse?
 
 339
 00:18:18,740 --> 00:18:20,410
@@ -1470,26 +1470,26 @@ Quem são eles?
 
 340
 00:18:20,910 --> 00:18:22,790
-Bom, isso é um laboratório...
+Bom, isto é um laboratório...
 
 341
 00:18:22,790 --> 00:18:24,790
-Devem ser pesquisadores.
+Devem ser investigadores.
 
 342
 00:18:24,790 --> 00:18:28,250
 A cidade estava vazia antes,
-mas agora estão aparecendo...
+mas agora estão a aparecer...
 
 343
 00:18:28,250 --> 00:18:32,470
-Talvez estivessem tomando
+Talvez estivessem a tomar
 precauções contra nós.
 
 344
 00:18:32,470 --> 00:18:36,050
-Essas roupas não são
-pesadas demais pra uma ilha tropical?
+Estas roupas não são
+pesadas demais para uma ilha tropical?
 
 345
 00:18:36,800 --> 00:18:37,600
@@ -1497,11 +1497,11 @@ Hã?
 
 346
 00:18:38,310 --> 00:18:39,100
-Cadê o Luffy?
+Onde está o Luffy?
 
 347
 00:18:42,390 --> 00:18:43,850
-Aí está sua resposta.
+Aí tens a tua resposta.
 
 348
 00:18:43,850 --> 00:18:44,980
@@ -1509,7 +1509,7 @@ O quê?!
 
 349
 00:18:44,980 --> 00:18:46,480
-O que você está fazendo?!
+O que é que estás a fazer?!
 
 350
 00:18:46,480 --> 00:18:48,570
@@ -1525,11 +1525,11 @@ Ele está aí dentro?
 
 353
 00:18:54,570 --> 00:18:56,700
-Ei, galera!
+Ei, malta!
 
 354
 00:18:56,700 --> 00:18:58,910
-O que acham? Como eu estou?
+Que tal? Como é que eu estou?
 
 355
 00:19:03,210 --> 00:19:05,420
@@ -1541,11 +1541,11 @@ Não é pesado?
 
 357
 00:19:07,420 --> 00:19:09,290
-É bem leve, na verdade!
+Até é bem leve!
 
 358
 00:19:09,290 --> 00:19:11,760
-E ainda mantém você fresco!
+E ainda te mantém fresco!
 
 359
 00:19:12,130 --> 00:19:13,880
@@ -1553,27 +1553,27 @@ Que estiloso.
 
 360
 00:19:13,880 --> 00:19:15,260
-Eu quero um também!
+Também quero um!
 
 361
 00:19:15,260 --> 00:19:16,720
-Onde você conseguiu isso?
+Onde é que arranjaste isso?
 
 362
 00:19:17,220 --> 00:19:18,220
-Isso aqui!
+Aqui!
 
 363
 00:19:18,220 --> 00:19:20,510
-Eles estão nos dando comida e roupas?!
+Estão a dar-nos comida e roupa?!
 
 364
 00:19:20,510 --> 00:19:22,470
-Essa ilha é incrível!
+Esta ilha é incrível!
 
 365
 00:19:22,470 --> 00:19:25,440
-Pra ser sincera, estou me sentindo toda grudenta por causa da água do mar!
+Para ser sincera, sinto-me toda pegajosa por causa da água do mar!
 
 366
 00:19:25,440 --> 00:19:28,690
@@ -1581,31 +1581,31 @@ Escolham as roupas que preferirem.
 
 367
 00:19:28,690 --> 00:19:29,860
-Preferir?
+Preferirem?
 
 368
 00:19:30,820 --> 00:19:32,360
-Roupa de combate!
+Fato de combate!
 
 369
 00:19:36,740 --> 00:19:38,990
-Eu consigo tirar sozinha!
+Consigo tirá-lo sozinha!
 
 370
 00:19:45,540 --> 00:19:47,250
-Você está certo!
+Tens razão!
 
 371
 00:19:47,250 --> 00:19:48,540
-Elas são super leves!
+São super leves!
 
 372
 00:19:48,540 --> 00:19:51,000
-Esses sapatos me fazem sentir como se estivesse flutuando!
+Estes sapatos fazem-me sentir a flutuar!
 
 373
 00:19:51,000 --> 00:19:52,460
-Isso é demais!
+Isto é demais!
 
 374
 00:19:53,710 --> 00:19:54,800
@@ -1613,15 +1613,15 @@ O futuro!
 
 375
 00:19:54,800 --> 00:19:57,380
-Tinha até um estilo tropical.
+Até havia um estilo tropical.
 
 376
 00:19:57,380 --> 00:19:59,760
-Ficou ótimo em você, Jinbe!
+Ficou-te ótimo, Jinbe!
 
 377
 00:19:59,760 --> 00:20:03,100
-É? É perfeito para um disfarce.
+Achas? É perfeito para um disfarce.
 
 378
 00:20:03,100 --> 00:20:05,520
@@ -1634,15 +1634,15 @@ e acabar com o Vegapunk.
 
 380
 00:20:11,770 --> 00:20:12,770
-Até mais.
+Até logo.
 
 381
 00:20:12,770 --> 00:20:14,860
-Cuide-se também, Bonney!
+Cuida-te tu também, Bonney!
 
 382
 00:20:14,860 --> 00:20:16,530
-Valeu mesmo!
+Muito obrigado mesmo!
 
 383
 00:20:24,910 --> 00:20:25,910
@@ -1658,11 +1658,11 @@ Kuma?!
 
 386
 00:20:33,380 --> 00:20:37,380
-É impressão minha, ou ele está nos procurando?
+É impressão minha, ou anda à nossa procura?
 
 387
 00:20:39,840 --> 00:20:40,640
-Gente, vazem!
+Malta, pirem-se!
 
 388
 00:20:41,550 --> 00:20:42,680
@@ -1674,7 +1674,7 @@ Ele vai atacar!
 
 390
 00:20:45,600 --> 00:20:47,140
-Ele está atrás de nós!
+Anda atrás de nós!
 
 391
 00:20:47,140 --> 00:20:47,850
@@ -1682,15 +1682,15 @@ Ei!
 
 392
 00:20:51,940 --> 00:20:54,270
-O que está acontecendo? Me expliquem!
+O que se está a passar? Expliquem-me!
 
 393
 00:20:54,270 --> 00:20:55,900
-Só continua correndo!
+Continua a correr!
 
 394
 00:20:57,070 --> 00:20:58,150
-Oh, merda!
+Bolas!
 
 395
 00:21:07,410 --> 00:21:10,670
@@ -1698,12 +1698,12 @@ Comer e fugir. Roubar roupas.
 
 396
 00:21:14,340 --> 00:21:16,300
-Lá vem o laser!
+Aí vem o laser!
 
 397
 00:21:23,930 --> 00:21:26,810
-Eu não sabia que tinha que pagar!
-Saiu quando eu chutei!
+Eu não sabia que tinha de pagar!
+Saiu quando lhe dei um pontapé!
 
 398
 00:21:26,810 --> 00:21:28,680
@@ -1711,23 +1711,23 @@ Isso é vandalismo, Luffy.
 
 399
 00:21:34,860 --> 00:21:37,480
-Eles vão nos matar por causa de uma comida grátis?!
+Vão matar-nos por causa de uma comida de graça?!
 
 400
 00:21:37,480 --> 00:21:39,190
-Isso é um pouco exagerado.
+Isso é um bocado exagerado.
 
 401
 00:21:43,620 --> 00:21:46,280
-Temos que revidar ou estamos ferrados!
+Temos de responder ou estamos tramados!
 
 402
 00:21:46,280 --> 00:21:50,040
-Podemos ser piratas, mas isso é legítima defesa.
+Podemos ser piratas, mas isto é legítima defesa.
 
 403
 00:21:50,040 --> 00:21:52,960
-Tudo bem! Eu não queria fazer isso, mas...
+Está bem! Não queria fazer isto, mas...
 
 404
 00:22:12,480 --> 00:22:15,440
@@ -1739,16 +1739,16 @@ Espera!
 
 406
 00:22:34,170 --> 00:22:36,210
-Ei! Qual é a sua, Bonney?!
+Ei! Qual é a tua, Bonney?!
 
 407
 00:22:36,210 --> 00:22:39,800
-Se ele vai atirar lasers,
-pelo menos deixa eu socar–
+Se ele vai disparar lasers,
+deixa-me pelo menos dar-lhe um mur–
 
 408
 00:22:49,930 --> 00:22:51,600
-Ele é meu pai...
+Ele é o meu pai...
 
 409
 00:22:54,980 --> 00:22:56,690
@@ -1764,7 +1764,7 @@ O quê?!
 
 412
 00:23:08,620 --> 00:23:11,370
-Seu pai que foi transformado num ciborgue...
+O teu pai que foi transformado num ciborgue...
 
 413
 00:23:11,370 --> 00:23:13,540
@@ -1772,15 +1772,15 @@ Seu pai que foi transformado num ciborgue...
 
 414
 00:23:32,310 --> 00:23:34,310
-Então, por favor!
+Por isso, por favor!
 
 415
 00:23:34,310 --> 00:23:37,190
-Não machuquem meu pai!
+Não magoem o meu pai!
 
 416
 00:23:37,190 --> 00:23:38,810
-Corram, seus idiotas!
+Fujam, seus idiotas!
 
 417
 00:23:38,810 --> 00:23:40,520
@@ -1797,11 +1797,11 @@ Novo Mundo
 
 420
 00:24:03,710 --> 00:24:05,720
-Feche a válvula dois!
+Fechem a válvula dois!
 
 421
 00:24:05,720 --> 00:24:07,840
-Veda isso, rápido!
+Vedem isso, depressa!
 
 422
 00:24:08,510 --> 00:24:10,100
@@ -1809,7 +1809,7 @@ Aqui também!
 
 423
 00:24:12,310 --> 00:24:13,770
-Algo vindo em frente!
+Vem aí algo pela frente!
 
 424
 00:24:14,140 --> 00:24:15,520
@@ -1818,20 +1818,20 @@ Desviem!
 425
 00:24:21,060 --> 00:24:23,820
 Não adianta, Capitão!
-Não conseguimos despistar!
+Não conseguimos despistá-los!
 
 426
 00:24:36,620 --> 00:24:39,170
-Como se eu fosse deixar vocês escaparem!
+Como se eu vos deixasse escapar!
 
 427
 00:24:48,550 --> 00:24:51,890
-Mais um golpe como esse,
-e a pressão da água vai esmagar o navio!
+Mais um golpe destes,
+e a pressão da água esmaga o navio!
 
 428
 00:24:52,260 --> 00:24:53,720
-Não tem como fugir agora!
+Agora não há como fugir!
 
 429
 00:24:59,560 --> 00:25:00,600
@@ -1839,7 +1839,7 @@ Vamos subir.
 
 430
 00:25:01,230 --> 00:25:03,730
-Para a costa próxima! Rumo ao nordeste!
+Para a costa mais próxima! Rumo a nordeste!
 
 431
 00:25:03,730 --> 00:25:05,070
@@ -1848,7 +1848,7 @@ Para a costa próxima! Rumo ao nordeste!
 
 432
 00:25:05,070 --> 00:25:06,990
-Rumo à terra!
+Rumo a terra!
 
 433
 00:25:06,990 --> 00:25:09,450
@@ -1856,33 +1856,33 @@ Leme a estibordo!
 
 434
 00:25:15,450 --> 00:25:17,830
-Preparem-se para lutar! Rápido!
+Preparem-se para lutar! Depressa!
 
 435
 00:25:22,080 --> 00:25:24,290
-O que aconteceu comigo?
+O que é que me aconteceu?
 
 436
 00:25:24,790 --> 00:25:27,050
-Enfim, estamos encrencados!
+Enfim, estamos tramados!
 
 437
 00:25:27,050 --> 00:25:29,760
-– Você é tão fofo, Capitão!
-– Você é tão fofo, Capitão!
+– És tão giro, Capitão!
+– És tão giro, Capitão!
 
 438
 00:25:29,760 --> 00:25:31,970
-Digam isso de novo e eu acabo com vocês!
+Digam isso outra vez e dou cabo de vocês!
 
 439
 00:25:32,760 --> 00:25:34,550
-– Mas você é!
-– Mas você é!
+– Mas és!
+– Mas és!
 
 440
 00:25:36,060 --> 00:25:37,560
-Oh, merda!
+Bolas!
 
 441
 00:25:37,560 --> 00:25:38,810
@@ -1890,11 +1890,11 @@ Até eu...
 
 442
 00:25:41,020 --> 00:25:43,020
-Meu sexo mudou!
+Mudei de sexo!
 
 443
 00:25:43,400 --> 00:25:45,360
-Não toquem nos infectados!
+Não toquem nos infetados!
 
 444
 00:25:45,360 --> 00:25:47,190
@@ -1902,28 +1902,28 @@ D-Desculpe...
 
 445
 00:25:47,190 --> 00:25:50,110
-É uma habilidade que espalha infecções!
+É uma habilidade que espalha infeções!
 
 446
 00:25:50,110 --> 00:25:52,280
-Ela muda seu sexo!
+Muda-te o sexo!
 
 447
 00:25:54,030 --> 00:25:57,950
-Mas eu aprendi algo nas minhas lutas
-contra os Yonkous.
+Mas aprendi uma coisa nas minhas lutas
+contra os Yonkou.
 
 448
 00:25:57,950 --> 00:25:59,950
-É possível resistir a isso!
+É possível resistir-lhe!
 
 449
 00:26:00,540 --> 00:26:02,500
-Se você usar haki suficiente...
+Se usares Haki suficiente...
 
 450
 00:26:03,000 --> 00:26:05,210
-você pode anular poderes de Akuma no Mi!
+podes anular poderes de Akuma no Mi!
 
 451
 00:26:20,600 --> 00:26:22,350
@@ -1939,11 +1939,11 @@ Estou curado!
 
 454
 00:26:28,230 --> 00:26:30,490
-Esse é o nosso capitão!
+Este é que é o nosso capitão!
 
 455
 00:26:30,490 --> 00:26:32,650
-Não há tempo para relaxar.
+Não há tempo para descansar.
 
 456
 00:26:33,030 --> 00:26:35,160
@@ -1956,12 +1956,12 @@ Atracar o navio! Vamos desembarcar!
 
 458
 00:26:42,910 --> 00:26:45,170
-Ele conseguiu curar a doença, hein?
+Conseguiu curar a doença, hã?
 
 459
 00:26:45,540 --> 00:26:48,290
-Ele realmente vale
-esses três bilhões de berries.
+Vale mesmo
+os seus três mil milhões de berries.
 
 460
 00:26:48,290 --> 00:26:49,420
@@ -1969,12 +1969,12 @@ Isso mesmo.
 
 461
 00:26:49,420 --> 00:26:54,630
-Os anticorpos dos curados se espalham
-assim como a própria doença.
+Os anticorpos dos curados espalham-se
+tal como a própria doença.
 
 462
 00:26:56,140 --> 00:26:59,890
-Confio que tenha gostado da minha doença de feminização.
+Espero que tenhas gostado da minha doença de feminização.
 
 463
 00:26:59,890 --> 00:27:02,350
@@ -1992,19 +1992,19 @@ Van Augur
 
 466
 00:27:09,570 --> 00:27:11,030
-Beleza!
+Boa!
 
 467
 00:27:20,620 --> 00:27:23,250
-O quê?! A montanha está se movendo!
+O quê?! A montanha está a mexer-se!
 
 468
 00:27:23,250 --> 00:27:26,210
-Ei! Tem alguém no interior da ilha!
+Ei! Está alguém no interior da ilha!
 
 469
 00:27:39,350 --> 00:27:43,100
-Esse poder da Fruta da Força é incrível!
+Este poder da Fruta da Força é incrível!
 
 470
 00:27:43,100 --> 00:27:45,560
@@ -2017,11 +2017,11 @@ Burgess?!
 
 472
 00:27:47,190 --> 00:27:50,480
-Como ele está erguendo uma montanha inteira?!
+Como é que ele está a erguer uma montanha inteira?!
 
 473
 00:27:50,480 --> 00:27:52,940
-Quando eles chegaram aqui?!
+Quando é que eles chegaram aqui?!
 
 474
 00:27:53,570 --> 00:27:55,320
@@ -2034,12 +2034,12 @@ doença, teletransporte:
 
 476
 00:27:58,780 --> 00:28:02,700
-A caça a Akumas no Mi deu a eles
+A caça a Akumas no Mi deu-lhes
 poderes ridículos!
 
 477
 00:28:02,700 --> 00:28:05,210
-Não é à toa que suas recompensas não param de subir!
+Não admira que as recompensas deles não parem de subir!
 
 478
 00:28:16,340 --> 00:28:17,680
@@ -2059,15 +2059,15 @@ Barba Negra!
 
 482
 00:29:02,680 --> 00:29:03,930
-Por que você está aqui?!
+Porque é que estás aqui?!
 
 483
 00:29:03,930 --> 00:29:05,560
-Não seja assim!
+Não sejas assim!
 
 484
 00:29:05,560 --> 00:29:08,140
-Nós somos ambos membros da Pior Geração!
+Somos ambos membros da Pior Geração!
 
 485
 00:29:12,900 --> 00:29:13,900
@@ -2075,7 +2075,7 @@ Comodoro!
 
 486
 00:29:15,020 --> 00:29:18,030
-Stronger diz que você está pesado demais...
+O Stronger diz que estás pesado demais...
 
 487
 00:29:18,030 --> 00:29:19,240
@@ -2089,41 +2089,41 @@ Tipo Mítico)
 
 489
 00:29:24,700 --> 00:29:27,450
-Entre você, Chapéu de Palha e Kid...
+Entre ti, o Chapéu de Palha e o Kid...
 
 490
 00:29:27,450 --> 00:29:32,170
-Eu sabia que um de vocês viria
-aqui direto de Wano!
+Eu sabia que um de vocês vinha
+para aqui logo a seguir a Wano!
 
 491
 00:29:32,630 --> 00:29:35,340
-Não acredito que Kaidou e Big Mom perderam!
+Não acredito que o Kaidou e a Big Mom perderam!
 
 492
 00:29:35,340 --> 00:29:37,960
-O mundo virou de cabeça para baixo!
+O mundo virou de pernas para o ar!
 
 493
 00:29:37,960 --> 00:29:40,130
-E eu estou adorando!
+E eu estou a adorar!
 
 494
 00:29:43,720 --> 00:29:47,430
-Claro, Kaidou tinha um, não é?
+Claro, o Kaidou tinha um, não tinha?
 
 495
 00:29:49,390 --> 00:29:52,150
-Quantos vocês já encontraram?
+Quantos já encontraste?
 
 496
 00:29:52,150 --> 00:29:56,610
-Vou pegar todos os seus
+Vou ficar com todos os teus
 Road Poneglyphs!
 
 497
 00:29:59,820 --> 00:30:02,030
-O mesmo vale para você!
+O mesmo vale para ti!
 
 498
 00:30:08,040 --> 00:30:09,620
