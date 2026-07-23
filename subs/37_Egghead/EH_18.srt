@@ -1,64 +1,64 @@
 1
 00:00:00,000 --> 00:00:00,900
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 2
 00:00:00,900 --> 00:00:02,190
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 Lição um.
 
 3
 00:00:02,190 --> 00:00:02,690
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 4
 00:00:02,690 --> 00:00:07,280
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Um velho e um bebê estão à deriva em
-uma ilha cheia de feras.
+Um velho e um bebé estão à deriva
+numa ilha cheia de feras.
 
 5
 00:00:07,280 --> 00:00:09,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
-Você corre para resgatá-los sozinho,
-mas só há espaço para mais uma pessoa no barco.
+Corres sozinho a salvá-los,
+mas só há lugar para mais uma pessoa no barco.
 
 6
 00:00:09,990 --> 00:00:13,240
-Você corre para resgatá-los sozinho,
-mas só há espaço para mais uma pessoa no barco.
+Corres sozinho a salvá-los,
+mas só há lugar para mais uma pessoa no barco.
 
 7
 00:00:13,580 --> 00:00:15,160
-O que você vai fazer?
+O que é que fazes?
 
 8
 00:00:15,160 --> 00:00:15,540
 Antigo
 QG da Marinha
-Antiga
+Antigo
 QG da Marinha
 
 9
 00:00:15,540 --> 00:00:16,790
 Antigo
 QG da Marinha
-Antiga
+Antigo
 QG da Marinha
 Hum...
 
@@ -66,25 +66,25 @@ Hum...
 00:00:16,790 --> 00:00:17,410
 Antigo
 QG da Marinha
-Antiga
+Antigo
 QG da Marinha
 
 11
 00:00:17,410 --> 00:00:18,920
 Antigo
 QG da Marinha
-Antiga
+Antigo
 QG da Marinha
 Ah, já sei!
 
 12
 00:00:18,920 --> 00:00:23,250
 Certo! Eu saio do barco e deixo
-o velho e o bebê embarcarem!
+o velho e o bebé embarcar!
 
 13
 00:00:23,250 --> 00:00:24,750
-Assim, eles dois vão...
+Assim, eles os dois vão...
 
 14
 00:00:24,750 --> 00:00:26,090
@@ -100,12 +100,12 @@ Resposta errada!
 
 17
 00:00:30,590 --> 00:00:33,640
-O velho só tem
+O velho já só tem
 pouco tempo de vida pela frente...
 
 18
 00:00:34,350 --> 00:00:35,520
-Então abandone ele!
+Por isso, abandona-o!
 
 19
 00:00:35,520 --> 00:00:36,980
@@ -118,7 +118,7 @@ Ei! Vice-Almirante Garp!
 
 21
 00:00:39,440 --> 00:00:44,730
-Vocês entraram na Marinha para salvar o quê?
+Entraram para a Marinha para salvar o quê?
 
 22
 00:00:45,440 --> 00:00:47,030
@@ -126,7 +126,7 @@ Vocês...
 
 23
 00:00:48,530 --> 00:00:51,030
-entraram na Marinha...
+entraram para a Marinha...
 
 24
 00:00:51,780 --> 00:00:53,910
@@ -164,29 +164,29 @@ O fim do sonho, o fim do mar
 
 31
 00:01:09,700 --> 00:01:11,050
-Todos nós temos lugares diferentes para onde queremos ir
+Todos nós temos sítios diferentes para onde queremos ir
 
 32
 00:01:11,050 --> 00:01:11,680
-TODOS NÓS TEMOS LUGARES DIFERENTES PARA ONDE QUEREMOS IR
+TODOS NÓS TEMOS SÍTIOS DIFERENTES PARA ONDE QUEREMOS IR
 
 33
 00:01:11,680 --> 00:01:12,460
-Todos nós temos lugares diferentes para onde queremos ir
+Todos nós temos sítios diferentes para onde queremos ir
 
 34
 00:01:12,460 --> 00:01:12,890
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 35
 00:01:12,890 --> 00:01:14,890
 Sincronização
 Gab
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 36
 00:01:14,890 --> 00:01:15,240
-Mas para começar, temos que mostrar do que somos feitos
+Mas, para começar, temos de mostrar do que somos feitos
 
 37
 00:01:15,240 --> 00:01:19,590
@@ -199,11 +199,11 @@ Gráficos: Datenshi
 39
 00:01:20,860 --> 00:01:22,600
 Gráficos: Datenshi
-Faíscas estão voando, SEM LIMITES! É aqui que começa
+Faíscas a voar, SEM LIMITES! É aqui que começa
 
 40
 00:01:22,600 --> 00:01:23,180
-Faíscas estão voando, SEM LIMITES! É aqui que começa
+Faíscas a voar, SEM LIMITES! É aqui que começa
 
 41
 00:01:23,180 --> 00:01:24,460
@@ -211,104 +211,104 @@ ONE PIECE!!
 
 42
 00:01:24,820 --> 00:01:27,440
-TODOS NÓS, eu tenho uma pergunta para vocês
+TODOS NÓS, tenho uma pergunta para vocês
 
 43
 00:01:27,440 --> 00:01:31,030
-Você permitiu que o mundo e todos os seus fardos abatessem seus sonhos?
+Deixaste que o mundo e todos os seus fardos te abatessem os sonhos?
 
 44
 00:01:32,670 --> 00:01:39,230
-Cada célula em mim está ficando inquieta - 
+Cada célula em mim está a ficar inquieta - 
 Vai explodir, oh, é demais
 
 45
 00:01:39,340 --> 00:01:43,290
-Mesmo assim tentamos, TODOS NÓS temos nossos próprios caminhos aos quais nos agarramos
+Ainda assim tentamos, TODOS NÓS temos os nossos caminhos a que nos agarramos
 
 46
 00:01:43,290 --> 00:01:45,920
-Karaokê
+Karaoke
 PhosCity
-Mesmo assim tentamos, TODOS NÓS temos nossos próprios caminhos aos quais nos agarramos
+Ainda assim tentamos, TODOS NÓS temos os nossos caminhos a que nos agarramos
 
 47
 00:01:45,960 --> 00:01:46,670
-TODOS NÓS, eu tenho algo para te dizer
+TODOS NÓS, tenho algo para te dizer
 
 48
 00:01:46,670 --> 00:01:47,800
-Controle de Qualidade
-TODOS NÓS, eu tenho algo para te dizer
+Controlo de Qualidade
+TODOS NÓS, tenho algo para te dizer
 fedew
 Gab
 Galaxy 9000
 
 49
 00:01:47,800 --> 00:01:48,380
-Controle de Qualidade
+Controlo de Qualidade
 fedew
 Gab
 Galaxy 9000
-TODOS NÓS, eu tenho algo para te dizer
+TODOS NÓS, tenho algo para te dizer
 
 50
 00:01:48,380 --> 00:01:48,590
-TODOS NÓS, eu tenho algo para te dizer
+TODOS NÓS, tenho algo para te dizer
 
 51
 00:01:48,710 --> 00:01:49,260
-Controle de Qualidade
-Edição de Legenda
+Controlo de Qualidade
+Edição de Legendas
 funnynaoto
 Pollychan
 Westfal
-Se você tem um sonho que vale a pena, você tem que se manter de pé
+Se tens um sonho que valha a pena, tens de te manter de pé
 Pepperjack
 Zenef
 
 52
 00:01:49,260 --> 00:01:51,170
-Controle de Qualidade
-Edição de Legenda
+Controlo de Qualidade
+Edição de Legendas
 funnynaoto
 Pollychan
 Westfal
 Pepperjack
 Zenef
-Se você tem um sonho que vale a pena, você tem que se manter de pé
+Se tens um sonho que valha a pena, tens de te manter de pé
 
 53
 00:01:51,170 --> 00:01:52,130
-Se você tem um sonho que vale a pena, você tem que se manter de pé
+Se tens um sonho que valha a pena, tens de te manter de pé
 
 54
 00:01:53,820 --> 00:01:56,510
-Pistas aleatórias de repente se encaixam
+Pistas soltas encaixam-se de repente
 
 55
 00:01:56,510 --> 00:02:00,440
-Começando a fazer sentido, oh, o que está acontecendo?
+Começa a fazer sentido, oh, o que se passa?
 
 56
 00:02:00,440 --> 00:02:01,770
-Fios do tempo se tecendo em uma tapeçaria intrincada
+Fios do tempo a tecer uma tapeçaria intrincada
 
 57
 00:02:01,770 --> 00:02:04,350
-Trilha Sonora
+Banda Sonora
 Halee
-Fios do tempo se tecendo em uma tapeçaria intrincada
+Fios do tempo a tecer uma tapeçaria intrincada
 
 58
 00:02:04,350 --> 00:02:04,480
-Fios do tempo se tecendo em uma tapeçaria intrincada
+Fios do tempo a tecer uma tapeçaria intrincada
 
 59
 00:02:04,480 --> 00:02:06,910
 Tipografia
 Gab
-Fios do tempo se tecendo em uma tapeçaria intrincada
+Fios do tempo a tecer uma tapeçaria intrincada
 
 60
 00:02:07,020 --> 00:02:10,860
@@ -316,12 +316,12 @@ Tradução e Revisão
 Juan Tlg 
 Dankratos
 Não podemos impedir o mundo de girar,
-Ele está mudando junto com cada um de...
+está a mudar juntamente com cada um de...
 
 61
 00:02:10,860 --> 00:02:12,610
 Não podemos impedir o mundo de girar,
-Ele está mudando junto com cada um de...
+está a mudar juntamente com cada um de...
 
 62
 00:02:13,210 --> 00:02:15,180
@@ -333,44 +333,44 @@ NÓS, TODOS NÓS
 
 64
 00:02:24,040 --> 00:02:31,130
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 A Lição Final
 
 65
 00:02:31,130 --> 00:02:33,990
-Your media player does not support the subtitle format used in this episode.
-Subtitles will likely not function properly.
-Please use one of the recommended video players, preferably mpv:
+O teu reprodutor de multimédia não suporta o formato de legenda usado neste episódio.
+É provável que as legendas não funcionem corretamente.
+Usa um dos reprodutores de vídeo recomendados, de preferência o mpv:
 https://mpv.io
 
 66
 00:02:34,930 --> 00:02:37,180
-O que poderia ter feito isso com um navio de guerra?
+O que poderia ter feito isto a um navio de guerra?
 
 67
 00:02:37,220 --> 00:02:37,550
 Cemitério de Navios
-Próximo à Base G-1 da Marinha
+Perto da Base G-1 da Marinha
 
 68
 00:02:37,550 --> 00:02:40,220
 Cemitério de Navios
-Próximo à Base G-1 da Marinha
+Perto da Base G-1 da Marinha
 Será que sofreram um ataque muito poderoso?
 
 69
 00:02:40,220 --> 00:02:41,310
 Cemitério de Navios
-Próximo à Base G-1 da Marinha
+Perto da Base G-1 da Marinha
 Não...
 
 70
 00:02:41,310 --> 00:02:41,890
 Cemitério de Navios
-Próximo à Base G-1 da Marinha
+Perto da Base G-1 da Marinha
 
 71
 00:02:41,890 --> 00:02:44,350
@@ -386,7 +386,7 @@ Sacos de pancada de navios?!
 
 74
 00:02:48,060 --> 00:02:54,530
-Aqueles são sinais de alguém usando a blindagem dos navios como saco de pancada.
+Aqueles são sinais de alguém a usar a blindagem dos navios como saco de pancada.
 
 75
 00:02:54,530 --> 00:02:56,030
@@ -403,16 +403,16 @@ O jovem Vice-Almirante Garp.
 
 78
 00:03:01,240 --> 00:03:04,710
-É a rotina dele há décadas,
-o que continua fazendo até hoje.
+É a rotina dele há décadas
+e continua a fazê-lo até hoje.
 
 79
 00:03:04,710 --> 00:03:05,750
-Ele ainda está fazendo isso?!
+Ainda faz isso?!
 
 80
 00:03:05,750 --> 00:03:07,210
-Mas por que há dois?!
+Mas porque é que há dois?!
 
 81
 00:03:07,210 --> 00:03:11,460
@@ -430,16 +430,16 @@ sacos de pancada de navios,
 
 84
 00:03:16,240 --> 00:03:18,300
-Haki e poderes de
+o Haki e os poderes de
 Akuma no Mi são proibidos.
 
 85
 00:03:18,300 --> 00:03:20,810
-Veja bem, a força desses heróis...
+Repara, a força destes heróis...
 
 86
 00:03:22,010 --> 00:03:24,390
-não veio do nascimento.
+não veio de nascença.
 
 87
 00:03:48,290 --> 00:03:51,290
@@ -447,42 +447,42 @@ O Sanjuan Wolf foi arremessado!
 
 88
 00:03:51,290 --> 00:03:53,250
-O Garp é assustador demais!
+O Garp mete demasiado medo!
 
 89
 00:03:58,720 --> 00:03:59,050
-Colméia, Ilha dos Piratas
+Colmeia, Ilha dos Piratas
 Novo Mundo
 
 90
 00:03:59,050 --> 00:04:02,100
-Colméia, Ilha dos Piratas
+Colmeia, Ilha dos Piratas
 Novo Mundo
-Rápido, tirem ele daí ou ele vai se afogar!
+Depressa, tirem-no dali ou ele afoga-se!
 
 91
 00:04:02,100 --> 00:04:02,560
-Colméia, Ilha dos Piratas
+Colmeia, Ilha dos Piratas
 Novo Mundo
-Hã?! Como vamos
-tirar aquele grandão dali?!
+Hã?! Como é que vamos
+tirar aquele grandalhão dali?!
 
 92
 00:04:02,560 --> 00:04:04,680
-Hã?! Como vamos
-tirar aquele grandão dali?!
+Hã?! Como é que vamos
+tirar aquele grandalhão dali?!
 
 93
 00:04:06,810 --> 00:04:08,690
-Ele nocauteou aquele monstro com um golpe?!
+Derrubou aquele monstro com um só golpe?!
 
 94
 00:04:08,690 --> 00:04:10,520
-Esse cara é inacreditável...
+Este tipo é inacreditável...
 
 95
 00:04:11,020 --> 00:04:12,770
-Esse é o nosso Vice-Almirante Garp!
+Este é que é o nosso Vice-Almirante Garp!
 
 96
 00:04:12,770 --> 00:04:15,150
@@ -491,20 +491,20 @@ do Herói Lendário!
 
 97
 00:04:15,150 --> 00:04:17,900
-Eu estou só começando, rapazes!
+Ainda agora comecei, rapazes!
 
 98
 00:04:21,620 --> 00:04:25,290
-Parem com essa de Herói Lendário...
+Deixem-se dessa de Herói Lendário...
 
 99
 00:04:25,660 --> 00:04:29,290
-Você pensa que pode simplesmente
-destruir nosso esconderijo e sair ileso?
+Achas que podes destruir
+o nosso esconderijo e sair ileso?
 
 100
 00:04:29,290 --> 00:04:33,000
-Como você vai nos compensar?
+Como é que nos vais compensar?
 
 101
 00:04:39,760 --> 00:04:42,220
@@ -516,7 +516,7 @@ Bolas de Fogo de Pirata!
 
 103
 00:05:05,330 --> 00:05:07,330
-Que quente!
+Que calor!
 
 104
 00:05:07,330 --> 00:05:09,160
@@ -524,19 +524,19 @@ Parem com isso!
 
 105
 00:05:17,460 --> 00:05:22,180
-Você está tentando destruir a Ilha Pirata?!
+Estão a tentar destruir a Ilha Pirata?!
 
 106
 00:05:22,550 --> 00:05:28,310
-Se o Comodoro Teach ver a cidade desse jeito, ele com certeza vai nos matar!
+Se o Comodoro Teach vir a cidade assim, mata-nos de certeza!
 
 107
 00:05:32,810 --> 00:05:35,020
-Por que ele não se intimida com nossos números?!
+Porque é que ele não se intimida com o nosso número?!
 
 108
 00:05:35,020 --> 00:05:37,320
-Esse velho é louco!
+Este velho é doido!
 
 109
 00:05:40,950 --> 00:05:43,450
@@ -557,11 +557,11 @@ Entendido. Bom trabalho.
 
 113
 00:05:50,620 --> 00:05:52,500
-Hibari, fique conosco!
+Hibari, fica connosco!
 
 114
 00:05:53,830 --> 00:05:56,790
-Deixem os congelados descongelarem lentamente!
+Deixem os congelados descongelar devagar!
 
 115
 00:05:57,170 --> 00:05:59,340
@@ -569,11 +569,11 @@ Espero que o Capitão Koby esteja bem...
 
 116
 00:05:59,710 --> 00:06:01,670
-Estamos prontos para partir a qualquer hora!
+Estamos prontos para partir a qualquer momento!
 
 117
 00:06:02,130 --> 00:06:04,430
-Certo! Terminamos aqui!
+Certo! Acabámos aqui!
 
 118
 00:06:04,430 --> 00:06:07,890
@@ -585,15 +585,15 @@ Sim, senhor!
 
 120
 00:06:10,100 --> 00:06:12,060
-Entendi!
+Entendido!
 
 121
 00:06:15,150 --> 00:06:17,520
-Vamos sair logo daqui!
+Vamos daqui para fora!
 
 122
 00:06:19,650 --> 00:06:21,240
-Isto é mesmo uma Colméia!
+Isto é mesmo uma Colmeia!
 
 123
 00:06:21,610 --> 00:06:24,950
@@ -609,7 +609,7 @@ Como eu disse,
 
 126
 00:06:36,290 --> 00:06:39,130
-não posso deixar vocês irem.
+não vos posso deixar ir.
 
 127
 00:06:39,130 --> 00:06:40,960
@@ -621,16 +621,16 @@ Eu sabia que devia ter saído mais cedo!
 
 129
 00:06:44,050 --> 00:06:46,010
-Eu vou morrer! Não aguento!
+Vou morrer! Não aguento!
 
 130
 00:06:46,430 --> 00:06:49,310
-Garp, eu sou o futuro
-da Marinha também, certo?!
+Garp, eu também sou o futuro
+da Marinha, certo?!
 
 131
 00:06:49,310 --> 00:06:52,100
-Você ainda quer lutar, Kuzan?
+Ainda queres lutar, Kuzan?
 
 132
 00:06:52,600 --> 00:06:56,310
@@ -638,15 +638,15 @@ Fiquem de olho nos oficiais dos Piratas do Barba Negra!
 
 133
 00:06:58,060 --> 00:06:59,570
-Prestem atenção, pessoal!
+Atenção, malta!
 
 134
 00:06:59,570 --> 00:07:02,530
-Tudo o que nos resta é correr para a praia!
+Só nos resta correr para a praia!
 
 135
 00:07:03,490 --> 00:07:05,240
-Então nem pensem em morrer.
+Por isso, nem pensem em morrer.
 
 136
 00:07:05,780 --> 00:07:06,740
@@ -654,19 +654,19 @@ Sim, senhor!
 
 137
 00:07:12,540 --> 00:07:14,500
-Alguém, ajude!
+Alguém que ajude!
 
 138
 00:07:14,500 --> 00:07:15,620
-Ah, não!
+Ai, não!
 
 139
 00:07:15,620 --> 00:07:18,000
-Ainda tinha um capturado!
+Ainda ficou um capturado!
 
 140
 00:07:18,000 --> 00:07:19,460
-Estou a caminho!
+Vou a caminho!
 
 141
 00:07:19,460 --> 00:07:22,050
@@ -674,7 +674,7 @@ Ainda bem que não partimos!
 
 142
 00:07:22,050 --> 00:07:24,090
-Não, seu idiota! Volte aqui, Koby!
+Não, seu idiota! Volta aqui, Koby!
 
 143
 00:07:24,090 --> 00:07:25,420
@@ -698,7 +698,7 @@ Seu desgraçado!
 
 148
 00:08:03,340 --> 00:08:05,670
-H-Um homem invisível?!
+U-Um homem invisível?!
 
 149
 00:08:06,050 --> 00:08:07,630
@@ -706,7 +706,7 @@ Shiryu...
 
 150
 00:08:07,630 --> 00:08:10,800
-Seu bandidinho de Impel Down!
+Seu bandidozeco de Impel Down!
 
 151
 00:08:18,560 --> 00:08:21,190
@@ -714,8 +714,8 @@ Uau! O Shiryu conseguiu!
 
 152
 00:08:21,190 --> 00:08:24,400
-Ele conseguiu esfaquear o Garp!
-Agora ele está vulnerável!
+Conseguiu esfaquear o Garp!
+Agora está vulnerável!
 
 153
 00:08:27,490 --> 00:08:28,820
@@ -727,7 +727,7 @@ Não é nada!
 
 155
 00:08:29,990 --> 00:08:31,910
-Apenas corram para o navio!
+Corram só para o navio!
 
 156
 00:08:35,370 --> 00:08:36,870
@@ -735,19 +735,19 @@ A culpa é toda minha!
 
 157
 00:08:36,870 --> 00:08:38,910
-Se o Vice-Almirante Garp não tivesse me defendido–
+Se o Vice-Almirante Garp não me tivesse defendido–
 
 158
 00:08:38,910 --> 00:08:41,170
-Não se gabe, Koby!
+Não te armes em importante, Koby!
 
 159
 00:08:41,170 --> 00:08:44,000
-Eu sempre fui o alvo deles!
+O alvo deles sempre fui eu!
 
 160
 00:08:53,050 --> 00:08:55,510
-Seu velho persistente de merda.
+Seu velho teimoso de merda.
 
 161
 00:08:55,510 --> 00:08:57,480
@@ -755,11 +755,11 @@ O Garp está enfraquecido!
 
 162
 00:08:57,480 --> 00:09:00,940
-Esse é o nosso Shiryu-san! Ele é incrível!
+Este é que é o nosso Shiryu-san! É incrível!
 
 163
 00:09:00,940 --> 00:09:03,900
-Talvez até nós possamos acabar com ele agora!
+Talvez até nós consigamos acabar com ele agora!
 
 164
 00:09:04,860 --> 00:09:05,860
@@ -767,25 +767,25 @@ Vamos!
 
 165
 00:09:06,860 --> 00:09:07,990
-Matem ele!
+Matem-no!
 
 166
 00:09:07,990 --> 00:09:11,360
-Avançar! Nosso bilhete
-para a vida boa está bem na nossa frente!
+Avancem! O nosso bilhete
+para a boa vida está mesmo à nossa frente!
 
 167
 00:09:11,360 --> 00:09:12,820
-Derrubem ele!
+Derrubem-no!
 
 168
 00:09:13,320 --> 00:09:16,830
-Garp tem uma recompensa de três coroas,
+O Garp tem uma recompensa de três coroas,
 o mesmo que um almirante!
 
 169
 00:09:16,830 --> 00:09:19,330
-Isso dá uns três Bilhões de berries!
+Isso dá uns três mil milhões de berries!
 
 170
 00:09:37,390 --> 00:09:38,310
@@ -798,11 +798,11 @@ Saiam da frente, amadores!
 172
 00:09:46,320 --> 00:09:48,560
 Mesmo que ele estivesse
-com as mãos e os pés amarrados,
+com as mãos e os pés atados,
 
 173
 00:09:48,580 --> 00:09:50,820
-não há como moleques como vocês...
+não há maneira de fedelhos como vocês...
 
 174
 00:09:52,450 --> 00:09:53,950
@@ -818,32 +818,32 @@ Garp-san.
 
 177
 00:10:14,300 --> 00:10:15,970
-Me aceite como seu estudante.
+Aceite-me como seu aluno.
 
 178
 00:10:17,810 --> 00:10:19,640
-Meu estudante?
+Meu aluno?
 
 179
 00:10:20,640 --> 00:10:22,600
-Não, obrigado. Eu gosto da minha liberdade.
+Não, obrigado. Gosto da minha liberdade.
 
 180
 00:10:22,600 --> 00:10:24,560
-Vá aprender com os instrutores da Marinha.
+Vai aprender com os instrutores da Marinha.
 
 181
 00:10:24,560 --> 00:10:27,730
-Eu já aprendi tudo o que podia com eles.
-Estou pronto para o próximo nível.
+Já aprendi tudo o que podia com eles.
+Estou pronto para o nível seguinte.
 
 182
 00:10:27,730 --> 00:10:29,650
-Me aceite como seu estudante!
+Aceite-me como seu aluno!
 
 183
 00:10:29,650 --> 00:10:31,530
-Nem pensar! Agora suma!
+Nem pensar! Agora desaparece!
 
 184
 00:10:46,380 --> 00:10:47,380
@@ -855,32 +855,32 @@ Isso dói...
 
 186
 00:10:51,670 --> 00:10:53,590
-Não use o Haki!
+Não uses o Haki!
 
 187
 00:10:54,470 --> 00:10:56,340
-Você não vai ficar mais forte se fizer isso.
+Assim não ficas mais forte.
 
 188
 00:10:56,340 --> 00:10:58,550
-Eu não sei como usar ainda.
+Ainda não sei usá-lo.
 
 189
 00:11:02,470 --> 00:11:04,390
-Eu vou conseguir fazer isso!
+Hei de conseguir!
 
 190
 00:11:41,760 --> 00:11:45,680
-O que exatamente a Marinha
-considera ser justiça?
+O que é que a Marinha
+considera exatamente ser justiça?
 
 191
 00:11:45,680 --> 00:11:49,230
-Desde Ohara, eu não consigo mais saber.
+Desde Ohara que já não consigo saber.
 
 192
 00:11:54,360 --> 00:11:56,950
-Meu filho se tornou um revolucionário!
+O meu filho tornou-se revolucionário!
 
 193
 00:11:56,950 --> 00:11:57,820
@@ -900,8 +900,8 @@ Qual é o problema?
 
 197
 00:12:15,210 --> 00:12:17,930
-Meu neto não para de falar
-em se tornar um pirata!
+O meu neto não para de falar
+em tornar-se pirata!
 
 198
 00:12:17,930 --> 00:12:18,550
@@ -913,35 +913,35 @@ Como se eu fosse permitir isso!
 
 200
 00:12:20,390 --> 00:12:22,640
-E isso é problema meu, como?
+E isso é problema meu porquê?
 
 201
 00:12:22,640 --> 00:12:25,470
-Ei, Kuzan, vamos comer algo.
+Ei, Kuzan, vamos comer qualquer coisa.
 
 202
 00:12:25,470 --> 00:12:27,390
-Estou um pouco ocupado.
+Estou um bocado ocupado.
 
 203
 00:12:27,390 --> 00:12:28,730
-Eu sou um Almirante, lembra?
+Sou Almirante, lembra-se?
 
 204
 00:12:28,730 --> 00:12:29,900
-Que tal um chá?
+E um chá?
 
 205
 00:12:29,900 --> 00:12:31,310
-Sério?!
+A sério?!
 
 206
 00:12:37,570 --> 00:12:40,570
-Você treinou um inimigo problemático.
+Treinaste um inimigo problemático.
 
 207
 00:12:41,030 --> 00:12:44,030
-Considere-se expulso, meu estudante tolo.
+Considera-te expulso, meu aluno tolo.
 
 208
 00:13:17,280 --> 00:13:19,030
@@ -953,28 +953,28 @@ Garp-san!
 
 210
 00:13:24,450 --> 00:13:26,370
-Nada mal, novato...
+Nada mau, novato...
 
 211
 00:13:29,080 --> 00:13:30,410
-Temos que defender o Garp!
+Temos de defender o Garp!
 
 212
 00:13:32,370 --> 00:13:36,340
-Eu não contaria com a fuga se fosse você!
+Eu não contava com a fuga, se fosse a vocês!
 
 213
 00:13:37,000 --> 00:13:39,380
-Isto é a Colméia!
+Isto é a Colmeia!
 
 214
 00:13:39,380 --> 00:13:42,840
-Quanto mais vocês cutucam,
+Quanto mais a espicaçam,
 mais piratas saem em bando!
 
 215
 00:13:42,840 --> 00:13:47,430
-Você realmente acha que
+Achas mesmo que
 aquele navio na costa está seguro?
 
 216
@@ -983,7 +983,7 @@ O quê?
 
 217
 00:13:51,520 --> 00:13:55,310
-É melhor você não subestimar
+É melhor não subestimares
 o poder da minha Shima Shima no Mi!
 
 218
@@ -992,7 +992,7 @@ Hibari!
 
 219
 00:13:59,280 --> 00:14:01,200
-Graças a Deus! Você está acordada!
+Graças a Deus! Estás acordada!
 
 220
 00:14:01,950 --> 00:14:04,700
@@ -1000,15 +1000,15 @@ Onde está o Koby-senpai?!
 
 221
 00:14:04,700 --> 00:14:07,830
-Me desculpem... Eu causei tantos problemas a vocês!
+Desculpem... Causei-vos tantos problemas!
 
 222
 00:14:08,660 --> 00:14:10,700
-Ele estará aqui a qualquer minuto.
+Ele está a chegar a qualquer momento.
 
 223
 00:14:10,700 --> 00:14:12,620
-Fico feliz que você esteja bem.
+Ainda bem que estás bem.
 
 224
 00:14:24,970 --> 00:14:26,760
@@ -1016,16 +1016,16 @@ H-Hã? O que é aquilo?
 
 225
 00:14:29,680 --> 00:14:33,690
-Tudo o que se vê nos jornais
-é "Barba Negra isso", "Barba Negra aquilo"...
+Nos jornais só se vê
+"Barba Negra isto", "Barba Negra aquilo"...
 
 226
 00:14:33,690 --> 00:14:36,900
-Bem, talvez nós queiramos um pouco de má fama também!
+Bom, talvez também queiramos um pouco de má fama!
 
 227
 00:14:37,150 --> 00:14:41,190
-Deixe-me dar a você um olhar exclusivo
+Deixem-me dar-vos uma antevisão exclusiva
 da manchete de amanhã de manhã!
 
 228
@@ -1045,11 +1045,11 @@ dos Piratas do Barba Negra, Avalo Pizarro...
 
 231
 00:15:28,820 --> 00:15:32,740
-utilizou seu poder aterrorizante...
+usou o seu poder aterrador...
 
 232
 00:15:33,500 --> 00:15:36,710
-e tragicamente os aniquilou...
+e aniquilou-os tragicamente...
 
 233
 00:15:37,420 --> 00:15:40,420
@@ -1065,7 +1065,7 @@ Estão todos naquele navio!
 
 236
 00:15:49,760 --> 00:15:51,890
-Até mesmo civis!
+Até civis!
 
 237
 00:15:51,890 --> 00:15:53,430
@@ -1073,15 +1073,15 @@ Koby...
 
 238
 00:15:56,890 --> 00:15:58,810
-Não perca a cabeça.
+Não percas a cabeça.
 
 239
 00:16:02,480 --> 00:16:05,360
-A justiça sempre prevalecerá!
+A justiça prevalecerá sempre!
 
 240
 00:16:05,400 --> 00:16:09,200
-Algumas Semanas Atrás
+Há Algumas Semanas
 
 Amazon Lily, a Ilha das Mulheres
 
@@ -1091,11 +1091,11 @@ Parem!
 
 242
 00:16:15,580 --> 00:16:20,460
-Vamos nos divertir muito!
+Vamos divertir-nos à grande!
 
 243
 00:16:20,460 --> 00:16:22,090
-Andem mais rápido!
+Andem mais depressa!
 
 244
 00:16:22,090 --> 00:16:23,170
@@ -1103,26 +1103,26 @@ Parem!
 
 245
 00:16:23,170 --> 00:16:24,300
-Nos soltem!
+Larguem-nos!
 
 246
 00:16:24,300 --> 00:16:28,470
-Quem sabe o que vão fazer
-conosco quando chegarmos à Ilha Pirata!
+Quem sabe o que nos vão fazer
+quando chegarmos à Ilha Pirata!
 
 247
 00:16:32,050 --> 00:16:35,600
-Eu não esperava pela interrupção do Rayleigh Rei das Trevas,
+Não contava com a interrupção do Rayleigh, o Rei das Trevas,
 
 248
 00:16:36,270 --> 00:16:39,230
-mas ainda assim acabamos
-com umas belas lembrancinhas!
+mas mesmo assim ficámos
+com umas belas lembranças!
 
 249
 00:16:42,150 --> 00:16:45,780
 Vice-Almirante, não podemos fazer nada
-sobre nossos camaradas sendo levados?
+quanto aos nossos camaradas que estão a ser levados?
 
 250
 00:16:46,400 --> 00:16:48,070
@@ -1134,7 +1134,7 @@ Não temos autorização de cima.
 
 252
 00:16:51,070 --> 00:16:52,450
-Estamos enfrentando um Yonkou.
+Estamos a enfrentar um Yonkou.
 
 253
 00:16:52,450 --> 00:16:53,410
@@ -1146,7 +1146,7 @@ Capitão Koby!
 
 255
 00:17:08,970 --> 00:17:11,840
-Vice-Almirante! Ele é um membro da SWORD!
+Vice-Almirante! Ele é membro da SWORD!
 
 256
 00:17:11,840 --> 00:17:12,930
@@ -1162,32 +1162,32 @@ Qual é o problema?
 
 259
 00:17:17,680 --> 00:17:19,890
-Você quer seus amigos de volta?
+Queres os teus amigos de volta?
 
 260
 00:17:20,390 --> 00:17:24,310
-Pois vá em frente e tente.
+Então força, tenta lá.
 Não nos importamos com uma guerra total.
 
 261
 00:17:24,310 --> 00:17:29,280
-Agora, você está tentando confiscar um navio de guerra junto com 800 Marinheiros.
+Estás a tentar confiscar um navio de guerra com 800 Marinheiros a bordo.
 
 262
 00:17:30,070 --> 00:17:34,200
-Você permitiria que eu fosse no lugar deles?
+Permitias que eu fosse no lugar deles?
 
 263
 00:17:44,380 --> 00:17:47,340
-Você tem um ego e tanto, garoto!
+Tens cá um ego, rapaz!
 
 264
 00:17:47,840 --> 00:17:51,550
-Mas eu diria que você vale mesmo tudo isso!
+Mas devo dizer que vales mesmo tudo isso!
 
 265
 00:17:56,510 --> 00:17:58,100
-O que está acontecendo?!
+O que se está a passar?!
 
 266
 00:17:59,060 --> 00:18:00,180
@@ -1197,30 +1197,30 @@ Não pode ser...
 00:18:00,180 --> 00:18:00,640
 No Presente
 
-Colméia, Ilha dos Piratas
+Colmeia, Ilha dos Piratas
 
 268
 00:18:00,640 --> 00:18:02,190
-Que diabos é aquela coisa?!
+Que raio é aquela coisa?!
 No Presente
 
-Colméia, Ilha dos Piratas
+Colmeia, Ilha dos Piratas
 
 269
 00:18:02,190 --> 00:18:04,060
-Que diabos é aquela coisa?!
+Que raio é aquela coisa?!
 
 270
 00:18:16,490 --> 00:18:17,910
-Atirem! Atirem!
+Disparem! Disparem!
 
 271
 00:18:27,460 --> 00:18:30,170
-Canhões não funcionam?!
+Os canhões não fazem nada?!
 
 272
 00:18:30,670 --> 00:18:32,170
-Precisamos fugir!
+Temos de fugir!
 
 273
 00:18:32,170 --> 00:18:33,630
@@ -1228,11 +1228,11 @@ Velocidade máxima!
 
 274
 00:18:34,930 --> 00:18:37,550
-Nem pensar que eu vou deixar você escapar!
+Nem penses que te deixo escapar!
 
 275
 00:18:41,520 --> 00:18:43,480
-Que poder aterrorizante...
+Que poder aterrador...
 
 276
 00:18:43,480 --> 00:18:47,440
@@ -1241,7 +1241,7 @@ Na Ilha dos Piratas
 277
 00:18:49,190 --> 00:18:55,610
 Se uma mão daquele tamanho cair sobre eles,
-centenas de soldados e civis vão morrer!
+morrem centenas de soldados e civis!
 
 278
 00:18:55,950 --> 00:18:57,120
@@ -1249,7 +1249,7 @@ centenas de soldados e civis vão morrer!
 
 279
 00:18:57,120 --> 00:18:58,620
-Não podemos parar essa coisa!
+Não conseguimos parar aquela coisa!
 
 280
 00:18:59,370 --> 00:19:01,120
@@ -1257,7 +1257,7 @@ Preparem-se para abandonar o navio!
 
 281
 00:19:01,120 --> 00:19:04,330
-Os que estão dentro, vão para o convés
+Os que estão lá dentro, subam ao convés
 e protejam os civis!
 
 282
@@ -1266,23 +1266,23 @@ A culpa é toda minha!
 
 283
 00:19:06,540 --> 00:19:09,500
-Todos vão morrer por minha causa!
+Vão morrer todos por minha causa!
 
 284
 00:19:13,420 --> 00:19:16,340
-Eu tomei a decisão errada?!
+Terei tomado a decisão errada?!
 
 285
 00:19:17,300 --> 00:19:19,510
-Eu não consegui salvar uma única pessoa!
+Não consegui salvar uma única pessoa!
 
 286
 00:19:20,180 --> 00:19:22,430
-Eu não consigo salvar ninguém!
+Não consigo salvar ninguém!
 
 287
 00:19:35,450 --> 00:19:38,870
-O que devo fazer?!
+O que é que eu faço?!
 
 288
 00:19:38,870 --> 00:19:40,080
@@ -1298,15 +1298,15 @@ Vice-Almirante Garp!
 
 291
 00:19:55,010 --> 00:19:56,510
-Certo, homens...
+Muito bem, homens...
 
 292
 00:19:57,340 --> 00:19:59,050
-Escutem.
+Oiçam.
 
 293
 00:20:00,510 --> 00:20:03,220
-Eu vou criar uma abertura!
+Vou criar uma abertura!
 
 294
 00:20:04,220 --> 00:20:06,810
@@ -1314,7 +1314,7 @@ Primeiro, Capitão Koby!
 
 295
 00:20:06,810 --> 00:20:10,690
-Você vai pulverizar a mão daquele monstro da ilha!
+Vais pulverizar a mão daquele monstro da ilha!
 
 296
 00:20:11,400 --> 00:20:12,400
@@ -1322,11 +1322,11 @@ O quê?!
 
 297
 00:20:12,400 --> 00:20:14,110
-Como você espera que eu faça isso?
+Como é que espera que eu faça isso?
 
 298
 00:20:14,110 --> 00:20:19,200
-Contra-Almirante Grus, você vai proteger
+Contra-Almirante Grus, vais proteger
 o navio dos destroços da mão!
 
 299
@@ -1336,7 +1336,7 @@ Hã?!
 300
 00:20:20,030 --> 00:20:23,990
 Tenente-Comandante Helmeppo,
-não deixe que ninguém atrapalhe esses dois!
+não deixes que ninguém atrapalhe estes dois!
 
 301
 00:20:23,990 --> 00:20:25,580
@@ -1352,7 +1352,7 @@ Mas isso é...
 
 304
 00:20:29,500 --> 00:20:31,290
-Não há espaço para hesitação!
+Não há espaço para hesitações!
 
 305
 00:20:32,210 --> 00:20:35,170
@@ -1365,7 +1365,7 @@ Mãos à obra!
 
 307
 00:20:52,400 --> 00:20:54,360
-Koby e os outros estão em movimento!
+O Koby e os outros estão em movimento!
 
 308
 00:20:56,320 --> 00:20:57,490
@@ -1373,19 +1373,19 @@ Koby e os outros estão em movimento!
 
 309
 00:20:57,490 --> 00:20:59,650
-O que vocês vão fazer sem o Garp?!
+O que é que vocês fazem sem o Garp?!
 
 310
 00:20:59,650 --> 00:21:01,740
-Nós vamos afundar todos vocês no fundo do mar!
+Vamos afundar-vos a todos no fundo do mar!
 
 311
 00:21:03,700 --> 00:21:04,870
-Lá vêm eles!
+Aí vêm eles!
 
 312
 00:21:04,870 --> 00:21:06,700
-Helmeppo! Cuide deles!
+Helmeppo! Trata deles!
 
 313
 00:21:06,700 --> 00:21:08,790
@@ -1393,11 +1393,11 @@ O quê?! Eu?!
 
 314
 00:21:08,790 --> 00:21:10,710
-Você ouviu o Vice-Almirante Garp!
+Ouviste o Vice-Almirante Garp!
 
 315
 00:21:10,710 --> 00:21:12,710
-Droga! Por que é sempre eu?!
+Raios! Porque é que é sempre comigo?!
 
 316
 00:21:13,880 --> 00:21:16,170
@@ -1405,11 +1405,11 @@ Venham!
 
 317
 00:21:17,420 --> 00:21:18,670
-É gente demais!
+São gente a mais!
 
 318
 00:21:18,670 --> 00:21:20,800
-É gente demais! Ei, um de cada vez!
+São gente a mais! Ei, um de cada vez!
 
 319
 00:21:20,800 --> 00:21:21,890
@@ -1417,11 +1417,11 @@ Ei, Koby!
 
 320
 00:21:21,890 --> 00:21:23,300
-Ele te disse para destruir aquilo.
+Ele disse-te para destruíres aquilo.
 
 321
 00:21:23,300 --> 00:21:24,890
-Você tem algum tipo de bomba?
+Tens algum tipo de bomba?
 
 322
 00:21:24,890 --> 00:21:26,470
@@ -1429,15 +1429,15 @@ Receio que não!
 
 323
 00:21:26,470 --> 00:21:28,640
-Mas eu tenho que dar um jeito!
+Mas tenho de arranjar maneira!
 
 324
 00:21:28,640 --> 00:21:29,850
-Dar um jeito?!
+Arranjar maneira?!
 
 325
 00:21:30,190 --> 00:21:33,060
-É grande o suficiente para agarrar e esmagar um navio de guerra!
+É grande que chegue para agarrar e esmagar um navio de guerra!
 
 326
 00:21:33,980 --> 00:21:35,320
@@ -1445,11 +1445,11 @@ Eu sei!
 
 327
 00:21:35,320 --> 00:21:38,190
-Eu não vou deixar você fugir, Koby!
+Não te deixo fugir, Koby!
 
 328
 00:21:39,240 --> 00:21:40,450
-Ah, droga!
+Ah, raios!
 
 329
 00:21:43,660 --> 00:21:44,780
@@ -1457,24 +1457,24 @@ Koby!
 
 330
 00:21:45,660 --> 00:21:48,910
-Não deixe que ninguém atrapalhe
-esses dois!
+Não deixes que ninguém atrapalhe
+estes dois!
 
 331
 00:21:49,290 --> 00:21:51,330
-Ah, me poupe!
+Ah, poupem-me!
 
 332
 00:21:53,380 --> 00:21:54,630
-Eu deixo o resto...
+O resto...
 
 333
 00:21:55,920 --> 00:21:57,000
-...com você!
+...deixo contigo!
 
 334
 00:21:57,750 --> 00:21:59,260
-Sumam!
+Desapareçam!
 
 335
 00:22:01,170 --> 00:22:02,880
@@ -1490,15 +1490,15 @@ Mas...
 
 338
 00:22:06,050 --> 00:22:06,850
-Continue em frente!
+Continua em frente!
 
 339
 00:22:13,730 --> 00:22:16,820
-Garp-san, onde você pensa que vai?
+Garp-san, onde é que julga que vai?
 
 340
 00:22:19,650 --> 00:22:21,610
-Você não está em condições de lutar.
+Não está em condições de lutar.
 
 341
 00:22:22,860 --> 00:22:24,870
@@ -1506,11 +1506,11 @@ Você não está em condições de lutar.
 
 342
 00:22:29,540 --> 00:22:32,080
-Eu só estou preocupado com você.
+Só estou preocupado consigo.
 
 343
 00:22:32,580 --> 00:22:34,420
-Você é muito mole!
+És demasiado mole!
 
 344
 00:23:06,780 --> 00:23:08,030
@@ -1518,12 +1518,12 @@ Garp!
 
 345
 00:23:08,030 --> 00:23:09,530
-Por que ele está vindo para cá?!
+Porque é que ele vem para aqui?!
 
 346
 00:23:09,950 --> 00:23:12,950
-Espere! Você não se importa
-com o que vai acontecer com o navio?!
+Espera! Não queres saber
+do que vai acontecer ao navio?!
 
 347
 00:23:13,580 --> 00:23:16,040
@@ -1535,23 +1535,23 @@ Divide!
 
 349
 00:23:43,780 --> 00:23:45,780
-O braço está recuando!
+O braço está a recuar!
 
 350
 00:23:48,740 --> 00:23:50,620
-É isso que ele quis dizer com "abertura"?!
+Era isto que ele queria dizer com "abertura"?!
 
 351
 00:23:50,620 --> 00:23:52,240
-O braço se afastou!
+O braço afastou-se!
 
 352
 00:23:52,240 --> 00:23:53,750
-O que você vai fazer, Koby?!
+O que é que vais fazer, Koby?!
 
 353
 00:23:58,420 --> 00:23:59,880
-Eu vou deixá-lo orgulhoso!
+Vou deixá-lo orgulhoso!
 
 354
 00:24:02,300 --> 00:24:03,250
@@ -1563,32 +1563,32 @@ Seu maldito!
 
 356
 00:24:14,060 --> 00:24:17,640
-Algo assim não é
-suficiente para me deter, Garp!
+Uma coisa dessas não
+chega para me deter, Garp!
 
 357
 00:24:17,640 --> 00:24:20,520
-Agora me irritou de verdade!
+Agora irritaste-me a sério!
 
 358
 00:24:20,520 --> 00:24:24,900
-Aproveite o assento na primeira fila...
+Aproveita o lugar na primeira fila...
 
 359
 00:24:24,900 --> 00:24:28,070
-...para a morte dos seus camaradas!
+...para a morte dos teus camaradas!
 
 360
 00:24:28,070 --> 00:24:31,070
-Eles estão prestes a virar história!
+Estão prestes a virar história!
 
 361
 00:24:31,070 --> 00:24:33,030
-Está voltando!
+Está a voltar!
 
 362
 00:24:33,030 --> 00:24:38,000
-Não há como salvar todos eles a tempo!
+Não há maneira de os salvar a todos a tempo!
 
 363
 00:24:39,170 --> 00:24:40,960
@@ -1596,11 +1596,11 @@ Ei, Helmeppo.
 
 364
 00:24:40,960 --> 00:24:45,510
-Koby fez um progresso real, mas parece que ele está sempre todo machucado.
+O Koby fez progressos a sério, mas parece que anda sempre todo magoado.
 
 365
 00:24:45,510 --> 00:24:47,380
-Ele está sempre machucado?
+Anda sempre magoado?
 
 366
 00:24:47,380 --> 00:24:48,680
@@ -1608,21 +1608,21 @@ Ah...
 
 367
 00:24:48,680 --> 00:24:51,300
-Ele me disse para não te contar, mas...
+Ele disse-me para não lhe contar, mas...
 
 368
 00:25:00,230 --> 00:25:05,360
-Eu não sou um lutador nato como os outros,
-então dez vezes o esforço não é suficiente!
+Não sou um lutador nato como os outros,
+por isso dez vezes o esforço não chega!
 
 369
 00:25:05,360 --> 00:25:10,110
-Se eu quiser ser o tipo de
-Marinheiro que pode proteger as pessoas,
+Se quero ser o tipo de
+Marinheiro que consegue proteger as pessoas,
 
 370
 00:25:10,110 --> 00:25:14,280
-eu tenho que treinar 100 vezes...
+tenho de treinar 100 vezes...
 Não, 200 vezes mais!
 
 371
@@ -1635,44 +1635,44 @@ Chega!
 
 373
 00:25:25,250 --> 00:25:27,340
-Por favor, você tem que parar!
+Por favor, tens de parar!
 
 374
 00:25:27,800 --> 00:25:29,720
-Você só pode estar brincando...
+Só podes estar a brincar...
 
 375
 00:25:29,720 --> 00:25:32,300
-Ele tem feito treino extra
-além do meu?
+Ele anda a fazer treino extra
+para além do meu?
 
 376
 00:25:32,300 --> 00:25:35,720
-Sim, senhor, ele nunca pula uma noite.
+Sim, senhor, nunca falha uma noite.
 
 377
 00:25:35,970 --> 00:25:37,430
-Ele soca os sacos de navio de guerra...
+Soca os sacos de navio de guerra...
 
 378
 00:25:44,480 --> 00:25:46,360
-...até que seus punhos...
+...até os punhos ficarem...
 
 379
 00:25:46,860 --> 00:25:48,690
-...fiquem roxos e sangrentos.
+...roxos e a sangrar.
 
 380
 00:25:57,910 --> 00:25:59,250
-Eu tenho que conseguir!
+Tenho de conseguir!
 
 381
 00:25:59,660 --> 00:26:01,160
-Eu tenho que conseguir!
+Tenho de conseguir!
 
 382
 00:26:01,790 --> 00:26:05,290
-Eu tenho que conseguir!
+Tenho de conseguir!
 
 383
 00:26:09,960 --> 00:26:11,300
@@ -1692,7 +1692,7 @@ Olhem! É o Koby!
 
 387
 00:26:22,730 --> 00:26:24,730
-Ele está tentando parar a mão?!
+Está a tentar parar a mão?!
 
 388
 00:26:24,730 --> 00:26:26,190
@@ -1700,11 +1700,11 @@ Ele está tentando parar a mão?!
 
 389
 00:26:26,190 --> 00:26:28,610
-Comparado a essa mão, ele é como uma formiga!
+Comparado com aquela mão, é como uma formiga!
 
 390
 00:26:28,610 --> 00:26:32,150
-Ele deve ter deixado toda aquela conversa de herói subir à cabeça!
+Deve ter deixado toda aquela conversa de herói subir-lhe à cabeça!
 
 391
 00:26:32,150 --> 00:26:36,530
@@ -1712,45 +1712,45 @@ Koby-senpai! É perigoso aí em cima!
 
 392
 00:26:36,530 --> 00:26:38,120
-Saia daí, Koby-kun!
+Sai daí, Koby-kun!
 
 393
 00:26:40,120 --> 00:26:46,460
-Assistam enquanto seu navio é esmagado
-e seus homens morrem gritando!
+Vejam o vosso navio a ser esmagado
+e os vossos homens a morrer aos gritos!
 
 394
 00:26:46,460 --> 00:26:50,800
-Mesmo que eles mergulhem no mar,
-O Aokiji vai simplesmente congelá-los!
+Mesmo que mergulhem no mar,
+o Aokiji congela-os na mesma!
 
 395
 00:26:52,760 --> 00:26:55,720
-Bem feito para vocês!
+Bem feito!
 
 396
 00:27:00,270 --> 00:27:02,770
-A vida dessas pessoas está em minhas mãos!
+A vida destas pessoas está nas minhas mãos!
 
 397
 00:27:08,060 --> 00:27:09,440
-Eu tenho que destruir!
+Tenho de a destruir!
 
 398
 00:27:10,190 --> 00:27:12,400
-Se eu não conseguir, todos eles vão morrer!
+Se não conseguir, morrem todos!
 
 399
 00:27:13,740 --> 00:27:16,490
-Eu não sou um lutador nato como os outros,
+Não sou um lutador nato como os outros,
 
 400
 00:27:17,370 --> 00:27:19,080
-então dez vezes o esforço não é suficiente!
+por isso dez vezes o esforço não chega!
 
 401
 00:27:24,580 --> 00:27:26,370
-Eu tenho que treinar 100 vezes...
+Tenho de treinar 100 vezes...
 
 402
 00:27:27,330 --> 00:27:28,880
@@ -1758,7 +1758,7 @@ Não, 200 vezes mais!
 
 403
 00:27:31,750 --> 00:27:35,010
-Vocês entraram na Marinha para salvar o quê?
+Entraram para a Marinha para salvar o quê?
 
 404
 00:27:36,970 --> 00:27:38,390
@@ -1782,7 +1782,7 @@ Impact!
 
 409
 00:28:38,910 --> 00:28:41,030
-Quando ele aprendeu a fazer isso?!
+Quando é que ele aprendeu a fazer isto?!
 
 410
 00:28:41,030 --> 00:28:42,530
@@ -1790,11 +1790,11 @@ Incrível!
 
 411
 00:28:42,530 --> 00:28:45,040
-Mas o que faremos com os destroços?
+Mas o que fazemos com os destroços?
 
 412
 00:28:49,210 --> 00:28:52,670
-Eu não vou deixar um pedacinho de entulho atingir aquele navio!
+Não deixo um pedacinho de entulho atingir aquele navio!
 
 413
 00:29:01,340 --> 00:29:02,890
@@ -1810,7 +1810,7 @@ Koby!
 
 416
 00:29:12,520 --> 00:29:14,940
-Não acredito que você conseguiu!
+Não acredito que conseguiste!
 
 417
 00:29:16,900 --> 00:29:18,360
@@ -1818,19 +1818,19 @@ Helmeppo-san...
 
 418
 00:29:18,820 --> 00:29:20,740
-Eu realmente consegui...
+Consegui mesmo...
 
 419
 00:29:23,450 --> 00:29:26,120
-Você é louco, sabia?!
+És doido, sabias?!
 
 420
 00:29:26,120 --> 00:29:27,620
-Totalmente maluco!
+Completamente maluco!
 
 421
 00:29:28,710 --> 00:29:32,960
-Você destruiu um braço do tamanho de uma montanha!
+Destruíste um braço do tamanho de uma montanha!
 
 422
 00:29:37,760 --> 00:29:40,550
@@ -1846,7 +1846,7 @@ Helmeppo!
 
 425
 00:29:50,390 --> 00:29:52,480
-Estou tão feliz que você esteja vivo!
+Estou tão feliz por estares vivo!
 
 426
 00:29:52,850 --> 00:29:54,730
@@ -1862,20 +1862,20 @@ Que alívio.
 
 429
 00:30:00,860 --> 00:30:03,610
-Estou tão feliz que você esteja bem.
+Estou tão feliz que estejas bem.
 
 430
 00:30:05,580 --> 00:30:08,830
-Agora só precisamos esperar pelo
-Vice-Almirante Garp e poderemos partir.
+Agora só temos de esperar pelo
+Vice-Almirante Garp e podemos partir.
 
 431
 00:30:14,880 --> 00:30:16,710
-Aqui é o Garp.
+Fala o Garp.
 
 432
 00:30:16,710 --> 00:30:19,760
-A Operação "Resgate do Capitão Koby" está completa.
+A Operação "Resgate do Capitão Koby" está concluída.
 
 433
 00:30:20,130 --> 00:30:21,760
@@ -1887,15 +1887,15 @@ Graças a Deus!
 
 435
 00:30:23,010 --> 00:30:24,970
-Se apresse e volte para o navio!
+Despache-se e volte para o navio!
 
 436
 00:30:25,470 --> 00:30:26,970
-Agora então...
+Muito bem, então...
 
 437
 00:30:27,930 --> 00:30:31,390
-Afastem-se da Colméia. Velocidade máxima.
+Afastem-se da Colmeia. Velocidade máxima.
 
 438
 00:30:31,980 --> 00:30:33,060
@@ -1903,19 +1903,19 @@ O quê?
 
 439
 00:30:33,810 --> 00:30:36,020
-Do que você está falando, Garp-san?!
+Do que é que está a falar, Garp-san?!
 
 440
 00:30:36,020 --> 00:30:38,730
-Eu vou ficar bem, então não se preocupem.
+Eu fico bem, por isso não se preocupem.
 
 441
 00:30:39,070 --> 00:30:43,530
-A segurança de vocês é nossa prioridade máxima.
+A vossa segurança é a nossa maior prioridade.
 
 442
 00:30:44,160 --> 00:30:45,490
-Não é mesmo?
+Não é?
 
 443
 00:30:50,160 --> 00:30:51,500
@@ -1923,7 +1923,7 @@ Não, mas...
 
 444
 00:30:51,500 --> 00:30:53,250
-Prince, vire o navio–
+Príncipe, vira o navio–
 
 445
 00:30:54,960 --> 00:30:56,920
@@ -1931,20 +1931,20 @@ Este incidente, sem dúvida...
 
 446
 00:30:58,500 --> 00:31:01,380
-servirá como um aviso para piratas em todos os lugares!
+servirá de aviso a piratas por todo o lado!
 
 447
 00:31:04,470 --> 00:31:07,100
-Por favor, me deixe entrar para a Marinha!
+Por favor, deixe-me entrar para a Marinha!
 
 448
 00:31:07,100 --> 00:31:12,100
-Eu serei um servente ou o que for
-se isso significar que posso ser um Marinheiro!
+Serei criado ou o que for preciso
+se isso significar que posso ser Marinheiro!
 
 449
 00:31:13,730 --> 00:31:17,480
-Vocês entraram na Marinha para salvar o quê?
+Entraram para a Marinha para salvar o quê?
 
 450
 00:31:18,940 --> 00:31:21,280
@@ -1952,11 +1952,11 @@ O futuro das pessoas, certo?
 
 451
 00:31:21,820 --> 00:31:26,490
-Nesse caso, vocês, crianças, têm muito mais vida pela frente do que um velho desgraçado!
+Nesse caso, vocês, miúdos, têm muito mais vida pela frente do que um velho desgraçado!
 
 452
 00:31:28,030 --> 00:31:29,990
-Então peguem aquele bebê...
+Por isso, peguem naquele bebé...
 
 453
 00:31:31,290 --> 00:31:33,040
@@ -1964,7 +1964,7 @@ Então peguem aquele bebê...
 
 454
 00:31:51,180 --> 00:31:52,930
-Continuem avançando!
+Continuem a avançar!
 
 455
 00:31:54,310 --> 00:31:56,190
@@ -1980,7 +1980,7 @@ Vice-Almirante Garp!
 
 458
 00:32:11,030 --> 00:32:13,910
-Nunca mais dê uma lição de moral como essa!
+Nunca mais dê uma lição de moral dessas!
 
 459
 00:32:13,910 --> 00:32:15,330
@@ -1998,11 +1998,11 @@ do jovem Capitão Koby, Herói da Marinha,
 462
 00:32:39,020 --> 00:32:45,320
 o desaparecimento do Vice-Almirante Garp,
-O Herói Lendário, na Ilha dos Piratas,
+o Herói Lendário, na Ilha dos Piratas,
 
 463
 00:32:45,780 --> 00:32:54,700
-e o Imperador Luffy do Chapéu de Palha se barricando na Ilha do Futuro, Egghead.
+e o Imperador Luffy do Chapéu de Palha barricado na Ilha do Futuro, Egghead.
 
 464
 00:32:54,700 --> 00:33:00,000
