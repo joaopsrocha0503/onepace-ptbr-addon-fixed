@@ -37,7 +37,7 @@ try {
       }
     }
   }
-  console.log(`📂 ${Object.keys(subtitleMap).length} legendas PT-BR carregadas`);
+  console.log(`📂 ${Object.keys(subtitleMap).length} legendas carregadas`);
 } catch (e) {
   console.error("❌ Erro ao carregar mapping.json:", e.message);
 }
@@ -52,11 +52,15 @@ const PUBLIC_URL =
   "https://e4872e87374f-onepace-ptbr-addon.baby-beamup.club";
 
 const manifest = {
+  // O id mantém "ptbr" de propósito, apesar de os arcos 33-37 já serem PT-PT:
+  // o Stremio identifica o addon por este campo, e mudá-lo faria com que
+  // quem já o tem instalado passasse a ver um addon diferente. É identidade,
+  // não descrição -- a língua vive no name/description abaixo.
   id: "community.onepace.ptbr.subs.fixed",
   version: pkg.version,
-  name: "One Pace PT-BR Subs (Fixed)",
+  name: "One Pace Legendas PT (Fixed)",
   description:
-    "Legendas em Português do Brasil para o One Pace, corrigidas e sincronizadas. Fork do addon de rafaelmotac com legendas revistas.",
+    "Legendas em português para o One Pace, corrigidas e sincronizadas. Arcos 1-32 em PT-BR; de Whole Cake Island a Egghead adaptados a PT-PT. Fork do addon de rafaelmotac com legendas revistas.",
   logo: `${PUBLIC_URL}/logo.png`,
   resources: [{ name: "subtitles", types: ["series"] }],
   types: ["series"],
@@ -85,6 +89,8 @@ builder.defineSubtitlesHandler(async ({ type, id, extra }) => {
     // offering the .ass variant just shows an option that never works.
     if (srtFile) {
       subtitles.push({
+        // Prefixo mantido por compatibilidade: é por este id que o Stremio
+        // guarda a legenda escolhida por episódio. Renomeá-lo perdia a escolha.
         id: `onepace-ptbr-${videoID}`,
         url: `${baseUrl}/${encodePath(srtFile)}`,
         lang: "por",
@@ -129,10 +135,10 @@ app.use(getRouter(builder.getInterface()));
 
 const server = app
   .listen(PORT, () => {
-    console.log(`\n🏴‍☠️ One Pace PT-BR Subs Addon`);
+    console.log(`\n🏴‍☠️ One Pace Legendas PT (Fixed)`);
     console.log(`   Manifest: http://127.0.0.1:${PORT}/manifest.json`);
-    console.log(`   Legendas: http://127.0.0.1:${PORT}/subs/<ficheiro>.srt`);
-    console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda PT-BR`);
+    console.log(`   Legendas: http://127.0.0.1:${PORT}/subs/<arco>/<ficheiro>.srt`);
+    console.log(`\n📋 ${Object.keys(subtitleMap).length} episódios com legenda`);
   })
   .on("error", (err) => {
     console.error(`❌ Falha ao iniciar servidor na porta ${PORT}:`, err.message);

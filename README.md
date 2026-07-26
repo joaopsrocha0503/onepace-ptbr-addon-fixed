@@ -1,6 +1,8 @@
-# One Pace PT-BR Subs (Fixed) — Addon Stremio
+# One Pace Legendas PT (Fixed) — Addon Stremio
 
-Addon do Stremio com legendas em **Português do Brasil** para o [One Pace](https://onepace.net), o fan edit que remove o filler de One Piece.
+Addon do Stremio com legendas em **português** para o [One Pace](https://onepace.net), o fan edit que remove o filler de One Piece.
+
+> **Que variante de português?** A base é **PT-BR**, herdada da tradução da comunidade. Os arcos finais — **Whole Cake Island, Wapol's Omnivorous Hurrah, Reverie, Wano e Egghead** — foram adaptados a **PT-PT** neste fork (111 dos 465 episódios). Ver a tabela abaixo.
 
 Fork do [addon original de rafaelmotac](https://github.com/rafaelmotac/onepace-ptbr-addon) com **legendas revistas, corrigidas e ressincronizadas**, alojado numa instância própria na Beamup.
 
@@ -14,25 +16,27 @@ Cola este URL no Stremio (Addons > barra de pesquisa):
 https://e4872e87374f-onepace-ptbr-addon.baby-beamup.club/manifest.json
 ```
 
-As legendas PT-BR aparecem automaticamente ao ver episódios do One Pace, como opção **Portuguese** (SRT limpo, compatível com qualquer player).
+As legendas aparecem automaticamente ao ver episódios do One Pace, como opção **Portuguese** (SRT limpo, compatível com qualquer player).
 
 > Apenas a variante `.srt` é oferecida: o pipeline de legendas externas do Stremio só aceita `.srt`/`.vtt`, pelo que legendas `.ass` externas nunca carregam (stremio-bugs#2312).
 
 ## Episódios disponíveis (465 no total)
 
-| Saga | Arcos | Episódios |
-|------|-------|:---------:|
-| East Blue | Romance Dawn, Orange Town, Syrup Village, Gaimon, Baratie, Arlong Park, Buggy's Crew, Loguetown | 38 |
-| Alabasta | Reverse Mountain, Whisky Peak, Koby-Meppo, Little Garden, Drum Island, Alabasta | 39 |
-| Skypiea | Jaya, Skypiea | 33 |
-| Water Seven | Long Ring Long Land, Water Seven, Enies Lobby, Post-Enies Lobby | 57 |
-| Thriller Bark | Thriller Bark | 22 |
-| Marineford | Sabaody, Amazon Lily, Impel Down, Straw Hats Adventures, Marineford, Post-War | 52 |
-| Fishman Island | Return to Sabaody, Fishman Island | 27 |
-| Dressrosa | Punk Hazard, Dressrosa, Zou | 80 |
-| Whole Cake Island | Whole Cake Island, Wapol's Omnivorous Hurrah, Reverie | 43 |
-| Wano | Wano (Atos 1-3) | 54 |
-| Egghead | Egghead | 20 |
+| Saga | Arcos | Episódios | Variante |
+|------|-------|:---------:|----------|
+| East Blue | Romance Dawn, Orange Town, Syrup Village, Gaimon, Baratie, Arlong Park, Buggy's Crew, Loguetown | 38 | PT-BR |
+| Alabasta | Reverse Mountain, Whisky Peak, Koby-Meppo, Little Garden, Drum Island, Alabasta | 39 | PT-BR |
+| Skypiea | Jaya, Skypiea | 33 | PT-BR |
+| Water Seven | Long Ring Long Land, Water Seven, Enies Lobby, Post-Enies Lobby | 57 | PT-BR |
+| Thriller Bark | Thriller Bark | 22 | PT-BR |
+| Marineford | Sabaody, Amazon Lily, Impel Down, Straw Hats Adventures, Marineford, Post-War | 52 | PT-BR |
+| Fishman Island | Return to Sabaody, Fishman Island | 27 | PT-BR |
+| Dressrosa | Punk Hazard, Dressrosa, Zou | 80 | PT-BR |
+| Whole Cake Island | Whole Cake Island, Wapol's Omnivorous Hurrah, Reverie | 43 | **PT-PT** (WC_2–WC_7 ficam em PT-BR) |
+| Wano | Wano (Atos 1-3) | 54 | **PT-PT** |
+| Egghead | Egghead | 20 | **PT-PT** |
+
+Total: **354 em PT-BR**, **111 em PT-PT**. A adaptação PT-PT começou nos arcos que faltavam ver; os anteriores podem vir a ser convertidos, mas não há data.
 
 > Legendas baseadas nas traduções da comunidade [onepaceptbr](https://onepaceptbr.github.io/) e no [repo oficial de legendas do One Pace](https://github.com/one-pace/one-pace-public-subtitles), com correções de sincronização e texto feitas neste fork.
 
@@ -41,8 +45,8 @@ As legendas PT-BR aparecem automaticamente ao ver episódios do One Pace, como o
 ```
 Stremio pede legendas para o episódio "RO_1"
   -> o addon consulta subs/mapping.json
-  -> encontra RO_1.srt
-  -> devolve o URL servido pelo próprio addon (/subs/RO_1.srt)
+  -> encontra 01_Romance_Dawn/RO_1.srt
+  -> devolve o URL servido pelo próprio addon (/subs/01_Romance_Dawn/RO_1.srt)
   -> o Stremio mostra "Portuguese" na lista de legendas
 ```
 
@@ -76,6 +80,20 @@ O branch local é `main`, mas a Beamup só faz deploy do `master` — daí o `ma
 
 As respostas ficam em cache no Cloudflare até 4 horas (`max-age=14400`), portanto alterações podem demorar a refletir-se em episódios pedidos recentemente.
 
+### Os `.ass` não vão no deploy
+
+`subs/` tem ~461 MB, dos quais ~447 MB são `.ass`. O addon nunca os oferece (só a variante `.srt`, ver nota acima), mas continuam a fazer falta em git: são a fonte de posicionamento do `fix_subtitle_positions.py`. Por isso são apagados **durante o build**, não do repo:
+
+```json
+"heroku-prebuild": "node scripts/strip_deploy_assets.js --yes"
+```
+
+O buildpack Node corre este script antes de instalar dependências, e a imagem final fica com ~14 MB de legendas em vez de ~461 MB.
+
+> Não tentes fazer isto com `.dockerignore` nem `.slugignore` — **nenhum dos dois funciona aqui**. Não há Dockerfile (a Beamup usa buildpacks herokuish, que ignoram o `.dockerignore`), e o herokuish só lê o `.slugignore` no comando `slug-generate`, que o dokku não corre — ele corre `buildpack-build`. O hook do `package.json` é o único ponto que executa mesmo.
+
+Para ver o que seria removido, sem apagar nada: `npm run strip:dry`.
+
 ## Atualizar legendas
 
 ### A partir do repo oficial do One Pace
@@ -108,15 +126,19 @@ onepace-ptbr-addon-fixed/
 ├── Procfile                     # Processo web para a Beamup (dokku)
 ├── beamup.json                  # Configuração do projeto na Beamup
 ├── logo.png                     # Logo do addon (servido em /logo.png)
-├── subs/                        # Legendas corrigidas
-│   ├── mapping.json             # Mapeamento ID de episódio -> ficheiro
-│   ├── RO_1.srt
+├── subs/                        # Legendas corrigidas, por arco
+│   ├── mapping.json             # Mapeamento ID de episódio -> caminho
+│   ├── 01_Romance_Dawn/
+│   │   ├── RO_1.srt             # servido ao Stremio
+│   │   └── RO_1.ass             # original, só para os scripts (não vai no deploy)
 │   └── ...
 ├── scripts/
 │   ├── subtitle_converter.py    # Módulo partilhado
 │   ├── convert_ass_to_srt.py    # Converte ASS -> SRT
 │   ├── download_all_subs.py     # Descarrega do Google Drive
-│   └── translate_subs.py        # Traduz EN -> PT-BR
+│   ├── fix_subtitle_positions.py # Desempilha legendas sobrepostas nos .srt
+│   ├── translate_subs.py        # Traduz EN -> PT-BR
+│   └── strip_deploy_assets.js   # Tira os .ass do slug (ver secção do deploy)
 └── tests/
     └── addon.test.js            # Testes do addon
 ```

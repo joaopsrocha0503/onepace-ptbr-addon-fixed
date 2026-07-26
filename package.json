@@ -1,7 +1,7 @@
 {
-  "name": "onepace-ptbr-subs-addon",
-  "version": "2.6.1",
-  "description": "Addon do Stremio que fornece legendas em PT-BR para o One Pace",
+  "name": "onepace-subs-pt-addon",
+  "version": "2.7.0",
+  "description": "Addon do Stremio que fornece legendas em português para o One Pace (arcos 1-32 em PT-BR, 33-37 em PT-PT)",
   "type": "module",
   "main": "index.js",
   "engines": {
@@ -9,6 +9,8 @@
   },
   "scripts": {
     "start": "node index.js",
+    "heroku-prebuild": "node scripts/strip_deploy_assets.js --yes",
+    "strip:dry": "node scripts/strip_deploy_assets.js",
     "convert": "python3 scripts/convert_ass_to_srt.py ../one-pace-public-subtitles ./subs",
     "download": "python3 scripts/download_all_subs.py",
     "download:dry": "python3 scripts/download_all_subs.py --dry-run",
@@ -29,7 +31,8 @@
     "subtitles",
     "one-pace",
     "portuguese",
-    "pt-br"
+    "pt-br",
+    "pt-pt"
   ],
   "license": "MIT",
   "devDependencies": {

@@ -739,6 +739,52 @@ espelham a mesma estrutura.
 
 **Depois de mexer em `subs/` é preciso redeploy para a Beamup** (os URLs das legendas mudam).
 
+## Os `.ass` não vão no deploy (desde 2026-07-26, v2.7.0)
+
+`subs/` são ~461 MB, dos quais **~447 MB são `.ass`** (465 ficheiros; o `WA_2.ass` sozinho
+tem 27 MB de tags de typesetting). O addon **nunca os oferece** — o handler só devolve a
+variante `.srt` (stremio-bugs#2312) —, portanto iam parar à imagem sem serem pedidos.
+
+Ficam em git à mesma: são a fonte de posicionamento do `fix_subtitle_positions.py`.
+São apagados **durante o build**, pelo `heroku-prebuild` no `package.json`:
+
+```json
+"heroku-prebuild": "node scripts/strip_deploy_assets.js --yes"
+```
+
+**⚠️ Não tentar fazer isto com ficheiros de exclusão — nenhum funciona aqui:**
+- **`.dockerignore` é inerte**: não há Dockerfile, a Beamup constrói por buildpack
+  herokuish, que nunca o lê. O ficheiro está no repo com um aviso no topo a dizer isto.
+- **`.slugignore` também não serve**: o herokuish só o honra em `slug-generate`
+  (`include/slug.bash`), e o dokku corre `buildpack-build` (`include/buildpack.bash`),
+  que não lhe toca. Confirmado na fonte do herokuish, não por tentativa.
+
+O `heroku-prebuild` é o único ponto que corre mesmo. **Não é um lifecycle do npm** — um
+`npm install`/`npm ci` local não o dispara (verificado), só o buildpack Node o invoca. O
+script exige `--yes` para apagar; sem a flag faz dry-run (`npm run strip:dry`).
+
+**Isto não acelera o `git push`** — os `.ass` já estão no histórico e os pushes são
+incrementais. O que encolhe é a imagem/contentor no servidor partilhado.
+
+## Nomenclatura: o que se pode e não se pode renomear
+
+A 2026-07-26 o addon passou a chamar-se **"One Pace Legendas PT (Fixed)"** (era "One Pace
+PT-BR Subs"), porque o nome antigo deixou de ser verdade quando os arcos 33–37 passaram a
+PT-PT. **Não passou a chamar-se PT-PT**: só 111 dos 465 episódios o são, os arcos 01–32
+(348) continuam PT-BR por opção do utilizador — já os viu, e a conversão só se fará "algum
+dia, para ficar completo". Chamar-lhe PT-PT seria enganador.
+
+| Campo | Mexer? | Porquê |
+|---|---|---|
+| `manifest.name`, `description`, README, `package.json` | ✅ sim | Descrição — é o que se corrigiu |
+| `manifest.id` (`community.onepace.ptbr.subs.fixed`) | ❌ **não** | É a identidade no Stremio; mudar = addon novo, toda a gente reinstala |
+| `id` das legendas (`onepace-ptbr-${videoID}`) | ❌ **não** | É por aqui que o Stremio guarda a legenda escolhida por episódio |
+| `projectName` (beamup.json), `PUBLIC_URL` | ❌ **não** | Muda o URL público; parte instalações e a `SUBS_BASE_URL` |
+| Pasta local no Desktop | ⚠️ cuidado | O caminho é a chave do diretório de memória do Claude; renomear perde o histórico do projeto |
+
+O `ptbr` que sobra nesses campos é **identidade, não descrição** — está comentado no
+`index.js` para não ser "corrigido" por engano numa sessão futura.
+
 ## Problema conhecido, não relacionado
 
 `npx eslint` falha com `'setTimeout' is not defined` em `index.js`. É **pré-existente**

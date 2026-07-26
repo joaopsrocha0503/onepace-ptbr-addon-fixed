@@ -1,3 +1,8 @@
+# ATENÇÃO: este ficheiro está INERTE. Não há Dockerfile no repo e a Beamup
+# (dokku) constrói por buildpack herokuish, que nunca lê .dockerignore. Um
+# .slugignore também não serviria: o herokuish só o honra em `slug-generate`, e
+# o dokku corre `buildpack-build`. Para excluir ficheiros do deploy, o único
+# ponto que corre mesmo é o script `heroku-prebuild` do package.json.
 node_modules
 downloads
 .env
