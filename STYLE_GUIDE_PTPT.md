@@ -147,6 +147,10 @@ PT-BR de origem os tenha traduzido: `Headliner`, `Gifter`, `Pleasure`, `Waiter`,
   Principal`. Masculino (`o All-Star`, `os All-Stars`), como no uso da comunidade.
   Exceção: quando não é o nome do posto mas trocadilho de showman (o número do
   Queen no WA_43), traduz-se normalmente.
+- **`Tenryuubito` / `Tenryuubitos`** — nunca `Nobre(s) Mundial(ais)` nem
+  `Dragão/Dragões Celestial(is)`, mesmo onde o original PT-BR usa essas formas. Plural com
+  `-s`. Nos letreiros de apresentação fica só `TENRYUUBITO`, sem glosa entre parênteses.
+  (`Governo Mundial`, esse, mantém-se em português.)
 - **`Governador Geral`**, `Piratas das Feras`, `Nove Bainhas Vermelhas` e
   `Akuma no Mi` **ficam em português** — já vinham traduzidos do original e são a
   forma estabelecida no material. A regra aplica-se a escolhas *novas*, não a

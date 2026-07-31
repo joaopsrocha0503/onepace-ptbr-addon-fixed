@@ -1,6 +1,6 @@
 {
   "name": "onepace-subs-pt-addon",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "description": "Addon do Stremio que fornece legendas em português para o One Pace (arcos 1-32 em PT-BR, 33-37 em PT-PT)",
   "type": "module",
   "main": "index.js",

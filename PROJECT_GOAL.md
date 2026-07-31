@@ -1,7 +1,7 @@
 # PROJECT GOAL — Legendas One Pace (addon Stremio)
 
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
-> **Última atualização: 2026-07-23**
+> **Última atualização: 2026-07-31**
 
 ## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
 
@@ -511,6 +511,20 @@ Manter tal e qual: `Headliner`, `Gifter`, `SMILE`, `Raid Suit`, `Vivre Card`, `R
 > estabelecida no material: "Piratas das Feras", "Nove Bainhas Vermelhas",
 > "Governador Geral", "Akuma no Mi"/"Fruta do Diabo". A regra aplica-se a escolhas
 > *novas* minhas, não a reverter o que o fansub já tinha fixado.
+
+### `Tenryuubito` / `Tenryuubitos` — nunca "Nobres Mundiais" (2026-07-31)
+
+**Decisão do utilizador:** os Tenryuubito aparecem sempre com o termo japonês. O original
+PT-BR oscilava entre `Tenryuubito`, `Nobre(s) Mundial(ais)` e `Dragão/Dragões Celestial(is)`
+no mesmo arco — e até no mesmo letreiro (`NOBRE MUNDIAL (TENRYUUBITO)`).
+
+- **Plural com `-s`: `Tenryuubitos`** (era a forma já dominante em Wano/Egghead; o Reverie
+  usava o plural invariante `os Tenryuubito` e foi alinhado).
+- Letreiros de apresentação: só **`TENRYUUBITO`**, sem a glosa entre parênteses.
+- Aplicado a **37 ocorrências em 9 ficheiros** (`REV_1`, `REV_2`, `REV_3`, `WA_15`, `WA_19`,
+  `EH_2`, `EH_7`, `EH_12`, `EH_17`) — âmbito **arcos 35–37**, como pedido. Os arcos 01–32
+  ficam como estão, tal como o resto da adaptação PT-PT.
+- ⚠️ **Não confundir com `Governo Mundial`**, que se mantém em português.
 
 ## Convenções fixadas no arco Wano
 
