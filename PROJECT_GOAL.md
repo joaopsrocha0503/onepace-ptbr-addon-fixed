@@ -526,6 +526,47 @@ no mesmo arco — e até no mesmo letreiro (`NOBRE MUNDIAL (TENRYUUBITO)`).
   ficam como estão, tal como o resto da adaptação PT-PT.
 - ⚠️ **Não confundir com `Governo Mundial`**, que se mantém em português.
 
+### Haki e `Kairoseki` — em japonês (2026-08-08)
+
+**Decisão do utilizador**, depois de ver o WA_12: os nomes das cores do Haki e a pedra-mar
+ficam com o termo japonês, não com a tradução PT-BR.
+
+| Original PT-BR | Forma fixada |
+| --- | --- |
+| `Haki do Rei` / do Conquistador | **`Haoshoku Haki`** |
+| `Haki do Armamento` | **`Busoshoku Haki`** |
+| `Haki da Observação` | **`Kenbunshoku Haki`** |
+| `Oceanite` / `oceanite` | **`Kairoseki`** (sempre maiúsculo, como `Haki` e `Meitou`) |
+
+- O `Haki` sozinho, sem cor, já estava em japonês e **fica como está**.
+- Aplicado a **13 ocorrências em 12 ficheiros** — âmbito **WA_13→WA_54 + Egghead inteiro**,
+  como pedido: `WA_19`, `WA_20`, `WA_46`, `WA_53`, `WA_54`, `EH_1`, `EH_2`, `EH_8`, `EH_10`.
+- ⚠️ **Fora do âmbito, por decisão explícita:** `WA_5` e `WA_12` mantêm `Haki do Rei`, e o
+  `WA_12` mantém `Oceanite` (×3). Se um dia se quiser o arco coerente de ponta a ponta, é
+  aqui que se mexe.
+- **Não alargar por conta própria** a outros termos de origem japonesa: o utilizador foi
+  perguntado a 2026-08-08 sobre `cortesã`→`Oiran`, `Capital das Flores`→`Hana no Miyako`,
+  `Sumo Infernal`→`Jigoku no Sumou` e `País de Wano`→`Wano Kuni`, e **recusou todos**.
+  Ficam em português. (Nota: o `WA_47` tem 3 `Oiran` em japonês contra 43 `cortesã` no
+  resto do arco — incoerência do original, mantida de propósito.)
+
+### ⚠️ `Headliner` ≠ `All-Star` — o original troca os postos
+
+`Headliner` (真打 *shinuchi*) e `All-Star` (大看板 *ōkanban*) são **postos diferentes**, e o
+fansub PT-BR troca-os em vários sítios. A referência para desempatar são as legendas
+oficiais em `.sync-cache/`: espanhol **`artista`** = Headliner, **`estrella principal`** =
+All-Star; inglês `Headliner` vs `Lead Performer`/`Superstar`.
+
+- **All-Stars:** Queen, King, Jack. **Headliners:** Hawkins, Holdem, Speed, Babanuki,
+  Dobon, Daifugo, Solitaire, Briscola, Hamlet, Fourtricks, Mizerka, Poker…
+- Corrigido a 2026-08-08 (6 sítios): `WA_13` (letreiros do Queen e do King, ×2 blocos
+  cada), `WA_17` ("o Headliner que administra Udon" — é o Queen), `WA_18` ("Queen-sama, o
+  Headliner"), `WA_19` ("Hawkins, um dos All-Stars" — o original dizia "Grandes Astros").
+- No mesmo passe, o organigrama do `WA_18` tinha ficado com `GRANDES \n\h\h\hASTROS` por
+  converter na reversão de 2026-07-23 — agora **`ALL-STARS`**, numa linha só.
+- ⚠️ Ao mexer em postos, **verificar sempre contra o `.sync-cache/`**, não assumir que o
+  PT-BR de origem está certo.
+
 ## Convenções fixadas no arco Wano
 
 - **`Headliner`** (ver acima) e **`UTILIZADOR DA SMILE DE X`** nos letreiros.

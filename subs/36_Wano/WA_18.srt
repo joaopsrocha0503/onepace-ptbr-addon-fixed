@@ -825,8 +825,7 @@ GIFTERS
 194
 00:10:09,640 --> 00:10:12,630
 GENERAL
-GRANDES 
-\h\h\hASTROS
+ALL-STARS
 QUEEN
 KING
 JACK
@@ -839,8 +838,7 @@ GIFTERS
 195
 00:10:12,630 --> 00:10:12,760
 GENERAL
-GRANDES 
-\h\h\hASTROS
+ALL-STARS
 QUEEN
 KING
 JACK
@@ -1792,7 +1790,7 @@ Queen, Queen!
 
 416
 00:22:03,800 --> 00:22:07,760
-Chegou o Queen-sama, o Headliner!
+Chegou o Queen-sama, o All-Star!
 
 417
 00:22:08,970 --> 00:22:11,050
