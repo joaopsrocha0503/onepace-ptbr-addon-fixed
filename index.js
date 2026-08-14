@@ -49,6 +49,10 @@ const requestBase = new AsyncLocalStorage();
 
 const PUBLIC_URL =
   process.env.PUBLIC_URL ||
+  // Definida automaticamente pelo Render em todos os web services -- evita ter
+  // de fixar o hostname à mão (o nome pode ganhar sufixo se "onepace-ptbr-addon"
+  // já estiver ocupado por outra conta).
+  process.env.RENDER_EXTERNAL_URL ||
   "https://e4872e87374f-onepace-ptbr-addon.baby-beamup.club";
 
 const manifest = {

@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: onepace-ptbr-addon
+    env: node
+    plan: free
+    branch: main
+    buildCommand: npm ci && node scripts/strip_deploy_assets.js --yes
+    startCommand: node index.js
+    healthCheckPath: /manifest.json
