@@ -792,7 +792,33 @@ espelham a mesma estrutura.
 - `COVER_WAPOL` (*Wapol's Omnivorous Hurrah*) não tem pasta no GDrive, logo não está em
   `ARC_PREFIX`; entra em `_EXTRA_ARCS`, posicionado a seguir a Whole Cake Island.
 
-**Depois de mexer em `subs/` é preciso redeploy para a Beamup** (os URLs das legendas mudam).
+**Depois de mexer em `subs/` é preciso redeploy** (os URLs das legendas mudam) — ver secção
+seguinte sobre os dois destinos de deploy que existem agora.
+
+## Dois destinos de deploy: Beamup + Render (desde 2026-08-14)
+
+A Beamup entrou em falha a 2026-08-14 (`dokku logs` revelou `The swarm does not have a
+leader` — cluster Docker Swarm partilhado da comunidade sem quórum, 504 em tudo, nada do
+nosso lado; ver memória `beamup-diagnostico-swarm`). Como precisava do addon a funcionar
+durante férias, montou-se o **Render** como alternativa, via `render.yaml` (Blueprint):
+
+- **URL em produção (Render):** `https://onepace-ptbr-addon.onrender.com/manifest.json`
+- **URL antigo (Beamup, pode estar em baixo):** `https://e4872e87374f-onepace-ptbr-addon.baby-beamup.club/manifest.json`
+- Deploy no Render: automático a cada push para `main` no GitHub (`origin`), porque o
+  Blueprint faz sync do `render.yaml`. Não há comando manual equivalente ao
+  `git push beamup main:master` — basta `git push origin main`.
+- `render.yaml` replica o `heroku-prebuild` (`node scripts/strip_deploy_assets.js --yes`)
+  como `buildCommand` explícito, porque o Render não corre hooks do Heroku sozinho.
+- `index.js` descobre o próprio URL público sozinho: `PUBLIC_URL` (env) → `RENDER_EXTERNAL_URL`
+  (injetada automaticamente pelo Render em todos os web services) → o URL da Beamup como
+  último fallback. Não foi preciso fixar `PUBLIC_URL` à mão para o Render.
+- Free tier do Render hiberna ao fim de 15 min sem pedidos (cold start de 30-50 s). Está
+  contornado com um monitor grátis no **UptimeRobot** (`onepace-ptbr-addon.onrender.com`,
+  HTTP a `/manifest.json`, a cada 5 min) — mantém o serviço sempre acordado, dentro do
+  limite de 750h/mês grátis do Render (um único serviço grátis cabe com folga).
+- **Se a Beamup recuperar**, os dois passam a coexistir: a Beamup fica sem uso ativo (o
+  `manifest.id` é o mesmo em ambos, mas cada instalação no Stremio aponta para o URL que
+  usou ao instalar) a não ser que se decida descontinuar uma. Nada obriga a escolher já.
 
 ## Os `.ass` não vão no deploy (desde 2026-07-26, v2.7.0)
 
