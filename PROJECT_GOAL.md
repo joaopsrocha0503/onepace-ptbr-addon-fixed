@@ -1,9 +1,65 @@
 # PROJECT GOAL — Legendas One Pace (addon Stremio)
 
 > Ficheiro de contexto para retomar o trabalho em qualquer sessão nova.
-> **Última atualização: 2026-07-31**
+> **Última atualização: 2026-08-25**
 
 ## ▶️ ONDE COMEÇAR NA PRÓXIMA SESSÃO
+
+### ✅ Wano 56-61 — tradução direta EN→PT-PT (feita a 2026-08-25)
+
+O One Pace continuou a lançar Wano depois do arco ter sido dado como "fechado" a
+2026-07-23 (54/54). O utilizador reparou que faltavam legendas nos últimos episódios e
+descarregou os `.ass` originais em **inglês** (não existe ainda tradução PT-BR da
+comunidade para estes episódios novos) — método diferente de todo o resto do projeto,
+que sempre partiu de um PT-BR já existente e só adaptou.
+
+- **Âmbito:** `WA_56`–`WA_61` traduzidos e publicados. **`WA_55` continua em falta** —
+  o utilizador tinha o vídeo mas não a legenda em inglês nesta sessão; falta arranjá-la
+  e traduzir quando aparecer.
+- **Método:** extração por linha física de cada `Dialogue:` do `.ass` (script
+  descartável `ass_tool.py`, mesma lógica do `subtitle_converter.ass_to_srt`, com
+  `SKIP_STYLES` idêntico — Credits/Title/Karaoke não entram no `.srt`, por isso não
+  precisaram de tradução), tradução linha a linha mantendo a contagem exata, reinjeção
+  no `.srt`. **O `.ass` ficou intocado, na língua de origem (inglês)** — decisão do
+  utilizador, mesmo padrão que já era usado nos arcos anteriores (`.ass` fica na língua
+  de origem, só o `.srt` servido é que é adaptado).
+- **Bug encontrado e corrigido no script de extração:** entradas `\pN` (N>0, modo de
+  desenho vetorial ASS — selos, sublinhados decorativos) tinham as coordenadas do
+  traçado a vazar para o texto extraído como se fosse diálogo. Afetou `WA_57` (1 seal
+  gráfico do Cipher Pol), `WA_58` (9 linhas), `WA_60` (2 linhas) e `WA_61` (7 linhas,
+  perto do arranque do bloco de legendas de HUD/mapa). `WA_56` e `WA_59` não foram
+  afetados. Corrigido a filtrar qualquer `Dialogue` cujas tags contenham `\pN`.
+- **Duas inconsistências entre episódios traduzidos por sessões paralelas, corrigidas
+  no fim:** `"ice ogre"` (transformação do vírus do Queen) tinha ficado `"oni de gelo"`
+  no WA_58 e `"ogre de gelo"` no WA_59 — uniformizado para **`oni de gelo`** (mais
+  coerente com o tema Onigashima/Oniwabanshu do arco). `"Black Leg Sanji"` tinha ficado
+  `"Perna Preta Sanji"` no WA_57 — corrigido para **`Perna Negra`**, forma confirmada no
+  resto do corpus (`WA_15/16/18/20/52/53`).
+- **Termos novos sem precedente no corpus, decididos por julgamento (a rever se
+  aparecerem de novo e destoarem):**
+  - `Ittoryu` (Zoro, "One-Sword Style") — por analogia com `Santoryu`.
+  - `Oni Giri Purgatório` ("Purgatory Oni Giri") — mantém `Oni Giri`, traduz só o
+    qualificador.
+  - `Vice-Rei Kaido` ("Viceroy Kaido"), `General Esquerdo` ("General Left") —
+    traduções literais, sem termo já fixado.
+  - `Vossa Incrivelência` (título trocista para o Queen, "Your Awesomeness") — cunhado.
+  - `o Mago` (epíteto do Hawkins, "the Magician"), `Pior Geração` ("Worst Generation"),
+    `Ladra dos Gatos` (epíteto da Nami, "Cat Burglar") — formas comuns da fandom PT,
+    não confirmadas no corpus deste projeto.
+  - Nomes de ataques novos sem precedente (Asura, Blades Drawn, Nine-Sword Style,
+    Dead Man's Game, Ragnaraka, Punk Pistols, Franken-Sword, Flame-Rend: Crossing the
+    Six Paths, etc.) — mantidos em inglês, por analogia com `Room`/`Shambles`/`Gomu
+    Gomu no`.
+  - `Underbosses` → `Subchefes`; `Big Boss` → `Grande Chefe`; `Sweet Entanglement`
+    (nome de sala) → `Emaranhado Doce`; `Okobore Town` → `Aldeia de Okobore` (não
+    "Cidade", só Bakura é cidade).
+  - WA_61 tem um bloco enorme (~1055 das 1439 linhas) de legendas repetitivas de
+    HUD/mini-mapa (nomes de guardas Mink, corredores do castelo) — tratado como
+    dicionário de poucas strings únicas, não traduzido linha a linha.
+- **`README.md` e `subs/mapping.json` atualizados** (471 episódios no total, 117 em
+  PT-PT). **Ainda por fazer:** deploy para a Beamup (`git push beamup main:master`) —
+  esta sessão só tinha o remote `origin` (GitHub) configurado, não `beamup`; o código
+  já está no GitHub mas a legenda só fica visível no Stremio depois desse segundo push.
 
 ### ✅ Tarefa 0 — reverter `Grande Astro` → `All-Star` (feita a 2026-07-23)
 
