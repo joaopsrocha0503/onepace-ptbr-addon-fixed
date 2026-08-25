@@ -20,7 +20,7 @@ As legendas aparecem automaticamente ao ver episódios do One Pace, como opção
 
 > Apenas a variante `.srt` é oferecida: o pipeline de legendas externas do Stremio só aceita `.srt`/`.vtt`, pelo que legendas `.ass` externas nunca carregam (stremio-bugs#2312).
 
-## Episódios disponíveis (465 no total)
+## Episódios disponíveis (471 no total)
 
 | Saga | Arcos | Episódios | Variante |
 |------|-------|:---------:|----------|
@@ -33,10 +33,10 @@ As legendas aparecem automaticamente ao ver episódios do One Pace, como opção
 | Fishman Island | Return to Sabaody, Fishman Island | 27 | PT-BR |
 | Dressrosa | Punk Hazard, Dressrosa, Zou | 80 | PT-BR |
 | Whole Cake Island | Whole Cake Island, Wapol's Omnivorous Hurrah, Reverie | 43 | **PT-PT** (WC_2–WC_7 ficam em PT-BR) |
-| Wano | Wano (Atos 1-3) | 54 | **PT-PT** |
+| Wano | Wano (Atos 1-3) | 60 | **PT-PT** (falta WA_55) |
 | Egghead | Egghead | 20 | **PT-PT** |
 
-Total: **354 em PT-BR**, **111 em PT-PT**. A adaptação PT-PT começou nos arcos que faltavam ver; os anteriores podem vir a ser convertidos, mas não há data.
+Total: **354 em PT-BR**, **117 em PT-PT**. A adaptação PT-PT começou nos arcos que faltavam ver; os anteriores podem vir a ser convertidos, mas não há data.
 
 > Legendas baseadas nas traduções da comunidade [onepaceptbr](https://onepaceptbr.github.io/) e no [repo oficial de legendas do One Pace](https://github.com/one-pace/one-pace-public-subtitles), com correções de sincronização e texto feitas neste fork.
 
